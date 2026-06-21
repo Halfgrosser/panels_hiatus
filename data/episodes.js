@@ -16,7 +16,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Дебютный выпуск!",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 2,
@@ -32,7 +33,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Women special + анонс слушательского слота",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 3,
@@ -48,7 +50,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 4,
@@ -64,7 +67,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Crime special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 5,
@@ -80,7 +84,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 6,
@@ -96,7 +101,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 7,
@@ -112,7 +118,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Anthology special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 8,
@@ -128,7 +135,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 9,
@@ -144,7 +152,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Magic special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 10,
@@ -160,7 +169,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Live-выпуск #1 (Space special)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 11,
@@ -176,7 +186,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 12,
@@ -192,7 +203,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 13,
@@ -208,7 +220,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Слушательский special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 14,
@@ -221,7 +234,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Thor by Aaron special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 15,
@@ -236,7 +250,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "Jason special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 16,
@@ -252,7 +267,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Алексей Замский, Никита Стародубцев",
       "comment": "SUPERBAD special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 17,
@@ -268,7 +284,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 18,
@@ -284,7 +301,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Live-выпуск #2",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 19,
@@ -300,7 +318,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 20,
@@ -316,7 +335,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Анонс Patreon",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 21,
@@ -332,7 +352,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 22,
@@ -348,7 +369,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 23,
@@ -364,7 +386,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Кулинарный special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 24,
@@ -380,7 +403,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 25,
@@ -395,7 +419,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Год подкасту! (Providence special)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 26,
@@ -411,7 +436,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 27,
@@ -427,7 +453,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Актуальный special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 28,
@@ -443,7 +470,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
       "comment": "Sterpazook special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 29,
@@ -459,7 +487,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 30,
@@ -475,7 +504,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Итальянский special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 31,
@@ -491,7 +521,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "OGN special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 32,
@@ -507,7 +538,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 33,
@@ -523,7 +555,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Hellboy special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 34,
@@ -539,7 +572,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 35,
@@ -555,7 +589,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "DC special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 36,
@@ -571,7 +606,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 37,
@@ -587,7 +623,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 38,
@@ -603,7 +640,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "29 мая special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 39,
@@ -619,7 +657,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Image special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 40,
@@ -635,7 +674,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 41,
@@ -648,7 +688,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 42,
@@ -661,7 +702,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 43,
@@ -674,7 +716,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 44,
@@ -687,7 +730,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 45,
@@ -700,7 +744,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 46,
@@ -713,7 +758,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 47,
@@ -729,7 +775,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 48,
@@ -742,7 +789,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 49,
@@ -755,7 +803,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 50,
@@ -768,7 +817,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 51,
@@ -781,7 +831,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 52,
@@ -797,7 +848,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "- (без Никиты)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 53,
@@ -810,7 +862,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 54,
@@ -823,7 +876,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 55,
@@ -836,7 +890,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Panels of X",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 56,
@@ -851,7 +906,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Farel Dalrymple special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 57,
@@ -867,7 +923,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "ЛРоК special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 58,
@@ -880,7 +937,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "Два года подкасту! (WicDiv special)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 59,
@@ -893,7 +951,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Андрей Ложенко",
       "comment": "TMNT special, part 1",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 60,
@@ -906,7 +965,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Андрей Ложенко",
       "comment": "TMNT special, part 2",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 61,
@@ -920,7 +980,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Алексей Замский, Никита Стародубцев",
       "comment": "Watchmen Sequels special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 62,
@@ -933,7 +994,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Алексей Замский, Никита Стародубцев",
       "comment": "Эксклюзив (Никита)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 63,
@@ -946,7 +1008,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
       "comment": "Эксклюзив (Стас)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 64,
@@ -962,7 +1025,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "OGN special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 66,
@@ -975,7 +1039,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Эксклюзив (Леша)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 65,
@@ -991,7 +1056,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "50 выпусков! (Двойка special)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 67,
@@ -1004,7 +1070,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "East of West special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 68,
@@ -1020,7 +1087,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "BD special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 69,
@@ -1036,7 +1104,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Патреонный special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 70,
@@ -1049,7 +1118,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
       "comment": "Эксклюзив (Саша)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 71,
@@ -1065,7 +1135,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Eisner special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 72,
@@ -1081,7 +1152,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Патреонный special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 73,
@@ -1097,7 +1169,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 74,
@@ -1113,7 +1186,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 75,
@@ -1126,7 +1200,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Алексей Замский, Никита Стародубцев",
       "comment": "Infinite Crisis special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 76,
@@ -1142,7 +1217,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "DC Imprint special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 77,
@@ -1158,7 +1234,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "ЛРоК special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 78,
@@ -1171,7 +1248,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 79,
@@ -1184,7 +1262,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 80,
@@ -1197,7 +1276,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 81,
@@ -1210,7 +1290,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 82,
@@ -1223,7 +1304,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 83,
@@ -1236,7 +1318,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 84,
@@ -1249,7 +1332,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 85,
@@ -1262,7 +1346,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 86,
@@ -1275,7 +1360,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 87,
@@ -1288,7 +1374,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Три года подкасту! (X of Panels)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 88,
@@ -1301,7 +1388,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "X of Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 89,
@@ -1317,7 +1405,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 90,
@@ -1333,7 +1422,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 91,
@@ -1349,7 +1439,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 92,
@@ -1365,7 +1456,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 93,
@@ -1381,7 +1473,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "DC special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 94,
@@ -1397,7 +1490,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Superheroes special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 95,
@@ -1413,7 +1507,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "Stas special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 96,
@@ -1426,7 +1521,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Building Stories special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 97,
@@ -1442,7 +1538,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 98,
@@ -1458,7 +1555,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 99,
@@ -1474,7 +1572,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 100,
@@ -1487,7 +1586,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 101,
@@ -1503,7 +1603,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 102,
@@ -1519,7 +1620,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Патреонный special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 103,
@@ -1532,7 +1634,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 104,
@@ -1545,7 +1648,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
       "comment": "Hellfire Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 105,
@@ -1558,7 +1662,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Евгений Еронин",
       "comment": "Hellfire Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 106,
@@ -1571,7 +1676,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
       "comment": "Hellfire Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 107,
@@ -1584,7 +1690,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
       "comment": "Hellfire Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 108,
@@ -1597,7 +1704,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
       "comment": "Hellfire Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 109,
@@ -1610,7 +1718,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Евгений Еронин",
       "comment": "Hellfire Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 110,
@@ -1623,7 +1732,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Black Hammer special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 111,
@@ -1639,7 +1749,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 112,
@@ -1652,7 +1763,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Евгений Еронин",
       "comment": "Inferno Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 113,
@@ -1665,7 +1777,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "Inferno Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 114,
@@ -1678,7 +1791,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
       "comment": "Эксклюзив (Стас)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 115,
@@ -1691,7 +1805,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "American Vampire special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 116,
@@ -1704,7 +1819,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 117,
@@ -1720,7 +1836,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Haloween special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 118,
@@ -1733,7 +1850,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "Inferno Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 119,
@@ -1746,7 +1864,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 120,
@@ -1759,7 +1878,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 121,
@@ -1772,7 +1892,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко, Сергей Мангасаров",
       "comment": "Четыре года подкасту! (Hulk by Ewing special)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 122,
@@ -1788,7 +1909,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Lesha special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 123,
@@ -1801,7 +1923,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
       "comment": "Inferno Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 124,
@@ -1814,7 +1937,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 125,
@@ -1827,7 +1951,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 126,
@@ -1840,7 +1965,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 127,
@@ -1853,7 +1979,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Евгений Еронин",
       "comment": "Inferno Panels (с Женей и Никитой)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 128,
@@ -1869,7 +1996,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 129,
@@ -1882,7 +2010,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 130,
@@ -1895,7 +2024,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 131,
@@ -1911,7 +2041,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 132,
@@ -1924,7 +2055,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 133,
@@ -1937,7 +2069,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 134,
@@ -1950,7 +2083,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 135,
@@ -1963,7 +2097,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 136,
@@ -1976,7 +2111,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 137,
@@ -1989,7 +2125,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 138,
@@ -2002,7 +2139,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 139,
@@ -2015,7 +2153,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 140,
@@ -2028,7 +2167,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 141,
@@ -2041,7 +2181,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 142,
@@ -2054,7 +2195,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 143,
@@ -2067,7 +2209,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 144,
@@ -2080,7 +2223,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 145,
@@ -2093,7 +2237,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 146,
@@ -2106,7 +2251,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 147,
@@ -2119,7 +2265,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 148,
@@ -2132,7 +2279,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 149,
@@ -2145,7 +2293,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 150,
@@ -2158,7 +2307,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 151,
@@ -2171,7 +2321,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение, Live-выпуск #3",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 152,
@@ -2184,7 +2335,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение, Live-выпуск #4",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 153,
@@ -2197,7 +2349,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 154,
@@ -2210,7 +2363,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 155,
@@ -2223,7 +2377,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 156,
@@ -2234,7 +2389,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 157,
@@ -2247,7 +2403,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Пять лет подкасту! (Gol D. Panels)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 158,
@@ -2260,7 +2417,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 159,
@@ -2273,7 +2431,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 160,
@@ -2286,7 +2445,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 161,
@@ -2299,7 +2459,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2023-02-02",
+      "title": "Бонусная часть без утешительного чтения: январский спецвыпуск",
+      "topics": [],
+      "participants": "",
+      "comment": "Перед уходом на перерыв, мы проговорились, что что-нибудь, да запишем в январе. И мы сделали! (запись была в воскресенье, но из-за вылетов пришлось повозиться с монтажом, так что никаких впечатлений от DCU).",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/e844df87-d14c-48e9-9eda-e2d07e9073da",
+      "guid": "f479aedd-b87c-4801-a859-cf3f0b835e59"
     },
     {
       "id": 162,
@@ -2312,7 +2488,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 163,
@@ -2325,7 +2502,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2023-02-11",
+      "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть первая",
+      "topics": [],
+      "participants": "",
+      "comment": "Ближайшие \"бонусные\" записи курирует Стас, который стал просто неиссякаемым источником крутых спецпроектов для подкаста. Мы поговорим о лучшей штуке на свете помимо комиксов - об анимации. В каждом выпуске будет по пять проектов, вышедших или дошедших до нас в прошлом году, и первый блок целиком относится к проектам «Нетфликса», который показал себя неожиданно разнообразно и хорошо (видимо, в последний раз).",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/19824425-490f-41aa-81ab-f6da367a26c0",
+      "guid": "c637a1d5-2cde-4403-a6aa-1376491af239"
     },
     {
       "id": 164,
@@ -2338,7 +2531,53 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2023-02-24",
+      "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть вторая",
+      "topics": [],
+      "participants": "",
+      "comment": "Во втором акте специальной серии о прошлогодних мультиках империя наносит ответный удар, и мы смотрим картины, выпущенные крупнейшими студиями. Надо ли говорить, что второй акт должен заканчиваться мрачно, а мы остаемся недовольны? Что мы думаем про большинство из этих мультиков, вы и так можете предсказать, потому что в целом мы солидарны с критикой - но спорим, вы не угадаете, как мы разошлись во мнениях по поводу некоторых релизов? По поводу других, конечно, у нас есть полное единодушие.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/e6389742-ae9e-4b4a-aab5-067580bbe8c5",
+      "guid": "af5ce01e-994b-4df4-830e-88e799f446b2"
+    },
+    {
+      "id": null,
+      "podcast": "The Podcast of Zelda",
+      "number": "2",
+      "publication": "2023-03-02",
+      "title": "The Podcast of Zelda #02: Four Swords // Ocarina of Time",
+      "topics": [],
+      "participants": "",
+      "comment": "Возвращаемся к \"Зельде\" и обсуждаем два дебюта в серии: первый мультиплеер (Four Swords) и первая 3D-игра (Ocarina of Time).",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/0a396303-304a-49f0-b1ec-1af39efb5593",
+      "guid": "9f959ee6-1d2a-46e7-bb0a-846bd7615556"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2023-03-13",
+      "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть третья",
+      "topics": [],
+      "participants": "",
+      "comment": "Почему в аниме стали так много петь? Кто возьмет оскар за анимационный фильм в день выхода подкаста (вы уже знаете, а мы еще не знали)? Где мы все это видели и надо ли еще раз? Как зовут того режиссера, который про красивое и грустное, но не Синкай, ну вы поняли, да? (мы вспомнили с третьей попытки)",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/23269be1-53be-4935-b6e6-4714492458e9",
+      "guid": "dc0354c4-1397-4b11-a10d-6e539bd47bfa"
     },
     {
       "id": 165,
@@ -2351,7 +2590,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 166,
@@ -2367,7 +2607,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 167,
@@ -2383,7 +2624,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 168,
@@ -2396,7 +2638,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 169,
@@ -2412,7 +2655,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Анонс Telegram-чата",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 170,
@@ -2428,7 +2672,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "75 выпусков! Live-выпуск #5 (Prestige special)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 171,
@@ -2444,7 +2689,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Двойка special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2023-06-19",
+      "title": "Прочёл, пришел и рассказал: Amazing Spider-Man & Human Target",
+      "topics": [],
+      "participants": "",
+      "comment": "Давно не виделись! Чтобы комиксы, которые я читаю, никуда не пропадали, мы возвращаем формат, в котором обсуждаемое читал только один человек, а лучше бы не читал никто. Вот есть неофициальная рубрика \"Леша пересказывает комикс интереснее, чем он есть\", а теперь получилась рубрика \"Леша пересказывает комикс нелепее, чем он есть, но всё равно хвалит\".",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/81ad74f0-e9a8-4ace-a01e-05405a32f4a3",
+      "guid": "3e7450ce-eb55-4c2d-81e6-59a7bd0b0b76"
     },
     {
       "id": 172,
@@ -2457,7 +2718,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 173,
@@ -2470,7 +2732,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 174,
@@ -2483,7 +2746,38 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2023-07-12",
+      "title": "Бонусная часть к \"Зельде\": Миссис Мэйзел, Demon Slayer, Final Fantasy и Super Mario Bros.",
+      "topics": [],
+      "participants": "",
+      "comment": "Мы к \"Зельде\", как и к прочим непанельным подкастам обычно не записываем патронную часть, но регулярный выпуск был относительно давно, и впечатлений с тех пор накопилось достаточно. Поэтому в качестве разогрева с Серегой обсудили несколько тем: последние сезоны The Marvelous Ms. Maisel и Demon Slayer, все хитрости (пере)издания Final Fantasy (XVI, Pixel Remaster, VII Remake) и приключения Братьев Марио \"в кино\".",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/19410f7b-d400-4d0b-82b8-01a8ba92cab8",
+      "guid": "027255e5-28ba-4268-a73b-da4ff1046cf3"
+    },
+    {
+      "id": null,
+      "podcast": "The Podcast of Zelda",
+      "number": "3",
+      "publication": "2023-07-12",
+      "title": "The Podcast of Zelda #03: A Link to the Past // Link's Awakening",
+      "topics": [],
+      "participants": "",
+      "comment": "У нас новый подкаст по \"Зельде\", и вам это даже не приснилось!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/a6a54e34-aa96-4a30-a774-58504ca25e97",
+      "guid": "3e769a25-7d99-4832-ad3d-7c94fb587437"
     },
     {
       "id": 175,
@@ -2496,7 +2790,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 176,
@@ -2512,7 +2807,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Нахум Альшанский",
       "comment": "Ultimate Panels, Live-выпуск #6",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 177,
@@ -2528,7 +2824,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 178,
@@ -2541,7 +2838,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 179,
@@ -2557,7 +2855,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Кирон Гиллен",
       "comment": "Ultimate Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 180,
@@ -2573,7 +2872,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 181,
@@ -2586,7 +2886,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 182,
@@ -2599,7 +2900,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Спецвыпуск",
+      "number": "",
+      "publication": "2023-09-12",
+      "title": "ХОДИЛ СМОТРЕТЬ НА РАЗДАВЛЕННЫЕ ПОМИДОРЫ",
+      "topics": [],
+      "participants": "",
+      "comment": "На самом деле, конечно, никуда не ходил, а смотрел дома на большом экране. Давно планировал — и давно собирался повторить трюк «Джастис Лиги», когда я пробую пересказать Никите фильм смешнее, чем он есть.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/1787d5dd-2c71-492a-bebd-0ce01cc5c18c",
+      "guid": "c39f9fc1-6738-4f91-ba9a-8b793607b16b"
     },
     {
       "id": 183,
@@ -2612,7 +2929,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 184,
@@ -2625,7 +2943,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Посмотрел, пришёл и рассказал",
+      "number": "",
+      "publication": "2023-09-22",
+      "title": "Посмотрел, пришел и рассказал: Snyder Cut",
+      "topics": [],
+      "participants": "",
+      "comment": "Понравился",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/ea9433de-28c1-4f4f-b00c-9730b7be4744",
+      "guid": "43dc314f-df55-45dd-b881-4b0e8f3286f9"
     },
     {
       "id": 185,
@@ -2641,7 +2975,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Энтони Оливер",
       "comment": "Ultimate Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 186,
@@ -2654,7 +2989,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 187,
@@ -2670,7 +3006,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 188,
@@ -2686,7 +3023,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Джин Сакаи, Сергей Мангасаров",
       "comment": "Ultimate Panels, Live-выпуск #7",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 189,
@@ -2702,7 +3040,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -2715,7 +3054,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 190,
@@ -2728,7 +3068,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2023-11-15",
+      "title": "Прочёл, пришел и рассказал: Eternals & Green Hell",
+      "topics": [],
+      "participants": "",
+      "comment": "Как вы помните, Алексей воскресил формат ППР и попросил у вас помощи с подбором комиксов на будущие выпуски. Вы, конечно, откликнулись, но поняли задание не совсем корректно. Нужны были комиксы, от которых Леша бы страдал, но потом весело бы рассказывал. Вы же предложили комиксы НОРМАЛЬНЫЕ. Что из этого вышло, узнаете из эпизода.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/8be0d6fa-90ea-4752-9da0-2cc324f1d4d5",
+      "guid": "01f9aac4-ab25-4c1d-a852-aeabc4cae8f5"
     },
     {
       "id": 191,
@@ -2744,7 +3100,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Том Бревурт",
       "comment": "Ultimate Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 192,
@@ -2757,7 +3114,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 193,
@@ -2773,7 +3131,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
       "comment": "Шесть лет подкасту!",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Спецвыпуск",
+      "number": "",
+      "publication": "2023-11-23",
+      "title": "Подкаст кинокомиксов",
+      "topics": [],
+      "participants": "",
+      "comment": "Если вы не участвуете в нашем подкастовом внутричатовом развлечении под названием",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/1f81e528-0e4f-408a-bb8f-2880b724319f",
+      "guid": "e5e479fc-5243-4b3d-acf2-c7069001cd5c"
     },
     {
       "id": 194,
@@ -2786,7 +3160,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 195,
@@ -2799,7 +3174,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 196,
@@ -2812,7 +3188,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 197,
@@ -2825,7 +3202,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 198,
@@ -2838,7 +3216,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 199,
@@ -2854,7 +3233,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2024-02-08",
+      "title": "Прочёл, пришел и рассказал: МНОГО КОМИКСОВ",
+      "topics": [],
+      "participants": "",
+      "comment": "Очень много комиксов в пересказе Лёши Замского. Прям очень много. Аж ВОСЕМЬ ШТУК. Правда, от вас он взял только один, и тот снова нормальный. В следующий раз точно возьмет проклятый.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/460d1142-06b5-47b1-896d-ba92bf8b1e60",
+      "guid": "d18be29c-a299-409b-849e-34785994fbf7"
     },
     {
       "id": 217,
@@ -2870,7 +3265,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Пыльник special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 200,
@@ -2883,7 +3279,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 201,
@@ -2899,7 +3296,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 218,
@@ -2915,7 +3313,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "DSTLRY special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 202,
@@ -2931,7 +3330,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 203,
@@ -2944,7 +3344,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 204,
@@ -2957,7 +3358,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 205,
@@ -2970,7 +3372,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "The Podcast of Zelda",
+      "number": "4",
+      "publication": "2024-04-16",
+      "title": "The Podcast of Zelda #04: Oracle of Seasons // Oracle of Ages",
+      "topics": [],
+      "participants": "",
+      "comment": "Возвращение Зельдакаста спустя... 9 месяцев, дальше шутите сами!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/20c009af-9164-4b93-ad1c-ff46eb3b5bd0",
+      "guid": "d1205c8c-e2c8-42ec-839a-de62decd58af"
     },
     {
       "id": 206,
@@ -2986,7 +3404,143 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На звуковых полях",
+      "number": "",
+      "publication": "2024-05-02",
+      "title": "«На (звуковых) полях»: Разговор с художником Agent of W.O.R.L.D.E. Филей Братухиным",
+      "topics": [],
+      "participants": "",
+      "comment": "Нас настигло возмездие – художник комикса, который мы обсуждали в прошлом выпуске, Филя Братухин, пришел к нам в подкаст пояснить за арт, обсудить с нами наши оценки его комикса и вообще поговорить о ремесле и искусстве. Мы ожидали, что нас призовут к ответу, а Филя оказался совершеннейшей булочкой с корицей. В выпуске – много мудрости о жизни комиксиста, зверские инсайды иностранной индустрии, любовь к франко-бельгийской школе и восхваление Мебиуса на все лады.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/cc65fa0c-9010-4bea-b087-5fef7ca34094",
+      "guid": "20848c94-b1d9-4d04-930f-5d884c01a827"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "01.",
+      "publication": "2024-05-07",
+      "title": "X-Club 01. Days of Future Past",
+      "topics": [],
+      "participants": "",
+      "comment": "Пару недель назад у нас возникла идея для нового совместного интерактива в чате.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/f066db7e-e961-4ea9-bf8f-f8543c8c42f5",
+      "guid": "da2a25a3-3c69-4996-836f-756680c9acd6"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "02.",
+      "publication": "2024-05-12",
+      "title": "X-Club 02. Till Death Do Us Part",
+      "topics": [],
+      "participants": "",
+      "comment": "Посмотрели и обсудили второй сезон X-Men TAS. От окружающего его контекста (почему у него такая необычная структура) до детального препарирования каждого из эпизодов:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/a12a2fbf-2f15-4d84-8f9e-bdd9aae1512d",
+      "guid": "cf3bb40d-0174-436e-9cad-546ba3e0c11f"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "03.",
+      "publication": "2024-05-17",
+      "title": "X-Club 03. The Phoenix Saga",
+      "topics": [],
+      "participants": "",
+      "comment": "Посмотрели и обсудили первую половину третьего сезона X-Men TAS.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/08ca67bb-922b-4980-a31c-580129068000",
+      "guid": "bc5f63a9-d874-461a-b47a-305b1391342f"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "04.",
+      "publication": "2024-05-25",
+      "title": "X-Club 04. The Dark Phoenix",
+      "topics": [],
+      "participants": "",
+      "comment": "Посмотрели и обсудили вторую половину третьего сезона X-Men TAS (по моей разбивке). Снова не обошлось без технических накладок, поэтому ~первый час будет хуже из-за проблем на моей стороне, но дальше все хорошо. Список серий, что посмотрели в этот раз:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/68bbf35d-e4fb-43ba-87bd-c6e3c87e145a",
+      "guid": "ddc42278-deb1-4b3a-82aa-73ab5fd69b23"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "05.",
+      "publication": "2024-05-30",
+      "title": "X-Club 05. X-Men / United / Last Stand",
+      "topics": [],
+      "participants": "",
+      "comment": "Участникам X-Club показалось, что одного обсуждения анимационных икс-экранизаций недостаточно, ведь в этом году на экраны возвращается и кино про любимых мутантов, поэтому по заявкам неравнодушных было принято решения расширить границы обсуждаемого и добавить в повестку еще и все кино-адаптации.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/0c1c5dc6-4c3a-4310-876d-aab2af324b72",
+      "guid": "065adaaa-09c8-4ad4-9918-12d049e82d38"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "06.",
+      "publication": "2024-06-03",
+      "title": "X-Club 06. Beyond Good and Evil",
+      "topics": [],
+      "participants": "",
+      "comment": "Возвращаемся к анимационным приключениям мутантов. Посмотрели и обсудили четвертый сезон, а вместе с ним и грандиозный финал всего мультсериала... ну, или то, что должно было им стать, но \"почему-то\" не стало. Этим эпизодом мы официально добили общий хронометраж записанного в X-Club до... целых суток. Даже не знаю, стоит нас с этим поздравить или же лучше посочувствовать. В любом случае, сегодняшний список серий:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/efa01298-a349-4dd8-b2ab-51e202d62d41",
+      "guid": "bf5572cc-c414-4b26-ae3a-e4e74f578c33"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "07.",
+      "publication": "2024-06-10",
+      "title": "X-Club 07. Graduation Day",
+      "topics": [],
+      "participants": "",
+      "comment": "У нас большое событие! Выпускной день первого класса Икс-клуба! Самый большой блок анимационного цикла позади, а значит нас ждет рефлексия по поводу пройденного пути и заключительные мысли по, без иронии, великому мультсериалу. Но чтобы подсластить эту горькую (ну ладно, bittersweet) пилюлю, мы решили завершить просмотр X-Men TAS не только пятым сезоном, но и небольшим кроссовером с мультсериалом Spider-Man TAS:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/d91b22a3-646c-4a9b-a746-f60b2c87eee8",
+      "guid": "7b17a10b-e49a-44b6-b645-e5a25a43c03b"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "08.",
+      "publication": "2024-06-13",
+      "title": "X-Club 08. Origins / Wolverine",
+      "topics": [],
+      "participants": "",
+      "comment": "У нас новый киношный мидвик, и сегодня в программе псевдо-дилогия главного героя всей кинематографической икс-вселенной. Да, мы решили идти не по порядку, но в этом, как понимаете, есть четкая логика!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/3da258c4-9adc-4a2f-a61f-d5b178553d6d",
+      "guid": "2203f9fc-b275-4e3a-b779-9ae49357a1f2"
     },
     {
       "id": 207,
@@ -3002,7 +3556,218 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Constantine special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "09.",
+      "publication": "2024-06-21",
+      "title": "X-Club 09. The Cauldron",
+      "topics": [],
+      "participants": "",
+      "comment": "Икс-клуб переходит к следующей крупной главе нашей инициативы - просмотру второго мультсериала про мутантов, X-Men: Evolution:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/f7245074-e779-4c6d-9d4d-787f74bc2118",
+      "guid": "1f1ffae3-860c-4ad1-b9e7-330955a9e569"
+    },
+    {
+      "id": null,
+      "podcast": "Письма от слушателей",
+      "number": "1",
+      "publication": "2024-06-24",
+      "title": "Письма от слушателей. Выпуск 01",
+      "topics": [],
+      "participants": "",
+      "comment": "Друзья, по многочисленным просьбам мы с Лешей отвечаем на ваши горячие вопросы, которые вы задавали нам в чате подкаста. От Джеффа Джонса до Дарк Фентези! Да, Доктор Кто тоже на месте.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/ec14fcd3-3ac0-4f03-818e-746844affa69",
+      "guid": "f73066d7-7f34-4921-b087-3ce645251efc"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "10.",
+      "publication": "2024-06-28",
+      "title": "X-Club 10. Day of Reckoning",
+      "topics": [],
+      "participants": "",
+      "comment": "Обсудили второй сезон X-Men: Evolution. В ходе записи я понял, что мой эксперимент с \"посмотрю-ка теперь, как выглядит стриминг-версия сериала с HBO Max\" обернулась фиаско, т.к. там сериал показывается не в том порядке, как создавался - по словной традиции TAS в этом сезоне 3 серии были показаны раньше положенного, из-за чего возникли мелкие континьюти-нестыковки.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/2bf1fec9-5c52-45b7-b39b-0e7709b75ccd",
+      "guid": "b9e284bf-d428-459e-a835-9bceb992e50d"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "11.",
+      "publication": "2024-07-04",
+      "title": "X-Club 11. First Class / Days of Future Past / Apocalypse",
+      "topics": [],
+      "participants": "",
+      "comment": "Снова X-Club, и снова X-Men... Ну как X-Men, скорее целая трилогия про то, как была сформирована концепция Людей Икс. В этот раз очередь дошла до обсуждения приквел/ребут/ориджин трилогии про мутантов:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/18156b30-a06d-4ac7-8d9b-c73e2e174226",
+      "guid": "4d63429e-40ae-48ab-96d1-2094592658cb"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "12.",
+      "publication": "2024-07-09",
+      "title": "X-Club 12. Dark Horizon",
+      "topics": [],
+      "participants": "",
+      "comment": "Обсудили третий сезон X-Men: Evolution. (На самом деле обсудили уже и четвертый, просто выпуски сюда заливаются с двухдневной задержкой, а прям с пылу с жару в чат, куда почему-то еще кто-то не вступил).",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/c9cff68a-444d-46d2-9e05-eaddb49f3c35",
+      "guid": "9fefff49-6be4-4298-a183-b5dd16bfbbf4"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "13.",
+      "publication": "2024-07-11",
+      "title": "X-Club 13. Ascension",
+      "topics": [],
+      "participants": "",
+      "comment": "Завершаем второй большой анимационный блок и вместе с ним выпускаем второй класс Икс-клуба! В четвертом сезоне X-Men: Evolution всего 9 серий, но они лишь повод окинуть взглядом весь мультсериал и понять, где создатели потерпели поражения, а где добились успеха. А главное, стоит ли сожалеть о том, что его не продлили на пятый сезон, как того хотела авторская команда?",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/9050a273-a540-4e50-8721-a1a178fdbc90",
+      "guid": "fff02bea-45ee-492c-9835-f6d7ffa16952"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "14.",
+      "publication": "2024-07-13",
+      "title": "X-Club 14. Dark Phoenix / New Mutants",
+      "topics": [],
+      "participants": "",
+      "comment": "Мы добрались до \"самого ожидаемого обсуждения\" в киношной части Икс-клуба.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/c925fc9f-eb5b-43a3-8fe1-8b9ea0f14ad3",
+      "guid": "e770907a-8550-4557-a08c-f37b866d0769"
+    },
+    {
+      "id": null,
+      "podcast": "Письма от слушателей",
+      "number": "2",
+      "publication": "2024-07-14",
+      "title": "Письма от слушателей. Выпуск 02",
+      "topics": [],
+      "participants": "",
+      "comment": "Снова собрались с Лешей, чтобы обсудить разнообразные вопросы, которые вы задавали нам в чате подкаста. В этот раз в фокусе были НРИ, геймдэв и лучшие дорамы!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/0f48b8c9-1c52-4baf-b33f-cc3ee2fc133e",
+      "guid": "1bf16561-9a2e-40f1-941f-bdccf3c0bb6e"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "15.",
+      "publication": "2024-07-17",
+      "title": "X-Club 15. Hindsight",
+      "topics": [],
+      "participants": "",
+      "comment": "Запускаем третий блок анимационной программы Икс-клуба и приступаем к самому недооцененному из всех икс-мультсериалов - Wolverine and the X-Men. В нём всего один сезон, зато полноценный, на 26 серий, поэтому обсуждать мы его будем в два захода. В этот раз смотрели:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/60e8497f-3bb3-4c4a-8987-145f63ad404e",
+      "guid": "5d6f152e-788f-4d46-85b0-65cf63c56e9d"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2024-07-29",
+      "title": "Прочёл, пришёл и рассказал: Ghost Machine, ДиСи и Пауки",
+      "topics": [],
+      "participants": "",
+      "comment": "Возвращение регулярной (ну в планах Алексея, по крайней мере) рубрики, в которой он пересказывает плохие комиксы. А т.к. в слушателях снова я - а нынче словно Мидас, к чему бы не прикоснулся, превращается в четыречасаибольше - выпуск вышел вдвое крупнее обычного (я реально жене сказал, что эта коротенькая запись, к которой мне даже готовиться не надо, будет на пару часов).",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/a7541223-e122-4a4f-b187-6b71e3a9fab7",
+      "guid": "18c75c40-d417-4d60-8572-d87bb9ff8174"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "16.",
+      "publication": "2024-07-29",
+      "title": "X-Club 16. Foresight",
+      "topics": [],
+      "participants": "",
+      "comment": "Не успели начать, как уже заканчиваем обсуждение незаслуженно забытого икс-мультсериала - Wolverine and the X-Men. Сегодня в программе вторая половина единственного сезона:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/dbd075d6-b127-4815-a29f-61d77251cad3",
+      "guid": "b5e1e99f-a6e2-4d25-946f-f0b502d776a5"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "17.",
+      "publication": "2024-08-02",
+      "title": "X-Club 17. Deadpool / Deadpool 2 / Logan",
+      "topics": [],
+      "participants": "",
+      "comment": "Последняя остановка киношной части Икс-клуба перед большой премьерой этого года, которую обсудим уже совсем скоро.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/ac760472-a21e-4943-8f62-be8f4dd40ee3",
+      "guid": "b0b0c8b0-6c28-4aa5-a365-a9f3ba82a7ad"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "18.",
+      "publication": "2024-08-07",
+      "title": "X-Club 18. Hell Road",
+      "topics": [],
+      "participants": "",
+      "comment": "Выходим на финишную прямую пересмотра икс-экранизаций. Перед двойным гранд-финалом, посвященным уже делам сегодняшнего дня внезапно, посещаем Японию, откуда родом занятный феномен под названием Marvel Anime.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/16ce5892-811b-4bc7-9b1f-eb66d6c55141",
+      "guid": "529b5bfa-13f5-4cdd-a4a2-a3b0db55f20c"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "19.",
+      "publication": "2024-08-12",
+      "title": "X-Club 19. Secondary Mutation",
+      "topics": [],
+      "participants": "",
+      "comment": "Заканчиваем японские приключения Икс-клуба куда более занимательным проектом. Сменяем соло-экранизацию на командную и смотрим целиком X-Men Anime.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/fa58817a-9e01-455d-b97d-92b6a15970ac",
+      "guid": "c1ad2904-ee82-467d-b092-aa59f9a09e26"
     },
     {
       "id": 208,
@@ -3018,7 +3783,83 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "20.",
+      "publication": "2024-08-14",
+      "title": "X-Club 20. Deadpool & Wolverine",
+      "topics": [],
+      "participants": "",
+      "comment": "THIS IS IT.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/634c1256-3515-4dea-94df-d8e47d672a20",
+      "guid": "9e114a47-47ef-453b-8d97-59150c44eacb"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "21.",
+      "publication": "2024-08-26",
+      "title": "X-Club 21. Remember It",
+      "topics": [],
+      "participants": "",
+      "comment": "Как гласит народная мудрость, \"если не можете обсудить один сезон мультсериала про Людей Икс за пять с половиной часов, то обсуждайте его одиннадцать\".",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/e5e96fa6-ebd7-4ecd-aefc-0f6a6c311a76",
+      "guid": "f30f209d-55a4-4d85-93fb-ca1f7331260e"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "22.",
+      "publication": "2024-08-27",
+      "title": "X-Club 22. Tolerance Is Extinction",
+      "topics": [],
+      "participants": "",
+      "comment": "Теперь точно финал.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/6d0e06dd-3387-4ca5-8787-e986986fd620",
+      "guid": "eadcfc27-d6e0-40bc-b1cf-619908b3e6f4"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "22.1.",
+      "publication": "2024-09-08",
+      "title": "X-Club 22.1. Generation X",
+      "topics": [],
+      "participants": "",
+      "comment": "Вы думали, что с Икс-клубом покончено (хотя бы на этот год)?",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/2459d782-fbe3-4541-bc94-d5f1b5de6752",
+      "guid": "729158a7-525b-4ee1-801c-716f39a03905"
+    },
+    {
+      "id": null,
+      "podcast": "The Podcast of Zelda",
+      "number": "5",
+      "publication": "2024-09-16",
+      "title": "The Podcast of Zelda #05: A Link Between Worlds // Tri Force Heroes",
+      "topics": [],
+      "participants": "",
+      "comment": "Скоро выйдет новая \"Зельда\", и в честь этого держите новый выпуск!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/effd9874-b6aa-4c78-a526-eba15b5ef90a",
+      "guid": "fdf160c8-724a-413b-ad4f-0f8caa984317"
     },
     {
       "id": 209,
@@ -3031,7 +3872,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 210,
@@ -3047,7 +3889,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 211,
@@ -3063,7 +3906,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Highbrow special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "The Podcast of Zelda",
+      "number": "6",
+      "publication": "2024-10-18",
+      "title": "The Podcast of Zelda #06: Echoes of Wisdom // The Hyrule Fantasy",
+      "topics": [],
+      "participants": "",
+      "comment": "Первый и, возможно, последний актуальный выпуск этого подкаста.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/1c2cf005-e632-459e-8bf7-80640ffcb1b7",
+      "guid": "c44883a7-3d3d-4979-ab87-5a885f090ffe"
     },
     {
       "id": 212,
@@ -3076,7 +3935,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2024-11-06",
+      "title": "Прочёл, пришёл и рассказал: финалы, ретконы и элсворлды",
+      "topics": [],
+      "participants": "",
+      "comment": "Признавайтесь, ведь вы давно ждали, как Леша завершит свою эпопею с пересказом всего рана Зэба Уэллса на \"Пауке\", и вот финальный эпизод!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/0a007056-c741-4073-a0e5-05f1731ba542",
+      "guid": "5649500f-7d57-4421-8b67-cdc32f7f3834"
     },
     {
       "id": 213,
@@ -3089,7 +3964,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 214,
@@ -3105,7 +3981,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Brullips special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 215,
@@ -3118,7 +3995,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Lore Olympus special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 216,
@@ -3134,7 +4012,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2025-03-03",
+      "title": "Прочёл, пришёл и рассказал: All-Things DSTLRY",
+      "topics": [],
+      "participants": "",
+      "comment": "Впервые в ваших наушниках - кроссовер ППР и регулярных \"Панелей\".",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/8c173157-5932-4ab8-926b-f076ea12e009",
+      "guid": "19fd5ac6-99d8-4a5b-bdac-cca882058153"
     },
     {
       "id": 219,
@@ -3147,7 +4041,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 220,
@@ -3162,7 +4057,53 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Донаторский special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Тула LIVE",
+      "number": "",
+      "publication": "2025-04-12",
+      "title": "Тула LIVE: Embrace Your Inner Fanperson на примере One Piece Fan Letter",
+      "topics": [],
+      "participants": "",
+      "comment": "Первый из двух часовых блоков, которыми мы разбавили обсуждение комиксов в Туле. Официально у него следующее описание:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/550ec767-3c18-4c75-9f67-f2be3513f940",
+      "guid": "d8742338-88db-40cd-b842-4bc1f7b2fcad"
+    },
+    {
+      "id": null,
+      "podcast": "Тула LIVE",
+      "number": "",
+      "publication": "2025-04-13",
+      "title": "Тула LIVE: Метатекст моя отсылка елы-палы лес густой",
+      "topics": [],
+      "participants": "",
+      "comment": "Второй из двух часовых блоков, которыми мы разбавили обсуждение комиксов в Туле. Официально у него следующее описание:",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/9835de5e-56f8-4498-b8ed-d66caab01933",
+      "guid": "d34c256a-1f46-49ce-932f-b277560c1e54"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2025-05-05",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 1: Вальдшнепы",
+      "topics": [],
+      "participants": "",
+      "comment": "Привет, это наш новый патреонный сериал, разговор с продолжением, в котором я сбивчиво и отвлекаясь рассказываю всё, что знаю о том, как мы читаем, понимаем прочитанное и что гуманитаристика знает на эту тему. Собеседнику – в этот раз это Серега – остается только поддакивать.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/4d6d9d7c-7183-4881-8718-647600866857",
+      "guid": "88731f05-ad69-4fac-8544-9058196a8890"
     },
     {
       "id": 221,
@@ -3178,7 +4119,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2025-05-21",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 2: Смерть",
+      "topics": [],
+      "participants": "",
+      "comment": "Самое ужасное в мини-лекционном формате: я сейчас, только вот закончив запись выпуска и сочиняя к нему подводку, понимаю, как надо было всё это получше объяснять и что говорить. И еще – с чего надо начать следующий выпуск, а ведь к моменту его записи я уже или забуду, или буду другим человеком, или еще что.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/a1669f57-2b36-4230-94e7-c4acc341422c",
+      "guid": "465aaebe-aa15-4383-8faf-94d5c124444c"
     },
     {
       "id": 222,
@@ -3194,7 +4151,38 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Тула LIVE special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-06-25",
+      "title": "«На панелях. ДНК». 25.06.25 • Ненужный ребут",
+      "topics": [],
+      "participants": "",
+      "comment": "В кино одни ребуты и ремейки, в комиксах постоянные откаты к старым канонам и ежегодные перезапуски одних и тех же серий – где новые идеи?!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/6349158f-6503-4d42-85d8-e8bba21a1f98",
+      "guid": "9056388a-119f-4ca4-af0a-1266c9e37eda"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2025-06-27",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 3: пост пост",
+      "topics": [],
+      "participants": "",
+      "comment": "Что я хотел сказать, когда написал \"в следующий раз будет про наследство\"? Вот и иллюстрация тому, почему ни один из циклов статей на Патреоне так и не был закончен. Твоя жизнь, когда от архетипа рассеянного профессора взял только прилагательное.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/866d193a-e409-4963-9377-00de9aa90361",
+      "guid": "f51c0d16-bc88-483c-a993-a2825f6d392b"
     },
     {
       "id": 223,
@@ -3207,7 +4195,113 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-07-09",
+      "title": "«На панелях. ДНК». 09.07.25 • Пляжный спецвыпуск",
+      "topics": [],
+      "participants": "",
+      "comment": "Только Ситхи возводят всё в абсолют – ну и Джейсон Аарон в серии Absolute Superman. Но ведущим нравится! Что ещё им нравится, а что вызывает вопрос «Зачем я это читаю», Женя, Лёша и Серёга рассказывают в новом выпуске подкаста «ДЕНЬ НОВЫХ КОМИКСОВ»! Почему Марк Миллар не менее влиятельный автор, чем Алан Мур; как в серии Лило и Ститча организовали самый дерзкий побег из тюрьмы в истории и зачем на самом деле Мстители фоткаются полуголыми – вопросы, которые вы бы никогда не задали, но у нас есть все ответы!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/dca6c6c0-1265-4879-b19d-ae001fceb51d",
+      "guid": "42d9b2b2-dcec-4657-b069-0cd323a9bcf1"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2025-07-15",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 4: проблема",
+      "topics": [],
+      "participants": "",
+      "comment": "Тренировки на ушах патронов продолжаются — я все еще не чувствую, что мы готовы для прямых эфиров, тем более когда одному из ведущих реально бывают нужны паузы, чтобы собраться с мыслями. Так бывает, когда толком не готовишься к эфиру, а вместо этого пересматриваешь любимые вестерны.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/b27171f8-94cb-4cb7-afdc-46ed4e0efde2",
+      "guid": "70e8dd97-f494-4562-a87f-1c5822357c66"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-07-23",
+      "title": "«На панелях. ДНК». 23.07.25 • Коллективный иск",
+      "topics": [],
+      "participants": "",
+      "comment": "Как там дела у Супермена и Лекса Лютора? А у Человека-Паука и Нормана Озборна? Можно не читать – мы расскажем! В новом подкасте «ДЕНЬ НОВЫХ КОМИКСОВ» Женя, Лёша и Сергей обнаруживают, что круче хай-концептов Ice Cream Man только Fortnite от Джеймса Тайниона, помериться силами с Годзиллой может лишь обычный парень из Америки, а мировую культуру скоро захватит киновселенная Спауна. Среда, что ещё сказать!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/0add1490-f560-4855-a0bd-70695c50cfe1",
+      "guid": "8f8fd34e-9308-442b-b6cc-ec4f5054e6a9"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2025-07-29",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 5: не специалист",
+      "topics": [],
+      "participants": "",
+      "comment": "Ведущий позорится на весь интернет и, уверенным голосом размывая границу между тем, в чем он разбирается, и тем, о чем он только имеет смутное представление, рассуждает о мифах, современной корпоративной культуре и границах понятия «Супергерой». А что! О волшебных корнях исторической сказки сейчас даже политологи высказываются, не то что комикс-критики. Что дальше? Рассуждения о том, почему раз у протестантов нет икон, то они и в супергероях не разбираются? Вы не поверите, и это тоже.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/4980eb4b-0300-43f4-8f68-f08556d12253",
+      "guid": "70f5705f-00a8-4a3e-a607-aae01369542a"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-07-30",
+      "title": "«На панелях. ДНК». 30.07.25 • Осуждение Айснеров",
+      "topics": [],
+      "participants": "",
+      "comment": "Подкаст «ДЕНЬ НОВЫХ КОМИКСОВ» возвращается на неделю раньше с важной задачей: разобраться, правильно ли раздали премию Айснера. Есть вопросики! Помимо того, даже в пятую среду месяца Женя, Лёша и Сергей найдут, что обсудить из новых релизов. Чем привлекает новый Бэтмен от Джефа Лоэба? (не тот, другой) Кто был самым популярным злодеем в «Гаргульях»? (мнения разделились) С кем судится Годзилла? (вы не поверите) Про что всё-таки комикс I, Tyrant??? (это важно) ДНК даёт повод задуматься!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/44c19d2c-9c77-42f1-aacb-9a8d6f26e7d0",
+      "guid": "6d48d706-b25b-4d6c-9ec5-659ef2f5f362"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-08-13",
+      "title": "«На панелях. ДНК». 13.08.25 • Сброс нумерации",
+      "topics": [],
+      "participants": "",
+      "comment": "ДЕНЬ НОВЫХ КОМИКСОВ подкрался незаметно и подарил немало сюрпризов: Бэтмен нас газлайтит, Том Кинг работает для детей, Джейсон Аарон внезапно пишет про дядюшку Скруджа, а Valiant волевым решением перезапускает вообще всю вселенную. Но Женя, Лёша и Серёга ко всему готовы – наш подкаст активно рекомендует самые крутые комиксы и предупреждает, какие серии лучше обойти стороной.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/d896b2fa-26ec-42f8-8eaa-6e60f8c983b0",
+      "guid": "9f3217b6-d58b-4603-9af4-66b0c63f6647"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-09-04",
+      "title": "«На панелях. ДНК». 03.09.25 • Мрачное переосмысление Нафани",
+      "topics": [],
+      "participants": "",
+      "comment": "Пережили мемы – заслужили подкаст. Да, мы решили, что в нашей вселенной именно сегодня ДЕНЬ НОВЫХ КОМИКСОВ! Женя, Лёша и присоединившийся к ним Стас ищут в невзрачной на вид неделе алмазы… и даже что-то находят! Обсуждаем триллер о рэп-индустрии с подозрительно знакомыми личностями, восхищаемся задорным постапоком от дочери Джеффа Дэрроу, абсолютно не понимаем Зелёного Фонаря и сходим с ума, пытаясь осмыслить новые приключения героев мультиков 80-х и драму семьи Веномов. Только в комиксах!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/1b2e1158-87c4-4bff-a2c1-917395f5bc47",
+      "guid": "c3f8ec68-1c0e-47e5-91db-a22199f18d3d"
     },
     {
       "id": 224,
@@ -3220,7 +4314,38 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-09-24",
+      "title": "«На панелях. ДНК». 24.09.25 • ТРЕТИЙ МАСТРИД",
+      "topics": [],
+      "participants": "",
+      "comment": "Подкаст ДЕНЬ НОВЫХ КОМИКСОВ встречает осень! Женя, Лёша и Серёга с каждой минутой становятся всё бодрее и смешливее, отвечая на главные вопросы сентября: откуда столько золота в «Супермене» Дэна Слотта? Что делает Красная Фурия в серии издательства Mad Cave? О чём всё-таки I, Tyrant? Реально ли хороший новый онгоинг про Мышей-рокеров с Марса? И почему всё это важно, если выходит НОВЫЙ КОМИКС ПРО УЛИЧНЫХ АКУЛ???",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/7d1f3f51-7b12-4076-8abd-d1dec062d194",
+      "guid": "ee3982cc-8983-42e7-88d3-529ebc86409e"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-10-15",
+      "title": "«На панелях. ДНК». 15.10.25 • ХО-ХО-ХОРРОР",
+      "topics": [],
+      "participants": "",
+      "comment": "Подкаст «ДЕНЬ НОВЫХ КОМИКСОВ» пробует другой формат, но с тем же задором! Женя, Лёша и Серёга делают всё, что любят: обсуждают анонсы с Нью-Йорка, ищут интересные релизы и с разным уровнем энтузиазма пересказывают прочитанное. В этот раз поговорим про Силксонг, женщин в купальниках, Хартстоун и капитализм в Аду. При чём тут комиксы? А вы послушайте!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/d630f0ae-e62b-47b5-bbaa-24c93e9c6efa",
+      "guid": "30e43134-9f01-4a01-82d4-da9f938c088f"
     },
     {
       "id": 225,
@@ -3233,7 +4358,38 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-10-29",
+      "title": "«На панелях. ДНК». 29.10.25 • Год первый",
+      "topics": [],
+      "participants": "",
+      "comment": "Даже в пятую среду месяца Женя, Лёша и Серёга нашли, на что пожаловаться. Новый выпуск подкаста «ДЕНЬ НОВЫХ КОМИКСОВ» отчаянно спойлерит серию про Бэтмена и Робина от Марка Уэйда и Криса Самни, космический мини-эпик Imperial от Джонатана Хикмана и убийство Серебряного Серфёра Грегом Паком, а также пытается понять, что такое Rocketfellers, зачем сиквелы комиксу Beauty и фильму «Сонная лощина» и почему у серии Nights много выпусков и преданная фанбаза, если её никто не читает. Просвещаемся вместе!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/7dad9000-f193-41fe-8a73-f81d707ffcbd",
+      "guid": "7e366cc4-0bc7-4b43-8868-5b0aeb178842"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2025-12-02",
+      "title": "Прочёл, пришёл и рассказал: DC Trinity",
+      "topics": [],
+      "participants": "",
+      "comment": "Два подкастера с тихими голосами медленно вспоминают, в чем заключается их работа. Забытый, но не пыльный (пыльный у нас другой) формат ППР, он же «смешной неправильный пересказ» понемногу возвращается, и мы записали его «новый пробный/пилотный выпуск», где Леша рассказывает про три серии ДиСи, которые читает (Бэтмэн, Аквамен, Чудо-женщина), и отвлекается на Питера Кэннона и продолжение комикса Тайниона и Чаретье для DSTLRYa.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/0cab5f69-1d70-40f7-a3b6-d3bb45af11a7",
+      "guid": "c98dc94d-b6d3-46e7-aabe-41f590a80b3f"
     },
     {
       "id": 226,
@@ -3246,7 +4402,23 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях. ДНК",
+      "number": "",
+      "publication": "2025-12-24",
+      "title": "«На панелях. ДНК». 24.12.25 • Не лайв",
+      "topics": [],
+      "participants": "",
+      "comment": "В этот раз вернувшийся из отпуска «ДНК» должен был быть лайвом, но техника показала характер, так что это НЕ ЛАЙВ.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/cc82ce9b-fe68-44cc-b0e8-b875a9ce4d9e",
+      "guid": "164478a3-16c6-405f-b3a6-0e38220b62c8"
     },
     {
       "id": 227,
@@ -3262,7 +4434,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Восемь лет подкасту! (Ultimate/Absolute special)",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 228,
@@ -3275,7 +4448,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 229,
@@ -3290,7 +4464,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Лицензионный special",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 230,
@@ -3303,7 +4478,8 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 231,
@@ -3316,7 +4492,98 @@ window.__NA_PANELI_DATA__ = {
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
-      "supportersFree": false
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Avatar Club",
+      "number": "1",
+      "publication": "2026-04-28",
+      "title": "Avatar Club. Book 01: Water",
+      "topics": [],
+      "participants": "",
+      "comment": "Инициатива X-Club, посвященная пересмотру всех икс-экранизаций, оказалась заразительной, и с тех пор наш \"патронный\" чатик (вы еще не там? ищите ссылку в личных сообщениях, либо там же запросите ее у нас) захлестнула волна самых разных \"клубов\", в рамках которых участники чата наполняются большой культурой.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/c6ad3cda-e785-454c-b2ae-86a5c447d1cd",
+      "guid": "e593effe-ddf4-4e94-b015-952cc67a8437"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2026-05-09",
+      "title": "Прочёл, пришёл и рассказал: DC Extravaganza",
+      "topics": [],
+      "participants": "",
+      "comment": "Возвращение любимого формата. Леша читает комиксы, чтобы вам не пришлось.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/942371f2-caaf-4881-a314-e5c933111ea4",
+      "guid": "ad5909ea-b3c8-49c9-b2e7-9071a27be241"
+    },
+    {
+      "id": null,
+      "podcast": "Avatar Club",
+      "number": "2",
+      "publication": "2026-05-26",
+      "title": "Avatar Club. Book 02: Earth",
+      "topics": [],
+      "participants": "",
+      "comment": "Снова собрались, чтобы больше пяти часов обсуждать возможно лучший анимационный сезон в истории - Avatar: The Last Airbender, Book Two.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/252cc2ba-0c50-4c92-ad35-de0f4a2b762a",
+      "guid": "605c7934-e299-4195-a89c-e6049a146620"
+    },
+    {
+      "id": null,
+      "podcast": "На панелях",
+      "number": "98",
+      "publication": "2026-05-28",
+      "title": "«На панелях». Выпуск 98: Шкаф с омнибасами",
+      "topics": [],
+      "participants": "",
+      "comment": "Уважаемая редакция музыкальных передач, включите уже хоть раз музыку. А, вы не редакция музыкальных передач. Ну тогда поставьте в эфир обсуждение комикса по нашему заказу, а еще мы хотим передать привет… Но кому они хотели передать привет, мы никогда не узнаем, потому что мы сами с приветом: должны в каждом выпуске обсуждать по одному комиксу по заявкам слушателей, но стали частенько их игнорировать. А так делать нельзя – как говорил один рыцарь из малоизвестного текста, «в конце концов, они нас кормят».",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/289c8016-eb2f-42ea-bce5-eb80537d47fa",
+      "guid": "766a9591-301d-4cb8-98b4-aa5e792a2d3f"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2026-06-17",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 6: пока идет футбол",
+      "topics": [],
+      "participants": "",
+      "comment": "История прошлогодних стримов «Метатекст моя отсылка» состоит из невыполненных обещаний, отсылок (да) к будущим монологам, которые не были произнесены, и заметок на будущее, которыми никто не воспользовался. Меняем ли мы это положение? Нет. Вместо этого в «стриме для разогрева», с помощью которого мы планируем возродить рубрику с Андреем, как новым соведущим, Леша полтора часа отвечает на вопрос о субъективной и объективной критике и почему они не существуют, а на все остальные вопросы обещает ответить когда-нибудь потом.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/6dd369a6-3240-449b-9acc-3ba53d44e510",
+      "guid": "4da2d285-7254-4e2e-ab23-d0f6d3668f0c"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2026-06-17",
+      "title": "Прочёл, пришёл и рассказал: ошибка в ДНК",
+      "topics": [],
+      "participants": "",
+      "comment": "Попытки быть регулярными нам не удаются, поэтому постараемся хотя бы быть провокативными.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/643926fe-c088-4a42-953f-43e655d70d9e",
+      "guid": "bca770e6-b790-4e71-9100-b7bf5bea1775"
     }
   ]
 };
