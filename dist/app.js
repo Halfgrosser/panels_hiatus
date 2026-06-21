@@ -142,7 +142,7 @@ function renderStats(visible) {
   setText("stat-current-note", plural(current, "полная неделя", "полные недели", "полных недель"));
   setText("stat-longest", longest);
   setText("stat-longest-note", plural(longest, "неделя без выпусков", "недели без выпусков", "недель без выпусков"));
-  setText("stat-latest", latest ? `#${latest.number}` : "—");
+  setText("stat-latest", latest ? (latest.number ? `#${latest.number}` : latest.podcast) : "—");
   setText("stat-latest-note", latest ? `${latest.podcast} · ${ruDate.format(latest.date)}` : "Нет выпусков");
 }
 
@@ -204,7 +204,7 @@ function addDays(date, count) {
 }
 
 function episodeLabel(episode) {
-  return `${episode.podcast} ${episode.number}`.trim();
+  return episode.title || `${episode.podcast} ${episode.number}`.trim();
 }
 
 function setText(id, text) {
