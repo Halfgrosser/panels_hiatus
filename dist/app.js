@@ -59,13 +59,8 @@ function renderChart(visible) {
 
   const rows = [];
   for (let year = currentYear; year >= firstYear; year -= 1) {
-    const count = isoWeeksInYear(year);
     const weeks = [];
-    for (let week = 1; week <= 53; week += 1) {
-      if (week > count) {
-        weeks.push('<span class="week is-future" aria-hidden="true"></span>');
-        continue;
-      }
+    for (let week = 1; week <= 52; week += 1) {
       const date = dateFromIsoWeek(year, week);
       const key = `${year}-W${String(week).padStart(2, "0")}`;
       const found = byWeek.get(key) || [];
@@ -95,7 +90,8 @@ function renderChart(visible) {
 
 function showWeek(isoDate, found) {
   const monday = new Date(isoDate);
-  const sunday = addDays(monday, 6);
+  const containsMergedWeek = found.some((episode) => isoWeekInfo(episode.date).week === 53);
+  const sunday = addDays(monday, containsMergedWeek ? 13 : 6);
   card.hidden = false;
   card.classList.toggle("is-pause", !found.length);
 
@@ -121,7 +117,7 @@ function showWeek(isoDate, found) {
 
 function renderStats(visible) {
   const now = startOfWeek(new Date());
-  const weekSet = new Set(visible.map((episode) => weekKey(episode.date)));
+  const weekSet = new Set(visible.map((episode) => rawWeekKey(episode.date)));
   const first = visible[0]?.date;
   const latest = visible.at(-1);
   let longest = 0;
@@ -129,7 +125,7 @@ function renderStats(visible) {
 
   if (first) {
     for (let cursor = startOfWeek(first); cursor <= now; cursor = addDays(cursor, 7)) {
-      if (weekSet.has(weekKey(cursor))) {
+      if (weekSet.has(rawWeekKey(cursor))) {
         run = 0;
       } else {
         run += 1;
@@ -180,6 +176,11 @@ function isoWeekInfo(date) {
 
 function weekKey(date) {
   const { year, week } = isoWeekInfo(date);
+  return `${year}-W${String(Math.min(week, 52)).padStart(2, "0")}`;
+}
+
+function rawWeekKey(date) {
+  const { year, week } = isoWeekInfo(date);
   return `${year}-W${String(week).padStart(2, "0")}`;
 }
 
@@ -194,10 +195,6 @@ function startOfWeek(date) {
 function dateFromIsoWeek(year, week) {
   const fourth = new Date(year, 0, 4, 12);
   return addDays(startOfWeek(fourth), (week - 1) * 7);
-}
-
-function isoWeeksInYear(year) {
-  return isoWeekInfo(new Date(year, 11, 28, 12)).week;
 }
 
 function addDays(date, count) {

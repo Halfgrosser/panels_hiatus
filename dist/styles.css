@@ -125,17 +125,14 @@ h2 {
 }
 
 .hero__mark {
-  display: grid;
+  display: block;
   flex: 0 0 auto;
-  place-items: center;
   width: clamp(72px, 9vw, 118px);
   aspect-ratio: 1;
-  border: 3px solid var(--accent);
   border-radius: 50%;
-  color: var(--accent);
-  font-family: "Unbounded", sans-serif;
-  font-size: clamp(1rem, 2vw, 1.6rem);
-  transform: rotate(7deg);
+  object-fit: cover;
+  box-shadow: 0 0 0 3px var(--accent), 0 10px 28px rgba(0, 0, 0, 0.2);
+  transform: rotate(4deg);
 }
 
 .hero__intro {
@@ -255,7 +252,7 @@ select {
 
 .weeks {
   display: grid;
-  grid-template-columns: repeat(53, minmax(8px, 1fr));
+  grid-template-columns: repeat(52, minmax(8px, 1fr));
   gap: 2px;
 }
 
@@ -449,7 +446,7 @@ select {
   }
 
   .hero__mark {
-    display: none;
+    width: 72px;
   }
 }
 
@@ -462,6 +459,12 @@ select {
   .hero {
     padding: 28px 20px 32px;
     border-radius: 18px 18px 6px 6px;
+  }
+
+  .hero__mark {
+    width: 52px;
+    align-self: flex-start;
+    margin-top: 4px;
   }
 
   .controls__topline,
