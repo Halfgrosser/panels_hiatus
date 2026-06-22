@@ -407,6 +407,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "На ночь глядя",
+      "number": "",
+      "publication": "2018-11-15",
+      "title": "«На ночь глядя»: Майринк и печник",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-22719877",
+      "guid": ""
+    },
+    {
       "id": 25,
       "podcast": "На панелях",
       "number": "25",
@@ -455,6 +470,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На ночь глядя",
+      "number": "",
+      "publication": "2019-01-11",
+      "title": "«На ночь глядя»: Моррисон и сон",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-23897337",
+      "guid": ""
     },
     {
       "id": 28,
@@ -523,6 +553,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "На ночь глядя",
+      "number": "",
+      "publication": "2019-03-13",
+      "title": "«На ночь глядя»: домашний стиль Айн Рэнд",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-25333149",
+      "guid": ""
     },
     {
       "id": 32,
@@ -720,6 +765,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "На ночь глядя",
+      "number": "",
+      "publication": "2019-08-09",
+      "title": "«На ночь глядя»: вы не поверите, кто здесь",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-29027183",
+      "guid": ""
+    },
+    {
       "id": 44,
       "podcast": "Panels of X",
       "number": "PoX3",
@@ -894,6 +954,36 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "Прочие спецвыпуски",
+      "number": "",
+      "publication": "2019-10-18",
+      "title": "CCR special - \"средь шумного кона случайно\"",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/ccr-special-sred-30845082",
+      "guid": ""
+    },
+    {
+      "id": null,
+      "podcast": "Прочие спецвыпуски",
+      "number": "",
+      "publication": "2019-10-20",
+      "title": "«На (звуковых) полях»: Разговор с русским переводчиком «Провиденс» Алексеем Мальским",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/na-zvukovykh-s-30905710",
+      "guid": ""
+    },
+    {
       "id": 56,
       "podcast": "На панелях",
       "number": "43",
@@ -987,7 +1077,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 62,
       "podcast": "Эксклюзив",
       "number": "E1",
-      "publication": "2020-02-12",
+      "publication": "2020-02-13",
       "topics": [
         "Star Wars: Knights of the Old Republic"
       ],
@@ -1142,7 +1232,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 72,
       "podcast": "Пыльник",
       "number": "D1",
-      "publication": "2020-07-07",
+      "publication": "2020-07-08",
       "topics": [
         "Motor Girl",
         "The Eternaut",
@@ -1159,7 +1249,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 73,
       "podcast": "На панелях",
       "number": "55",
-      "publication": "2020-07-14",
+      "publication": "2020-07-15",
       "topics": [
         "Folklords",
         "Punisher: Soviet",
@@ -1367,7 +1457,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 87,
       "podcast": "X of Panels",
       "number": "XoP9",
-      "publication": "2020-11-23",
+      "publication": "2020-11-24",
       "topics": [
         "X-Force #14 // Hellions #06 // Cable #06"
       ],
@@ -1477,6 +1567,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2021-02-04",
+      "title": "Прочёл, пришел и рассказал: John Lewis's March Trilogy",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/prochiol-prishel-47121718",
+      "guid": ""
+    },
+    {
       "id": 94,
       "podcast": "Пыльник",
       "number": "D6",
@@ -1525,6 +1630,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2021-03-23",
+      "title": "Посмотрел, пришел и рассказал: Snyder Cut",
+      "topics": [],
+      "participants": "",
+      "comment": "Понравился",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://www.patreon.com/spidermedia/posts/posmotrel-i-cut-49111867",
+      "guid": "43dc314f-df55-45dd-b881-4b0e8f3286f9"
+    },
+    {
       "id": 97,
       "podcast": "На панелях",
       "number": "62",
@@ -1540,6 +1660,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2021-03-28",
+      "title": "Прочёл, пришёл и рассказал: Vault Comics Nightfall",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/prochiol-i-vault-49203971",
+      "guid": ""
     },
     {
       "id": 98,
@@ -1619,20 +1754,6 @@ window.__NA_PANELI_DATA__ = {
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Патреонный special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet"
-    },
-    {
-      "id": 103,
-      "podcast": "Gol D. Panels",
-      "number": "OP2",
-      "publication": "2021-05-31",
-      "topics": [
-        "Alabasta Saga / Chapters #101-217"
-      ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
@@ -1736,6 +1857,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2021-09-18",
+      "title": "Прочёл, пришёл и рассказал: четыре проходных для меня комикса и кино про червячков",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/prochiol-i-dlia-56304143",
+      "guid": ""
+    },
+    {
       "id": 111,
       "podcast": "На панелях",
       "number": "65",
@@ -1812,7 +1948,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 116,
       "podcast": "ASOP",
       "number": "M0",
-      "publication": "2021-10-22",
+      "publication": "2021-10-21",
       "topics": [
         "Hellboy and the B.P.R.D. 2020 One-shots by Mignola"
       ],
@@ -2028,6 +2164,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2022-02-07",
+      "title": "Прочёл, пришёл и рассказал: R-rated comics (not really)",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/prochiol-i-r-not-62210259",
+      "guid": ""
+    },
+    {
       "id": 131,
       "podcast": "На панелях",
       "number": "71",
@@ -2099,6 +2250,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочие спецвыпуски",
+      "number": "",
+      "publication": "2022-03-31",
+      "title": "SPIDER Talk: Потерянный эпизод",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/spider-talk-64508681",
+      "guid": ""
     },
     {
       "id": 136,
@@ -2244,7 +2410,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 146,
       "podcast": "Утешительный",
       "number": "LR13",
-      "publication": "2022-07-04",
+      "publication": "2022-07-05",
       "topics": [
         "My Little Pony & Transformers"
       ],
@@ -2295,6 +2461,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочие спецвыпуски",
+      "number": "",
+      "publication": "2022-08-17",
+      "title": "SPIDER Talk: Потерянный эпизод #2",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/spider-talk-2-70642686",
+      "guid": ""
     },
     {
       "id": 150,
@@ -2370,7 +2551,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 155,
       "podcast": "Утешительный",
       "number": "LR21",
-      "publication": "2022-10-26",
+      "publication": "2022-10-27",
       "topics": [
         "It's Jeff!"
       ],
@@ -2379,6 +2560,36 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "The Podcast of Zelda",
+      "number": "1",
+      "publication": "2022-11-05",
+      "title": "The Podcast of Zelda #01: Skyward Sword // The Minish Cap",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/podcast-of-zelda-74262434",
+      "guid": ""
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2022-11-09",
+      "title": "Прочёл, пришел и рассказал: Deadly Class & Friday",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/prochiol-prishel-74438931",
+      "guid": ""
     },
     {
       "id": 156,
@@ -2449,6 +2660,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": null,
+      "podcast": "Прочие спецвыпуски",
+      "number": "",
+      "publication": "2022-12-24",
+      "title": "SILVERS Talk: Пятнашки, Бейсбол и Рыбалка",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "https://www.patreon.com/spidermedia/posts/silvers-talk-i-76326891",
+      "guid": ""
+    },
+    {
       "id": 161,
       "podcast": "Gol D. Panels",
       "number": "OP9",
@@ -2464,7 +2690,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Бонус",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
       "publication": "2023-02-02",
       "title": "Бонусная часть без утешительного чтения: январский спецвыпуск",
@@ -2481,7 +2707,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 162,
       "podcast": "ASOP",
       "number": "M7",
-      "publication": "2023-02-06",
+      "publication": "2023-02-07",
       "topics": [
         "Hellboy and the B.P.R.D. 2022 One-shots by Mignola + Radio Spaceman + Leonide the Vampyr"
       ],
@@ -2495,7 +2721,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 163,
       "podcast": "Утешительный",
       "number": "LR25",
-      "publication": "2023-02-10",
+      "publication": "2023-02-11",
       "topics": [
         "Pilu of the Woods"
       ],
@@ -2507,7 +2733,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Бонус",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
       "publication": "2023-02-11",
       "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть первая",
@@ -2536,7 +2762,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Бонус",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
       "publication": "2023-02-24",
       "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть вторая",
@@ -2566,7 +2792,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Бонус",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
       "publication": "2023-03-13",
       "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть третья",
@@ -2696,7 +2922,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Прочёл, пришёл и рассказал",
       "number": "",
-      "publication": "2023-06-19",
+      "publication": "2023-06-20",
       "title": "Прочёл, пришел и рассказал: Amazing Spider-Man & Human Target",
       "topics": [],
       "participants": "",
@@ -2748,21 +2974,6 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
-    },
-    {
-      "id": null,
-      "podcast": "Бонус",
-      "number": "",
-      "publication": "2023-07-12",
-      "title": "Бонусная часть к \"Зельде\": Миссис Мэйзел, Demon Slayer, Final Fantasy и Super Mario Bros.",
-      "topics": [],
-      "participants": "",
-      "comment": "Мы к \"Зельде\", как и к прочим непанельным подкастам обычно не записываем патронную часть, но регулярный выпуск был относительно давно, и впечатлений с тех пор накопилось достаточно. Поэтому в качестве разогрева с Серегой обсудили несколько тем: последние сезоны The Marvelous Ms. Maisel и Demon Slayer, все хитрости (пере)издания Final Fantasy (XVI, Pixel Remaster, VII Remake) и приключения Братьев Марио \"в кино\".",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/19410f7b-d400-4d0b-82b8-01a8ba92cab8",
-      "guid": "027255e5-28ba-4268-a73b-da4ff1046cf3"
     },
     {
       "id": null,
@@ -2905,9 +3116,9 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Спецвыпуск",
+      "podcast": "Прочёл, пришёл и рассказал",
       "number": "",
-      "publication": "2023-09-12",
+      "publication": "2023-09-13",
       "title": "ХОДИЛ СМОТРЕТЬ НА РАЗДАВЛЕННЫЕ ПОМИДОРЫ",
       "topics": [],
       "participants": "",
@@ -2945,21 +3156,6 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
-    },
-    {
-      "id": null,
-      "podcast": "Посмотрел, пришёл и рассказал",
-      "number": "",
-      "publication": "2023-09-22",
-      "title": "Посмотрел, пришел и рассказал: Snyder Cut",
-      "topics": [],
-      "participants": "",
-      "comment": "Понравился",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/ea9433de-28c1-4f4f-b00c-9730b7be4744",
-      "guid": "43dc314f-df55-45dd-b881-4b0e8f3286f9"
     },
     {
       "id": 185,
@@ -3044,20 +3240,6 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
-      "id": null,
-      "podcast": "Gol D. Panels",
-      "number": "-",
-      "publication": "2023-11-08",
-      "topics": [
-        "Grand Line / Chapters #101-154"
-      ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet"
-    },
-    {
       "id": 190,
       "podcast": "Gol D. Panels",
       "number": "OP19",
@@ -3070,21 +3252,6 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
-    },
-    {
-      "id": null,
-      "podcast": "Прочёл, пришёл и рассказал",
-      "number": "",
-      "publication": "2023-11-15",
-      "title": "Прочёл, пришел и рассказал: Eternals & Green Hell",
-      "topics": [],
-      "participants": "",
-      "comment": "Как вы помните, Алексей воскресил формат ППР и попросил у вас помощи с подбором комиксов на будущие выпуски. Вы, конечно, откликнулись, но поняли задание не совсем корректно. Нужны были комиксы, от которых Леша бы страдал, но потом весело бы рассказывал. Вы же предложили комиксы НОРМАЛЬНЫЕ. Что из этого вышло, узнаете из эпизода.",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/8be0d6fa-90ea-4752-9da0-2cc324f1d4d5",
-      "guid": "01f9aac4-ab25-4c1d-a852-aeabc4cae8f5"
     },
     {
       "id": 191,
@@ -3102,6 +3269,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2023-11-16",
+      "title": "Прочёл, пришел и рассказал: Eternals & Green Hell",
+      "topics": [],
+      "participants": "",
+      "comment": "Как вы помните, Алексей воскресил формат ППР и попросил у вас помощи с подбором комиксов на будущие выпуски. Вы, конечно, откликнулись, но поняли задание не совсем корректно. Нужны были комиксы, от которых Леша бы страдал, но потом весело бы рассказывал. Вы же предложили комиксы НОРМАЛЬНЫЕ. Что из этого вышло, узнаете из эпизода.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/8be0d6fa-90ea-4752-9da0-2cc324f1d4d5",
+      "guid": "01f9aac4-ab25-4c1d-a852-aeabc4cae8f5"
     },
     {
       "id": 192,
@@ -3136,9 +3318,9 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Спецвыпуск",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
-      "publication": "2023-11-23",
+      "publication": "2023-11-24",
       "title": "Подкаст кинокомиксов",
       "topics": [],
       "participants": "",
@@ -3240,7 +3422,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Прочёл, пришёл и рассказал",
       "number": "",
-      "publication": "2024-02-08",
+      "publication": "2024-02-09",
       "title": "Прочёл, пришел и рассказал: МНОГО КОМИКСОВ",
       "topics": [],
       "participants": "",
@@ -3375,7 +3557,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На звуковых полях",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
       "publication": "2024-05-02",
       "title": "«На (звуковых) полях»: Разговор с художником Agent of W.O.R.L.D.E. Филей Братухиным",
@@ -3437,7 +3619,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "X-Club",
       "number": "04.",
-      "publication": "2024-05-25",
+      "publication": "2024-05-26",
       "title": "X-Club 04. The Dark Phoenix",
       "topics": [],
       "participants": "",
@@ -3482,7 +3664,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "X-Club",
       "number": "07.",
-      "publication": "2024-06-10",
+      "publication": "2024-06-11",
       "title": "X-Club 07. Graduation Day",
       "topics": [],
       "participants": "",
@@ -3721,21 +3903,6 @@ window.__NA_PANELI_DATA__ = {
       "guid": "529b5bfa-13f5-4cdd-a4a2-a3b0db55f20c"
     },
     {
-      "id": null,
-      "podcast": "X-Club",
-      "number": "19.",
-      "publication": "2024-08-12",
-      "title": "X-Club 19. Secondary Mutation",
-      "topics": [],
-      "participants": "",
-      "comment": "Заканчиваем японские приключения Икс-клуба куда более занимательным проектом. Сменяем соло-экранизацию на командную и смотрим целиком X-Men Anime.",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/fa58817a-9e01-455d-b97d-92b6a15970ac",
-      "guid": "c1ad2904-ee82-467d-b092-aa59f9a09e26"
-    },
-    {
       "id": 208,
       "podcast": "На панелях",
       "number": "87",
@@ -3755,8 +3922,23 @@ window.__NA_PANELI_DATA__ = {
     {
       "id": null,
       "podcast": "X-Club",
+      "number": "19.",
+      "publication": "2024-08-13",
+      "title": "X-Club 19. Secondary Mutation",
+      "topics": [],
+      "participants": "",
+      "comment": "Заканчиваем японские приключения Икс-клуба куда более занимательным проектом. Сменяем соло-экранизацию на командную и смотрим целиком X-Men Anime.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/fa58817a-9e01-455d-b97d-92b6a15970ac",
+      "guid": "c1ad2904-ee82-467d-b092-aa59f9a09e26"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
       "number": "20.",
-      "publication": "2024-08-14",
+      "publication": "2024-08-15",
       "title": "X-Club 20. Deadpool & Wolverine",
       "topics": [],
       "participants": "",
@@ -3796,21 +3978,6 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/6d0e06dd-3387-4ca5-8787-e986986fd620",
       "guid": "eadcfc27-d6e0-40bc-b1cf-619908b3e6f4"
-    },
-    {
-      "id": null,
-      "podcast": "X-Club",
-      "number": "22.1.",
-      "publication": "2024-09-08",
-      "title": "X-Club 22.1. Generation X",
-      "topics": [],
-      "participants": "",
-      "comment": "Вы думали, что с Икс-клубом покончено (хотя бы на этот год)?",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/2459d782-fbe3-4541-bc94-d5f1b5de6752",
-      "guid": "729158a7-525b-4ee1-801c-716f39a03905"
     },
     {
       "id": null,
@@ -4062,7 +4229,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Тула LIVE",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
       "publication": "2025-04-12",
       "title": "Тула LIVE: Embrace Your Inner Fanperson на примере One Piece Fan Letter",
@@ -4077,9 +4244,9 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Тула LIVE",
+      "podcast": "Прочие спецвыпуски",
       "number": "",
-      "publication": "2025-04-13",
+      "publication": "2025-04-14",
       "title": "Тула LIVE: Метатекст моя отсылка елы-палы лес густой",
       "topics": [],
       "participants": "",
@@ -4089,21 +4256,6 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/9835de5e-56f8-4498-b8ed-d66caab01933",
       "guid": "d34c256a-1f46-49ce-932f-b277560c1e54"
-    },
-    {
-      "id": null,
-      "podcast": "Метатекст моя отсылка",
-      "number": "",
-      "publication": "2025-05-05",
-      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 1: Вальдшнепы",
-      "topics": [],
-      "participants": "",
-      "comment": "Привет, это наш новый патреонный сериал, разговор с продолжением, в котором я сбивчиво и отвлекаясь рассказываю всё, что знаю о том, как мы читаем, понимаем прочитанное и что гуманитаристика знает на эту тему. Собеседнику – в этот раз это Серега – остается только поддакивать.",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/4d6d9d7c-7183-4881-8718-647600866857",
-      "guid": "88731f05-ad69-4fac-8544-9058196a8890"
     },
     {
       "id": 221,
@@ -4121,6 +4273,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2025-05-06",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 1: Вальдшнепы",
+      "topics": [],
+      "participants": "",
+      "comment": "Привет, это наш новый патреонный сериал, разговор с продолжением, в котором я сбивчиво и отвлекаясь рассказываю всё, что знаю о том, как мы читаем, понимаем прочитанное и что гуманитаристика знает на эту тему. Собеседнику – в этот раз это Серега – остается только поддакивать.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/4d6d9d7c-7183-4881-8718-647600866857",
+      "guid": "88731f05-ad69-4fac-8544-9058196a8890"
     },
     {
       "id": null,
@@ -4173,7 +4340,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Метатекст моя отсылка",
       "number": "",
-      "publication": "2025-06-27",
+      "publication": "2025-06-28",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 3: пост пост",
       "topics": [],
       "participants": "",
@@ -4188,7 +4355,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 223,
       "podcast": "ASOP",
       "number": "M16",
-      "publication": "2025-07-02",
+      "publication": "2025-07-03",
       "topics": [
         "The Sea of Forever + Shadow of the Golden Crane"
       ],
@@ -4217,7 +4384,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Метатекст моя отсылка",
       "number": "",
-      "publication": "2025-07-15",
+      "publication": "2025-07-16",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 4: проблема",
       "topics": [],
       "participants": "",
@@ -4245,21 +4412,6 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Метатекст моя отсылка",
-      "number": "",
-      "publication": "2025-07-29",
-      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 5: не специалист",
-      "topics": [],
-      "participants": "",
-      "comment": "Ведущий позорится на весь интернет и, уверенным голосом размывая границу между тем, в чем он разбирается, и тем, о чем он только имеет смутное представление, рассуждает о мифах, современной корпоративной культуре и границах понятия «Супергерой». А что! О волшебных корнях исторической сказки сейчас даже политологи высказываются, не то что комикс-критики. Что дальше? Рассуждения о том, почему раз у протестантов нет икон, то они и в супергероях не разбираются? Вы не поверите, и это тоже.",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/4980eb4b-0300-43f4-8f68-f08556d12253",
-      "guid": "70f5705f-00a8-4a3e-a607-aae01369542a"
-    },
-    {
-      "id": null,
       "podcast": "На панелях. ДНК",
       "number": "",
       "publication": "2025-07-30",
@@ -4272,6 +4424,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/44c19d2c-9c77-42f1-aacb-9a8d6f26e7d0",
       "guid": "6d48d706-b25b-4d6c-9ec5-659ef2f5f362"
+    },
+    {
+      "id": null,
+      "podcast": "Метатекст моя отсылка",
+      "number": "",
+      "publication": "2025-07-30",
+      "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 5: не специалист",
+      "topics": [],
+      "participants": "",
+      "comment": "Ведущий позорится на весь интернет и, уверенным голосом размывая границу между тем, в чем он разбирается, и тем, о чем он только имеет смутное представление, рассуждает о мифах, современной корпоративной культуре и границах понятия «Супергерой». А что! О волшебных корнях исторической сказки сейчас даже политологи высказываются, не то что комикс-критики. Что дальше? Рассуждения о том, почему раз у протестантов нет икон, то они и в супергероях не разбираются? Вы не поверите, и это тоже.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/4980eb4b-0300-43f4-8f68-f08556d12253",
+      "guid": "70f5705f-00a8-4a3e-a607-aae01369542a"
     },
     {
       "id": null,
@@ -4485,7 +4652,7 @@ window.__NA_PANELI_DATA__ = {
       "id": 231,
       "podcast": "ASOP",
       "number": "M17",
-      "publication": "2026-04-11",
+      "publication": "2026-04-12",
       "topics": [
         "The Rise of Man + Uri Tupka and the Gods"
       ],
@@ -4499,7 +4666,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Avatar Club",
       "number": "1",
-      "publication": "2026-04-28",
+      "publication": "2026-04-29",
       "title": "Avatar Club. Book 01: Water",
       "topics": [],
       "participants": "",
@@ -4559,7 +4726,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Метатекст моя отсылка",
       "number": "",
-      "publication": "2026-06-17",
+      "publication": "2026-06-18",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 6: пока идет футбол",
       "topics": [],
       "participants": "",
@@ -4574,7 +4741,7 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Прочёл, пришёл и рассказал",
       "number": "",
-      "publication": "2026-06-17",
+      "publication": "2026-06-18",
       "title": "Прочёл, пришёл и рассказал: ошибка в ДНК",
       "topics": [],
       "participants": "",
