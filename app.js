@@ -14,6 +14,10 @@ const formatNames = {
   all: "Все форматы",
   "На панелях": "Только «На панелях»",
 };
+const formatGroups = new Map([
+  ["Panels of X", new Set(["Panels of X", "X of Panels", "Hellfire Panels", "Inferno Panels"])],
+]);
+const hiatusText = "На этой неделе выпусков не было";
 
 if (!data?.episodes?.length) {
   chart.innerHTML = '<p class="error">Не удалось загрузить данные выпусков. Запустите <code>npm run sync</code>.</p>';
@@ -24,7 +28,15 @@ const episodes = data.episodes
   .map((episode) => ({ ...episode, date: new Date(`${episode.publication}T12:00:00`) }))
   .sort((a, b) => a.date - b.date);
 
-const formats = [...new Set(episodes.map((episode) => episode.podcast))];
+const formatCounts = new Map();
+episodes.forEach((episode) => {
+  const format = filterFormat(episode);
+  formatCounts.set(format, (formatCounts.get(format) || 0) + 1);
+});
+const formats = [...formatCounts.keys()].sort(
+  (left, right) =>
+    formatCounts.get(right) - formatCounts.get(left) || left.localeCompare(right, "ru"),
+);
 filter.innerHTML = ["all", ...formats]
   .map((name) => `<option value="${escapeHtml(name)}">${escapeHtml(formatNames[name] || name)}</option>`)
   .join("");
@@ -36,7 +48,7 @@ render();
 
 function render() {
   const selected = filter.value || "all";
-  const visible = selected === "all" ? episodes : episodes.filter((episode) => episode.podcast === selected);
+  const visible = selected === "all" ? episodes : episodes.filter((episode) => filterFormat(episode) === selected);
   renderChart(visible);
   renderStats(visible);
   renderBars(visible);
@@ -67,12 +79,12 @@ function renderChart(visible) {
       const isBeforeFirst = date < first;
       const isFuture = date > now;
       const state = isBeforeFirst || isFuture ? "is-future" : found.length ? "is-release" : "is-hiatus";
-      const emptyLabel = isBeforeFirst ? "до старта подкаста" : isFuture ? "будущая неделя" : "без выпуска";
+      const emptyLabel = isBeforeFirst ? "до старта подкаста" : isFuture ? "будущая неделя" : hiatusText;
       const label = found.length
         ? `${week}-я неделя ${year}: ${found.map(episodeLabel).join(", ")}`
         : `${week}-я неделя ${year}: ${emptyLabel}`;
       weeks.push(
-        `<button class="week ${state}${found.length > 1 ? " is-multi" : ""}" data-date="${date.toISOString()}" data-key="${key}" aria-label="${escapeHtml(label)}" title="${escapeHtml(label)}"></button>`,
+        `<button class="week ${state}${found.length > 1 ? " is-multi" : ""}" data-date="${date.toISOString()}" data-key="${key}" data-state="${state}" aria-label="${escapeHtml(label)}" title="${escapeHtml(label)}"></button>`,
       );
     }
     rows.push(`<div class="chart-row"><span class="chart-year">${year}</span><div class="weeks">${weeks.join("")}</div></div>`);
@@ -83,12 +95,12 @@ function renderChart(visible) {
     button.addEventListener("click", () => {
       chart.querySelector(".is-selected")?.classList.remove("is-selected");
       button.classList.add("is-selected");
-      showWeek(button.dataset.date, byWeek.get(button.dataset.key) || []);
+      showWeek(button.dataset.date, byWeek.get(button.dataset.key) || [], button.dataset.state === "is-hiatus");
     });
   });
 }
 
-function showWeek(isoDate, found) {
+function showWeek(isoDate, found, isHiatus) {
   const monday = new Date(isoDate);
   const containsMergedWeek = found.some((episode) => isoWeekInfo(episode.date).week === 53);
   const sunday = addDays(monday, containsMergedWeek ? 13 : 6);
@@ -96,10 +108,12 @@ function showWeek(isoDate, found) {
   card.classList.toggle("is-pause", !found.length);
 
   if (!found.length) {
-    card.innerHTML = `
-      <div class="episode-card__date">${ruDate.format(monday)} — ${ruDate.format(sunday)}</div>
-      <h3>Неделя без выпуска</h3>
-      <p>В выбранном формате публикаций не было.</p>`;
+    card.innerHTML = isHiatus
+      ? `<div class="episode-card__date">${ruDate.format(monday)} — ${ruDate.format(sunday)}</div>
+        <h3>${hiatusText}</h3>`
+      : `<div class="episode-card__date">${ruDate.format(monday)} — ${ruDate.format(sunday)}</div>
+        <h3>Неделя без выпуска</h3>
+        <p>В выбранном формате публикаций не было.</p>`;
     return;
   }
 
@@ -113,6 +127,13 @@ function showWeek(isoDate, found) {
         </div>`,
       )
       .join("")}`;
+}
+
+function filterFormat(episode) {
+  for (const [group, members] of formatGroups) {
+    if (members.has(episode.podcast)) return group;
+  }
+  return episode.podcast;
 }
 
 function renderStats(visible) {
