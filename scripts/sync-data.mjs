@@ -8,6 +8,161 @@ const sourceUrl = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?for
 const rssUrl = process.env.BOOSTY_RSS_URL;
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const output = resolve(root, "data/episodes.js");
+const patreonRecords = [
+  {
+    podcast: "На ночь глядя",
+    publication: "2018-11-15",
+    title: "«На ночь глядя»: Майринк и печник",
+    link: "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-22719877",
+  },
+  {
+    podcast: "На ночь глядя",
+    publication: "2019-01-11",
+    title: "«На ночь глядя»: Моррисон и сон",
+    link: "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-23897337",
+  },
+  {
+    podcast: "На ночь глядя",
+    publication: "2019-03-13",
+    title: "«На ночь глядя»: домашний стиль Айн Рэнд",
+    link: "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-25333149",
+  },
+  {
+    podcast: "На ночь глядя",
+    publication: "2019-08-09",
+    title: "«На ночь глядя»: вы не поверите, кто здесь",
+    link: "https://www.patreon.com/spidermedia/posts/na-noch-gliadia-29027183",
+  },
+  {
+    podcast: "Прочие спецвыпуски",
+    publication: "2019-10-18",
+    title: 'CCR special - "средь шумного кона случайно"',
+    link: "https://www.patreon.com/spidermedia/posts/ccr-special-sred-30845082",
+  },
+  {
+    podcast: "Прочие спецвыпуски",
+    publication: "2019-10-20",
+    title: "«На (звуковых) полях»: Разговор с русским переводчиком «Провиденс» Алексеем Мальским",
+    link: "https://www.patreon.com/spidermedia/posts/na-zvukovykh-s-30905710",
+  },
+  {
+    publication: "2021-02-04",
+    title: "Прочёл, пришел и рассказал: John Lewis's March Trilogy",
+    link: "https://www.patreon.com/spidermedia/posts/prochiol-prishel-47121718",
+  },
+  {
+    publication: "2021-03-28",
+    title: "Прочёл, пришёл и рассказал: Vault Comics Nightfall",
+    link: "https://www.patreon.com/spidermedia/posts/prochiol-i-vault-49203971",
+  },
+  {
+    publication: "2021-09-18",
+    title: "Прочёл, пришёл и рассказал: четыре проходных для меня комикса и кино про червячков",
+    link: "https://www.patreon.com/spidermedia/posts/prochiol-i-dlia-56304143",
+  },
+  {
+    podcast: "Прочие спецвыпуски",
+    publication: "2022-03-31",
+    title: "SPIDER Talk: Потерянный эпизод",
+    link: "https://www.patreon.com/spidermedia/posts/spider-talk-64508681",
+  },
+  {
+    publication: "2022-02-07",
+    title: "Прочёл, пришёл и рассказал: R-rated comics (not really)",
+    link: "https://www.patreon.com/spidermedia/posts/prochiol-i-r-not-62210259",
+  },
+  {
+    publication: "2022-11-09",
+    title: "Прочёл, пришел и рассказал: Deadly Class & Friday",
+    link: "https://www.patreon.com/spidermedia/posts/prochiol-prishel-74438931",
+  },
+  {
+    podcast: "Прочие спецвыпуски",
+    publication: "2022-08-17",
+    title: "SPIDER Talk: Потерянный эпизод #2",
+    link: "https://www.patreon.com/spidermedia/posts/spider-talk-2-70642686",
+  },
+  {
+    podcast: "The Podcast of Zelda",
+    number: "1",
+    publication: "2022-11-05",
+    title: "The Podcast of Zelda #01: Skyward Sword // The Minish Cap",
+    link: "https://www.patreon.com/spidermedia/posts/podcast-of-zelda-74262434",
+  },
+  {
+    podcast: "Прочие спецвыпуски",
+    publication: "2022-12-24",
+    title: "SILVERS Talk: Пятнашки, Бейсбол и Рыбалка",
+    link: "https://www.patreon.com/spidermedia/posts/silvers-talk-i-76326891",
+  },
+];
+
+const excludedEpisodes = new Set([
+  "Gol D. Panels|OP2",
+  "Gol D. Panels|-",
+  "Пыльник|D13",
+]);
+
+const excludedTitles = new Set(
+  [
+    "X-Club 22.1. Generation X",
+    'Бонусная часть к "Зельде": Миссис Мэйзел, Demon Slayer, Final Fantasy и Super Mario Bros.',
+  ].map(normalizeTitle),
+);
+
+const otherSpecialTitles = new Set(
+  [
+    'CCR special - "средь шумного кона случайно"',
+    "«На (звуковых) полях»: Разговор с русским переводчиком «Провиденс» Алексеем Мальским",
+    "SPIDER Talk: Потерянный эпизод",
+    "SPIDER Talk: Потерянный эпизод #2",
+    "SILVERS Talk: Пятнашки, Бейсбол и Рыбалка",
+    "Бонусная часть без утешительного чтения: январский спецвыпуск",
+    "Бонусная часть к утешительному чтению: Анимация 2022, часть первая",
+    "Бонусная часть к утешительному чтению: Анимация 2022, часть вторая",
+    "Бонусная часть к утешительному чтению: Анимация 2022, часть третья",
+    "Подкаст кинокомиксов",
+    "«На (звуковых) полях»: Разговор с художником Agent of W.O.R.L.D.E. Филей Братухиным",
+    "Тула LIVE: Embrace Your Inner Fanperson на примере One Piece Fan Letter",
+    "Тула LIVE: Метатекст моя отсылка елы-палы лес густой",
+  ].map(normalizeTitle),
+);
+
+const publicationOverridesByEpisode = new Map([
+  ["На панелях|55", "2020-07-15"],
+  ["Пыльник|D1", "2020-07-08"],
+  ["X of Panels|XoP9", "2020-11-24"],
+  ["Эксклюзив|E1", "2020-02-13"],
+  ["Утешительный|LR13", "2022-07-05"],
+  ["Утешительный|LR21", "2022-10-27"],
+  ["Утешительный|LR25", "2023-02-11"],
+  ["ASOP|M0", "2021-10-21"],
+  ["ASOP|M7", "2023-02-07"],
+  ["ASOP|M16", "2025-07-03"],
+  ["ASOP|M17", "2026-04-12"],
+]);
+
+const publicationOverridesByTitle = new Map(
+  [
+    ["X-Club 04. The Dark Phoenix", "2024-05-26"],
+    ["X-Club 07. Graduation Day", "2024-06-11"],
+    ["X-Club 19. Secondary Mutation", "2024-08-13"],
+    ["X-Club 20. Deadpool & Wolverine", "2024-08-15"],
+    ["Avatar Club. Book 01: Water", "2026-04-29"],
+    ["Прочёл, пришел и рассказал: Amazing Spider-Man & Human Target", "2023-06-20"],
+    ["ХОДИЛ СМОТРЕТЬ НА РАЗДАВЛЕННЫЕ ПОМИДОРЫ", "2023-09-13"],
+    ["Прочёл, пришел и рассказал: Eternals & Green Hell", "2023-11-16"],
+    ["Прочёл, пришел и рассказал: МНОГО КОМИКСОВ", "2024-02-09"],
+    ["Прочёл, пришёл и рассказал: ошибка в ДНК", "2026-06-18"],
+    ["Метатекст моя отсылка ёлы-палы лес густой, часть 1: Вальдшнепы", "2025-05-06"],
+    ["Метатекст моя отсылка ёлы-палы лес густой, часть 3: пост пост", "2025-06-28"],
+    ["Метатекст моя отсылка ёлы-палы лес густой, часть 4: проблема", "2025-07-16"],
+    ["Метатекст моя отсылка ёлы-палы лес густой, часть 5: не специалист", "2025-07-30"],
+    ["Метатекст моя отсылка ёлы-палы лес густой, часть 6: пока идет футбол", "2026-06-18"],
+    ["Подкаст кинокомиксов", "2023-11-24"],
+    ["Тула LIVE: Метатекст моя отсылка елы-палы лес густой", "2025-04-14"],
+  ].map(([title, publication]) => [normalizeTitle(title), publication]),
+);
 
 if (!rssUrl && !process.env.SYNC_RSS_FILE) {
   throw new Error("Set BOOSTY_RSS_URL or SYNC_RSS_FILE to load the RSS feed");
@@ -41,8 +196,14 @@ const rssItems = parseRss(rss).filter((item) => !isRawRecording(item.title));
 const rssEpisodes = rssItems
   .filter((item) => !isRepresentedInSheet(item, sheetEpisodes))
   .map(toRssEpisode);
+const importedEpisodes = [...sheetEpisodes, ...rssEpisodes].map(applyCorrections).filter(shouldIncludeEpisode);
+const patreonEpisodes = patreonRecords
+  .map(toPatreonEpisode)
+  .map(applyCorrections)
+  .filter(shouldIncludeEpisode)
+  .filter((manual) => !importedEpisodes.some((episode) => episode.title && sameTitle(episode.title, manual.title)));
 
-const episodes = [...sheetEpisodes, ...rssEpisodes].sort(
+const episodes = [...importedEpisodes, ...patreonEpisodes].sort(
   (a, b) =>
     a.publication.localeCompare(b.publication) ||
     (a.id || Number.MAX_SAFE_INTEGER) - (b.id || Number.MAX_SAFE_INTEGER) ||
@@ -59,7 +220,9 @@ const payload = {
 
 await mkdir(dirname(output), { recursive: true });
 await writeFile(output, `window.__NA_PANELI_DATA__ = ${JSON.stringify(payload, null, 2)};\n`, "utf8");
-console.log(`Saved ${episodes.length} episodes (${sheetEpisodes.length} from the sheet, ${rssEpisodes.length} RSS-only) to ${output}`);
+console.log(
+  `Saved ${episodes.length} episodes (${sheetEpisodes.length} from the sheet, ${rssEpisodes.length} RSS-only, ${patreonEpisodes.length} Patreon-only) to ${output}`,
+);
 
 async function loadSource(url, label, localPath) {
   if (localPath) return readFile(localPath, "utf8");
@@ -122,7 +285,7 @@ function titleIdentity(title) {
 function toRssEpisode(item) {
   const identity = titleIdentity(item.title);
   const inferred = inferRssFormat(item.title);
-  return {
+  const episode = {
     id: null,
     podcast: identity?.podcast || inferred.podcast,
     number: identity?.number || inferred.number,
@@ -137,6 +300,64 @@ function toRssEpisode(item) {
     link: item.link,
     guid: item.guid,
   };
+
+  if (item.title === "Посмотрел, пришел и рассказал: Snyder Cut") {
+    return {
+      ...episode,
+      podcast: "Прочёл, пришёл и рассказал",
+      publication: "2021-03-23",
+      link: "https://www.patreon.com/spidermedia/posts/posmotrel-i-cut-49111867",
+    };
+  }
+
+  return episode;
+}
+
+function toPatreonEpisode(record) {
+  return {
+    id: null,
+    podcast: record.podcast || "Прочёл, пришёл и рассказал",
+    number: record.number || "",
+    publication: record.publication,
+    title: record.title,
+    topics: [],
+    participants: "",
+    comment: "",
+    supportersOnly: true,
+    supportersFree: false,
+    source: "patreon",
+    link: record.link,
+    guid: "",
+  };
+}
+
+function applyCorrections(episode) {
+  const titleKey = normalizeTitle(episode.title || "");
+  const publication = publicationOverridesByTitle.get(titleKey) ||
+    publicationOverridesByEpisode.get(`${episode.podcast}|${episode.number}`) ||
+    episode.publication;
+  let podcast = episode.podcast;
+
+  if (titleKey === normalizeTitle("ХОДИЛ СМОТРЕТЬ НА РАЗДАВЛЕННЫЕ ПОМИДОРЫ")) {
+    podcast = "Прочёл, пришёл и рассказал";
+  } else if (otherSpecialTitles.has(titleKey)) {
+    podcast = "Прочие спецвыпуски";
+  }
+
+  return { ...episode, podcast, publication };
+}
+
+function shouldIncludeEpisode(episode) {
+  if (excludedEpisodes.has(`${episode.podcast}|${episode.number}`)) return false;
+  return !excludedTitles.has(normalizeTitle(episode.title || ""));
+}
+
+function sameTitle(left, right) {
+  return normalizeTitle(left) === normalizeTitle(right);
+}
+
+function normalizeTitle(value) {
+  return value.toLocaleLowerCase("ru").replaceAll("ё", "е").replace(/\s+/g, " ").trim();
 }
 
 function inferRssFormat(title) {
@@ -147,7 +368,7 @@ function inferRssFormat(title) {
     [/^Avatar Club\. Book\s*0*(\d+)/i, "Avatar Club"],
     [/^Письма от слушателей\. Выпуск\s*0*(\d+)/i, "Письма от слушателей"],
     [/^Проч[её]л, приш[её]л и рассказал/i, "Прочёл, пришёл и рассказал", ""],
-    [/^Посмотрел, приш[её]л и рассказал/i, "Посмотрел, пришёл и рассказал", ""],
+    [/^Посмотрел, приш[её]л и рассказал/i, "Прочёл, пришёл и рассказал", ""],
     [/^Метатекст моя отсылка/i, "Метатекст моя отсылка", ""],
     [/^Тула LIVE/i, "Тула LIVE", ""],
     [/^Бонусная часть/i, "Бонус", ""],
