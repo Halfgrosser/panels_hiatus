@@ -121,15 +121,24 @@ function renderStats(visible) {
   const first = visible[0]?.date;
   const latest = visible.at(-1);
   let longest = 0;
+  let longestStart = null;
+  let longestEnd = null;
   let run = 0;
+  let runStart = null;
 
   if (first) {
     for (let cursor = startOfWeek(first); cursor <= now; cursor = addDays(cursor, 7)) {
       if (weekSet.has(rawWeekKey(cursor))) {
         run = 0;
+        runStart = null;
       } else {
+        if (run === 0) runStart = new Date(cursor);
         run += 1;
-        longest = Math.max(longest, run);
+        if (run > longest) {
+          longest = run;
+          longestStart = new Date(runStart);
+          longestEnd = addDays(cursor, 6);
+        }
       }
     }
   }
@@ -142,6 +151,10 @@ function renderStats(visible) {
   setText("stat-current-note", plural(current, "полная неделя", "полные недели", "полных недель"));
   setText("stat-longest", longest);
   setText("stat-longest-note", plural(longest, "неделя без выпусков", "недели без выпусков", "недель без выпусков"));
+  setText(
+    "stat-longest-range",
+    longestStart && longestEnd ? `с ${ruDate.format(longestStart)} по ${ruDate.format(longestEnd)}` : "—",
+  );
   setText("stat-latest", latest ? (latest.number ? `#${latest.number}` : latest.podcast) : "—");
   setText("stat-latest-note", latest ? `${latest.podcast} · ${ruDate.format(latest.date)}` : "Нет выпусков");
 }

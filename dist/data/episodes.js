@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-06-21",
+  "updatedAt": "2026-06-22",
   "episodes": [
     {
       "id": 1,
@@ -3252,23 +3252,6 @@ window.__NA_PANELI_DATA__ = {
       "guid": "d18be29c-a299-409b-849e-34785994fbf7"
     },
     {
-      "id": 217,
-      "podcast": "На панелях",
-      "number": "93",
-      "publication": "2024-02-11",
-      "topics": [
-        "Nextwave: Agents of H.A.T.E.",
-        "Sexcastle",
-        "Action Philosophers",
-        "Scurvy Dogs"
-      ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Пыльник special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet"
-    },
-    {
       "id": 200,
       "podcast": "Gol D. Panels",
       "number": "OP25",
@@ -3295,23 +3278,6 @@ window.__NA_PANELI_DATA__ = {
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet"
-    },
-    {
-      "id": 218,
-      "podcast": "На панелях",
-      "number": "94",
-      "publication": "2024-03-13",
-      "topics": [
-        "Gone",
-        "Somna",
-        "Blasfamous",
-        "Spectregraph"
-      ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "DSTLRY special",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
@@ -4016,6 +3982,23 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet"
     },
     {
+      "id": 217,
+      "podcast": "На панелях",
+      "number": "93",
+      "publication": "2025-02-11",
+      "topics": [
+        "Nextwave: Agents of H.A.T.E.",
+        "Sexcastle",
+        "Action Philosophers",
+        "Scurvy Dogs"
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Пыльник special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
+    },
+    {
       "id": null,
       "podcast": "Прочёл, пришёл и рассказал",
       "number": "",
@@ -4029,6 +4012,23 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/8c173157-5932-4ab8-926b-f076ea12e009",
       "guid": "19fd5ac6-99d8-4a5b-bdac-cca882058153"
+    },
+    {
+      "id": 218,
+      "podcast": "На панелях",
+      "number": "94",
+      "publication": "2025-03-13",
+      "topics": [
+        "Gone",
+        "Somna",
+        "Blasfamous",
+        "Spectregraph"
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "DSTLRY special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 219,

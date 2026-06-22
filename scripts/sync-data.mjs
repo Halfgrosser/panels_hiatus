@@ -26,7 +26,7 @@ const sheetEpisodes = rows
     id: Number(row[""]) || null,
     podcast: clean(row["Подкаст"]),
     number: clean(row["#"]),
-    publication: toIsoDate(row["Публикация"]),
+    publication: correctPublication(clean(row["Подкаст"]), clean(row["#"]), toIsoDate(row["Публикация"])),
     topics: [row["Стас"], row["Леша"], row["Серега"], row["Слушатели"]]
       .map(clean)
       .filter((value) => value && value !== "-"),
@@ -193,6 +193,13 @@ function isMarked(value = "") {
 function toIsoDate(value) {
   const [day, month, year] = value.split(".").map(Number);
   return `20${String(year).padStart(2, "0")}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+}
+
+function correctPublication(podcast, number, publication) {
+  if (podcast.toLocaleLowerCase("ru") === "на панелях" && ["93", "94"].includes(number)) {
+    return publication.replace(/^2024-/, "2025-");
+  }
+  return publication;
 }
 
 function parseCsv(input) {

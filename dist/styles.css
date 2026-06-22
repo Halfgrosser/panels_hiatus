@@ -233,7 +233,7 @@ select {
 .chart {
   display: grid;
   gap: 7px;
-  padding-top: 2px;
+  padding: 6px 5px 6px 0;
   overflow-x: auto;
 }
 
@@ -371,6 +371,14 @@ select {
 .stat > span:last-child {
   color: var(--muted);
   font-size: 0.82rem;
+}
+
+.stat__range {
+  display: block;
+  margin-top: 5px;
+  font-size: 0.74rem;
+  font-weight: 300;
+  line-height: 1.4;
 }
 
 .stat--accent > span:last-child {
