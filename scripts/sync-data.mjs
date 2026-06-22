@@ -100,7 +100,7 @@ const patreonRecords = [
 const excludedEpisodes = new Set([
   "Gol D. Panels|OP2",
   "Gol D. Panels|-",
-  "Пыльник|D13",
+  "На пыльных панелях|D13",
 ]);
 
 const excludedTitles = new Set(
@@ -130,12 +130,12 @@ const otherSpecialTitles = new Set(
 
 const publicationOverridesByEpisode = new Map([
   ["На панелях|55", "2020-07-15"],
-  ["Пыльник|D1", "2020-07-08"],
+  ["На пыльных панелях|D1", "2020-07-08"],
   ["X of Panels|XoP9", "2020-11-24"],
-  ["Эксклюзив|E1", "2020-02-13"],
-  ["Утешительный|LR13", "2022-07-05"],
-  ["Утешительный|LR21", "2022-10-27"],
-  ["Утешительный|LR25", "2023-02-11"],
+  ["На бонусных панелях|E1", "2020-02-13"],
+  ["Утешительное чтение|LR13", "2022-07-05"],
+  ["Утешительное чтение|LR21", "2022-10-27"],
+  ["Утешительное чтение|LR25", "2023-02-11"],
   ["ASOP|M0", "2021-10-21"],
   ["ASOP|M7", "2023-02-07"],
   ["ASOP|M16", "2025-07-03"],
@@ -179,7 +179,7 @@ const sheetEpisodes = rows
   .filter((row) => row["Подкаст"].trim() && /^\d{2}\.\d{2}\.\d{2}$/.test(row["Публикация"].trim()))
   .map((row) => ({
     id: Number(row[""]) || null,
-    podcast: clean(row["Подкаст"]),
+    podcast: canonicalPodcast(clean(row["Подкаст"])),
     number: clean(row["#"]),
     publication: correctPublication(clean(row["Подкаст"]), clean(row["#"]), toIsoDate(row["Публикация"])),
     topics: [row["Стас"], row["Леша"], row["Серега"], row["Слушатели"]]
@@ -268,10 +268,10 @@ function isRepresentedInSheet(item, sheetEpisodes) {
 function titleIdentity(title) {
   const patterns = [
     [/^«На панелях»\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "На панелях", number })],
-    [/^«На пыльных панелях»\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "Пыльник", number: `D${number}` })],
+    [/^«На пыльных панелях»\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "На пыльных панелях", number: `D${number}` })],
     [/^«На панелях\. Лайт»\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "Лайт", number: `L${number}` })],
     [/^Amazing Screw-On Podcast\s*#0*(\d+)/i, (number) => ({ podcast: "ASOP", number: `M${number}` })],
-    [/^Утешительное чтение\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "Утешительный", number: `LR${number}` })],
+    [/^Утешительное чтение\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "Утешительное чтение", number: `LR${number}` })],
     [/^Ultimate Panels\s*\(0*(\d+)\)/i, (number) => ({ podcast: "Ultimate Panels", number: `UP${number}` })],
   ];
 
@@ -333,10 +333,10 @@ function toPatreonEpisode(record) {
 
 function applyCorrections(episode) {
   const titleKey = normalizeTitle(episode.title || "");
+  let podcast = canonicalPodcast(episode.podcast);
   const publication = publicationOverridesByTitle.get(titleKey) ||
-    publicationOverridesByEpisode.get(`${episode.podcast}|${episode.number}`) ||
+    publicationOverridesByEpisode.get(`${podcast}|${episode.number}`) ||
     episode.publication;
-  let podcast = episode.podcast;
 
   if (titleKey === normalizeTitle("ХОДИЛ СМОТРЕТЬ НА РАЗДАВЛЕННЫЕ ПОМИДОРЫ")) {
     podcast = "Прочёл, пришёл и рассказал";
@@ -360,16 +360,27 @@ function normalizeTitle(value) {
   return value.toLocaleLowerCase("ru").replaceAll("ё", "е").replace(/\s+/g, " ").trim();
 }
 
+function canonicalPodcast(podcast) {
+  const names = {
+    "Эксклюзив": "На бонусных панелях",
+    "Пыльник": "На пыльных панелях",
+    "Утешительный": "Утешительное чтение",
+    "Метатекст моя отсылка": "Метатекст моя отсылка ёлы-палы лес густой",
+    "На панелях. ДНК": "День новых комиксов",
+  };
+  return names[podcast] || podcast;
+}
+
 function inferRssFormat(title) {
   const formats = [
-    [/^«На панелях\. ДНК»/i, "На панелях. ДНК", ""],
+    [/^«На панелях\. ДНК»/i, "День новых комиксов", ""],
     [/^X-Club\s+([\d.]+)/i, "X-Club"],
     [/^The Podcast of Zelda\s*#0*(\d+)/i, "The Podcast of Zelda"],
     [/^Avatar Club\. Book\s*0*(\d+)/i, "Avatar Club"],
     [/^Письма от слушателей\. Выпуск\s*0*(\d+)/i, "Письма от слушателей"],
     [/^Проч[её]л, приш[её]л и рассказал/i, "Прочёл, пришёл и рассказал", ""],
     [/^Посмотрел, приш[её]л и рассказал/i, "Прочёл, пришёл и рассказал", ""],
-    [/^Метатекст моя отсылка/i, "Метатекст моя отсылка", ""],
+    [/^Метатекст моя отсылка/i, "Метатекст моя отсылка ёлы-палы лес густой", ""],
     [/^Тула LIVE/i, "Тула LIVE", ""],
     [/^Бонусная часть/i, "Бонус", ""],
     [/^«На \(звуковых\) полях»/i, "На звуковых полях", ""],
