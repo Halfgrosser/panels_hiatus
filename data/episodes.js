@@ -1075,7 +1075,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 62,
-      "podcast": "Эксклюзив",
+      "podcast": "На бонусных панелях",
       "number": "E1",
       "publication": "2020-02-13",
       "topics": [
@@ -1089,7 +1089,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 63,
-      "podcast": "Эксклюзив",
+      "podcast": "На бонусных панелях",
       "number": "E2",
       "publication": "2020-02-28",
       "topics": [
@@ -1120,7 +1120,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 66,
-      "podcast": "Эксклюзив",
+      "podcast": "На бонусных панелях",
       "number": "E3",
       "publication": "2020-04-22",
       "topics": [
@@ -1199,7 +1199,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 70,
-      "podcast": "Эксклюзив",
+      "podcast": "На бонусных панелях",
       "number": "E4",
       "publication": "2020-06-11",
       "topics": [
@@ -1230,7 +1230,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 72,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D1",
       "publication": "2020-07-08",
       "topics": [
@@ -1281,7 +1281,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 75,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D2",
       "publication": "2020-08-07",
       "topics": [
@@ -1483,7 +1483,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 89,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D3",
       "publication": "2020-12-18",
       "topics": [
@@ -1500,7 +1500,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 90,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D4",
       "publication": "2020-12-29",
       "topics": [
@@ -1534,7 +1534,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 92,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D5",
       "publication": "2021-01-19",
       "topics": [
@@ -1583,7 +1583,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 94,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D6",
       "publication": "2021-02-16",
       "topics": [
@@ -1617,7 +1617,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 96,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D7",
       "publication": "2021-03-09",
       "topics": [
@@ -1678,7 +1678,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 98,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D8",
       "publication": "2021-04-23",
       "topics": [
@@ -1726,7 +1726,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 101,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D9",
       "publication": "2021-05-13",
       "topics": [
@@ -1743,7 +1743,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 102,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D10",
       "publication": "2021-05-28",
       "topics": [
@@ -1918,7 +1918,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 114,
-      "podcast": "Эксклюзив",
+      "podcast": "На бонусных панелях",
       "number": "E5",
       "publication": "2021-10-06",
       "topics": [
@@ -2211,7 +2211,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 133,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR1",
       "publication": "2022-03-12",
       "topics": [
@@ -2225,7 +2225,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 134,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR2",
       "publication": "2022-03-16",
       "topics": [
@@ -2239,7 +2239,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 135,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR3",
       "publication": "2022-03-30",
       "topics": [
@@ -2282,7 +2282,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 137,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR4",
       "publication": "2022-04-13",
       "topics": [
@@ -2296,7 +2296,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 138,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR5",
       "publication": "2022-04-24",
       "topics": [
@@ -2310,7 +2310,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 139,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR6",
       "publication": "2022-04-29",
       "topics": [
@@ -2324,7 +2324,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 140,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR7",
       "publication": "2022-05-04",
       "topics": [
@@ -2338,7 +2338,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 141,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR8",
       "publication": "2022-05-11",
       "topics": [
@@ -2352,7 +2352,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 142,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR9",
       "publication": "2022-05-24",
       "topics": [
@@ -2366,7 +2366,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 143,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR10",
       "publication": "2022-05-30",
       "topics": [
@@ -2380,7 +2380,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 144,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR11",
       "publication": "2022-06-08",
       "topics": [
@@ -2394,7 +2394,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 145,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR12",
       "publication": "2022-06-28",
       "topics": [
@@ -2408,7 +2408,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 146,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR13",
       "publication": "2022-07-05",
       "topics": [
@@ -2422,7 +2422,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 147,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR14",
       "publication": "2022-07-22",
       "topics": [
@@ -2436,7 +2436,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 148,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR15",
       "publication": "2022-08-04",
       "topics": [
@@ -2450,7 +2450,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 149,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR16",
       "publication": "2022-08-13",
       "topics": [
@@ -2479,7 +2479,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 150,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR17",
       "publication": "2022-08-25",
       "topics": [
@@ -2493,7 +2493,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 151,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR18",
       "publication": "2022-09-14",
       "topics": [
@@ -2507,7 +2507,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 152,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR19",
       "publication": "2022-09-16",
       "topics": [
@@ -2521,7 +2521,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 153,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR20",
       "publication": "2022-10-18",
       "topics": [
@@ -2549,7 +2549,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 155,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR21",
       "publication": "2022-10-27",
       "topics": [
@@ -2593,7 +2593,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 156,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR22",
       "publication": "2022-11-16",
       "topics": [],
@@ -2633,7 +2633,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 159,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR23",
       "publication": "2022-12-01",
       "topics": [
@@ -2647,7 +2647,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 160,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR24",
       "publication": "2022-12-17",
       "topics": [
@@ -2719,7 +2719,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 163,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR25",
       "publication": "2023-02-11",
       "topics": [
@@ -2748,7 +2748,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 164,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR26",
       "publication": "2023-02-24",
       "topics": [
@@ -3511,7 +3511,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 205,
-      "podcast": "Утешительный",
+      "podcast": "Утешительное чтение",
       "number": "LR27",
       "publication": "2024-04-05",
       "topics": [
@@ -4213,7 +4213,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 220,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D11",
       "publication": "2025-04-03",
       "topics": [
@@ -4276,7 +4276,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Метатекст моя отсылка",
+      "podcast": "Метатекст моя отсылка ёлы-палы лес густой",
       "number": "",
       "publication": "2025-05-06",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 1: Вальдшнепы",
@@ -4291,7 +4291,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Метатекст моя отсылка",
+      "podcast": "Метатекст моя отсылка ёлы-палы лес густой",
       "number": "",
       "publication": "2025-05-21",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 2: Смерть",
@@ -4323,7 +4323,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-06-25",
       "title": "«На панелях. ДНК». 25.06.25 • Ненужный ребут",
@@ -4338,7 +4338,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Метатекст моя отсылка",
+      "podcast": "Метатекст моя отсылка ёлы-палы лес густой",
       "number": "",
       "publication": "2025-06-28",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 3: пост пост",
@@ -4367,7 +4367,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-07-09",
       "title": "«На панелях. ДНК». 09.07.25 • Пляжный спецвыпуск",
@@ -4382,7 +4382,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Метатекст моя отсылка",
+      "podcast": "Метатекст моя отсылка ёлы-палы лес густой",
       "number": "",
       "publication": "2025-07-16",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 4: проблема",
@@ -4397,7 +4397,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-07-23",
       "title": "«На панелях. ДНК». 23.07.25 • Коллективный иск",
@@ -4412,7 +4412,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-07-30",
       "title": "«На панелях. ДНК». 30.07.25 • Осуждение Айснеров",
@@ -4427,7 +4427,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Метатекст моя отсылка",
+      "podcast": "Метатекст моя отсылка ёлы-палы лес густой",
       "number": "",
       "publication": "2025-07-30",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 5: не специалист",
@@ -4442,7 +4442,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-08-13",
       "title": "«На панелях. ДНК». 13.08.25 • Сброс нумерации",
@@ -4457,7 +4457,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-09-04",
       "title": "«На панелях. ДНК». 03.09.25 • Мрачное переосмысление Нафани",
@@ -4486,7 +4486,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-09-24",
       "title": "«На панелях. ДНК». 24.09.25 • ТРЕТИЙ МАСТРИД",
@@ -4501,7 +4501,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-10-15",
       "title": "«На панелях. ДНК». 15.10.25 • ХО-ХО-ХОРРОР",
@@ -4530,7 +4530,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-10-29",
       "title": "«На панелях. ДНК». 29.10.25 • Год первый",
@@ -4574,7 +4574,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "На панелях. ДНК",
+      "podcast": "День новых комиксов",
       "number": "",
       "publication": "2025-12-24",
       "title": "«На панелях. ДНК». 24.12.25 • Не лайв",
@@ -4620,7 +4620,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": 229,
-      "podcast": "Пыльник",
+      "podcast": "На пыльных панелях",
       "number": "D12",
       "publication": "2026-03-21",
       "topics": [
@@ -4724,7 +4724,7 @@ window.__NA_PANELI_DATA__ = {
     },
     {
       "id": null,
-      "podcast": "Метатекст моя отсылка",
+      "podcast": "Метатекст моя отсылка ёлы-палы лес густой",
       "number": "",
       "publication": "2026-06-18",
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 6: пока идет футбол",

@@ -12,7 +12,6 @@ const ruDate = new Intl.DateTimeFormat("ru-RU", {
 
 const formatNames = {
   all: "Все форматы",
-  "На панелях": "Только «На панелях»",
 };
 const formatGroups = new Map([
   ["Panels of X", new Set(["Panels of X", "X of Panels", "Hellfire Panels", "Inferno Panels"])],
