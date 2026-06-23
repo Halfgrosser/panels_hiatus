@@ -40,6 +40,13 @@ const patreonRecords = [
     link: "https://www.patreon.com/spidermedia/posts/ccr-special-sred-30845082",
   },
   {
+    podcast: "Gol D. Panels",
+    number: "OP02",
+    publication: "2021-05-31",
+    title: "Gol D. Panels. Saga 02: Alabasta",
+    link: "",
+  },
+  {
     podcast: "Прочие спецвыпуски",
     publication: "2019-10-20",
     title: "«На (звуковых) полях»: Разговор с русским переводчиком «Провиденс» Алексеем Мальским",
@@ -105,6 +112,7 @@ const excludedEpisodes = new Set([
 
 const excludedTitles = new Set(
   [
+    'CCR special - "средь шумного кона случайно"',
     "X-Club 22.1. Generation X",
     'Бонусная часть к "Зельде": Миссис Мэйзел, Demon Slayer, Final Fantasy и Super Mario Bros.',
   ].map(normalizeTitle),
@@ -112,7 +120,6 @@ const excludedTitles = new Set(
 
 const otherSpecialTitles = new Set(
   [
-    'CCR special - "средь шумного кона случайно"',
     "«На (звуковых) полях»: Разговор с русским переводчиком «Провиденс» Алексеем Мальским",
     "SPIDER Talk: Потерянный эпизод",
     "SPIDER Talk: Потерянный эпизод #2",
@@ -348,6 +355,13 @@ function applyCorrections(episode) {
 }
 
 function shouldIncludeEpisode(episode) {
+  if (
+    episode.podcast === "Gol D. Panels" &&
+    episode.number === "OP02" &&
+    normalizeTitle(episode.title || "") === normalizeTitle("Gol D. Panels. Saga 02: Alabasta")
+  ) {
+    return true;
+  }
   if (excludedEpisodes.has(`${episode.podcast}|${episode.number}`)) return false;
   return !excludedTitles.has(normalizeTitle(episode.title || ""));
 }

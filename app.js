@@ -32,10 +32,7 @@ episodes.forEach((episode) => {
   const format = filterFormat(episode);
   formatCounts.set(format, (formatCounts.get(format) || 0) + 1);
 });
-const formats = [...formatCounts.keys()].sort(
-  (left, right) =>
-    formatCounts.get(right) - formatCounts.get(left) || left.localeCompare(right, "ru"),
-);
+const formats = [...formatCounts.keys()].sort(compareFormats);
 filter.innerHTML = ["all", ...formats]
   .map((name) => `<option value="${escapeHtml(name)}">${escapeHtml(formatNames[name] || name)}</option>`)
   .join("");
@@ -133,6 +130,21 @@ function filterFormat(episode) {
     if (members.has(episode.podcast)) return group;
   }
   return episode.podcast;
+}
+
+function compareFormats(left, right) {
+  if (left === "На панелях") return -1;
+  if (right === "На панелях") return 1;
+
+  const leftCyrillic = startsWithCyrillic(left);
+  const rightCyrillic = startsWithCyrillic(right);
+  if (leftCyrillic !== rightCyrillic) return leftCyrillic ? -1 : 1;
+
+  return left.localeCompare(right, "ru", { sensitivity: "base" });
+}
+
+function startsWithCyrillic(value) {
+  return /^\p{Script=Cyrillic}/u.test(value.trim());
 }
 
 function renderStats(visible) {
