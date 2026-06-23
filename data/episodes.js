@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-06-22",
+  "updatedAt": "2026-06-23",
   "episodes": [
     {
       "id": 1,
@@ -957,21 +957,6 @@ window.__NA_PANELI_DATA__ = {
       "id": null,
       "podcast": "Прочие спецвыпуски",
       "number": "",
-      "publication": "2019-10-18",
-      "title": "CCR special - \"средь шумного кона случайно\"",
-      "topics": [],
-      "participants": "",
-      "comment": "",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "patreon",
-      "link": "https://www.patreon.com/spidermedia/posts/ccr-special-sred-30845082",
-      "guid": ""
-    },
-    {
-      "id": null,
-      "podcast": "Прочие спецвыпуски",
-      "number": "",
       "publication": "2019-10-20",
       "title": "«На (звуковых) полях»: Разговор с русским переводчиком «Провиденс» Алексеем Мальским",
       "topics": [],
@@ -1757,6 +1742,21 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet"
+    },
+    {
+      "id": null,
+      "podcast": "Gol D. Panels",
+      "number": "OP02",
+      "publication": "2021-05-31",
+      "title": "Gol D. Panels. Saga 02: Alabasta",
+      "topics": [],
+      "participants": "",
+      "comment": "",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "patreon",
+      "link": "",
+      "guid": ""
     },
     {
       "id": 104,
