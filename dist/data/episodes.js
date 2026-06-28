@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-06-23",
+  "updatedAt": "2026-06-27",
   "episodes": [
     {
       "id": 1,
@@ -11,13 +11,43 @@ window.__NA_PANELI_DATA__ = {
         "Mr. Higgins Comes Home",
         "Underwinter",
         "The Unsound",
-        "Rock Candy Mountain (Никита)"
+        "Rock Candy Mountain"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Дебютный выпуск!",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Mr. Higgins Comes Home",
+          "rawTitle": "Mr. Higgins Comes Home",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Underwinter",
+          "rawTitle": "Underwinter",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Unsound",
+          "rawTitle": "The Unsound",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Rock Candy Mountain",
+          "rawTitle": "Rock Candy Mountain (Никита)",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 2,
@@ -28,13 +58,43 @@ window.__NA_PANELI_DATA__ = {
         "Paper Girls",
         "Jean Grey",
         "Injection",
-        "Satania (Стас)"
+        "Satania"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Women special + анонс слушательского слота",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Paper Girls",
+          "rawTitle": "Paper Girls",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Jean Grey",
+          "rawTitle": "Jean Grey",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Injection",
+          "rawTitle": "Injection",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Satania",
+          "rawTitle": "Satania (Стас)",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 3,
@@ -51,7 +111,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Motro",
+          "rawTitle": "Motro",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Cinema Purgatorio",
+          "rawTitle": "Cinema Purgatorio",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Klaus",
+          "rawTitle": "Klaus",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Royal City",
+          "rawTitle": "Royal City",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 4,
@@ -68,7 +158,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Crime special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "4 Kids Walk Into a Bank",
+          "rawTitle": "4 Kids Walk Into a Bank",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Bearskin",
+          "rawTitle": "Bearskin",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Moonshine",
+          "rawTitle": "Moonshine",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Redneck",
+          "rawTitle": "Redneck",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 5,
@@ -85,7 +205,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X-Men: Grand Design",
+          "rawTitle": "X-Men: Grand Design",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Bug! The Adventures of Forager",
+          "rawTitle": "Bug! The Adventures of Forager",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Infinity Finale",
+          "rawTitle": "The Infinity Finale",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Habitat",
+          "rawTitle": "Habitat",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 6,
@@ -102,7 +252,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "My Favorite Thing is Monsters",
+          "rawTitle": "My Favorite Thing is Monsters",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Black Monday Murders",
+          "rawTitle": "The Black Monday Murders",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Dream Gang",
+          "rawTitle": "Dream Gang",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Seven to Eternity",
+          "rawTitle": "Seven to Eternity",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 7,
@@ -119,7 +299,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Anthology special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Sun Bakery",
+          "rawTitle": "Sun Bakery",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Zegas",
+          "rawTitle": "Zegas",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Paklis",
+          "rawTitle": "Paklis",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Omega Men",
+          "rawTitle": "The Omega Men",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 8,
@@ -136,7 +346,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Extremity",
+          "rawTitle": "Extremity",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Welcome Back",
+          "rawTitle": "Welcome Back",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Valhalla Mad",
+          "rawTitle": "Valhalla Mad",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Blast",
+          "rawTitle": "Blast",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 9,
@@ -153,7 +393,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Magic special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ether",
+          "rawTitle": "Ether",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Black Magick",
+          "rawTitle": "Black Magick",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Maestros",
+          "rawTitle": "Maestros",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Nameless",
+          "rawTitle": "Nameless",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 10,
@@ -170,7 +440,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Live-выпуск #1 (Space special)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Space Riders",
+          "rawTitle": "Space Riders",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Southern Cross",
+          "rawTitle": "Southern Cross",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Kaptara",
+          "rawTitle": "Kaptara",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Eternity",
+          "rawTitle": "Eternity",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 11,
@@ -187,7 +487,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Twisted Romance",
+          "rawTitle": "Twisted Romance",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Big Kids",
+          "rawTitle": "Big Kids",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ultimates",
+          "rawTitle": "Ultimates",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Squidder",
+          "rawTitle": "The Squidder",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 12,
@@ -204,7 +534,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Two Brothers",
+          "rawTitle": "Two Brothers",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Godshaper",
+          "rawTitle": "Godshaper",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Dark Nights: METAL",
+          "rawTitle": "Dark Nights: METAL",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Monstress",
+          "rawTitle": "Monstress",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 13,
@@ -221,7 +581,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Слушательский special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Damned",
+          "rawTitle": "The Damned",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Black Bolt",
+          "rawTitle": "Black Bolt",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Batman: White Knight",
+          "rawTitle": "Batman: White Knight",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Black River",
+          "rawTitle": "Black River",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 14,
@@ -235,7 +625,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Thor by Aaron special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Mighty Thor",
+          "rawTitle": "The Mighty Thor",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 15,
@@ -251,7 +650,30 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Jason special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Lost Cat",
+          "rawTitle": "Lost Cat",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "On the Camino",
+          "rawTitle": "On the Camino",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "If You Steal",
+          "rawTitle": "If You Steal",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        }
+      ]
     },
     {
       "id": 16,
@@ -268,7 +690,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "SUPERBAD special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Jawbreakers",
+          "rawTitle": "Jawbreakers",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Red Ten",
+          "rawTitle": "The Red Ten",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Liberality for All",
+          "rawTitle": "Liberality for All",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Leaving Megalopolis",
+          "rawTitle": "Leaving Megalopolis",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 17,
@@ -285,7 +737,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Immortal Iron Fists",
+          "rawTitle": "The Immortal Iron Fists",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Apocalyptic",
+          "rawTitle": "Apocalyptic",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Edison Rex",
+          "rawTitle": "Edison Rex",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Fix",
+          "rawTitle": "The Fix",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 18,
@@ -302,7 +784,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Live-выпуск #2",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Prism Stalker",
+          "rawTitle": "Prism Stalker",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Art of Charlie Chan Hock Chye",
+          "rawTitle": "The Art of Charlie Chan Hock Chye",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Basileus",
+          "rawTitle": "Basileus",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Britannia",
+          "rawTitle": "Britannia",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 19,
@@ -319,7 +831,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Sabrina",
+          "rawTitle": "Sabrina",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Mirror",
+          "rawTitle": "Mirror",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Shazam!",
+          "rawTitle": "Shazam!",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Beef",
+          "rawTitle": "The Beef",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 20,
@@ -336,7 +878,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Анонс Patreon",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "House of Women",
+          "rawTitle": "House of Women",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Highest House",
+          "rawTitle": "The Highest House",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Marvel Two-in-One",
+          "rawTitle": "Marvel Two-in-One",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Eternal Empire",
+          "rawTitle": "Eternal Empire",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 21,
@@ -353,7 +925,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Blackwood",
+          "rawTitle": "Blackwood",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Nightworld",
+          "rawTitle": "Nightworld",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Hunters",
+          "rawTitle": "Hunters",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Gravediggers Union",
+          "rawTitle": "The Gravediggers Union",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 22,
@@ -370,7 +972,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Cable",
+          "rawTitle": "Cable",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Eternity Girl",
+          "rawTitle": "Eternity Girl",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Immortal Hulk",
+          "rawTitle": "The Immortal Hulk",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Skybourne",
+          "rawTitle": "Skybourne",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 23,
@@ -387,7 +1019,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Кулинарный special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Umami",
+          "rawTitle": "Umami",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Rutabaga",
+          "rawTitle": "Rutabaga",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Flavor",
+          "rawTitle": "Flavor",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Hungry Ghosts",
+          "rawTitle": "Hungry Ghosts",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 24,
@@ -404,7 +1066,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Beautiful Canvas",
+          "rawTitle": "Beautiful Canvas",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Weird Detective",
+          "rawTitle": "Weird Detective",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "G.I. Joe",
+          "rawTitle": "G.I. Joe",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Doctor Strange and the Sorcerers Supreme",
+          "rawTitle": "Doctor Strange and the Sorcerers Supreme",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -435,7 +1127,30 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Год подкасту! (Providence special)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Courtyard",
+          "rawTitle": "The Courtyard",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Neonomicon",
+          "rawTitle": "Neonomicon",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Providence",
+          "rawTitle": "Providence",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        }
+      ]
     },
     {
       "id": 26,
@@ -452,7 +1167,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Nanjing: The Burning City",
+          "rawTitle": "Nanjing: The Burning City",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Judas",
+          "rawTitle": "Judas",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Dull Margaret",
+          "rawTitle": "Dull Margaret",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Infamous Iron Man",
+          "rawTitle": "Infamous Iron Man",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 27,
@@ -469,7 +1214,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Актуальный special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The New World",
+          "rawTitle": "The New World",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Mister Miracle",
+          "rawTitle": "Mister Miracle",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Death of Inhumans",
+          "rawTitle": "Death of Inhumans",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Multiple Man",
+          "rawTitle": "Multiple Man",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -501,7 +1276,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Sterpazook special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Deathmatch",
+          "rawTitle": "Deathmatch",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Birthright",
+          "rawTitle": "Birthright",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Life After",
+          "rawTitle": "The Life After",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Spread",
+          "rawTitle": "Spread",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 29,
@@ -518,7 +1323,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Sara",
+          "rawTitle": "Sara",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Shipwreck",
+          "rawTitle": "Shipwreck",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Justice League",
+          "rawTitle": "Justice League",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Redlands",
+          "rawTitle": "Redlands",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 30,
@@ -535,7 +1370,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Итальянский special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Spider King",
+          "rawTitle": "The Spider King",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Cloud",
+          "rawTitle": "The Cloud",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Oblivion Song",
+          "rawTitle": "Oblivion Song",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Secret Empire",
+          "rawTitle": "Secret Empire",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 31,
@@ -552,7 +1417,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "OGN special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Prince and the Dressmaker",
+          "rawTitle": "The Prince and the Dressmaker",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Aleister & Adolf",
+          "rawTitle": "Aleister & Adolf",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Avengers: Rage of Ultron",
+          "rawTitle": "Avengers: Rage of Ultron",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Upgrade Soul",
+          "rawTitle": "Upgrade Soul",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -584,7 +1479,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Harrow County",
+          "rawTitle": "Harrow County",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Deep Roots",
+          "rawTitle": "Deep Roots",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Magic Order",
+          "rawTitle": "The Magic Order",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "My Heroes Have Always Been Junkies",
+          "rawTitle": "My Heroes Have Always Been Junkies",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 33,
@@ -601,7 +1526,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Hellboy special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Koschei the Deathless",
+          "rawTitle": "Koschei the Deathless",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Visitor: How and Why He Stayed?",
+          "rawTitle": "The Visitor: How and Why He Stayed?",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Witchfinder: The Gates of Heaven",
+          "rawTitle": "Witchfinder: The Gates of Heaven",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Into the Silent Sea",
+          "rawTitle": "Into the Silent Sea",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 34,
@@ -618,7 +1573,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Go-Bots",
+          "rawTitle": "Go-Bots",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "She Could Fly",
+          "rawTitle": "She Could Fly",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "William Gibson's Alien 3",
+          "rawTitle": "William Gibson's Alien 3",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Wake",
+          "rawTitle": "The Wake",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 35,
@@ -635,7 +1620,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "DC special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Superman",
+          "rawTitle": "Superman",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Dark Knight III: The Master Race",
+          "rawTitle": "Dark Knight III: The Master Race",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Green Lantern",
+          "rawTitle": "The Green Lantern",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Wonder Woman: The True Amazon",
+          "rawTitle": "Wonder Woman: The True Amazon",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 36,
@@ -652,7 +1667,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Die",
+          "rawTitle": "Die",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Maxwell's Demons",
+          "rawTitle": "Maxwell's Demons",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Bad Ass",
+          "rawTitle": "Bad Ass",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Persephone",
+          "rawTitle": "Persephone",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 37,
@@ -669,7 +1714,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Murder Falcon",
+          "rawTitle": "Murder Falcon",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Kid Lobotomy",
+          "rawTitle": "Kid Lobotomy",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "G.I. Joe: Sierra Muerte",
+          "rawTitle": "G.I. Joe: Sierra Muerte",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "MCMLXXV",
+          "rawTitle": "MCMLXXV",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 38,
@@ -686,7 +1761,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "29 мая special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Wolverine: The Long Night",
+          "rawTitle": "Wolverine: The Long Night",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Coda",
+          "rawTitle": "Coda",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Peter Cannon: Thunderbolt",
+          "rawTitle": "Peter Cannon: Thunderbolt",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Heroes in Crisis",
+          "rawTitle": "Heroes in Crisis",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 39,
@@ -703,7 +1808,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Image special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Farmhand",
+          "rawTitle": "Farmhand",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ice Cream Man",
+          "rawTitle": "Ice Cream Man",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Warning",
+          "rawTitle": "The Warning",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Outer Darkness",
+          "rawTitle": "Outer Darkness",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 40,
@@ -720,7 +1855,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "By Night",
+          "rawTitle": "By Night",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Demon (by Jason Shiga)",
+          "rawTitle": "Demon (by Jason Shiga)",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Sentry",
+          "rawTitle": "The Sentry",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Watersnakes",
+          "rawTitle": "Watersnakes",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 41,
@@ -734,7 +1899,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X-Men Before Hickman",
+          "rawTitle": "X-Men Before Hickman",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 42,
@@ -748,7 +1922,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "House of X [01]",
+          "rawTitle": "House of X [01]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 43,
@@ -762,7 +1945,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Powers of X [01]",
+          "rawTitle": "Powers of X [01]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -791,7 +1983,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "House of X [02]",
+          "rawTitle": "House of X [02]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 45,
@@ -805,7 +2006,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Powers of X [02]",
+          "rawTitle": "Powers of X [02]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 46,
@@ -819,7 +2029,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Powers of X [03]",
+          "rawTitle": "Powers of X [03]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 47,
@@ -836,7 +2055,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ask For Mercy",
+          "rawTitle": "Ask For Mercy",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Grass Kings",
+          "rawTitle": "Grass Kings",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Conan the Barbarian",
+          "rawTitle": "Conan the Barbarian",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Little Bird",
+          "rawTitle": "Little Bird",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 48,
@@ -850,7 +2099,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "House of X [03]",
+          "rawTitle": "House of X [03]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 49,
@@ -864,7 +2122,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "House of X [04]",
+          "rawTitle": "House of X [04]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 50,
@@ -878,7 +2145,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Powers of X [04]",
+          "rawTitle": "Powers of X [04]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 51,
@@ -892,7 +2168,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "House of X [05]",
+          "rawTitle": "House of X [05]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 52,
@@ -909,7 +2194,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "- (без Никиты)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Lodger",
+          "rawTitle": "Lodger",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Spencer & Locke",
+          "rawTitle": "Spencer & Locke",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Assassin Nation",
+          "rawTitle": "Assassin Nation",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Fearscape",
+          "rawTitle": "Fearscape",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 53,
@@ -923,7 +2238,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Powers of X [05]",
+          "rawTitle": "Powers of X [05]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 54,
@@ -937,7 +2261,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "House of X [06]",
+          "rawTitle": "House of X [06]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 55,
@@ -951,7 +2284,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Panels of X",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Powers of X [06]",
+          "rawTitle": "Powers of X [06]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -982,7 +2324,30 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Farel Dalrymple special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "It Will All Hurt",
+          "rawTitle": "It Will All Hurt",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Proxima Centauri",
+          "rawTitle": "Proxima Centauri",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Pop Gun War v02: Chain Letter",
+          "rawTitle": "Pop Gun War v02: Chain Letter",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        }
+      ]
     },
     {
       "id": 57,
@@ -999,7 +2364,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "ЛРоК special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Mezolith",
+          "rawTitle": "Mezolith",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Shit & Piss",
+          "rawTitle": "Shit & Piss",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Gigantic Beard That Was Evil",
+          "rawTitle": "The Gigantic Beard That Was Evil",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Grot",
+          "rawTitle": "The Grot",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 58,
@@ -1013,7 +2408,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Два года подкасту! (WicDiv special)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Wicked + The Divine",
+          "rawTitle": "The Wicked + The Divine",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 59,
@@ -1027,7 +2431,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "TMNT special, part 1",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "TMNT Mega-Arc 1",
+          "rawTitle": "TMNT Mega-Arc 1",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 60,
@@ -1041,7 +2454,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "TMNT special, part 2",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "TMNT Mega-Arc 2",
+          "rawTitle": "TMNT Mega-Arc 2",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 61,
@@ -1056,7 +2478,23 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Watchmen Sequels special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Doomsday Clock",
+          "rawTitle": "Doomsday Clock",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Watchmen (HBO)",
+          "rawTitle": "Watchmen (HBO)",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        }
+      ]
     },
     {
       "id": 62,
@@ -1070,7 +2508,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Эксклюзив (Никита)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Star Wars: Knights of the Old Republic",
+          "rawTitle": "Star Wars: Knights of the Old Republic",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 63,
@@ -1084,7 +2531,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Эксклюзив (Стас)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Locke & Key",
+          "rawTitle": "Locke & Key",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 64,
@@ -1101,7 +2557,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "OGN special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Laura Dean Keeps Breaking Up with Me",
+          "rawTitle": "Laura Dean Keeps Breaking Up with Me",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Atomic Empire",
+          "rawTitle": "Atomic Empire",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Berlin",
+          "rawTitle": "Berlin",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "On a Sunbeam",
+          "rawTitle": "On a Sunbeam",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 66,
@@ -1115,7 +2601,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Эксклюзив (Леша)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Seven Soldiers",
+          "rawTitle": "Seven Soldiers",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 65,
@@ -1132,7 +2627,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "50 выпусков! (Двойка special)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Punisher Kill Krew",
+          "rawTitle": "Punisher Kill Krew",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Spider-Man: Life Story",
+          "rawTitle": "Spider-Man: Life Story",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Event Leviathan",
+          "rawTitle": "Event Leviathan",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Batman: Last Knight on Earth",
+          "rawTitle": "Batman: Last Knight on Earth",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 67,
@@ -1146,7 +2671,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "East of West special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "East of West",
+          "rawTitle": "East of West",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 68,
@@ -1163,7 +2697,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "BD special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Park Bench",
+          "rawTitle": "The Park Bench",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Smell of Starving Boys",
+          "rawTitle": "The Smell of Starving Boys",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "SHANGRI-LA",
+          "rawTitle": "SHANGRI-LA",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Ogre Gods",
+          "rawTitle": "The Ogre Gods",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 69,
@@ -1180,7 +2744,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Патреонный special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "This Was Our Pact",
+          "rawTitle": "This Was Our Pact",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Pretty Deadly: The Rat",
+          "rawTitle": "Pretty Deadly: The Rat",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "War of the Realms",
+          "rawTitle": "War of the Realms",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "About Betty's Boob",
+          "rawTitle": "About Betty's Boob",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 70,
@@ -1194,7 +2788,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Эксклюзив (Саша)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Superhuman Trilogy",
+          "rawTitle": "Superhuman Trilogy",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 71,
@@ -1211,7 +2814,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Eisner special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "BTTM FDRS",
+          "rawTitle": "BTTM FDRS",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Invisible Kingdom",
+          "rawTitle": "Invisible Kingdom",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Daredevil",
+          "rawTitle": "Daredevil",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Ghost Tree",
+          "rawTitle": "Ghost Tree",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 72,
@@ -1228,7 +2861,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Патреонный special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Motor Girl",
+          "rawTitle": "Motor Girl",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Eternaut",
+          "rawTitle": "The Eternaut",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Battling Boy",
+          "rawTitle": "Battling Boy",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Space Doll",
+          "rawTitle": "Space Doll",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 73,
@@ -1245,7 +2908,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Folklords",
+          "rawTitle": "Folklords",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Punisher: Soviet",
+          "rawTitle": "Punisher: Soviet",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "DCeased",
+          "rawTitle": "DCeased",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Faithless",
+          "rawTitle": "Faithless",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 74,
@@ -1262,7 +2955,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Human",
+          "rawTitle": "Human",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "These Savage Shores",
+          "rawTitle": "These Savage Shores",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Die!Die!Die!",
+          "rawTitle": "Die!Die!Die!",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "A Girl in the Himalayas",
+          "rawTitle": "A Girl in the Himalayas",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 75,
@@ -1276,7 +2999,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Infinite Crisis special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Infinite Crisis",
+          "rawTitle": "Infinite Crisis",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 76,
@@ -1293,7 +3025,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "DC Imprint special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Basketful of Heads",
+          "rawTitle": "Basketful of Heads",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Collapser",
+          "rawTitle": "Collapser",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Dreaming",
+          "rawTitle": "The Dreaming",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Dial H for Hero",
+          "rawTitle": "Dial H for Hero",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 77,
@@ -1310,7 +3072,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "ЛРоК special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ye",
+          "rawTitle": "Ye",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Notes on a Case of Melancholia",
+          "rawTitle": "Notes on a Case of Melancholia",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Hedra",
+          "rawTitle": "Hedra",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Vivisectionary",
+          "rawTitle": "Vivisectionary",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 78,
@@ -1324,7 +3116,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Dawn of X",
+          "rawTitle": "Dawn of X",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 79,
@@ -1338,7 +3139,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X of Swords: Creation",
+          "rawTitle": "X of Swords: Creation",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 80,
@@ -1352,7 +3162,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X-Factor #04",
+          "rawTitle": "X-Factor #04",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 81,
@@ -1366,7 +3185,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Wolverine #06 // X-Force #13 // Marauders #13",
+          "rawTitle": "Wolverine #06 // X-Force #13 // Marauders #13",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 82,
@@ -1380,7 +3208,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Hellions #05 // New Mutants #13 // Cable #05",
+          "rawTitle": "Hellions #05 // New Mutants #13 // Cable #05",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 83,
@@ -1394,7 +3231,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Excalibur #13 // X-Men #13",
+          "rawTitle": "Excalibur #13 // X-Men #13",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 84,
@@ -1408,7 +3254,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X of Swords: Stasis",
+          "rawTitle": "X of Swords: Stasis",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 85,
@@ -1422,7 +3277,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X-Men #14 // Marauders #14",
+          "rawTitle": "X-Men #14 // Marauders #14",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 86,
@@ -1436,7 +3300,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Marauders #15 // Excalibur #14 // Wolverine #07",
+          "rawTitle": "Marauders #15 // Excalibur #14 // Wolverine #07",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 87,
@@ -1450,7 +3323,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Три года подкасту! (X of Panels)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X-Force #14 // Hellions #06 // Cable #06",
+          "rawTitle": "X-Force #14 // Hellions #06 // Cable #06",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 88,
@@ -1464,7 +3346,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "X of Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Excalibur #15 // X-Men #15 // X of Swords: Destruction",
+          "rawTitle": "Excalibur #15 // X-Men #15 // X of Swords: Destruction",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 89,
@@ -1481,7 +3372,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Enigma",
+          "rawTitle": "Enigma",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Marquis: Inferno",
+          "rawTitle": "The Marquis: Inferno",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Usagi Yojimbo: Yokai",
+          "rawTitle": "Usagi Yojimbo: Yokai",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Like A Velvet Glove Cast In Iron",
+          "rawTitle": "Like A Velvet Glove Cast In Iron",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 90,
@@ -1498,7 +3419,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Pizzeria Kamikaze",
+          "rawTitle": "Pizzeria Kamikaze",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Monstermen and Other Scary Stories",
+          "rawTitle": "Monstermen and Other Scary Stories",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Parker: Slayground",
+          "rawTitle": "Parker: Slayground",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "The Stuff of Legend",
+          "rawTitle": "The Stuff of Legend",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 91,
@@ -1515,7 +3466,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Against Hope",
+          "rawTitle": "Against Hope",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ruby Falls",
+          "rawTitle": "Ruby Falls",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Bog Bodies",
+          "rawTitle": "Bog Bodies",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Sour Apple",
+          "rawTitle": "Sour Apple",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 92,
@@ -1532,7 +3513,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Cursed Pirate Girl",
+          "rawTitle": "Cursed Pirate Girl",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Mort Cinder",
+          "rawTitle": "Mort Cinder",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Originals",
+          "rawTitle": "The Originals",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "It's a Good Life, If You Don't Weaken",
+          "rawTitle": "It's a Good Life, If You Don't Weaken",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 93,
@@ -1549,7 +3560,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "DC special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Wonder Woman: Dead Earth",
+          "rawTitle": "Wonder Woman: Dead Earth",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Superman's Pal Jimmy Olsen",
+          "rawTitle": "Superman's Pal Jimmy Olsen",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Dark Nights: Death Metal",
+          "rawTitle": "Dark Nights: Death Metal",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Batman: Three Jokers",
+          "rawTitle": "Batman: Three Jokers",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -1581,7 +3622,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Superheroes special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "SuperF*ckers",
+          "rawTitle": "SuperF*ckers",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The New Statesmen",
+          "rawTitle": "The New Statesmen",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Nowhere Men",
+          "rawTitle": "Nowhere Men",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Brat Pack",
+          "rawTitle": "Brat Pack",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 95,
@@ -1598,7 +3669,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Stas special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Seeds",
+          "rawTitle": "The Seeds",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Panorama",
+          "rawTitle": "Panorama",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Reckless",
+          "rawTitle": "Reckless",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Slaughterhouse-Five",
+          "rawTitle": "Slaughterhouse-Five",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 96,
@@ -1612,7 +3713,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Building Stories special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Building Stories",
+          "rawTitle": "Building Stories",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -1644,7 +3754,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Bitter Root",
+          "rawTitle": "Bitter Root",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Sparrowhawk",
+          "rawTitle": "Sparrowhawk",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Warhammer 40,000: Marneus Calgar",
+          "rawTitle": "Warhammer 40,000: Marneus Calgar",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Mr. Invincible",
+          "rawTitle": "Mr. Invincible",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -1676,7 +3816,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Sock Monkey Treasure",
+          "rawTitle": "Sock Monkey Treasure",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Meta4",
+          "rawTitle": "Meta4",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Elektra: Assassin",
+          "rawTitle": "Elektra: Assassin",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Swallow Me Whole",
+          "rawTitle": "Swallow Me Whole",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 99,
@@ -1693,7 +3863,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Loneliness of the Long-Distance Cartoonist",
+          "rawTitle": "The Loneliness of the Long-Distance Cartoonist",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Shadows on the Grave",
+          "rawTitle": "Shadows on the Grave",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "BANG!",
+          "rawTitle": "BANG!",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Fire Power",
+          "rawTitle": "Fire Power",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 100,
@@ -1707,7 +3907,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "East Blue / Chapters #1-100",
+          "rawTitle": "East Blue / Chapters #1-100",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 101,
@@ -1724,7 +3933,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Blot",
+          "rawTitle": "The Blot",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Night Music",
+          "rawTitle": "Night Music",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Jack Kirby's O.M.A.C.: One Man Army Corps",
+          "rawTitle": "Jack Kirby's O.M.A.C.: One Man Army Corps",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Zombo",
+          "rawTitle": "Zombo",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 102,
@@ -1741,7 +3980,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Патреонный special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Duncan the Wonder Dog",
+          "rawTitle": "Duncan the Wonder Dog",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Smile",
+          "rawTitle": "Smile",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The World of Edena",
+          "rawTitle": "The World of Edena",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
+        },
+        {
+          "title": "Heck",
+          "rawTitle": "Heck",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -1770,7 +4039,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Hellfire Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Reign of X",
+          "rawTitle": "Reign of X",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 105,
@@ -1784,7 +4062,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Hellfire Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Marauders #21 // X-Force #20 // Hellions #12",
+          "rawTitle": "Marauders #21 // X-Force #20 // Hellions #12",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 106,
@@ -1798,7 +4085,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Hellfire Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Excalibur #21 // X-Men #21 // Children of the Atom #04",
+          "rawTitle": "Excalibur #21 // X-Men #21 // Children of the Atom #04",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 107,
@@ -1812,7 +4108,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Hellfire Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Planet-Size X-Men // New Mutants #19 // X-Corp #02",
+          "rawTitle": "Planet-Size X-Men // New Mutants #19 // X-Corp #02",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 108,
@@ -1826,7 +4131,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Hellfire Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03",
+          "rawTitle": "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 109,
@@ -1840,7 +4154,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Hellfire Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "X-Factor #10 // Cable #11",
+          "rawTitle": "X-Factor #10 // Cable #11",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 110,
@@ -1854,7 +4177,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Black Hammer special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Black Hammer",
+          "rawTitle": "Black Hammer",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -1886,7 +4218,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Nameless City",
+          "rawTitle": "Nameless City",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Rose",
+          "rawTitle": "Rose",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Blue in Green",
+          "rawTitle": "Blue in Green",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        },
+        {
+          "title": "Dracula, Motherf++ker!",
+          "rawTitle": "Dracula, Motherf++ker!",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 112,
@@ -1900,7 +4262,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Inferno Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Hickman's Departure",
+          "rawTitle": "Hickman's Departure",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 113,
@@ -1914,7 +4285,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Inferno Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Inferno [01]",
+          "rawTitle": "Inferno [01]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 114,
@@ -1928,7 +4308,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Эксклюзив (Стас)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Locke & Key: The Golden Age",
+          "rawTitle": "Locke & Key: The Golden Age",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 115,
@@ -1942,7 +4331,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "American Vampire special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "American Vampire",
+          "rawTitle": "American Vampire",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 116,
@@ -1956,7 +4354,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Hellboy and the B.P.R.D. 2020 One-shots by Mignola",
+          "rawTitle": "Hellboy and the B.P.R.D. 2020 One-shots by Mignola",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 117,
@@ -1973,7 +4380,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Haloween special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Shadows",
+          "rawTitle": "The Shadows",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Proctor Valley Road",
+          "rawTitle": "Proctor Valley Road",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Home Sick Pilots",
+          "rawTitle": "Home Sick Pilots",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        },
+        {
+          "title": "The Man Who Came Down the Attic Stairs",
+          "rawTitle": "The Man Who Came Down the Attic Stairs",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 118,
@@ -1987,7 +4424,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Inferno Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Inferno [02]",
+          "rawTitle": "Inferno [02]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 119,
@@ -1995,13 +4441,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP3",
       "publication": "2021-11-09",
       "topics": [
-        "Skypiea Saga / Chapters #218-302 + Baron Omatsuri"
+        "Skypiea Saga / Chapters #218-302",
+        "Baron Omatsuri"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Skypiea Saga / Chapters #218-302",
+          "rawTitle": "Skypiea Saga / Chapters #218-302",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Baron Omatsuri",
+          "rawTitle": "Baron Omatsuri",
+          "kind": "movie",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 120,
@@ -2009,13 +4472,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M1",
       "publication": "2021-11-11",
       "topics": [
-        "The Hidden Land + The House of Lost Horizons"
+        "The Hidden Land",
+        "The House of Lost Horizons"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Hidden Land",
+          "rawTitle": "The Hidden Land",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The House of Lost Horizons",
+          "rawTitle": "The House of Lost Horizons",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 121,
@@ -2029,7 +4509,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Четыре года подкасту! (Hulk by Ewing special)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Immortal Hulk",
+          "rawTitle": "The Immortal Hulk",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 122,
@@ -2046,7 +4535,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Lesha special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Last of the Atlases",
+          "rawTitle": "Last of the Atlases",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Petrichor",
+          "rawTitle": "Petrichor",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Crawl Space",
+          "rawTitle": "Crawl Space",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        },
+        {
+          "title": "Lonely Receiver",
+          "rawTitle": "Lonely Receiver",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 123,
@@ -2060,7 +4579,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Inferno Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Inferno [03]",
+          "rawTitle": "Inferno [03]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 124,
@@ -2068,13 +4596,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M2",
       "publication": "2021-12-22",
       "topics": [
-        "The Witch Queens + Tales from the Outerverse"
+        "The Witch Queens",
+        "Tales from the Outerverse"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Witch Queens",
+          "rawTitle": "The Witch Queens",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Tales from the Outerverse",
+          "rawTitle": "Tales from the Outerverse",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 125,
@@ -2088,7 +4633,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Water 7 Arc / Chapters #303-374",
+          "rawTitle": "Water 7 Arc / Chapters #303-374",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 126,
@@ -2102,7 +4656,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Enies Lobby Arc / Chapters #375-441",
+          "rawTitle": "Enies Lobby Arc / Chapters #375-441",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 127,
@@ -2116,7 +4679,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Inferno Panels (с Женей и Никитой)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Inferno [04]",
+          "rawTitle": "Inferno [04]",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 128,
@@ -2133,7 +4705,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Red Room",
+          "rawTitle": "Red Room",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Dead Dog's Bite",
+          "rawTitle": "Dead Dog's Bite",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ancestor",
+          "rawTitle": "Ancestor",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        },
+        {
+          "title": "Marathon",
+          "rawTitle": "Marathon",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 129,
@@ -2141,13 +4743,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M3",
       "publication": "2022-01-29",
       "topics": [
-        "Our Encounters with Evil + Falconspeare"
+        "Our Encounters with Evil",
+        "Falconspeare"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Our Encounters with Evil",
+          "rawTitle": "Our Encounters with Evil",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Falconspeare",
+          "rawTitle": "Falconspeare",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 130,
@@ -2155,13 +4774,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP6",
       "publication": "2022-02-03",
       "topics": [
-        "Thriller Bark / Chapters #442-489 + Strong World"
+        "Thriller Bark / Chapters #442-489",
+        "Strong World"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Thriller Bark / Chapters #442-489",
+          "rawTitle": "Thriller Bark / Chapters #442-489",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Strong World",
+          "rawTitle": "Strong World",
+          "kind": "movie",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -2193,7 +4829,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Beta Ray Bill",
+          "rawTitle": "Beta Ray Bill",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Deep Dark Fears",
+          "rawTitle": "Deep Dark Fears",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Kane & Able",
+          "rawTitle": "Kane & Able",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        },
+        {
+          "title": "Glass Town",
+          "rawTitle": "Glass Town",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 132,
@@ -2201,13 +4867,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M4",
       "publication": "2022-02-25",
       "topics": [
-        "The Secret of Chesbro House + The Bones of Giant"
+        "The Secret of Chesbro House",
+        "The Bones of Giant"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Secret of Chesbro House",
+          "rawTitle": "The Secret of Chesbro House",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Bones of Giant",
+          "rawTitle": "The Bones of Giant",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 133,
@@ -2221,7 +4904,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Bodie Troll",
+          "rawTitle": "Bodie Troll",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 134,
@@ -2235,7 +4927,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "A Land Called Tarot",
+          "rawTitle": "A Land Called Tarot",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": 135,
@@ -2249,7 +4950,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The March of the Crabs",
+          "rawTitle": "The March of the Crabs",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -2272,13 +4982,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M5",
       "publication": "2022-04-12",
       "topics": [
-        "The Reign of Darkness + The Silver Lantern Club"
+        "The Reign of Darkness",
+        "The Silver Lantern Club"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Reign of Darkness",
+          "rawTitle": "The Reign of Darkness",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Silver Lantern Club",
+          "rawTitle": "The Silver Lantern Club",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 137,
@@ -2292,7 +5019,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Earth Boy",
+          "rawTitle": "Earth Boy",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": 138,
@@ -2306,7 +5042,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Water Memory",
+          "rawTitle": "Water Memory",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 139,
@@ -2320,7 +5065,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Cosplay",
+          "rawTitle": "Cosplay",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 140,
@@ -2334,7 +5088,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Bear",
+          "rawTitle": "Bear",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 141,
@@ -2348,7 +5111,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Malinky Robot",
+          "rawTitle": "Malinky Robot",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": 142,
@@ -2362,7 +5134,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "A Sea of Love",
+          "rawTitle": "A Sea of Love",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 143,
@@ -2376,7 +5157,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Miles Morales: Shock Waves",
+          "rawTitle": "Miles Morales: Shock Waves",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 144,
@@ -2390,7 +5180,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Jonna and the Unpossible Monsters",
+          "rawTitle": "Jonna and the Unpossible Monsters",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 145,
@@ -2404,7 +5203,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Sisters",
+          "rawTitle": "The Sisters",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 146,
@@ -2418,7 +5226,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "My Little Pony & Transformers",
+          "rawTitle": "My Little Pony & Transformers",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": 147,
@@ -2432,7 +5249,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Strange Academy",
+          "rawTitle": "Strange Academy",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 148,
@@ -2446,7 +5272,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Creepy Case Files of Margo Maloo",
+          "rawTitle": "The Creepy Case Files of Margo Maloo",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 149,
@@ -2460,7 +5295,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Young Shadow",
+          "rawTitle": "Young Shadow",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": null,
@@ -2489,7 +5333,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Nuclear Winter",
+          "rawTitle": "Nuclear Winter",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 151,
@@ -2503,7 +5356,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение, Live-выпуск #3",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Diana: Princess of the Amazons",
+          "rawTitle": "Diana: Princess of the Amazons",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 152,
@@ -2517,7 +5379,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение, Live-выпуск #4",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Garlic and the Vampire",
+          "rawTitle": "Garlic and the Vampire",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 153,
@@ -2531,7 +5402,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "BAGS (or a story thereof)",
+          "rawTitle": "BAGS (or a story thereof)",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": 154,
@@ -2539,13 +5419,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M6",
       "publication": "2022-10-21",
       "topics": [
-        "The Sword of Hyperborea + Time Out of Mind"
+        "The Sword of Hyperborea",
+        "Time Out of Mind"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Sword of Hyperborea",
+          "rawTitle": "The Sword of Hyperborea",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Time Out of Mind",
+          "rawTitle": "Time Out of Mind",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 155,
@@ -2559,7 +5456,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "It's Jeff!",
+          "rawTitle": "It's Jeff!",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -2601,7 +5507,8 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": []
     },
     {
       "id": 157,
@@ -2615,7 +5522,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Пять лет подкасту! (Gol D. Panels)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Impel Down / Chapters #490-549",
+          "rawTitle": "Impel Down / Chapters #490-549",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 158,
@@ -2629,7 +5545,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Marineford / Chapters #550-597",
+          "rawTitle": "Marineford / Chapters #550-597",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 159,
@@ -2643,7 +5568,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Tea Dragon Society",
+          "rawTitle": "The Tea Dragon Society",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 160,
@@ -2657,7 +5591,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Always Never",
+          "rawTitle": "Always Never",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": null,
@@ -2686,7 +5629,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Fish-Man Island / Chapters #598-653",
+          "rawTitle": "Fish-Man Island / Chapters #598-653",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -2709,13 +5661,38 @@ window.__NA_PANELI_DATA__ = {
       "number": "M7",
       "publication": "2023-02-07",
       "topics": [
-        "Hellboy and the B.P.R.D. 2022 One-shots by Mignola + Radio Spaceman + Leonide the Vampyr"
+        "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+        "Radio Spaceman",
+        "Leonide the Vampyr"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Radio Spaceman",
+          "rawTitle": "Radio Spaceman",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Leonide the Vampyr",
+          "rawTitle": "Leonide the Vampyr",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 163,
@@ -2729,7 +5706,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Pilu of the Woods",
+          "rawTitle": "Pilu of the Woods",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -2758,7 +5744,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Wayne Family Adventures",
+          "rawTitle": "Wayne Family Adventures",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -2811,13 +5806,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M8",
       "publication": "2023-03-19",
       "topics": [
-        "Assault on Castle Death + Castle Full of Blackbirds"
+        "Assault on Castle Death",
+        "Castle Full of Blackbirds"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Assault on Castle Death",
+          "rawTitle": "Assault on Castle Death",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Castle Full of Blackbirds",
+          "rawTitle": "Castle Full of Blackbirds",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 166,
@@ -2834,7 +5846,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Do a Powerbomb!",
+          "rawTitle": "Do a Powerbomb!",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "20th Century Men",
+          "rawTitle": "20th Century Men",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Celestia",
+          "rawTitle": "Celestia",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Ducks: Two Years in the Oil Sands",
+          "rawTitle": "Ducks: Two Years in the Oil Sands",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 167,
@@ -2851,7 +5893,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Under-World",
+          "rawTitle": "Under-World",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Bliss",
+          "rawTitle": "Bliss",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "TMNT: The Last Ronin",
+          "rawTitle": "TMNT: The Last Ronin",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "The Many Deaths of Laila Starr",
+          "rawTitle": "The Many Deaths of Laila Starr",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 168,
@@ -2859,13 +5931,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M9",
       "publication": "2023-04-20",
       "topics": [
-        "Koshchei in Hell + New World"
+        "Koshchei in Hell",
+        "New World"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Koshchei in Hell",
+          "rawTitle": "Koshchei in Hell",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "New World",
+          "rawTitle": "New World",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 169,
@@ -2882,7 +5971,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Анонс Telegram-чата",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Orphan and the Five Beasts",
+          "rawTitle": "Orphan and the Five Beasts",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Poison Ivy",
+          "rawTitle": "Poison Ivy",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Squire",
+          "rawTitle": "Squire",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Step by Bloody Step",
+          "rawTitle": "Step by Bloody Step",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 170,
@@ -2899,7 +6018,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "75 выпусков! Live-выпуск #5 (Prestige special)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Did You Hear What Eddie Gein Done?",
+          "rawTitle": "Did You Hear What Eddie Gein Done?",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "MONSTERS",
+          "rawTitle": "MONSTERS",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "I'm Still Alive",
+          "rawTitle": "I'm Still Alive",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "The Secret to Superhuman Strength",
+          "rawTitle": "The Secret to Superhuman Strength",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 171,
@@ -2916,7 +6065,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Двойка special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Demon Days/Demon Wars",
+          "rawTitle": "Demon Days/Demon Wars",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ant-Man/Wasp",
+          "rawTitle": "Ant-Man/Wasp",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Joe Fixit",
+          "rawTitle": "Joe Fixit",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Catwoman: Lonely City",
+          "rawTitle": "Catwoman: Lonely City",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -2945,7 +6124,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Punk Hazard / Chapters #654-699",
+          "rawTitle": "Punk Hazard / Chapters #654-699",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 173,
@@ -2959,7 +6147,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Dressrosa, Act I / Chapters #700-731",
+          "rawTitle": "Dressrosa, Act I / Chapters #700-731",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 174,
@@ -2973,7 +6170,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Dressrosa, Act II / Chapters #732-767",
+          "rawTitle": "Dressrosa, Act II / Chapters #732-767",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -2996,13 +6202,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP13",
       "publication": "2023-07-13",
       "topics": [
-        "Dressrosa, Act III / Chapters #768-801 + Gold"
+        "Dressrosa, Act III / Chapters #768-801",
+        "Gold"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Dressrosa, Act III / Chapters #768-801",
+          "rawTitle": "Dressrosa, Act III / Chapters #768-801",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Gold",
+          "rawTitle": "Gold",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 176,
@@ -3019,7 +6242,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Ultimate Panels, Live-выпуск #6",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ultimate Invasion #01",
+          "rawTitle": "Ultimate Invasion #01",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ultimate Spider-Man",
+          "rawTitle": "Ultimate Spider-Man",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ultimate X-Men",
+          "rawTitle": "Ultimate X-Men",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "The Ultimates",
+          "rawTitle": "The Ultimates",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 177,
@@ -3036,7 +6289,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Djeliya",
+          "rawTitle": "Djeliya",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Joe Death and the Graven Image",
+          "rawTitle": "Joe Death and the Graven Image",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ultramega",
+          "rawTitle": "Ultramega",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Shaolin Cowboy: Cruel to be Kin",
+          "rawTitle": "Shaolin Cowboy: Cruel to be Kin",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 178,
@@ -3044,13 +6327,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M10",
       "publication": "2023-08-07",
       "topics": [
-        "1957 + Hellboy in Love"
+        "1957",
+        "Hellboy in Love"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "1957",
+          "rawTitle": "1957",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy in Love",
+          "rawTitle": "Hellboy in Love",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 179,
@@ -3067,7 +6367,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Ultimate Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ultimate Invasion #02",
+          "rawTitle": "Ultimate Invasion #02",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ultimate Fantastic Four",
+          "rawTitle": "Ultimate Fantastic Four",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ultimate Galactus Trilogy",
+          "rawTitle": "Ultimate Galactus Trilogy",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Ultimate Wolverine vs. Hulk",
+          "rawTitle": "Ultimate Wolverine vs. Hulk",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 180,
@@ -3084,7 +6414,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Great British Bump-Off",
+          "rawTitle": "Great British Bump-Off",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Mister Mammoth",
+          "rawTitle": "Mister Mammoth",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Where Monsters Lie",
+          "rawTitle": "Where Monsters Lie",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Hound",
+          "rawTitle": "Hound",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 181,
@@ -3098,7 +6458,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Zou / Chapters #802-824",
+          "rawTitle": "Zou / Chapters #802-824",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 182,
@@ -3112,7 +6481,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Live-Action Series, Season 1",
+          "rawTitle": "Live-Action Series, Season 1",
+          "kind": "series",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -3141,7 +6519,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Whole Cake Island, Part 1 / Chapters #825-859",
+          "rawTitle": "Whole Cake Island, Part 1 / Chapters #825-859",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 184,
@@ -3155,7 +6542,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Whole Cake Island, Part 2 / Chapters #860-903",
+          "rawTitle": "Whole Cake Island, Part 2 / Chapters #860-903",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 185,
@@ -3172,7 +6568,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Ultimate Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ultimate Invasion #03",
+          "rawTitle": "Ultimate Invasion #03",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ultimate Power",
+          "rawTitle": "Ultimate Power",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ultimate Origins",
+          "rawTitle": "Ultimate Origins",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Ultimatum",
+          "rawTitle": "Ultimatum",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 186,
@@ -3186,7 +6612,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "World Seeker & Odyssey",
+          "rawTitle": "World Seeker & Odyssey",
+          "kind": "videogame",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 187,
@@ -3203,7 +6638,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Everyday Hero Machine Boy",
+          "rawTitle": "Everyday Hero Machine Boy",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Well",
+          "rawTitle": "The Well",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "She-Hulk",
+          "rawTitle": "She-Hulk",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Eight Billion Genies",
+          "rawTitle": "Eight Billion Genies",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 188,
@@ -3220,7 +6685,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Ultimate Panels, Live-выпуск #7",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ultimate Invasion #04",
+          "rawTitle": "Ultimate Invasion #04",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ultimate Comics: Avengers",
+          "rawTitle": "Ultimate Comics: Avengers",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ultimate Comics: Doomsday Trilogy",
+          "rawTitle": "Ultimate Comics: Doomsday Trilogy",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Ultimate Comics: X",
+          "rawTitle": "Ultimate Comics: X",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 189,
@@ -3237,7 +6732,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Immortal Sergeant",
+          "rawTitle": "Immortal Sergeant",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Parenthesis",
+          "rawTitle": "Parenthesis",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Batman vs. Bigby! A Wolf In Gotham",
+          "rawTitle": "Batman vs. Bigby! A Wolf In Gotham",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Ballad for Sophie",
+          "rawTitle": "Ballad for Sophie",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 190,
@@ -3251,7 +6776,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Alabasta / Chapters #155-217",
+          "rawTitle": "Alabasta / Chapters #155-217",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 191,
@@ -3268,7 +6802,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Ultimate Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ultimate Universe",
+          "rawTitle": "Ultimate Universe",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ultimate Comics: Spider-Man",
+          "rawTitle": "Ultimate Comics: Spider-Man",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ultimate Comics: X-Men",
+          "rawTitle": "Ultimate Comics: X-Men",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Ultimate Comics: The Ultimates",
+          "rawTitle": "Ultimate Comics: The Ultimates",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -3291,13 +6855,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M11",
       "publication": "2023-11-19",
       "topics": [
-        "Miss Truesdale + The Mummy's Curse"
+        "Miss Truesdale",
+        "The Mummy's Curse"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Miss Truesdale",
+          "rawTitle": "Miss Truesdale",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Mummy's Curse",
+          "rawTitle": "The Mummy's Curse",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 193,
@@ -3314,7 +6895,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Шесть лет подкасту!",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Clobberin' Time",
+          "rawTitle": "Clobberin' Time",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Dark Knights of Steel",
+          "rawTitle": "Dark Knights of Steel",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "I Am... Iron Man",
+          "rawTitle": "I Am... Iron Man",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Grim",
+          "rawTitle": "Grim",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -3337,13 +6948,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP20",
       "publication": "2023-11-30",
       "topics": [
-        "Wano Country, Act I / Chapters #904-924 + Stampede"
+        "Wano Country, Act I / Chapters #904-924",
+        "Stampede"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Wano Country, Act I / Chapters #904-924",
+          "rawTitle": "Wano Country, Act I / Chapters #904-924",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Stampede",
+          "rawTitle": "Stampede",
+          "kind": "movie",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 195,
@@ -3357,7 +6985,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Wano Country, Act II / Chapters #925-957",
+          "rawTitle": "Wano Country, Act II / Chapters #925-957",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 196,
@@ -3371,7 +7008,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Onigashima, Part 1 / Chapters #958-1000",
+          "rawTitle": "Onigashima, Part 1 / Chapters #958-1000",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 197,
@@ -3385,7 +7031,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Onigashima, Part 2 / Chapters #1001-1036",
+          "rawTitle": "Onigashima, Part 2 / Chapters #1001-1036",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 198,
@@ -3393,13 +7048,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP24",
       "publication": "2023-12-29",
       "topics": [
-        "Onigashima, Part 3 / Chapters #1037-1060 + Red"
+        "Onigashima, Part 3 / Chapters #1037-1060",
+        "Red"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Onigashima, Part 3 / Chapters #1037-1060",
+          "rawTitle": "Onigashima, Part 3 / Chapters #1037-1060",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Red",
+          "rawTitle": "Red",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 199,
@@ -3416,7 +7088,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Negalyod: The God Network",
+          "rawTitle": "Negalyod: The God Network",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Giga",
+          "rawTitle": "Giga",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Karmen",
+          "rawTitle": "Karmen",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "The Lonesome Hunters",
+          "rawTitle": "The Lonesome Hunters",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -3445,7 +7147,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Monsters & Ace's Story & Shokugeki no Sanji",
+          "rawTitle": "Monsters & Ace's Story & Shokugeki no Sanji",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 201,
@@ -3462,7 +7173,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Monica",
+          "rawTitle": "Monica",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Parasocial",
+          "rawTitle": "Parasocial",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Immortal Thor",
+          "rawTitle": "The Immortal Thor",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Gentlemind",
+          "rawTitle": "Gentlemind",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 202,
@@ -3479,7 +7220,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Punk Lemonade",
+          "rawTitle": "Punk Lemonade",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "w0rldtr33",
+          "rawTitle": "w0rldtr33",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Where Black Stars Rise",
+          "rawTitle": "Where Black Stars Rise",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Starhenge",
+          "rawTitle": "Starhenge",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 203,
@@ -3487,13 +7258,38 @@ window.__NA_PANELI_DATA__ = {
       "number": "M12",
       "publication": "2024-03-23",
       "topics": [
-        "Giant Robot Hellboy + Four Gathered on Christmas Eve + Web of Wyrd"
+        "Giant Robot Hellboy",
+        "Four Gathered on Christmas Eve",
+        "Web of Wyrd"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Giant Robot Hellboy",
+          "rawTitle": "Giant Robot Hellboy",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Four Gathered on Christmas Eve",
+          "rawTitle": "Four Gathered on Christmas Eve",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Web of Wyrd",
+          "rawTitle": "Web of Wyrd",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 204,
@@ -3507,7 +7303,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Egghead, Part 1 / Chapters #1061-1088",
+          "rawTitle": "Egghead, Part 1 / Chapters #1061-1088",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 205,
@@ -3521,7 +7326,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Суета внутри кита",
+          "rawTitle": "Суета внутри кита",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
+      ]
     },
     {
       "id": null,
@@ -3553,7 +7367,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Arca",
+          "rawTitle": "Arca",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Agent of W.O.R.L.D.E.",
+          "rawTitle": "Agent of W.O.R.L.D.E.",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Once & Future",
+          "rawTitle": "Once & Future",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Transformers",
+          "rawTitle": "Transformers",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -3705,7 +7549,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Constantine special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Damn Them All",
+          "rawTitle": "Damn Them All",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "John Constantine: Hellblazer",
+          "rawTitle": "John Constantine: Hellblazer",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Abbott",
+          "rawTitle": "Abbott",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Black's Myth",
+          "rawTitle": "Black's Myth",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -3917,7 +7791,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Our Bones Dust",
+          "rawTitle": "Our Bones Dust",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Elixir",
+          "rawTitle": "Elixir",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Briar",
+          "rawTitle": "Briar",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Bloodrik",
+          "rawTitle": "Bloodrik",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -4000,13 +7904,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M13",
       "publication": "2024-09-24",
       "topics": [
-        "Rise of the Blood Queen + The Crooked Man"
+        "Rise of the Blood Queen",
+        "The Crooked Man"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Rise of the Blood Queen",
+          "rawTitle": "Rise of the Blood Queen",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Crooked Man",
+          "rawTitle": "The Crooked Man",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 210,
@@ -4023,7 +7944,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Grip of the Kombinat",
+          "rawTitle": "Grip of the Kombinat",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Above Snakes",
+          "rawTitle": "Above Snakes",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Me You Love in the Dark",
+          "rawTitle": "The Me You Love in the Dark",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Faceless and the Family",
+          "rawTitle": "Faceless and the Family",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 211,
@@ -4040,7 +7991,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Highbrow special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "It's Lonely at the Centre of the Earth",
+          "rawTitle": "It's Lonely at the Centre of the Earth",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Blood of the Virgin",
+          "rawTitle": "Blood of the Virgin",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "A Sister",
+          "rawTitle": "A Sister",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "PeePee PooPoo",
+          "rawTitle": "PeePee PooPoo",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -4069,7 +8050,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Egghead, Part 2 / Chapters #1089-1126",
+          "rawTitle": "Egghead, Part 2 / Chapters #1089-1126",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -4092,13 +8082,38 @@ window.__NA_PANELI_DATA__ = {
       "number": "M14",
       "publication": "2024-11-07",
       "topics": [
-        "A Plague of Wasps + The Proteus Club + The Goddess of Manhattan"
+        "A Plague of Wasps",
+        "The Proteus Club",
+        "The Goddess of Manhattan"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "A Plague of Wasps",
+          "rawTitle": "A Plague of Wasps",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Proteus Club",
+          "rawTitle": "The Proteus Club",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Goddess of Manhattan",
+          "rawTitle": "The Goddess of Manhattan",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 214,
@@ -4115,7 +8130,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Brullips special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Pulp",
+          "rawTitle": "Pulp",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Night Fever",
+          "rawTitle": "Night Fever",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Where The Body Was",
+          "rawTitle": "Where The Body Was",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Houses of the Unholy",
+          "rawTitle": "Houses of the Unholy",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 215,
@@ -4129,7 +8174,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Lore Olympus special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Lore Olympus",
+          "rawTitle": "Lore Olympus",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 216,
@@ -4146,7 +8200,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Final Cut",
+          "rawTitle": "Final Cut",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The One Hand The Six Fingers",
+          "rawTitle": "The One Hand The Six Fingers",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Aion",
+          "rawTitle": "Aion",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "In Utero",
+          "rawTitle": "In Utero",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 217,
@@ -4163,7 +8247,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Пыльник special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Nextwave: Agents of H.A.T.E.",
+          "rawTitle": "Nextwave: Agents of H.A.T.E.",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Sexcastle",
+          "rawTitle": "Sexcastle",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Action Philosophers",
+          "rawTitle": "Action Philosophers",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Scurvy Dogs",
+          "rawTitle": "Scurvy Dogs",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -4195,7 +8309,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "DSTLRY special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Gone",
+          "rawTitle": "Gone",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Somna",
+          "rawTitle": "Somna",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Blasfamous",
+          "rawTitle": "Blasfamous",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Spectregraph",
+          "rawTitle": "Spectregraph",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 219,
@@ -4203,13 +8347,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M15",
       "publication": "2025-03-26",
       "topics": [
-        "The Serpent in the Garden + Bowling with Corpses"
+        "The Serpent in the Garden",
+        "Bowling with Corpses"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Serpent in the Garden",
+          "rawTitle": "The Serpent in the Garden",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Bowling with Corpses",
+          "rawTitle": "Bowling with Corpses",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 220,
@@ -4225,7 +8386,30 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Донаторский special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Prophet",
+          "rawTitle": "Prophet",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Liberty Meadows",
+          "rawTitle": "Liberty Meadows",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Ms. Marvel",
+          "rawTitle": "Ms. Marvel",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        }
+      ]
     },
     {
       "id": null,
@@ -4272,7 +8456,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Spectators",
+          "rawTitle": "Spectators",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Traveler's Guide to Flogoria",
+          "rawTitle": "The Traveler's Guide to Flogoria",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "The Cull",
+          "rawTitle": "The Cull",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Kroma",
+          "rawTitle": "Kroma",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -4311,15 +8525,45 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2025-05-22",
       "topics": [
         "Не-живые",
-        "В голове Шерлока Холмса",
-        "Гончий пёс",
+        "Inside the Mind of Sherlock Holmes",
+        "Hound Dog",
         "Туннели"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Тула LIVE special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Не-живые",
+          "rawTitle": "Не-живые",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Inside the Mind of Sherlock Holmes",
+          "rawTitle": "Inside the Mind of Sherlock Holmes",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Hound Dog",
+          "rawTitle": "Hound Dog",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Туннели",
+          "rawTitle": "Туннели",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,
@@ -4357,13 +8601,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M16",
       "publication": "2025-07-03",
       "topics": [
-        "The Sea of Forever + Shadow of the Golden Crane"
+        "Frankenstein: New World—The Sea of Forever",
+        "Shadow of the Golden Crane"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Frankenstein: New World—The Sea of Forever",
+          "rawTitle": "Frankenstein: New World—The Sea of Forever",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Shadow of the Golden Crane",
+          "rawTitle": "Shadow of the Golden Crane",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -4482,7 +8743,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Dr. Werthless",
+          "rawTitle": "Dr. Werthless",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -4526,7 +8796,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Feeding Ghosts: A Graphic Memoir",
+          "rawTitle": "Feeding Ghosts: A Graphic Memoir",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -4570,7 +8849,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "The Knives: A Criminal Book",
+          "rawTitle": "The Knives: A Criminal Book",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
@@ -4594,7 +8882,7 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2025-12-30",
       "topics": [
         "Ultimate Spider-Man",
-        "The Ultimates",
+        "Ultimates",
         "Absolute Batman",
         "Absolute Wonder Woman"
       ],
@@ -4602,7 +8890,37 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Восемь лет подкасту! (Ultimate/Absolute special)",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Ultimate Spider-Man",
+          "rawTitle": "Ultimate Spider-Man",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ultimates",
+          "rawTitle": "Ultimates",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Absolute Batman",
+          "rawTitle": "Absolute Batman",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Absolute Wonder Woman",
+          "rawTitle": "Absolute Wonder Woman",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": 228,
@@ -4616,7 +8934,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Nijigahara Holograph",
+          "rawTitle": "Nijigahara Holograph",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 229,
@@ -4626,13 +8953,44 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Doctor Who: The Eleventh Doctor",
         "Star Wars: The High Republic",
-        "Pathfinder"
+        "Pathfinder",
+        "Pathfinder: City of Secrets"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Лицензионный special",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Doctor Who: The Eleventh Doctor",
+          "rawTitle": "Doctor Who: The Eleventh Doctor",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Star Wars: The High Republic",
+          "rawTitle": "Star Wars: The High Republic",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Pathfinder",
+          "rawTitle": "Pathfinder",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Pathfinder: City of Secrets",
+          "rawTitle": "Pathfinder: City of Secrets",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        }
+      ]
     },
     {
       "id": 230,
@@ -4646,7 +9004,16 @@ window.__NA_PANELI_DATA__ = {
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Live-Action Series, Season 2",
+          "rawTitle": "Live-Action Series, Season 2",
+          "kind": "series",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": 231,
@@ -4654,13 +9021,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "M17",
       "publication": "2026-04-12",
       "topics": [
-        "The Rise of Man + Uri Tupka and the Gods"
+        "Miss Truesdale and the Rise of Man",
+        "Uri Tupka and the Gods: Another Story from Lands Unknown"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet"
+      "source": "google-sheet",
+      "comics": [
+        {
+          "title": "Miss Truesdale and the Rise of Man",
+          "rawTitle": "Miss Truesdale and the Rise of Man",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Uri Tupka and the Gods: Another Story from Lands Unknown",
+          "rawTitle": "Uri Tupka and the Gods: Another Story from Lands Unknown",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ]
     },
     {
       "id": null,
