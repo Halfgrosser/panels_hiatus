@@ -609,20 +609,48 @@ input[type="search"] {
   display: block;
 }
 
+.comic-table .comic-title-line {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.comic-title-line a,
+.comic-title-line span:first-child {
+  min-width: 0;
+}
+
 .comic-table small {
   margin-top: 4px;
   color: var(--muted);
   font-weight: 700;
 }
 
-.comic-table .status-pill {
-  display: inline-flex;
-  margin-top: 8px;
-}
-
 .muted-cell {
   color: var(--muted);
   font-weight: 700;
+}
+
+.comic-status-icon {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 15px;
+  height: 15px;
+  color: var(--hiatus-dark);
+  background: #f4c95d;
+  border: 1px solid rgba(80, 64, 26, 0.22);
+  border-radius: 50%;
+  font-size: 0.64rem;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.comic-status-icon.is-confirmed {
+  color: var(--green);
+  background: rgba(24, 89, 71, 0.1);
+  border-color: rgba(24, 89, 71, 0.24);
 }
 
 .status-pill {

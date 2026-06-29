@@ -6327,8 +6327,14 @@ window.__NA_PANELI_DATA__ = {
       "number": "M10",
       "publication": "2023-08-07",
       "topics": [
-        "1957",
-        "Hellboy in Love"
+        "Hellboy and the B.P.R.D.: 1957 - Family Ties",
+        "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
+        "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
+        "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
+        "Hellboy and the B.P.R.D.: 1957 - From Below",
+        "Hellboy in Love: Goblin Night",
+        "Hellboy in Love: Shadow Theater",
+        "Hellboy in Love: The Key to It All"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -6337,15 +6343,57 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "1957",
-          "rawTitle": "1957",
+          "title": "Hellboy and the B.P.R.D.: 1957 - Family Ties",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Family Ties",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "Hellboy in Love",
-          "rawTitle": "Hellboy in Love",
+          "title": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: 1957 - From Below",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - From Below",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy in Love: Goblin Night",
+          "rawTitle": "Hellboy in Love: Goblin Night",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy in Love: Shadow Theater",
+          "rawTitle": "Hellboy in Love: Shadow Theater",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy in Love: The Key to It All",
+          "rawTitle": "Hellboy in Love: The Key to It All",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -6474,23 +6522,13 @@ window.__NA_PANELI_DATA__ = {
       "podcast": "Gol D. Panels",
       "number": "OP17",
       "publication": "2023-09-12",
-      "topics": [
-        "Live-Action Series, Season 1"
-      ],
+      "topics": [],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "Live-Action Series, Season 1",
-          "rawTitle": "Live-Action Series, Season 1",
-          "kind": "series",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "comics": []
     },
     {
       "id": null,
@@ -6605,23 +6643,13 @@ window.__NA_PANELI_DATA__ = {
       "podcast": "Gol D. Panels",
       "number": "OP18",
       "publication": "2023-10-05",
-      "topics": [
-        "World Seeker & Odyssey"
-      ],
+      "topics": [],
       "participants": "Станислав Шаргородский, Алексей Замский, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "World Seeker & Odyssey",
-          "rawTitle": "World Seeker & Odyssey",
-          "kind": "videogame",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "comics": []
     },
     {
       "id": 187,
@@ -6855,8 +6883,8 @@ window.__NA_PANELI_DATA__ = {
       "number": "M11",
       "publication": "2023-11-19",
       "topics": [
-        "Miss Truesdale",
-        "The Mummy's Curse"
+        "Panya: The Mummy's Curse",
+        "Miss Truesdale and the Fall of Hyperborea"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -6865,15 +6893,15 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "Miss Truesdale",
-          "rawTitle": "Miss Truesdale",
+          "title": "Panya: The Mummy's Curse",
+          "rawTitle": "Panya: The Mummy's Curse",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "The Mummy's Curse",
-          "rawTitle": "The Mummy's Curse",
+          "title": "Miss Truesdale and the Fall of Hyperborea",
+          "rawTitle": "Miss Truesdale and the Fall of Hyperborea",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -6948,8 +6976,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP20",
       "publication": "2023-11-30",
       "topics": [
-        "Wano Country, Act I / Chapters #904-924",
-        "Stampede"
+        "Wano Country, Act I / Chapters #904-924"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
@@ -6961,13 +6988,6 @@ window.__NA_PANELI_DATA__ = {
           "title": "Wano Country, Act I / Chapters #904-924",
           "rawTitle": "Wano Country, Act I / Chapters #904-924",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Stampede",
-          "rawTitle": "Stampede",
-          "kind": "movie",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
@@ -7048,8 +7068,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP24",
       "publication": "2023-12-29",
       "topics": [
-        "Onigashima, Part 3 / Chapters #1037-1060",
-        "Red"
+        "Onigashima, Part 3 / Chapters #1037-1060"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
@@ -7060,13 +7079,6 @@ window.__NA_PANELI_DATA__ = {
         {
           "title": "Onigashima, Part 3 / Chapters #1037-1060",
           "rawTitle": "Onigashima, Part 3 / Chapters #1037-1060",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Red",
-          "rawTitle": "Red",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -7211,7 +7223,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "84",
       "publication": "2024-03-14",
       "topics": [
-        "Punk Lemonade",
+        "Pink Lemonade",
         "w0rldtr33",
         "Where Black Stars Rise",
         "Starhenge"
@@ -7223,8 +7235,8 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "Punk Lemonade",
-          "rawTitle": "Punk Lemonade",
+          "title": "Pink Lemonade",
+          "rawTitle": "Pink Lemonade",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
@@ -9097,14 +9109,49 @@ window.__NA_PANELI_DATA__ = {
       "number": "98",
       "publication": "2026-05-28",
       "title": "«На панелях». Выпуск 98: Шкаф с омнибасами",
-      "topics": [],
+      "topics": [
+        "Beware the Eye of Odin",
+        "Outsiders",
+        "November",
+        "Rare Flavours"
+      ],
       "participants": "",
       "comment": "Уважаемая редакция музыкальных передач, включите уже хоть раз музыку. А, вы не редакция музыкальных передач. Ну тогда поставьте в эфир обсуждение комикса по нашему заказу, а еще мы хотим передать привет… Но кому они хотели передать привет, мы никогда не узнаем, потому что мы сами с приветом: должны в каждом выпуске обсуждать по одному комиксу по заявкам слушателей, но стали частенько их игнорировать. А так делать нельзя – как говорил один рыцарь из малоизвестного текста, «в конце концов, они нас кормят».",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/289c8016-eb2f-42ea-bce5-eb80537d47fa",
-      "guid": "766a9591-301d-4cb8-98b4-aa5e792a2d3f"
+      "guid": "766a9591-301d-4cb8-98b4-aa5e792a2d3f",
+      "comics": [
+        {
+          "title": "Beware the Eye of Odin",
+          "rawTitle": "Beware the Eye of Odin",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Outsiders",
+          "rawTitle": "Outsiders",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "November",
+          "rawTitle": "November",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Rare Flavours",
+          "rawTitle": "Rare Flavours",
+          "kind": "comic",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
+        }
+      ]
     },
     {
       "id": null,

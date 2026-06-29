@@ -59,8 +59,8 @@ publisherFilter.innerHTML = toOptions(["Все издательства", ...all
 decadeFilter.innerHTML = toOptions(["Все десятилетия", ...allDecades]);
 podcastFilter.innerHTML = toOptions(["Все форматы", ...allPodcasts], formatNames);
 
-setText("stat-comics", new Set(comicRows.map(({ comic }) => comic.id)).size);
-setText("stat-verified", new Set(comicRows.filter(({ comic }) => comic.status === "verified").map(({ comic }) => comic.id)).size);
+setText("stat-comics", new Set(comicRows.map(statComicKey)).size);
+setText("stat-verified", new Set(comicRows.filter(({ comic }) => comic.status === "verified").map(statComicKey)).size);
 
 for (const control of [search, proposerFilter, publisherFilter, decadeFilter, podcastFilter]) {
   control.addEventListener("input", render);
@@ -153,23 +153,35 @@ function renderComicRow({ comic, episode }) {
   const comicTitle = comicUrl
     ? `<a href="${escapeHtml(comicUrl)}" target="_blank" rel="noreferrer">${escapeHtml(comic.title)}</a>`
     : escapeHtml(comic.title);
+  const confirmed = isComicConfirmed(comic);
+  const statusLabel = confirmed ? "Подтверждено" : "Нужна проверка";
   return `<tr>
       <td>
-        <strong>${comicTitle}</strong>
+        <strong class="comic-title-line">
+          <span class="comic-status-icon ${confirmed ? "is-confirmed" : "needs-review"}" title="${statusLabel}" aria-label="${statusLabel}">
+            ${confirmed ? "✓" : "!"}
+          </span>
+          ${comicTitle}
+        </strong>
         ${comic.runTitle ? `<small>${escapeHtml(comic.runTitle)}</small>` : ""}
-        <span class="status-pill ${comic.status === "verified" ? "is-verified" : ""}">
-          ${comic.status === "verified" ? "проверено" : "на проверке"}
-        </span>
       </td>
       <td>${escapeHtml(episodeName)}</td>
       <td>${formatDate(episode.publication)}</td>
       <td>${renderCriterionValue("publisher", comic.publisher || "")}</td>
       <td>${renderCriterionList("writers", comic.writers)}</td>
       <td>${renderCriterionList("artists", comic.artists)}</td>
-      <td>${renderCriterionList("colorists", comic.colorists)}</td>
+      <td>${renderCriterionList("colorists", comic.colorists, { emptyLabel: "" })}</td>
       <td>${escapeHtml(comic.startYear || "на проверке")}</td>
       <td>${escapeHtml(episode.proposer || "Общая заявка")}</td>
     </tr>`;
+}
+
+function isComicConfirmed(comic) {
+  return comic.status === "verified"
+    && Boolean(comic.publisher)
+    && Boolean(comic.startYear)
+    && Boolean(comic.writers?.length)
+    && Boolean(comic.artists?.length);
 }
 
 function normalizeComicRecord(comic) {
@@ -185,6 +197,13 @@ function normalizeComicRecord(comic) {
     sources: comic.sources || [],
     status: comic.status || "needs-review",
   };
+}
+
+function statComicKey({ comic, episode }) {
+  if (episode.podcast === "Gol D. Panels") {
+    return "one-piece";
+  }
+  return comic.id;
 }
 
 function sortedUnique(values) {
@@ -246,8 +265,8 @@ function joinCredit(values) {
   return values?.length ? values.join(", ") : "на проверке";
 }
 
-function renderCriterionList(group, values) {
-  return values?.length ? values.map((value) => renderCriterionValue(group, value)).join(", ") : "на проверке";
+function renderCriterionList(group, values, options = {}) {
+  return values?.length ? values.map((value) => renderCriterionValue(group, value)).join(", ") : options.emptyLabel ?? "на проверке";
 }
 
 function renderCriterionValue(group, value) {

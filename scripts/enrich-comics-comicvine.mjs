@@ -13,8 +13,13 @@ const limit = Number(process.env.COMICVINE_LIMIT || 25);
 const offset = Number(process.env.COMICVINE_OFFSET || 0);
 const force = process.env.COMICVINE_FORCE === "1";
 const retryReview = process.env.COMICVINE_RETRY_REVIEW === "1";
+const retryIncomplete = process.env.COMICVINE_RETRY_INCOMPLETE === "1";
 const onlyTitle = normalizeTitle(process.env.COMICVINE_ONLY_TITLE || "");
 const onlyId = process.env.COMICVINE_ONLY_ID || "";
+const onlyIds = new Set([
+  ...splitIds(process.env.COMICVINE_ONLY_IDS || ""),
+  ...splitIds(process.env.COMICVINE_ONLY_IDS_FILE ? await readFile(resolve(root, process.env.COMICVINE_ONLY_IDS_FILE), "utf8") : ""),
+]);
 const volumeUrl = process.env.COMICVINE_VOLUME_URL || "";
 const dryRun = process.env.COMICVINE_DRY_RUN === "1";
 
@@ -25,6 +30,7 @@ const comics = payload.comics.map(normalizeComic);
 const candidates = comics
   .map((comic, index) => ({ comic, index }))
   .filter(({ comic }) => !onlyId || comic.id === onlyId)
+  .filter(({ comic }) => !onlyIds.size || onlyIds.has(comic.id))
   .filter(({ comic }) => !onlyTitle || normalizeTitle(comic.title) === onlyTitle)
   .filter(({ comic }) => force || shouldEnrich(comic))
   .slice(offset, offset + limit);
@@ -189,9 +195,14 @@ function hasCredits(comic) {
 }
 
 function shouldEnrich(comic) {
+  if (retryIncomplete && isIncomplete(comic)) return true;
   if (retryReview) return comic.status !== "verified";
   if (comic.reviewNote?.startsWith("comicvine-")) return false;
   return comic.status !== "verified" || !comic.publisher || !hasCredits(comic);
+}
+
+function isIncomplete(comic) {
+  return comic.status !== "verified" || !comic.publisher || !comic.writers?.length || !comic.artists?.length;
 }
 
 function markReview(comic, note) {
@@ -220,6 +231,10 @@ function uniqueClean(values) {
     result.push(value);
   }
   return result;
+}
+
+function splitIds(value) {
+  return String(value || "").split(/[\s,]+/).map((id) => id.trim()).filter(Boolean);
 }
 
 function normalizeComic(comic) {

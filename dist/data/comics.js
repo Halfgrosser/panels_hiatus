@@ -3,49 +3,6 @@ window.__NA_PANELI_COMICS__ = {
   "updatedAt": "2026-06-27",
   "comics": [
     {
-      "id": "1957",
-      "title": "1957",
-      "kind": "comic",
-      "runTitle": "Hit: 1957",
-      "publisher": "Boom! Studios",
-      "writers": [
-        "Bryce Carlson"
-      ],
-      "artists": [
-        "Vanesa R. Del Rey"
-      ],
-      "colorists": [
-        "Jordan Boyd",
-        "Niko Guardia"
-      ],
-      "startYear": 2015,
-      "startDate": "2015-03-25",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "1957",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hit-1957/4050-80912/"
-        }
-      ],
-      "status": "verified"
-    },
-    {
       "id": "20th-century-men",
       "title": "20th Century Men",
       "runTitle": "20th Century Men",
@@ -128,133 +85,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "не-живые",
-      "title": "The Ex-People",
-      "runTitle": "",
-      "publisher": "Grand Angle",
-      "writers": [
-        "Stephen Desberg"
-      ],
-      "artists": [
-        "Alexander Utkin"
-      ],
-      "colorists": [
-        "Alexander Utkin"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-08-31",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "96",
-          "publication": "2025-05-22",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Не-живые",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Grand Angle",
-          "url": "https://www.angle.fr/bd/grand_angle/ex-people_the/the_ex-people_-_vol_01_sur_2/9782818990100"
-        },
-        {
-          "label": "Grand Angle: Stephen Desberg",
-          "url": "https://www.angle.fr/auteur/287"
-        },
-        {
-          "label": "Grand Angle: Alexander Utkin",
-          "url": "https://www.angle.fr/auteur/7005"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://www.angle.fr/bd/grand_angle/ex-people_the/the_ex-people_-_vol_01_sur_2/9782818990100"
-    },
-    {
-      "id": "суета-внутри-кита",
-      "title": "Суета внутри кита",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Утешительное чтение",
-          "number": "LR27",
-          "publication": "2024-04-05",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "Суета внутри кита",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
-    },
-    {
-      "id": "туннели",
-      "title": "Tunnels",
-      "url": "https://comicvine.gamespot.com/tunnels/4050-140027/",
-      "runTitle": "Tunnels",
-      "publisher": "Drawn & Quarterly",
-      "writers": [
-        "Rutu Modan"
-      ],
-      "artists": [
-        "Rutu Modan"
-      ],
-      "colorists": [
-        "Rutu Modan"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-11-03",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "96",
-          "publication": "2025-05-22",
-          "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
-          "rawTitle": "Туннели",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/tunnels/4050-140027/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
       "id": "a-girl-in-the-himalayas",
       "title": "A Girl in the Himalayas",
       "runTitle": "A Girl In the Himalayas",
@@ -330,39 +160,6 @@ window.__NA_PANELI_COMICS__ = {
         }
       ],
       "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "a-plague-of-wasps",
-      "title": "A Plague of Wasps",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M14",
-          "publication": "2024-11-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "A Plague of Wasps",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
       "kind": "comic"
     },
     {
@@ -819,22 +616,72 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "alabasta-chapters-155-217",
-      "title": "Alabasta / Chapters #155-217",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "id": "alabasta-gol-d-panels-op02",
+      "title": "Alabasta",
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP02",
+          "episodeTitle": "Gol D. Panels. Saga 02: Alabasta",
+          "publication": "2021-05-31",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Alabasta",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
+        }
+      ]
+    },
+    {
+      "id": "alabasta-chapters-155-217-gol-d-panels-op19",
+      "title": "Alabasta / Chapters #155-217",
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
+      "colorists": [],
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP19",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-11-10",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Alabasta / Chapters #155-217",
@@ -843,13 +690,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
       "id": "aleister-and-adolf",
@@ -1521,44 +1369,46 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "baron-omatsuri",
+      "id": "baron-omatsuri-gol-d-panels-op3",
       "title": "Baron Omatsuri",
-      "runTitle": "Baron",
-      "publisher": "MediBang!",
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
       "writers": [
-        "Noboru Rokuda"
+        "Eiichiro Oda"
       ],
       "artists": [
-        "Noboru Rokuda"
+        "Eiichiro Oda"
       ],
       "colorists": [],
-      "startYear": 2018,
-      "startDate": "2018-04-18",
-      "decade": "2010-е",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP3",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2021-11-09",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Baron Omatsuri",
-          "kind": "movie"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/baron/4050-110179/"
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "verified",
-      "kind": "movie"
+      ]
     },
     {
       "id": "basileus",
@@ -2059,6 +1909,53 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "beware-the-eye-of-odin",
+      "title": "Beware the Eye of Odin",
+      "runTitle": "Beware the Eye of Odin",
+      "publisher": "Image",
+      "writers": [
+        "Doug Wagner"
+      ],
+      "artists": [
+        "Tim Odland"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-06-22",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "98",
+          "publication": "2026-05-28",
+          "episodeTitle": "Шкаф с омнибасами",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Beware the Eye of Odin",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "RSS Podster",
+          "url": "https://podster.fm/rss.xml?pid=39021"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/beware-the-eye-of-odin/4050-143766/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/beware-the-eye-of-odin/4050-143766/"
     },
     {
       "id": "big-kids",
@@ -4789,22 +4686,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "dressrosa-act-i-chapters-700-731",
+      "id": "dressrosa-act-i-chapters-700-731-gol-d-panels-op11",
       "title": "Dressrosa, Act I / Chapters #700-731",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP11",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-06-29",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dressrosa, Act I / Chapters #700-731",
@@ -4813,31 +4718,40 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
-      "id": "dressrosa-act-ii-chapters-732-767",
+      "id": "dressrosa-act-ii-chapters-732-767-gol-d-panels-op12",
       "title": "Dressrosa, Act II / Chapters #732-767",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP12",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-07-06",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dressrosa, Act II / Chapters #732-767",
@@ -4846,31 +4760,40 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
-      "id": "dressrosa-act-iii-chapters-768-801",
+      "id": "dressrosa-act-iii-chapters-768-801-gol-d-panels-op13",
       "title": "Dressrosa, Act III / Chapters #768-801",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP13",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-07-13",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dressrosa, Act III / Chapters #768-801",
@@ -4879,13 +4802,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
       "id": "ducks-two-years-in-the-oil-sands",
@@ -5052,22 +4976,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "east-blue-chapters-1-100",
+      "id": "east-blue-chapters-1-100-gol-d-panels-op1",
       "title": "East Blue / Chapters #1-100",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP1",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2021-05-04",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "East Blue / Chapters #1-100",
@@ -5076,13 +5008,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
       "id": "east-of-west",
@@ -5169,22 +5102,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "egghead-part-1-chapters-1061-1088",
+      "id": "egghead-part-1-chapters-1061-1088-gol-d-panels-op26",
       "title": "Egghead, Part 1 / Chapters #1061-1088",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP26",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2024-03-26",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Egghead, Part 1 / Chapters #1061-1088",
@@ -5193,31 +5134,40 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
-      "id": "egghead-part-2-chapters-1089-1126",
+      "id": "egghead-part-2-chapters-1089-1126-gol-d-panels-op27",
       "title": "Egghead, Part 2 / Chapters #1089-1126",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP27",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2024-10-24",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Egghead, Part 2 / Chapters #1089-1126",
@@ -5226,13 +5176,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
       "id": "eight-billion-genies",
@@ -5362,22 +5313,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "enies-lobby-arc-chapters-375-441",
+      "id": "enies-lobby-arc-chapters-375-441-gol-d-panels-op5",
       "title": "Enies Lobby Arc / Chapters #375-441",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP5",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2021-12-30",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Enies Lobby Arc / Chapters #375-441",
@@ -5386,13 +5345,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
       "id": "enigma",
@@ -5642,14 +5602,21 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "everyday-hero-machine-boy",
       "title": "Everyday Hero Machine Boy",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Everyday Hero Machine Boy",
+      "publisher": "Image",
+      "writers": [
+        "Irma Kniivila",
+        "Tri Vuong"
+      ],
+      "artists": [
+        "Tri Vuong"
+      ],
+      "colorists": [
+        "Irma Kniivila"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-09-07",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -5666,11 +5633,24 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Image Comics",
+          "url": "https://imagecomics.com/comics/series/everyday-hero-machine-boy"
+        },
+        {
+          "label": "League of Comic Geeks: Irma Kniivila",
+          "url": "https://leagueofcomicgeeks.com/people/16747/irma-kniivila"
+        },
+        {
+          "label": "League of Comic Geeks: Tri Vuong",
+          "url": "https://leagueofcomicgeeks.com/people/42745/tri-vuong"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
+      "url": "https://imagecomics.com/comics/series/everyday-hero-machine-boy"
     },
     {
       "id": "excalibur-13-x-men-13",
@@ -6139,26 +6119,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "fish-man-island-chapters-598-653",
+      "id": "fish-man-island-chapters-598-653-gol-d-panels-op9",
       "title": "Fish-Man Island / Chapters #598-653",
-      "runTitle": "Fish",
-      "publisher": "Enterbrain",
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
       "writers": [
-        "Miyake Ranjou"
+        "Eiichiro Oda"
       ],
       "artists": [
-        "Miyake Ranjou"
+        "Eiichiro Oda"
       ],
       "colorists": [],
-      "startYear": 2022,
-      "startDate": "2022-02-12",
-      "decade": "2020-е",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP9",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2022-12-29",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Fish-Man Island / Chapters #598-653",
@@ -6167,16 +6151,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/fish/4050-153212/"
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      ]
     },
     {
       "id": "flavor",
@@ -6763,27 +6745,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "gold",
+      "id": "gold-gol-d-panels-op13",
       "title": "Gold",
-      "kind": "comic",
-      "runTitle": "Gold",
-      "publisher": "Shōnen Gahōsha",
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
       "writers": [
-        "Ryūichirō Yamamoto"
+        "Eiichiro Oda"
       ],
       "artists": [
-        "Ryūichirō Yamamoto"
+        "Eiichiro Oda"
       ],
       "colorists": [],
-      "startYear": 2001,
-      "startDate": "2001-05-01",
-      "decade": "2000-е",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP13",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-07-13",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Gold",
@@ -6792,15 +6777,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/gold/4050-168543/"
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "verified"
+      ]
     },
     {
       "id": "gone",
@@ -7249,8 +7233,234 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "hellboy-in-love",
-      "title": "Hellboy in Love",
+      "id": "hellboy-and-the-b-p-r-d-1957-fallen-sky",
+      "title": "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
+      "runTitle": "Hellboy And The B.P.R.D.: 1957 - Falling Sky",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Shawn Martinbrough"
+      ],
+      "colorists": [
+        "Lee Loughridge"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-08-10",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Falling Sky"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-falling-sky-1/4000-941528/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-falling-sky-1/4000-941528/",
+      "reviewNote": ""
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-1957-family-ties",
+      "title": "Hellboy and the B.P.R.D.: 1957 - Family Ties",
+      "runTitle": "Hellboy and the B.P.R.D.: Family Ties",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Laurence Campbell"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-09-15",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Family Ties"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-family-ties-1/4000-884933/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-family-ties-1/4000-884933/",
+      "reviewNote": ""
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-1957-fearful-symmetry",
+      "title": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
+      "runTitle": "Hellboy and the B.P.R.D.: Fearful Symmetry",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Alison Sampson"
+      ],
+      "colorists": [
+        "Lee Loughridge"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-06-28",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-fearful-symmetry-1/4000-997764/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-fearful-symmetry-1/4000-997764/",
+      "reviewNote": ""
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-1957-forgotten-lives",
+      "title": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
+      "runTitle": "Hellboy and the B.P.R.D.: 1957: Forgotten Lives",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Stephen Green"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-02-09",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-forgotten-lives-1/4000-907086/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-forgotten-lives-1/4000-907086/",
+      "reviewNote": ""
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-1957-from-below",
+      "title": "Hellboy and the B.P.R.D.: 1957 - From Below",
+      "runTitle": "Hellboy and the B.P.R.D.: 1957 - From Below",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Mike Norton"
+      ],
+      "colorists": [
+        "Dave Stewart",
+        "Lee Loughridge"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-08-02",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - From Below"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-from-below-1/4000-1005528/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-from-below-1/4000-1005528/",
+      "reviewNote": ""
+    },
+    {
+      "id": "hellboy-in-love-goblin-night",
+      "title": "Hellboy in Love: Goblin Night",
       "runTitle": "Hellboy in Love",
       "publisher": "Dark Horse Comics",
       "writers": [
@@ -7261,10 +7471,10 @@ window.__NA_PANELI_COMICS__ = {
         "Matt Smith (US)"
       ],
       "colorists": [
-        "Dave Stewart"
+        "Chris O'Halloran"
       ],
-      "startYear": 2023,
-      "startDate": "2023-12-05",
+      "startYear": 2022,
+      "startDate": "2022-10-19",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -7274,8 +7484,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Hellboy in Love",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "Hellboy in Love: Goblin Night"
         }
       ],
       "sources": [
@@ -7285,11 +7495,102 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-in-love/4050-156316/"
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-1-goblin-night-part-1-of-2/4000-951501/"
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-in-love-1-goblin-night-part-1-of-2/4000-951501/",
+      "reviewNote": ""
+    },
+    {
+      "id": "hellboy-in-love-shadow-theater",
+      "title": "Hellboy in Love: Shadow Theater",
+      "runTitle": "Hellboy in Love",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden"
+      ],
+      "artists": [
+        "Matt Smith (US)"
+      ],
+      "colorists": [
+        "Chris O'Halloran"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-02-22",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy in Love: Shadow Theater"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-3-shadow-theater-part-1-of-2/4000-973285/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-in-love-3-shadow-theater-part-1-of-2/4000-973285/",
+      "reviewNote": ""
+    },
+    {
+      "id": "hellboy-in-love-the-key-to-it-all",
+      "title": "Hellboy in Love: The Key to It All",
+      "runTitle": "Hellboy in Love",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Matt Smith (US)"
+      ],
+      "colorists": [
+        "Chris O'Halloran"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-07-12",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy in Love: The Key to It All"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-5-the-key-to-it-all/4000-1000256/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/hellboy-in-love-5-the-key-to-it-all/4000-1000256/",
+      "reviewNote": ""
     },
     {
       "id": "hellions-05-new-mutants-13-cable-05",
@@ -8185,22 +8486,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "impel-down-chapters-490-549",
+      "id": "impel-down-chapters-490-549-gol-d-panels-op7",
       "title": "Impel Down / Chapters #490-549",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP7",
+          "episodeTitle": "Пять лет подкасту! (Gol D. Panels)",
           "publication": "2022-11-21",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Impel Down / Chapters #490-549",
@@ -8209,13 +8518,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
-      "kind": "comic"
+      ]
     },
     {
       "id": "in-utero",
@@ -8263,14 +8573,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "infamous-iron-man",
       "title": "Infamous Iron Man",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Infamous Iron Man",
+      "publisher": "Marvel",
+      "writers": [
+        "Brian Michael Bendis"
+      ],
+      "artists": [
+        "Alex Maleev"
+      ],
+      "colorists": [
+        "Matt Hollingsworth"
+      ],
+      "startYear": 2016,
+      "startDate": "2016-10-19",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8287,11 +8603,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/infamous-iron-man/4050-95016/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "inferno-01",
@@ -8461,14 +8780,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "injection",
       "title": "Injection",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Injection",
+      "publisher": "Image",
+      "writers": [
+        "Warren Ellis"
+      ],
+      "artists": [
+        "Declan Shalvey"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-05-13",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8485,11 +8810,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/injection/4050-81986/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "inside-the-mind-of-sherlock-holmes",
@@ -8537,14 +8865,22 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "into-the-silent-sea",
       "title": "Into the Silent Sea",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Hellboy: Into the Silent Sea",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Gary Gianni",
+        "Mike Mignola",
+        "Samuel Taylor Coleridge"
+      ],
+      "artists": [
+        "Gary Gianni"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-04-19",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8561,23 +8897,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-into-the-silent-sea/4050-100821/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "invisible-kingdom",
       "title": "Invisible Kingdom",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Invisible Kingdom",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "G. Willow Wilson"
+      ],
+      "artists": [
+        "Christian Ward"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2019,
+      "startDate": "2019-03-20",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8594,23 +8937,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/invisible-kingdom/4050-117748/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "it-will-all-hurt",
       "title": "It Will All Hurt",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "It Will All Hurt",
+      "publisher": "Alternative Comics",
+      "writers": [
+        "Farel Dalrymple"
+      ],
+      "artists": [
+        "Farel Dalrymple"
+      ],
+      "colorists": [
+        "Farel Dalrymple"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-06-10",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8627,11 +8979,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/it-will-all-hurt/4050-82535/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "it-s-a-good-life-if-you-don-t-weaken",
@@ -8702,14 +9057,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "it-s-lonely-at-the-centre-of-the-earth",
       "title": "It's Lonely at the Centre of the Earth",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "It's Lonely at the Centre of the Earth",
+      "publisher": "Image",
+      "writers": [
+        "Zoe Thorogood"
+      ],
+      "artists": [
+        "Zoe Thorogood"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2022,
+      "startDate": "2022-12-22",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8726,11 +9085,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/its-lonely-at-the-centre-of-the-earth/4050-147008/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "jack-kirby-s-o-m-a-c-one-man-army-corps",
@@ -8768,8 +9130,8 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "jawbreakers",
       "title": "Jawbreakers",
-      "runTitle": "",
-      "publisher": "",
+      "runTitle": "Jawbreakers: God-King",
+      "publisher": "Splatto Comics",
       "writers": [],
       "artists": [],
       "colorists": [],
@@ -8792,23 +9154,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/jawbreakers-god-king/4050-152045/"
         }
       ],
       "status": "needs-review",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "reviewNote": "comicvine-credits-not-found"
     },
     {
       "id": "jean-grey",
       "title": "Jean Grey",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Jean Grey",
+      "publisher": "Marvel",
+      "writers": [
+        "Dennis Hopeless"
+      ],
+      "artists": [
+        "Victor Ibáñez"
+      ],
+      "colorists": [
+        "Jay David Ramos"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-05-03",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8825,23 +9197,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/jean-grey/4050-101195/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "joe-death-and-the-graven-image",
       "title": "Joe Death and the Graven Image",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Joe Death and the Graven Image",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Benjamin Schipper"
+      ],
+      "artists": [
+        "Benjamin Schipper"
+      ],
+      "colorists": [
+        "Benjamin Schipper"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-04-18",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8858,23 +9239,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/joe-death-and-the-graven-image/4050-149624/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "joe-fixit",
       "title": "Joe Fixit",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Joe Fixit",
+      "publisher": "Marvel",
+      "writers": [
+        "Peter David"
+      ],
+      "artists": [
+        "Yildiray Cinar"
+      ],
+      "colorists": [
+        "Dee Cunniffe",
+        "Matt Milla"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-01-04",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8891,23 +9282,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/joe-fixit/4050-147224/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "john-constantine-hellblazer",
       "title": "John Constantine: Hellblazer",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "John Constantine: Hellblazer",
+      "publisher": "DC Comics",
+      "writers": [
+        "Simon Spurrier"
+      ],
+      "artists": [
+        "Aaron Campbell"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-11-27",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8924,11 +9324,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/john-constantine-hellblazer/4050-123099/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "jonna-and-the-unpossible-monsters",
@@ -8966,14 +9369,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "judas",
       "title": "Judas",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Judas",
+      "publisher": "Sergio Bonelli Editore",
+      "writers": [
+        "Ennio Missaglia"
+      ],
+      "artists": [
+        "Vladimiro Missaglia"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1979,
+      "startDate": "1979-09-01",
+      "decade": "1970-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -8990,23 +9397,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/judas/4050-129528/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "justice-league",
       "title": "Justice League",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Justice League",
+      "publisher": "DC Comics",
+      "writers": [
+        "Geoff Johns"
+      ],
+      "artists": [
+        "Jim Lee",
+        "Scott Williams"
+      ],
+      "colorists": [
+        "Alex Sinclair"
+      ],
+      "startYear": 2011,
+      "startDate": "2011-08-31",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9023,23 +9440,35 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/justice-league/4050-42488/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "kane-and-able",
       "title": "Kane & Able",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Kane & Able",
+      "publisher": "Image",
+      "writers": [
+        "Krent Able",
+        "Shaky Kane"
+      ],
+      "artists": [
+        "Krent Able",
+        "Shaky Kane"
+      ],
+      "colorists": [
+        "Krent Able",
+        "Shaky Kane"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-30",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9056,23 +9485,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/kane-and-able/4050-137334/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "kaptara",
       "title": "Kaptara",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Kaptara",
+      "publisher": "Image",
+      "writers": [
+        "Chip Zdarsky"
+      ],
+      "artists": [
+        "Kagan McLeod"
+      ],
+      "colorists": [
+        "Becka Kinzie"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-04-22",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9089,23 +9527,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/kaptara/4050-81461/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "karmen",
       "title": "Karmen",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Karmen",
+      "publisher": "Image",
+      "writers": [
+        "Guillem March"
+      ],
+      "artists": [
+        "Guillem March"
+      ],
+      "colorists": [
+        "Tony López"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-03-10",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9122,23 +9569,34 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/karmen/4050-134384/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "kid-lobotomy",
       "title": "Kid Lobotomy",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Kid Lobotomy",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Peter Milligan"
+      ],
+      "artists": [
+        "Frank Quitely",
+        "Tess Fowler"
+      ],
+      "colorists": [
+        "Lee Loughridge",
+        "Tamra Bonvillain"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-10-18",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9155,23 +9613,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/kid-lobotomy/4050-105330/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "klaus",
       "title": "Klaus",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Klaus",
+      "publisher": "Boom! Studios",
+      "writers": [
+        "Grant Morrison"
+      ],
+      "artists": [
+        "Dan Mora"
+      ],
+      "colorists": [
+        "Jordan Boyd"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-11-04",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9188,11 +9655,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/klaus/4050-85771/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "koschei-the-deathless",
@@ -9306,14 +9776,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "last-of-the-atlases",
       "title": "Last of the Atlases",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Last of the Atlases",
+      "publisher": "Europe Comics",
+      "writers": [
+        "Fabien Vehlmann",
+        "Gwen De Bonneval"
+      ],
+      "artists": [
+        "Fred Blanchard",
+        "Hervé Tanquerelle"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2019,
+      "startDate": "2019-06-12",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9330,23 +9806,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/last-of-the-atlases/4050-119725/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "laura-dean-keeps-breaking-up-with-me",
       "title": "Laura Dean Keeps Breaking Up with Me",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Laura Dean Keeps Breaking Up with Me",
+      "publisher": "First Second Books",
+      "writers": [
+        "Mariko Tamaki"
+      ],
+      "artists": [
+        "Rosemary Valero-O'Connell"
+      ],
+      "colorists": [
+        "Rosemary Valero-O'Connell"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-05-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9363,23 +9848,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/laura-dean-keeps-breaking-up-with-me/4050-118597/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "leaving-megalopolis",
       "title": "Leaving Megalopolis",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Leaving Megalopolis",
+      "publisher": "self published",
+      "writers": [
+        "Gail Simone",
+        "Jim Calafiore"
+      ],
+      "artists": [
+        "Jim Calafiore"
+      ],
+      "colorists": [
+        "Jason Wright"
+      ],
+      "startYear": 2013,
+      "startDate": "2013-10-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9396,11 +9891,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/leaving-megalopolis/4050-69049/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "leonide-the-vampyr",
@@ -9438,14 +9936,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "liberality-for-all",
       "title": "Liberality for All",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Liberality For All",
+      "publisher": "ACC Studios",
+      "writers": [
+        "Mike Mackey"
+      ],
+      "artists": [
+        "Donny Lin"
+      ],
+      "colorists": [
+        "Donny Lin"
+      ],
+      "startYear": 2005,
+      "startDate": "2005-10-01",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9462,11 +9966,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/liberality-for-all/4050-42788/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "liberty-meadows",
@@ -9547,14 +10054,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "little-bird",
       "title": "Little Bird",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Little Bird",
+      "publisher": "Nuevo Nueve Editores",
+      "writers": [
+        "Darcy Van Poelgeest"
+      ],
+      "artists": [
+        "Ian Bertram"
+      ],
+      "colorists": [
+        "Matt Hollingsworth"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-03-01",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9571,77 +10084,56 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/little-bird/4050-143416/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
-      "id": "live-action-series-season-1",
-      "title": "Live-Action Series, Season 1",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP17",
-          "publication": "2023-09-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Live-Action Series, Season 1",
-          "kind": "series"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "series",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "live-action-series-season-2",
+      "id": "live-action-series-season-2-gol-d-panels-op28",
       "title": "Live-Action Series, Season 2",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP28",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2026-03-27",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Live-Action Series, Season 2",
-          "kind": "series"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "series",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "locke-and-key",
@@ -9712,14 +10204,19 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "lodger",
       "title": "Lodger",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Lodger",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "David Lapham",
+        "Maria Lapham"
+      ],
+      "artists": [
+        "David Lapham"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-10-24",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9736,23 +10233,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lodger/4050-114650/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "lonely-receiver",
       "title": "Lonely Receiver",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Lonely Receiver",
+      "publisher": "Aftershock Comics",
+      "writers": [
+        "Zac Thompson"
+      ],
+      "artists": [
+        "Jen Hickman"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2021,
+      "startDate": "2021-04-14",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9769,23 +10273,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lonely-receiver/4050-135398/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "lore-olympus",
       "title": "Lore Olympus",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Lore Olympus",
+      "publisher": "Random House",
+      "writers": [
+        "Rachel Smythe"
+      ],
+      "artists": [
+        "Rachel Smythe"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2021,
+      "startDate": "2021-11-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9802,23 +10313,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lore-olympus/4050-140017/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "lost-cat",
       "title": "Lost Cat",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Lost Cat",
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Jason"
+      ],
+      "artists": [
+        "Jason"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2013,
+      "startDate": "2013-07-10",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9835,23 +10353,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lost-cat/4050-65098/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "maestros",
       "title": "Maestros",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Maestros",
+      "publisher": "Image",
+      "writers": [
+        "Steve Skroce"
+      ],
+      "artists": [
+        "Steve Skroce"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-10-31",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9868,11 +10395,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/maestros/4050-114896/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "malinky-robot",
@@ -9910,14 +10440,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "marathon",
       "title": "Marathon",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Marathon",
+      "publisher": "Dargaud",
+      "writers": [
+        "Nicolas Debon"
+      ],
+      "artists": [
+        "Nicolas Debon"
+      ],
+      "colorists": [
+        "Nicolas Debon"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-25",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9934,11 +10470,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/marathon/4050-156055/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "marauders-15-excalibur-14-wolverine-07",
@@ -10007,22 +10546,30 @@ window.__NA_PANELI_COMICS__ = {
       "reviewNote": "comicvine-no-match"
     },
     {
-      "id": "marineford-chapters-550-597",
+      "id": "marineford-chapters-550-597-gol-d-panels-op8",
       "title": "Marineford / Chapters #550-597",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP8",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2022-11-28",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Marineford / Chapters #550-597",
@@ -10031,25 +10578,33 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "marvel-two-in-one",
       "title": "Marvel Two-in-One",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Marvel Two-in-One",
+      "publisher": "Marvel",
+      "writers": [
+        "Steve Gerber"
+      ],
+      "artists": [
+        "Gil Kane",
+        "Joe Sinnott"
+      ],
+      "colorists": [
+        "George Roussos"
+      ],
+      "startYear": 1974,
+      "startDate": "1973-10-09",
+      "decade": "1970-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10066,23 +10621,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/marvel-two-in-one/4050-2696/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "maxwell-s-demons",
       "title": "Maxwell's Demons",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Maxwell's Demons",
+      "publisher": "Vault Comics",
+      "writers": [
+        "Deniz Camp"
+      ],
+      "artists": [
+        "Vittorio Astone"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2017,
+      "startDate": "2017-11-22",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10099,23 +10661,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/maxwells-demons/4050-106302/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "mcmlxxv",
       "title": "MCMLXXV",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "MCMLXXV",
+      "publisher": "Image",
+      "writers": [
+        "Joe Casey"
+      ],
+      "artists": [
+        "Dustin Weaver",
+        "Farel Dalrymple",
+        "Ian Macewan",
+        "Morgan Jeske"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2019,
+      "startDate": "2019-05-15",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10132,11 +10704,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mcmlxxv/4050-119153/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "meta4",
@@ -10174,14 +10749,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "mezolith",
       "title": "Mezolith",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Mezolith",
+      "publisher": "David Fickling Books",
+      "writers": [
+        "Ben Haggarty"
+      ],
+      "artists": [
+        "Adam Brockbank"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2010,
+      "startDate": "2010-04-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10198,11 +10777,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mezolith/4050-47092/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "miles-morales-shock-waves",
@@ -10240,14 +10822,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "mirror",
       "title": "Mirror",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Mirror",
+      "publisher": "Astiberri Ediciones",
+      "writers": [
+        "Emma Rios"
+      ],
+      "artists": [
+        "Hwei Lin Lim"
+      ],
+      "colorists": [
+        "Hwei Lin Lim"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-09-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10264,23 +10852,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mirror/4050-140863/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
-      "id": "miss-truesdale",
-      "title": "Miss Truesdale",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "miss-truesdale-and-the-fall-of-hyperborea",
+      "title": "Miss Truesdale and the Fall of Hyperborea",
+      "runTitle": "Miss Truesdale and the Fall of Hyperborea",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Jesse Lonergan"
+      ],
+      "colorists": [
+        "Jesse Lonergan"
+      ],
+      "startYear": 2024,
+      "startDate": "2024-01-31",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -10289,7 +10886,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Miss Truesdale",
+          "rawTitle": "Miss Truesdale and the Fall of Hyperborea",
           "kind": "comic"
         }
       ],
@@ -10297,11 +10894,15 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/miss-truesdale-and-the-fall-of-hyperborea/4050-157458/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "url": "https://comicvine.gamespot.com/miss-truesdale-and-the-fall-of-hyperborea/4050-157458/"
     },
     {
       "id": "miss-truesdale-and-the-rise-of-man",
@@ -10348,14 +10949,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "mister-mammoth",
       "title": "Mister Mammoth",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Mister Mammoth",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Matt Kindt"
+      ],
+      "artists": [
+        "Jean-Denis Pendanx"
+      ],
+      "colorists": [
+        "Jean-Denis Pendanx"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-04-18",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10372,23 +10979,31 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mister-mammoth/4050-149970/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "mister-miracle",
       "title": "Mister Miracle",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Mister Miracle",
+      "publisher": "DC Comics",
+      "writers": [
+        "Jack Kirby"
+      ],
+      "artists": [
+        "Jack Kirby",
+        "Vince Colletta"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1971,
+      "startDate": "1971-04-07",
+      "decade": "1970-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10405,23 +11020,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mister-miracle/4050-2504/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "monica",
       "title": "Monica",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Monica",
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Daniel Clowes"
+      ],
+      "artists": [
+        "Daniel Clowes"
+      ],
+      "colorists": [
+        "Daniel Clowes"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-10-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10438,11 +11062,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/monica/4050-153883/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "monstermen-and-other-scary-stories",
@@ -10480,14 +11107,14 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "monsters",
       "title": "MONSTERS",
-      "runTitle": "",
-      "publisher": "",
+      "runTitle": "Monsters",
+      "publisher": "Ediciones Zinco",
       "writers": [],
       "artists": [],
       "colorists": [],
-      "startYear": null,
+      "startYear": 1983,
       "startDate": "",
-      "decade": "",
+      "decade": "1980-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10504,29 +11131,41 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/monsters/4050-142300/"
         }
       ],
       "status": "needs-review",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "reviewNote": "comicvine-credits-not-found"
     },
     {
-      "id": "monsters-and-ace-s-story-and-shokugeki-no-sanji",
+      "id": "monsters-and-ace-s-story-and-shokugeki-no-sanji-gol-d-panels-op25",
       "title": "Monsters & Ace's Story & Shokugeki no Sanji",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP25",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2024-02-13",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Monsters & Ace's Story & Shokugeki no Sanji",
@@ -10535,25 +11174,30 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "monstress",
       "title": "Monstress",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Monstress",
+      "publisher": "Cross Cult",
+      "writers": [
+        "Marjorie Liu"
+      ],
+      "artists": [
+        "Sana Takeda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2016,
+      "startDate": "2016-11-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10570,23 +11214,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/monstress/4050-127231/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "moonshine",
       "title": "Moonshine",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Moonshine",
+      "publisher": "Planeta DeAgostini",
+      "writers": [
+        "Brian Azzarello"
+      ],
+      "artists": [
+        "Eduardo Risso"
+      ],
+      "colorists": [
+        "Cristian Rossi",
+        "Eduardo Risso"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-04-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10603,11 +11257,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/moonshine/4050-155727/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "mort-cinder",
@@ -10678,14 +11335,21 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "motro",
       "title": "Motro",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Motro",
+      "publisher": "Oni Press",
+      "writers": [
+        "Erick Freitas",
+        "Ulises Fariñas"
+      ],
+      "artists": [
+        "Ulises Fariñas"
+      ],
+      "colorists": [
+        "Ryan Hill"
+      ],
+      "startYear": 2016,
+      "startDate": "2016-11-02",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10702,23 +11366,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/motro/4050-95425/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "mr-higgins-comes-home",
       "title": "Mr. Higgins Comes Home",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Mr. Higgins Comes Home",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Warwick Johnson Cadwell"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-10-18",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10735,11 +11408,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mr-higgins-comes-home/4050-105342/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "mr-invincible",
@@ -10820,14 +11496,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "multiple-man",
       "title": "Multiple Man",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Multiple Man",
+      "publisher": "Marvel",
+      "writers": [
+        "Matthew Rosenberg"
+      ],
+      "artists": [
+        "Andy MacDonald"
+      ],
+      "colorists": [
+        "Tamra Bonvillain"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-06-27",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10844,23 +11526,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/multiple-man/4050-111839/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "murder-falcon",
       "title": "Murder Falcon",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Murder Falcon",
+      "publisher": "Image",
+      "writers": [
+        "Daniel Warren Johnson"
+      ],
+      "artists": [
+        "Daniel Warren Johnson"
+      ],
+      "colorists": [
+        "Michael Spicer"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-10-10",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10877,23 +11568,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/murder-falcon/4050-114254/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "my-favorite-thing-is-monsters",
       "title": "My Favorite Thing is Monsters",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "My Favorite Thing Is Monsters",
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Emil Ferris"
+      ],
+      "artists": [
+        "Emil Ferris"
+      ],
+      "colorists": [
+        "Emil Ferris"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-02-15",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10910,23 +11610,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/my-favorite-thing-is-monsters/4050-98917/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "my-heroes-have-always-been-junkies",
       "title": "My Heroes Have Always Been Junkies",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "My Heroes Have Always Been Junkies",
+      "publisher": "Image",
+      "writers": [
+        "Ed Brubaker"
+      ],
+      "artists": [
+        "Sean Phillips"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-10-10",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -10943,11 +11650,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/my-heroes-have-always-been-junkies/4050-114255/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "my-little-pony-and-transformers",
@@ -10983,16 +11693,69 @@ window.__NA_PANELI_COMICS__ = {
       "reviewNote": "comicvine-no-match"
     },
     {
+      "id": "na-co-dybie-w-wielorybie-czubek-nosa-eskimosa",
+      "title": "Na co dybie w wielorybie czubek nosa Eskimosa",
+      "runTitle": "",
+      "publisher": "Młodzieżowa Agencja Wydawnicza",
+      "writers": [
+        "Tadeusz Baranowski"
+      ],
+      "artists": [
+        "Tadeusz Baranowski"
+      ],
+      "colorists": [
+        "Tadeusz Baranowski"
+      ],
+      "startYear": 1980,
+      "startDate": "",
+      "decade": "1980-е",
+      "discussedIn": [
+        {
+          "podcast": "Утешительное чтение",
+          "number": "LR27",
+          "publication": "2024-04-05",
+          "episodeTitle": "",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "Суета внутри кита",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Kultura Gniewu",
+          "url": "https://kultura.com.pl/kultura-gniewu/760-na-co-dybie-w-wielorybie-czubek-nosa-eskimosa.html"
+        },
+        {
+          "label": "Comic Vine: Tadeusz Baranowski",
+          "url": "https://comicvine.gamespot.com/tadeusz-baranowski/4040-110973/"
+        }
+      ],
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
+      "url": "https://kultura.com.pl/kultura-gniewu/760-na-co-dybie-w-wielorybie-czubek-nosa-eskimosa.html"
+    },
+    {
       "id": "nameless",
       "title": "Nameless",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Nameless",
+      "publisher": "Image",
+      "writers": [
+        "Grant Morrison"
+      ],
+      "artists": [
+        "Chris Burnham",
+        "Nathan Fairbairn"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2016,
+      "startDate": "2016-03-16",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11009,23 +11772,31 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/nameless/4050-88995/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "nameless-city",
       "title": "Nameless City",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Nameless",
+      "publisher": "Image",
+      "writers": [
+        "Grant Morrison"
+      ],
+      "artists": [
+        "Chris Burnham",
+        "Nathan Fairbairn"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2016,
+      "startDate": "2016-03-16",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11042,23 +11813,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/nameless/4050-88995/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "nanjing-the-burning-city",
       "title": "Nanjing: The Burning City",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Nanjing: The Burning City",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Ethan Young"
+      ],
+      "artists": [
+        "Ethan Young"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2015,
+      "startDate": "2015-08-19",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11075,23 +11853,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/nanjing-the-burning-city/4050-83968/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "negalyod-the-god-network",
       "title": "Negalyod: The God Network",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Negalyod: The God Network",
+      "publisher": "Titan Comics",
+      "writers": [
+        "Vincent Perriot"
+      ],
+      "artists": [
+        "Vincent Perriot"
+      ],
+      "colorists": [
+        "Florence Breton"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-07-19",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11108,23 +11895,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/negalyod-the-god-network/4050-144375/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "neonomicon",
       "title": "Neonomicon",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Neonomicon",
+      "publisher": "Panini Verlag",
+      "writers": [
+        "Alan Moore"
+      ],
+      "artists": [
+        "Jacen Burrows"
+      ],
+      "colorists": [
+        "Juanmar"
+      ],
+      "startYear": 2011,
+      "startDate": "2011-09-22",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11141,11 +11937,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/neonomicon/4050-61788/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "new-world",
@@ -11227,14 +12026,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "night-fever",
       "title": "Night Fever",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Night Fever",
+      "publisher": "Image",
+      "writers": [
+        "Ed Brubaker"
+      ],
+      "artists": [
+        "Sean Phillips"
+      ],
+      "colorists": [
+        "Jacob Phillips"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-06-14",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11251,11 +12056,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/night-fever/4050-151293/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "night-music",
@@ -11293,14 +12101,21 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "nightworld",
       "title": "Nightworld",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Nightworld",
+      "publisher": "Image",
+      "writers": [
+        "Adam McGovern",
+        "Paolo Leandri"
+      ],
+      "artists": [
+        "Paolo Leandri"
+      ],
+      "colorists": [
+        "Dominic Regan"
+      ],
+      "startYear": 2014,
+      "startDate": "2014-08-06",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11317,11 +12132,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/nightworld/4050-76269/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "nijigahara-holograph",
@@ -11366,14 +12184,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "notes-on-a-case-of-melancholia",
       "title": "Notes on a Case of Melancholia",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Notes on a Case of Melancholia, Or: A Little Death",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Nicholas Gurewitch"
+      ],
+      "artists": [
+        "Nicholas Gurewitch"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2020,
+      "startDate": "2020-03-18",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11390,11 +12212,61 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/notes-on-a-case-of-melancholia-or-a-little-death/4050-125769/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "november",
+      "title": "November",
+      "runTitle": "November",
+      "publisher": "Image",
+      "writers": [
+        "Matt Fraction"
+      ],
+      "artists": [
+        "Elsa Charretier"
+      ],
+      "colorists": [
+        "Matt Hollingsworth"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-11-06",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "98",
+          "publication": "2026-05-28",
+          "episodeTitle": "Шкаф с омнибасами",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
+          "rawTitle": "November",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "RSS Podster",
+          "url": "https://podster.fm/rss.xml?pid=39021"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/november/4050-122629/"
+        }
+      ],
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "url": "https://comicvine.gamespot.com/november/4050-122629/"
     },
     {
       "id": "nowhere-men",
@@ -11465,14 +12337,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "oblivion-song",
       "title": "Oblivion Song",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Oblivion Song",
+      "publisher": "Image",
+      "writers": [
+        "Robert Kirkman"
+      ],
+      "artists": [
+        "Lorenzo De Felici"
+      ],
+      "colorists": [
+        "Annalisa Leoni"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-03-07",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11489,23 +12367,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/oblivion-song/4050-109114/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "on-a-sunbeam",
       "title": "On a Sunbeam",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "On a Sunbeam",
+      "publisher": "First Second Books",
+      "writers": [
+        "Tillie Walden"
+      ],
+      "artists": [
+        "Tillie Walden"
+      ],
+      "colorists": [
+        "Tillie Walden"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-10-03",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11522,23 +12409,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/on-a-sunbeam/4050-114022/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "on-the-camino",
       "title": "On the Camino",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "On the Camino",
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Jason"
+      ],
+      "artists": [
+        "Jason"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2017,
+      "startDate": "2017-05-24",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11555,23 +12449,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/on-the-camino/4050-101486/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "once-and-future",
       "title": "Once & Future",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Once & Future",
+      "publisher": "Cross Cult",
+      "writers": [
+        "Kieron Gillen"
+      ],
+      "artists": [
+        "Dan Mora"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2020,
+      "startDate": "2020-10-01",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11588,29 +12489,40 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/once-and-future/4050-135671/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
-      "id": "onigashima-part-1-chapters-958-1000",
+      "id": "onigashima-part-1-chapters-958-1000-gol-d-panels-op22",
       "title": "Onigashima, Part 1 / Chapters #958-1000",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP22",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-14",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Onigashima, Part 1 / Chapters #958-1000",
@@ -11619,31 +12531,40 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
-      "id": "onigashima-part-2-chapters-1001-1036",
+      "id": "onigashima-part-2-chapters-1001-1036-gol-d-panels-op23",
       "title": "Onigashima, Part 2 / Chapters #1001-1036",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP23",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-21",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Onigashima, Part 2 / Chapters #1001-1036",
@@ -11652,31 +12573,40 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
-      "id": "onigashima-part-3-chapters-1037-1060",
+      "id": "onigashima-part-3-chapters-1037-1060-gol-d-panels-op24",
       "title": "Onigashima, Part 3 / Chapters #1037-1060",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP24",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-29",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Onigashima, Part 3 / Chapters #1037-1060",
@@ -11685,25 +12615,30 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "orphan-and-the-five-beasts",
       "title": "Orphan and the Five Beasts",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Orphan and the Five Beasts",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "James Stokoe"
+      ],
+      "artists": [
+        "James Stokoe"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2021,
+      "startDate": "2021-03-17",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11720,23 +12655,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/orphan-and-the-five-beasts/4050-134586/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "our-bones-dust",
       "title": "Our Bones Dust",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Our Bones Dust",
+      "publisher": "Image",
+      "writers": [
+        "Ben Stenbeck"
+      ],
+      "artists": [
+        "Ben Stenbeck"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-12-06",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11753,11 +12697,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/our-bones-dust/4050-155172/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "our-encounters-with-evil",
@@ -11795,14 +12742,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "outer-darkness",
       "title": "Outer Darkness",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Outer Darkness",
+      "publisher": "Image",
+      "writers": [
+        "John Layman"
+      ],
+      "artists": [
+        "Afu Chan"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-11-07",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11819,23 +12770,82 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/outer-darkness/4050-115073/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "outsiders",
+      "title": "Outsiders",
+      "runTitle": "Outsiders",
+      "publisher": "DC Comics",
+      "writers": [
+        "Collin Kelly",
+        "Jackson Lanzing"
+      ],
+      "artists": [
+        "Robert Carey"
+      ],
+      "colorists": [
+        "Valentina Taddeo"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-11-14",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "98",
+          "publication": "2026-05-28",
+          "episodeTitle": "Шкаф с омнибасами",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "Outsiders",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "RSS Podster",
+          "url": "https://podster.fm/rss.xml?pid=39021"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/outsiders/4050-154666/"
+        }
+      ],
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "url": "https://comicvine.gamespot.com/outsiders/4050-154666/"
     },
     {
       "id": "paklis",
       "title": "Paklis",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Paklis",
+      "publisher": "Image",
+      "writers": [
+        "Dustin Weaver"
+      ],
+      "artists": [
+        "Chris Samnee",
+        "D.J. Bryant",
+        "Dustin Weaver"
+      ],
+      "colorists": [
+        "Dustin Weaver"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-05-31",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11852,23 +12862,26 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/paklis/4050-101786/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "panorama",
       "title": "Panorama",
-      "runTitle": "",
-      "publisher": "",
+      "runTitle": "Panorama",
+      "publisher": "Marketprint",
       "writers": [],
       "artists": [],
       "colorists": [],
-      "startYear": null,
+      "startYear": 1965,
       "startDate": "",
-      "decade": "",
+      "decade": "1960-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11885,23 +12898,76 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/panorama/4050-136218/"
         }
       ],
       "status": "needs-review",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "reviewNote": "comicvine-credits-not-found"
+    },
+    {
+      "id": "panya-the-mummy-s-curse",
+      "title": "Panya: The Mummy's Curse",
+      "runTitle": "Panya: The Mummy's Curse",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson"
+      ],
+      "artists": [
+        "Christopher Mitten"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-07-12",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M11",
+          "publication": "2023-11-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Panya: The Mummy's Curse",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/panya-the-mummys-curse/4050-152205/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/panya-the-mummys-curse/4050-152205/"
     },
     {
       "id": "paper-girls",
       "title": "Paper Girls",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Paper Girls",
+      "publisher": "Image",
+      "writers": [
+        "Brian K. Vaughan"
+      ],
+      "artists": [
+        "Cliff Chiang"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-10-07",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11918,23 +12984,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/paper-girls/4050-85128/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "parasocial",
       "title": "Parasocial",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Parasocial",
+      "publisher": "Image",
+      "writers": [
+        "Alex de Campi"
+      ],
+      "artists": [
+        "Erica Henderson"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2023,
+      "startDate": "2023-10-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11951,23 +13024,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/parasocial/4050-155107/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "parenthesis",
       "title": "Parenthesis",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Parenthesis",
+      "publisher": "Top Shelf",
+      "writers": [
+        "Elodie Durand"
+      ],
+      "artists": [
+        "Elodie Durand"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2021,
+      "startDate": "2021-02-10",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11984,11 +13064,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/parenthesis/4050-133730/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "parker-slayground",
@@ -12111,14 +13194,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "peepee-poopoo",
       "title": "PeePee PooPoo",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "PeePee PooPoo",
+      "publisher": "Silver Sprocket",
+      "writers": [
+        "Caroline Cash"
+      ],
+      "artists": [
+        "Caroline Cash"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2023,
+      "startDate": "2023-09-01",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12135,23 +13222,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/peepee-poopoo/4050-159810/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "persephone",
       "title": "Persephone",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Persephone",
+      "publisher": "Archaia",
+      "writers": [
+        "Loïc Locatelli-Kournwsky"
+      ],
+      "artists": [
+        "Loïc Locatelli-Kournwsky"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-05-16",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12168,23 +13262,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/persephone/4050-110930/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "peter-cannon-thunderbolt",
       "title": "Peter Cannon: Thunderbolt",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Peter Cannon: Thunderbolt",
+      "publisher": "Dynamite Entertainment",
+      "writers": [
+        "Kieron Gillen"
+      ],
+      "artists": [
+        "Caspar Wijngaard"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2019,
+      "startDate": "2019-01-30",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12201,23 +13302,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/peter-cannon-thunderbolt/4050-116833/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "petrichor",
       "title": "Petrichor",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Petrichor",
+      "publisher": "grthink Comics",
+      "writers": [
+        "Gareth A Hopkins"
+      ],
+      "artists": [
+        "Gareth A Hopkins"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2020,
+      "startDate": "2020-06-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12234,11 +13342,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/petrichor/4050-127724/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "pilu-of-the-woods",
@@ -12272,6 +13383,49 @@ window.__NA_PANELI_COMICS__ = {
       "status": "needs-review",
       "kind": "comic",
       "reviewNote": "comicvine-no-match"
+    },
+    {
+      "id": "pink-lemonade",
+      "title": "Pink Lemonade",
+      "runTitle": "Pink Lemonade",
+      "publisher": "Oni Press",
+      "writers": [
+        "Nick Cagnetti"
+      ],
+      "artists": [
+        "Nick Cagnetti"
+      ],
+      "colorists": [
+        "Nick Cagnetti"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-09-28",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "84",
+          "publication": "2024-03-14",
+          "episodeTitle": "",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Pink Lemonade",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/pink-lemonade/4050-145289/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/pink-lemonade/4050-145289/"
     },
     {
       "id": "pizzeria-kamikaze",
@@ -12342,14 +13496,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "poison-ivy",
       "title": "Poison Ivy",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Poison Ivy",
+      "publisher": "DC Comics",
+      "writers": [
+        "G. Willow Wilson"
+      ],
+      "artists": [
+        "Marcio Takara"
+      ],
+      "colorists": [
+        "Arif Prianto"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-06-07",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12366,23 +13526,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/poison-ivy/4050-143431/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "pop-gun-war-v02-chain-letter",
       "title": "Pop Gun War v02: Chain Letter",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Pop Gun War",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Farel Dalrymple"
+      ],
+      "artists": [
+        "Farel Dalrymple"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2003,
+      "startDate": "2003-06-01",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12399,11 +13566,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/pop-gun-war/4050-61347/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "powers-of-x-01",
@@ -12606,14 +13776,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "pretty-deadly-the-rat",
       "title": "Pretty Deadly: The Rat",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Pretty Deadly: The Rat",
+      "publisher": "Image",
+      "writers": [
+        "Kelly Sue DeConnick"
+      ],
+      "artists": [
+        "Emma Rios"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-09-04",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12630,23 +13806,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/pretty-deadly-the-rat/4050-121094/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "prism-stalker",
       "title": "Prism Stalker",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Prism Stalker",
+      "publisher": "Image",
+      "writers": [
+        "Sloane Leong"
+      ],
+      "artists": [
+        "Sloane Leong"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-09-05",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12663,23 +13846,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/prism-stalker/4050-113253/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "proctor-valley-road",
       "title": "Proctor Valley Road",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Proctor Valley Road",
+      "publisher": "Boom! Studios",
+      "writers": [
+        "Alex Child",
+        "Grant Morrison"
+      ],
+      "artists": [
+        "Naomi Franquiz"
+      ],
+      "colorists": [
+        "Tamra Bonvillain"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-11-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12696,11 +13889,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/proctor-valley-road/4050-139982/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "prophet",
@@ -12740,6 +13936,49 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/prophet/4050-45269/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "prophet-strikefile",
+      "title": "Prophet Strikefile",
+      "url": "https://comicvine.gamespot.com/prophet-strikefile/4050-76874/",
+      "runTitle": "Prophet Strikefile",
+      "publisher": "Image",
+      "writers": [
+        "Brandon Graham"
+      ],
+      "artists": [
+        "Brandon Graham",
+        "Giannis Milonogiannis",
+        "Grim Wilkins"
+      ],
+      "colorists": [],
+      "startYear": 2014,
+      "startDate": "2014-09-10",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На пыльных панелях",
+          "number": "D11",
+          "publication": "2025-04-03",
+          "episodeTitle": "",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Prophet Strikefile",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/prophet-strikefile/4050-76874/"
         }
       ],
       "status": "verified",
@@ -12798,59 +14037,22 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "prophet-strikefile",
-      "title": "Prophet Strikefile",
-      "url": "https://comicvine.gamespot.com/prophet-strikefile/4050-76874/",
-      "runTitle": "Prophet Strikefile",
-      "publisher": "Image",
-      "writers": [
-        "Brandon Graham"
-      ],
-      "artists": [
-        "Brandon Graham",
-        "Giannis Milonogiannis",
-        "Grim Wilkins"
-      ],
-      "colorists": [],
-      "startYear": 2014,
-      "startDate": "2014-09-10",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На пыльных панелях",
-          "number": "D11",
-          "publication": "2025-04-03",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Prophet Strikefile",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/prophet-strikefile/4050-76874/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
       "id": "providence",
       "title": "Providence",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Providence",
+      "publisher": "Avatar Press",
+      "writers": [
+        "Alan Moore"
+      ],
+      "artists": [
+        "Jacen Burrows"
+      ],
+      "colorists": [
+        "Juan Carlos Rodriguez"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-05-27",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12867,23 +14069,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/providence/4050-64988/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "proxima-centauri",
       "title": "Proxima Centauri",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Proxima Centauri",
+      "publisher": "Image",
+      "writers": [
+        "Farel Dalrymple"
+      ],
+      "artists": [
+        "Farel Dalrymple"
+      ],
+      "colorists": [
+        "Farel Dalrymple"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-01-23",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12900,23 +14111,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/proxima-centauri/4050-116682/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "pulp",
       "title": "Pulp",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Pulp",
+      "publisher": "Image",
+      "writers": [
+        "Ed Brubaker"
+      ],
+      "artists": [
+        "Sean Phillips"
+      ],
+      "colorists": [
+        "Jacob Phillips"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-07-29",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12933,23 +14153,31 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/pulp/4050-129107/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "url": "https://comicvine.gamespot.com/pulp/4050-129107/"
     },
     {
       "id": "punisher-kill-krew",
       "title": "Punisher Kill Krew",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Punisher Kill Krew",
+      "publisher": "Marvel",
+      "writers": [
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Juan Ferreyra"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2020,
+      "startDate": "2020-01-22",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12966,23 +14194,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/punisher-kill-krew/4050-124456/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "punisher-soviet",
       "title": "Punisher: Soviet",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Punisher: Soviet",
+      "publisher": "Marvel",
+      "writers": [
+        "Garth Ennis"
+      ],
+      "artists": [
+        "Guillermo Ortego",
+        "Jacen Burrows"
+      ],
+      "colorists": [
+        "Nolan Woodard"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-08-05",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12999,29 +14237,40 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/punisher-soviet/4050-129257/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
-      "id": "punk-hazard-chapters-654-699",
+      "id": "punk-hazard-chapters-654-699-gol-d-panels-op10",
       "title": "Punk Hazard / Chapters #654-699",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP10",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-06-22",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Punk Hazard / Chapters #654-699",
@@ -13030,46 +14279,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "punk-lemonade",
-      "title": "Punk Lemonade",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
         {
-          "podcast": "На панелях",
-          "number": "84",
-          "publication": "2024-03-14",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Punk Lemonade",
-          "kind": "comic"
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "radio-spaceman",
@@ -13105,16 +14322,67 @@ window.__NA_PANELI_COMICS__ = {
       "reviewNote": "comicvine-no-match"
     },
     {
+      "id": "rare-flavours",
+      "title": "Rare Flavours",
+      "runTitle": "Rare Flavours",
+      "publisher": "Boom! Studios",
+      "writers": [
+        "Ram V"
+      ],
+      "artists": [
+        "Filipe Andrade"
+      ],
+      "colorists": [
+        "Filipe Andrade"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-09-20",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "98",
+          "publication": "2026-05-28",
+          "episodeTitle": "Шкаф с омнибасами",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
+          "rawTitle": "Rare Flavours",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "RSS Podster",
+          "url": "https://podster.fm/rss.xml?pid=39021"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/rare-flavours/4050-153715/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/rare-flavours/4050-153715/"
+    },
+    {
       "id": "reckless",
       "title": "Reckless",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Reckless",
+      "publisher": "Harlequin Comics",
+      "writers": [
+        "Julie Kenner"
+      ],
+      "artists": [
+        "Yoshiko Hanatsu"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-07-19",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13131,56 +14399,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "red",
-      "title": "Red",
-      "kind": "comic",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
+        },
         {
-          "podcast": "Gol D. Panels",
-          "number": "OP24",
-          "publication": "2023-12-29",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Red",
-          "kind": "comic"
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/reckless/4050-114596/"
         }
       ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "red-room",
       "title": "Red Room",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Red Room: The Antisocial Network",
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Ed Piskor"
+      ],
+      "artists": [
+        "Ed Piskor"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2021,
+      "startDate": "2021-10-12",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13197,23 +14439,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/red-room-the-antisocial-network/4050-139624/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "redlands",
       "title": "Redlands",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Redlands",
+      "publisher": "Image",
+      "writers": [
+        "Jordie Bellaire"
+      ],
+      "artists": [
+        "Vanesa R. Del Rey"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-08-09",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13230,23 +14481,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/redlands/4050-103405/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "redneck",
       "title": "Redneck",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Redneck",
+      "publisher": "Image",
+      "writers": [
+        "Donny Cates"
+      ],
+      "artists": [
+        "Lisandro Estherren"
+      ],
+      "colorists": [
+        "Dee Cunniffe"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-04-19",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13263,11 +14523,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/redneck/4050-100835/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "reign-of-x",
@@ -13338,14 +14601,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "rock-candy-mountain",
       "title": "Rock Candy Mountain",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Rock Candy Mountain",
+      "publisher": "Image",
+      "writers": [
+        "Kyle Starks"
+      ],
+      "artists": [
+        "Kyle Starks"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-04-11",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13362,23 +14629,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/rock-candy-mountain/4050-109786/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "rose",
       "title": "Rose",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Rose",
+      "publisher": "Image",
+      "writers": [
+        "Meredith Finch"
+      ],
+      "artists": [
+        "Ig Guara Barros"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2017,
+      "startDate": "2017-04-12",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13395,23 +14669,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/rose/4050-100703/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "royal-city",
       "title": "Royal City",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Royal City",
+      "publisher": "Image",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "Jeff Lemire"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2017,
+      "startDate": "2017-03-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13428,23 +14709,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/royal-city/4050-99265/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "ruby-falls",
       "title": "Ruby Falls",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Ruby Falls",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Ann Nocenti"
+      ],
+      "artists": [
+        "Flavia Biondi"
+      ],
+      "colorists": [
+        "Lee Loughridge"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-10-02",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13461,11 +14751,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/ruby-falls/4050-121714/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "rutabaga",
@@ -14260,22 +15553,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "skypiea-saga-chapters-218-302",
+      "id": "skypiea-saga-chapters-218-302-gol-d-panels-op3",
       "title": "Skypiea Saga / Chapters #218-302",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP3",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2021-11-09",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Skypiea Saga / Chapters #218-302",
@@ -14284,13 +15585,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "slaughterhouse-five",
@@ -14917,43 +16219,6 @@ window.__NA_PANELI_COMICS__ = {
       "reviewNote": "comicvine-credits-not-found"
     },
     {
-      "id": "stampede",
-      "title": "Stampede",
-      "runTitle": "Ludwig Von Drake in Fish Stampede  ",
-      "publisher": "Western Publishing",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1962,
-      "startDate": "1962-06-01",
-      "decade": "1960-е",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP20",
-          "publication": "2023-11-30",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Stampede",
-          "kind": "movie"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ludwig-von-drake-in-fish-stampede/4050-119928/"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "movie",
-      "reviewNote": "comicvine-credits-not-found"
-    },
-    {
       "id": "star-wars-knights-of-the-old-republic",
       "title": "Star Wars: Knights of the Old Republic",
       "runTitle": "Star Wars: Knights of the Old Republic",
@@ -15167,41 +16432,46 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "strong-world",
+      "id": "strong-world-gol-d-panels-op6",
       "title": "Strong World",
-      "runTitle": "Strong",
-      "publisher": "Ediciones Argos Juvenil",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": 1969,
-      "startDate": "",
-      "decade": "1960-е",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP6",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2022-02-03",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Strong World",
-          "kind": "movie"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/strong/4050-131959/"
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "movie",
-      "reviewNote": "comicvine-credits-not-found"
+      ]
     },
     {
       "id": "sun-bakery",
@@ -16019,6 +17289,57 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
+      "id": "не-живые",
+      "title": "The Ex-People",
+      "runTitle": "",
+      "publisher": "Grand Angle",
+      "writers": [
+        "Stephen Desberg"
+      ],
+      "artists": [
+        "Alexander Utkin"
+      ],
+      "colorists": [
+        "Alexander Utkin"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-08-31",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "96",
+          "publication": "2025-05-22",
+          "episodeTitle": "",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Не-живые",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Grand Angle",
+          "url": "https://www.angle.fr/bd/grand_angle/ex-people_the/the_ex-people_-_vol_01_sur_2/9782818990100"
+        },
+        {
+          "label": "Grand Angle: Stephen Desberg",
+          "url": "https://www.angle.fr/auteur/287"
+        },
+        {
+          "label": "Grand Angle: Alexander Utkin",
+          "url": "https://www.angle.fr/auteur/7005"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "url": "https://www.angle.fr/bd/grand_angle/ex-people_the/the_ex-people_-_vol_01_sur_2/9782818990100"
+    },
+    {
       "id": "the-fix",
       "title": "The Fix",
       "runTitle": "The Fix",
@@ -16096,46 +17417,6 @@ window.__NA_PANELI_COMICS__ = {
       "status": "needs-review",
       "kind": "comic",
       "reviewNote": "comicvine-credits-not-found"
-    },
-    {
-      "id": "the-goddess-of-manhattan",
-      "title": "The Goddess of Manhattan",
-      "runTitle": "The Goddess of Areth",
-      "publisher": "self published",
-      "writers": [
-        "Tyrone Washington Hunte"
-      ],
-      "artists": [
-        "Tyrone Washington Hunte"
-      ],
-      "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-12-23",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M14",
-          "publication": "2024-11-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "The Goddess of Manhattan",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-goddess-of-areth/4050-132794/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
     },
     {
       "id": "the-gravediggers-union",
@@ -16479,8 +17760,7 @@ window.__NA_PANELI_COMICS__ = {
       "runTitle": "The Immortal Thor",
       "publisher": "Marvel",
       "writers": [
-        "Al Ewing",
-        "Jonathan Hickman"
+        "Al Ewing"
       ],
       "artists": [
         "Martin Coccolo"
@@ -17010,43 +18290,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "the-mummy-s-curse",
-      "title": "The Mummy's Curse",
-      "runTitle": "Mummy's Curse",
-      "publisher": "Aircel Publishing",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1990,
-      "startDate": "",
-      "decade": "1990-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M11",
-          "publication": "2023-11-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "The Mummy's Curse",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/mummys-curse/4050-37157/"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
-    },
-    {
       "id": "the-new-statesmen",
       "title": "The New Statesmen",
       "runTitle": "",
@@ -17249,49 +18492,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "the-six-fingers",
-      "title": "The Six Fingers",
-      "url": "https://comicvine.gamespot.com/the-six-fingers/4050-156998/",
-      "runTitle": "The Six Fingers",
-      "publisher": "Image",
-      "writers": [
-        "Dan Watters"
-      ],
-      "artists": [
-        "Sumit Kumar"
-      ],
-      "colorists": [
-        "Lee Loughridge"
-      ],
-      "startYear": 2024,
-      "startDate": "2024-02-21",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "92",
-          "publication": "2024-12-30",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "The One Hand The Six Fingers",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-six-fingers/4050-156998/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
       "id": "the-originals",
       "title": "The Originals",
       "runTitle": "The Originals",
@@ -17409,39 +18609,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "the-proteus-club",
-      "title": "The Proteus Club",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M14",
-          "publication": "2024-11-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "The Proteus Club",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
     },
     {
       "id": "the-red-ten",
@@ -17871,6 +19038,49 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/the-sisters/4050-91295/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "the-six-fingers",
+      "title": "The Six Fingers",
+      "url": "https://comicvine.gamespot.com/the-six-fingers/4050-156998/",
+      "runTitle": "The Six Fingers",
+      "publisher": "Image",
+      "writers": [
+        "Dan Watters"
+      ],
+      "artists": [
+        "Sumit Kumar"
+      ],
+      "colorists": [
+        "Lee Loughridge"
+      ],
+      "startYear": 2024,
+      "startDate": "2024-02-21",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "92",
+          "publication": "2024-12-30",
+          "episodeTitle": "",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "The One Hand The Six Fingers",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-six-fingers/4050-156998/"
         }
       ],
       "status": "verified",
@@ -18386,7 +19596,9 @@ window.__NA_PANELI_COMICS__ = {
       "writers": [
         "Jake Wyatt"
       ],
-      "artists": [],
+      "artists": [
+        "Choo"
+      ],
       "colorists": [],
       "startYear": 2022,
       "startDate": "2023-05-24",
@@ -18414,7 +19626,8 @@ window.__NA_PANELI_COMICS__ = {
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "reviewNote": ""
     },
     {
       "id": "the-wicked-the-divine",
@@ -18620,22 +19833,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "thriller-bark-chapters-442-489",
+      "id": "thriller-bark-chapters-442-489-gol-d-panels-op6",
       "title": "Thriller Bark / Chapters #442-489",
-      "runTitle": "Thriller",
-      "publisher": "Toutain Editor",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": 1984,
-      "startDate": "1984-08-01",
-      "decade": "1980-е",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP6",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2022-02-03",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Thriller Bark / Chapters #442-489",
@@ -18644,17 +19865,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/thriller/4050-129278/"
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      ]
     },
     {
       "id": "time-out-of-mind",
@@ -18852,6 +20070,49 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
+      "id": "туннели",
+      "title": "Tunnels",
+      "url": "https://comicvine.gamespot.com/tunnels/4050-140027/",
+      "runTitle": "Tunnels",
+      "publisher": "Drawn & Quarterly",
+      "writers": [
+        "Rutu Modan"
+      ],
+      "artists": [
+        "Rutu Modan"
+      ],
+      "colorists": [
+        "Rutu Modan"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-11-03",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "96",
+          "publication": "2025-05-22",
+          "episodeTitle": "",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
+          "rawTitle": "Туннели",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/tunnels/4050-140027/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
       "id": "twisted-romance",
       "title": "Twisted Romance",
       "runTitle": "Twisted Romance",
@@ -19029,12 +20290,18 @@ window.__NA_PANELI_COMICS__ = {
       "id": "ultimate-comics-spider-man",
       "title": "Ultimate Comics: Spider-Man",
       "runTitle": "Ultimate Comics: Spider-Man",
-      "publisher": "Panini Verlag",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 2012,
-      "startDate": "",
+      "publisher": "Marvel",
+      "writers": [
+        "Brian Michael Bendis"
+      ],
+      "artists": [
+        "Sara Pichelli"
+      ],
+      "colorists": [
+        "Justin Ponsor"
+      ],
+      "startYear": 2011,
+      "startDate": "2011-09-14",
       "decade": "2010-е",
       "discussedIn": [
         {
@@ -19055,12 +20322,12 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimate-comics-spider-man/4050-63559/"
+          "url": "https://comicvine.gamespot.com/ultimate-comics-spider-man/4050-42821/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "url": "https://comicvine.gamespot.com/ultimate-comics-spider-man/4050-42821/"
     },
     {
       "id": "ultimate-comics-the-ultimates",
@@ -19571,19 +20838,19 @@ window.__NA_PANELI_COMICS__ = {
       "runTitle": "Ultimate Spider-Man",
       "publisher": "Marvel",
       "writers": [
-        "Dan Slott",
-        "Harrison Wilcox",
-        "Todd Casey"
+        "Bill Jemas",
+        "Brian Michael Bendis"
       ],
       "artists": [
-        "Nuno Plati",
-        "Steve Ditko",
-        "Ty Templeton"
+        "Art Thibert",
+        "Mark Bagley"
       ],
-      "colorists": [],
-      "startYear": 2012,
-      "startDate": "2012-06-30",
-      "decade": "2010-е",
+      "colorists": [
+        "Steve Buccellato"
+      ],
+      "startYear": 2000,
+      "startDate": "2000-09-06",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "Ultimate Panels",
@@ -19603,11 +20870,12 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimate-spider-man/4050-48343/"
+          "url": "https://comicvine.gamespot.com/ultimate-spider-man/4050-7257/"
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/ultimate-spider-man/4050-7257/"
     },
     {
       "id": "ultimate-spider-man-2024",
@@ -19655,13 +20923,19 @@ window.__NA_PANELI_COMICS__ = {
       "id": "ultimate-universe",
       "title": "Ultimate Universe",
       "runTitle": "Ultimate Universe",
-      "publisher": "Panini France",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 2012,
-      "startDate": "2012-05-01",
-      "decade": "2010-е",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Stefano Caselli"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2024,
+      "startDate": "2023-11-01",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Ultimate Panels",
@@ -19681,23 +20955,29 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimate-universe/4050-58660/"
+          "url": "https://comicvine.gamespot.com/ultimate-universe/4050-154417/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "url": "https://comicvine.gamespot.com/ultimate-universe/4050-154417/"
     },
     {
       "id": "ultimate-wolverine-vs-hulk",
       "title": "Ultimate Wolverine vs. Hulk",
       "runTitle": "Ultimate Wolverine vs. Hulk",
       "publisher": "Marvel",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 2009,
-      "startDate": "2009-10-14",
+      "writers": [
+        "Damon Lindelof"
+      ],
+      "artists": [
+        "Leinil Francis Yu"
+      ],
+      "colorists": [
+        "Dave McCaig"
+      ],
+      "startYear": 2005,
+      "startDate": "2005-12-21",
       "decade": "2000-е",
       "discussedIn": [
         {
@@ -19718,12 +20998,12 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimate-wolverine-vs-hulk/4050-37514/"
+          "url": "https://comicvine.gamespot.com/ultimate-wolverine-vs-hulk/4050-18408/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "url": "https://comicvine.gamespot.com/ultimate-wolverine-vs-hulk/4050-18408/"
     },
     {
       "id": "ultimate-x-men",
@@ -20268,22 +21548,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "wano-country-act-i-chapters-904-924",
+      "id": "wano-country-act-i-chapters-904-924-gol-d-panels-op20",
       "title": "Wano Country, Act I / Chapters #904-924",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP20",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-11-30",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Wano Country, Act I / Chapters #904-924",
@@ -20292,31 +21580,40 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
-      "id": "wano-country-act-ii-chapters-925-957",
+      "id": "wano-country-act-ii-chapters-925-957-gol-d-panels-op21",
       "title": "Wano Country, Act II / Chapters #925-957",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP21",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-07",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Wano Country, Act II / Chapters #925-957",
@@ -20325,13 +21622,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "war-of-the-realms",
@@ -20460,22 +21758,30 @@ window.__NA_PANELI_COMICS__ = {
       "status": "verified"
     },
     {
-      "id": "water-7-arc-chapters-303-374",
+      "id": "water-7-arc-chapters-303-374-gol-d-panels-op4",
       "title": "Water 7 Arc / Chapters #303-374",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP4",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2021-12-28",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Water 7 Arc / Chapters #303-374",
@@ -20484,13 +21790,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "water-memory",
@@ -20608,39 +21915,6 @@ window.__NA_PANELI_COMICS__ = {
       "status": "needs-review",
       "kind": "comic",
       "reviewNote": "comicvine-credits-not-found"
-    },
-    {
-      "id": "web-of-wyrd",
-      "title": "Web of Wyrd",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M12",
-          "publication": "2024-03-23",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Web of Wyrd",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
     },
     {
       "id": "weird-detective",
@@ -20854,22 +22128,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "whole-cake-island-part-1-chapters-825-859",
+      "id": "whole-cake-island-part-1-chapters-825-859-gol-d-panels-op15",
       "title": "Whole Cake Island, Part 1 / Chapters #825-859",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP15",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-09-15",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Whole Cake Island, Part 1 / Chapters #825-859",
@@ -20878,31 +22160,40 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
-      "id": "whole-cake-island-part-2-chapters-860-903",
+      "id": "whole-cake-island-part-2-chapters-860-903-gol-d-panels-op16",
       "title": "Whole Cake Island, Part 2 / Chapters #860-903",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP16",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-09-21",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Whole Cake Island, Part 2 / Chapters #860-903",
@@ -20911,13 +22202,14 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     },
     {
       "id": "william-gibson-s-alien-3",
@@ -21196,39 +22488,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "world-seeker-and-odyssey",
-      "title": "World Seeker & Odyssey",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP18",
-          "publication": "2023-10-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "World Seeker & Odyssey",
-          "kind": "videogame"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "videogame",
-      "reviewNote": "comicvine-no-match"
     },
     {
       "id": "x-of-swords-creation",
@@ -21738,22 +22997,30 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "zou-chapters-802-824",
+      "id": "zou-chapters-802-824-gol-d-panels-op14",
       "title": "Zou / Chapters #802-824",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
           "number": "OP14",
+          "episodeTitle": "Gol D. Panels",
           "publication": "2023-09-07",
-          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Zou / Chapters #802-824",
@@ -21762,14 +23029,16 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      ]
     }
   ],
-  "enrichedAt": "2026-06-28"
+  "enrichedAt": "2026-06-29",
+  "generatedAt": "2026-06-29T12:19:43.515Z"
 };
