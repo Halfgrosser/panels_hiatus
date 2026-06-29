@@ -6745,48 +6745,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "gold-gol-d-panels-op13",
-      "title": "Gold",
-      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
-      "runTitle": "One Piece",
-      "publisher": "Shueisha",
-      "writers": [
-        "Eiichiro Oda"
-      ],
-      "artists": [
-        "Eiichiro Oda"
-      ],
-      "colorists": [],
-      "startYear": 1997,
-      "startDate": "1997-12-24",
-      "decade": "1990-е",
-      "status": "verified",
-      "reviewNote": "",
-      "kind": "comic",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP13",
-          "episodeTitle": "Gol D. Panels",
-          "publication": "2023-07-13",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Gold",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
-        }
-      ]
-    },
-    {
       "id": "gone",
       "title": "Gone",
       "url": "https://comicvine.gamespot.com/gone/4050-154489/",
@@ -10092,48 +10050,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "live-action-series-season-2-gol-d-panels-op28",
-      "title": "Live-Action Series, Season 2",
-      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
-      "runTitle": "One Piece",
-      "publisher": "Shueisha",
-      "writers": [
-        "Eiichiro Oda"
-      ],
-      "artists": [
-        "Eiichiro Oda"
-      ],
-      "colorists": [],
-      "startYear": 1997,
-      "startDate": "1997-12-24",
-      "decade": "1990-е",
-      "status": "verified",
-      "reviewNote": "",
-      "kind": "comic",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP28",
-          "episodeTitle": "Gol D. Panels",
-          "publication": "2026-03-27",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Live-Action Series, Season 2",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
-        }
-      ]
     },
     {
       "id": "locke-and-key",
@@ -16432,48 +16348,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "strong-world-gol-d-panels-op6",
-      "title": "Strong World",
-      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
-      "runTitle": "One Piece",
-      "publisher": "Shueisha",
-      "writers": [
-        "Eiichiro Oda"
-      ],
-      "artists": [
-        "Eiichiro Oda"
-      ],
-      "colorists": [],
-      "startYear": 1997,
-      "startDate": "1997-12-24",
-      "decade": "1990-е",
-      "status": "verified",
-      "reviewNote": "",
-      "kind": "comic",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP6",
-          "episodeTitle": "Gol D. Panels",
-          "publication": "2022-02-03",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Strong World",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
-        }
-      ]
-    },
-    {
       "id": "sun-bakery",
       "title": "Sun Bakery",
       "runTitle": "Sun Bakery",
@@ -21716,48 +21590,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "watchmen-hbo",
-      "title": "Watchmen (HBO)",
-      "kind": "comic",
-      "runTitle": "Watchmen",
-      "publisher": "Abril",
-      "writers": [
-        "Alan Moore"
-      ],
-      "artists": [
-        "Dave Gibbons"
-      ],
-      "colorists": [
-        "John Higgins"
-      ],
-      "startYear": 1999,
-      "startDate": "",
-      "decade": "1990-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "48",
-          "publication": "2020-01-21",
-          "episodeTitle": "",
-          "proposer": "Никита Стародубцев",
-          "proposerColumn": "Никита",
-          "rawTitle": "Watchmen (HBO)",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/watchmen/4050-53871/"
-        }
-      ],
-      "status": "verified"
-    },
-    {
       "id": "water-7-arc-chapters-303-374-gol-d-panels-op4",
       "title": "Water 7 Arc / Chapters #303-374",
       "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
@@ -23040,5 +22872,5 @@ window.__NA_PANELI_COMICS__ = {
     }
   ],
   "enrichedAt": "2026-06-29",
-  "generatedAt": "2026-06-29T12:19:43.515Z"
+  "generatedAt": "2026-06-29T14:27:02.654Z"
 };

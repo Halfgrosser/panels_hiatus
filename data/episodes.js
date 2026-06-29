@@ -2471,8 +2471,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "48",
       "publication": "2020-01-21",
       "topics": [
-        "Doomsday Clock",
-        "Watchmen (HBO)"
+        "Doomsday Clock"
       ],
       "participants": "Алексей Замский, Никита Стародубцев",
       "comment": "Watchmen Sequels special",
@@ -2486,13 +2485,6 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
-        },
-        {
-          "title": "Watchmen (HBO)",
-          "rawTitle": "Watchmen (HBO)",
-          "kind": "comic",
-          "proposer": "Никита Стародубцев",
-          "proposerColumn": "Никита"
         }
       ]
     },
@@ -4774,8 +4766,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP6",
       "publication": "2022-02-03",
       "topics": [
-        "Thriller Bark / Chapters #442-489",
-        "Strong World"
+        "Thriller Bark / Chapters #442-489"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
@@ -4787,13 +4778,6 @@ window.__NA_PANELI_DATA__ = {
           "title": "Thriller Bark / Chapters #442-489",
           "rawTitle": "Thriller Bark / Chapters #442-489",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Strong World",
-          "rawTitle": "Strong World",
-          "kind": "movie",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
@@ -6202,8 +6186,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP13",
       "publication": "2023-07-13",
       "topics": [
-        "Dressrosa, Act III / Chapters #768-801",
-        "Gold"
+        "Dressrosa, Act III / Chapters #768-801"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
       "comment": "Gol D. Panels",
@@ -6214,13 +6197,6 @@ window.__NA_PANELI_DATA__ = {
         {
           "title": "Dressrosa, Act III / Chapters #768-801",
           "rawTitle": "Dressrosa, Act III / Chapters #768-801",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Gold",
-          "rawTitle": "Gold",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -9009,23 +8985,13 @@ window.__NA_PANELI_DATA__ = {
       "podcast": "Gol D. Panels",
       "number": "OP28",
       "publication": "2026-03-27",
-      "topics": [
-        "Live-Action Series, Season 2"
-      ],
+      "topics": [],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "Live-Action Series, Season 2",
-          "rawTitle": "Live-Action Series, Season 2",
-          "kind": "series",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "comics": []
     },
     {
       "id": 231,
