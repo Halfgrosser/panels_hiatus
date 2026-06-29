@@ -7,7 +7,8 @@ const SHEET_GID = "0";
 const sourceUrl = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}`;
 const rssUrl = process.env.BOOSTY_RSS_URL;
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
-const output = resolve(root, "data/episodes.js");
+const episodesOutput = resolve(root, "data/episodes.js");
+const comicsOutput = resolve(root, "data/comics.js");
 const patreonRecords = [
   {
     podcast: "На ночь глядя",
@@ -170,6 +171,13 @@ const publicationOverridesByTitle = new Map(
     ["Тула LIVE: Метатекст моя отсылка елы-палы лес густой", "2025-04-14"],
   ].map(([title, publication]) => [normalizeTitle(title), publication]),
 );
+const commonRequestEpisodeIds = new Set([
+  14, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 58, 59, 60, 62, 63, 66, 67, 70, 75, 78, 79, 80,
+  81, 82, 83, 84, 85, 86, 87, 88, 96, 100, 103, 104, 105, 106, 107, 108, 109, 110, 112, 113, 114, 115, 116,
+  118, 119, 120, 121, 123, 124, 125, 126, 127, 129, 130, 132, 136, 154, 157, 158, 161, 162, 165, 168, 172, 173,
+  174, 175, 178, 181, 182, 183, 184, 186, 190, 192, 194, 195, 196, 197, 198, 200, 203, 204, 209, 212, 213, 215,
+  219, 223, 224, 225, 226, 228, 230, 231,
+]);
 
 if (!rssUrl && !process.env.SYNC_RSS_FILE) {
   throw new Error("Set BOOSTY_RSS_URL or SYNC_RSS_FILE to load the RSS feed");
@@ -180,24 +188,26 @@ const [csv, rss] = await Promise.all([
   loadSource(rssUrl, "Boosty RSS", process.env.SYNC_RSS_FILE),
 ]);
 const [header, ...records] = parseCsv(csv);
-const rows = records.map((record) => Object.fromEntries(header.map((name, index) => [name, record[index] || ""])));
+const rows = buildSheetRows(header, records);
 
 const sheetEpisodes = rows
-  .filter((row) => row["Подкаст"].trim() && /^\d{2}\.\d{2}\.\d{2}$/.test(row["Публикация"].trim()))
-  .map((row) => ({
-    id: Number(row[""]) || null,
-    podcast: canonicalPodcast(clean(row["Подкаст"])),
-    number: clean(row["#"]),
-    publication: correctPublication(clean(row["Подкаст"]), clean(row["#"]), toIsoDate(row["Публикация"])),
-    topics: [row["Стас"], row["Леша"], row["Серега"], row["Слушатели"]]
-      .map(clean)
-      .filter((value) => value && value !== "-"),
-    participants: clean(row["Участники"]),
-    comment: clean(row["Комментарий"]),
-    supportersOnly: isMarked(row["Доступно только\nна Patreon / Boosty"]),
-    supportersFree: isMarked(row["В свободном доступе\nна Patreon / Boosty"]),
-    source: "google-sheet",
-  }));
+  .map(({ row, proposerColumns }) => {
+    const id = Number(row[""]) || null;
+    const comics = extractComicEntries(row, id, proposerColumns);
+    return {
+      id,
+      podcast: canonicalPodcast(clean(row["Подкаст"])),
+      number: clean(row["#"]),
+      publication: correctPublication(clean(row["Подкаст"]), clean(row["#"]), toIsoDate(row["Публикация"])),
+      topics: comics.map((comic) => comic.title),
+      comics,
+      participants: clean(row["Участники"]),
+      comment: clean(row["Комментарий"]),
+      supportersOnly: isMarked(row["Доступно только\nна Patreon / Boosty"]),
+      supportersFree: isMarked(row["В свободном доступе\nна Patreon / Boosty"]),
+      source: "google-sheet",
+    };
+  });
 
 const rssItems = parseRss(rss).filter((item) => !isRawRecording(item.title));
 const rssEpisodes = rssItems
@@ -224,12 +234,19 @@ const payload = {
   updatedAt: new Date().toISOString().slice(0, 10),
   episodes,
 };
+const comicsPayload = {
+  source: sourceUrl,
+  updatedAt: payload.updatedAt,
+  comics: buildComicsCatalog(episodes),
+};
 
-await mkdir(dirname(output), { recursive: true });
-await writeFile(output, `window.__NA_PANELI_DATA__ = ${JSON.stringify(payload, null, 2)};\n`, "utf8");
+await mkdir(dirname(episodesOutput), { recursive: true });
+await writeFile(episodesOutput, `window.__NA_PANELI_DATA__ = ${JSON.stringify(payload, null, 2)};\n`, "utf8");
+await writeFile(comicsOutput, `window.__NA_PANELI_COMICS__ = ${JSON.stringify(comicsPayload, null, 2)};\n`, "utf8");
 console.log(
-  `Saved ${episodes.length} episodes (${sheetEpisodes.length} from the sheet, ${rssEpisodes.length} RSS-only, ${patreonEpisodes.length} Patreon-only) to ${output}`,
+  `Saved ${episodes.length} episodes (${sheetEpisodes.length} from the sheet, ${rssEpisodes.length} RSS-only, ${patreonEpisodes.length} Patreon-only) to ${episodesOutput}`,
 );
+console.log(`Saved ${comicsPayload.comics.length} comic records to ${comicsOutput}`);
 
 async function loadSource(url, label, localPath) {
   if (localPath) return readFile(localPath, "utf8");
@@ -270,6 +287,172 @@ function isRepresentedInSheet(item, sheetEpisodes) {
   }
 
   return false;
+}
+
+function buildSheetRows(header, records) {
+  const rows = [];
+  let proposerColumns = defaultProposerColumns();
+
+  for (const record of records) {
+    const row = Object.fromEntries(header.map((name, index) => [name, record[index] || ""]));
+    const updatedColumns = proposerColumnsFromHeaderRow(row);
+    if (updatedColumns) {
+      proposerColumns = updatedColumns;
+      continue;
+    }
+    if (row["Подкаст"].trim() && /^\d{2}\.\d{2}\.\d{2}$/.test(row["Публикация"].trim())) {
+      rows.push({ row, proposerColumns });
+    }
+  }
+
+  return rows;
+}
+
+function extractComicEntries(row, episodeId, columns = defaultProposerColumns()) {
+  const entries = [];
+
+  for (const { column, proposer, label } of columns) {
+    const raw = clean(row[column]);
+    if (!raw || raw === "-") continue;
+    for (const part of splitComicCell(raw)) {
+      const cleaned = normalizeComicTitle(part);
+      if (!cleaned.title) continue;
+      entries.push({
+        title: cleaned.title,
+        rawTitle: part,
+        kind: discussionKind(cleaned.title, part, row),
+        proposer: cleaned.proposer || proposer,
+        proposerColumn: label,
+      });
+    }
+  }
+
+  if (commonRequestEpisodeIds.has(episodeId)) {
+    return entries.map((entry) => ({ ...entry, proposer: "Общая заявка" }));
+  }
+
+  return entries;
+}
+
+function defaultProposerColumns() {
+  return [
+    { column: "Стас", label: "Стас", proposer: "Станислав Шаргородский" },
+    { column: "Леша", label: "Леша", proposer: "Алексей Замский" },
+    { column: "Серега", label: "Серега", proposer: "Сергей Мангасаров" },
+    { column: "Слушатели", label: "Слушатели", proposer: "Слушатели" },
+  ];
+}
+
+function proposerColumnsFromHeaderRow(row) {
+  const columns = defaultProposerColumns();
+  const labels = columns.map(({ column }) => clean(row[column]));
+  const filled = labels.filter(Boolean);
+  if (!filled.length || clean(row["Подкаст"]) || clean(row["Публикация"])) return null;
+  if (!filled.every(isProposerHeaderLabel)) return null;
+  return columns.map(({ column }, index) => {
+    const label = labels[index] || column;
+    return {
+      column,
+      label,
+      proposer: normalizeProposer(label),
+    };
+  });
+}
+
+function isProposerHeaderLabel(value) {
+  return /^(Стас|Леша|Лёша|Никита|Серега|Серёга|Слушатели)$/i.test(clean(value));
+}
+
+function splitComicCell(value) {
+  if (normalizeTitle(value) === normalizeTitle("The Wicked + The Divine")) return [value];
+  return value.split(/\s+\+\s+/).map(clean).filter(Boolean);
+}
+
+function normalizeComicTitle(value) {
+  const raw = clean(value);
+  const proposerMatch = raw.match(/\s+\((Стас|Леша|Лёша|Никита|Серега|Серёга|Слушатели)\)$/i);
+  const proposer = proposerMatch ? normalizeProposer(proposerMatch[1]) : "";
+  const title = proposerMatch ? clean(raw.slice(0, proposerMatch.index)) : raw;
+  return { title, proposer };
+}
+
+function normalizeProposer(value) {
+  const normalized = value.toLocaleLowerCase("ru").replaceAll("ё", "е");
+  const names = {
+    "стас": "Станислав Шаргородский",
+    "леша": "Алексей Замский",
+    "никита": "Никита Стародубцев",
+    "серега": "Сергей Мангасаров",
+    "слушатели": "Слушатели",
+  };
+  return names[normalized] || value;
+}
+
+function discussionKind(title, rawTitle, row) {
+  const podcast = canonicalPodcast(clean(row["Подкаст"]));
+  const comment = clean(row["Комментарий"]);
+  const value = normalizeTitle(`${title} ${rawTitle} ${comment}`);
+  if (podcast === "The Podcast of Zelda") return "videogame";
+  if (/world seeker|odyssey|the podcast of zelda|skyward sword|minish cap|ocarina of time|link's awakening|oracle of seasons|oracle of ages|tri force heroes|echoes of wisdom|hyrule fantasy/.test(value)) {
+    return "videogame";
+  }
+  if (/live action series|watchmen hbo|season 1|season 2/.test(value)) return "series";
+  if (/baron omatsuri|strong world|stampede|film red|\\bred\\b|\\bgold\\b/.test(value)) return "movie";
+  return "comic";
+}
+
+function buildComicsCatalog(episodes) {
+  const byTitle = new Map();
+  for (const episode of episodes) {
+    for (const comic of episode.comics || []) {
+      const key = `${comic.kind || "comic"}|${normalizeTitle(comic.title)}`;
+      const record = byTitle.get(key) || {
+        id: slugify(comic.title),
+        title: comic.title,
+        kind: comic.kind || "comic",
+        runTitle: "",
+        publisher: "",
+        writers: [],
+        artists: [],
+        colorists: [],
+        startYear: null,
+        startDate: "",
+        decade: "",
+        discussedIn: [],
+        sources: [
+          {
+            label: "Публичная таблица выпусков",
+            url: sourceUrl,
+          },
+        ],
+        status: "needs-review",
+      };
+
+      record.discussedIn.push({
+        podcast: episode.podcast,
+        number: episode.number,
+        publication: episode.publication,
+        episodeTitle: episode.title || "",
+        proposer: comic.proposer,
+        proposerColumn: comic.proposerColumn,
+        rawTitle: comic.rawTitle,
+        kind: comic.kind || "comic",
+      });
+      byTitle.set(key, record);
+    }
+  }
+
+  return [...byTitle.values()].sort((left, right) => left.title.localeCompare(right.title, "ru", { sensitivity: "base" }));
+}
+
+function slugify(value) {
+  const slug = value
+    .toLocaleLowerCase("en")
+    .replaceAll("&", " and ")
+    .replace(/[^a-z0-9а-яё]+/giu, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 80);
+  return slug || `comic-${Math.random().toString(36).slice(2)}`;
 }
 
 function titleIdentity(title) {

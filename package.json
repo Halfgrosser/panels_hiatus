@@ -4,6 +4,9 @@
   "private": true,
   "scripts": {
     "sync": "node scripts/sync-data.mjs",
+    "sync:comics": "node scripts/sync-comics.mjs",
+    "enrich:comics": "node scripts/enrich-comics-locg.mjs",
+    "enrich:comicvine": "node scripts/enrich-comics-comicvine.mjs",
     "dev": "python3 -m http.server 4173",
     "build": "node scripts/build.mjs"
   }
