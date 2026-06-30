@@ -615,14 +615,9 @@ input[type="search"] {
   gap: 8px;
 }
 
-.comic-title-line a {
-  flex: 1 1 auto;
+.comic-title-line a,
+.comic-title-line span:first-child {
   min-width: 0;
-  overflow-wrap: anywhere;
-}
-
-.comic-title-line .comic-status-icon {
-  flex: 0 0 auto;
 }
 
 .comic-table small {
