@@ -2189,23 +2189,30 @@ window.__NA_PANELI_COMICS__ = {
       "id": "black-hammer",
       "title": "Black Hammer",
       "runTitle": "Black Hammer",
-      "publisher": "Splitter",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 2018,
-      "startDate": "2018-03-01",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "David Rubín",
+        "Dean Ormston"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2016,
+      "startDate": "2016-07-20",
       "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
           "number": "64",
-          "publication": "2021-07-13",
+          "publication": "2021-08-11",
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Black Hammer",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "BLACK HAMMER"
         }
       ],
       "sources": [
@@ -2215,11 +2222,388 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/black-hammer/4050-114167/"
+          "url": "https://comicvine.gamespot.com/black-hammer/4050-92354/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "sherlock-frankenstein-and-the-legion-of-evil",
+      "title": "Sherlock Frankenstein and the Legion of Evil",
+      "runTitle": "Sherlock Frankenstein and the Legion of Evil",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "David Rubín"
+      ],
+      "colorists": [
+        "Dave Stewart",
+        "David Rubín",
+        "Kike J. Diaz"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-10-18",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "SHERLOCK FRANKENSTEIN AND THE LEGION OF DOOM"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/sherlock-frankenstein-and-the-legion-of-evil/4050-105355/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "doctor-andromeda-and-the-kingdom-of-lost-tomorrows",
+      "title": "Doctor Andromeda and the Kingdom of Lost Tomorrows",
+      "runTitle": "Doctor Andromeda and the Kingdom of Lost Tomorrows",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "Max Fiumara"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-05-12",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "DOCTOR ANDROMEDA AND THE KINGDOM OF THE LOST TOMORROW"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/doctor-andromeda-and-the-kingdom-of-lost-tomorrows/4050-136017/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "quantum-age",
+      "title": "Quantum Age",
+      "runTitle": "Quantum Age",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "Wilfredo Torres"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-07-04",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "THE QUANTUM AGE"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/quantum-age/4050-112051/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "black-hammer-45",
+      "title": "Black Hammer '45",
+      "runTitle": "Black Hammer '45",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire",
+        "Ray Fawkes"
+      ],
+      "artists": [
+        "Matt Kindt"
+      ],
+      "colorists": [
+        "Sharlene Kindt"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-03-06",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "BLACK HAMMER ’45"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/black-hammer-45/4050-117437/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "black-hammer-justice-league-hammer-of-justice",
+      "title": "Black Hammer/Justice League: Hammer of Justice!",
+      "runTitle": "Black Hammer/Justice League: Hammer of Justice!",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "Michael Walsh"
+      ],
+      "colorists": [],
+      "startYear": 2019,
+      "startDate": "2019-07-10",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "BLACK HAMMER/JUSTICE LEAGUE: HAMMER OF JUSTICE"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/black-hammerjustice-league-hammer-of-justice/4050-120103/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "skulldigger-and-skeleton-boy",
+      "title": "Skulldigger and Skeleton Boy",
+      "runTitle": "Skulldigger and Skeleton Boy",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "Tonci Zonjic"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-12-18",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "SKULLDIGGER + SKELETON BOY"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/skulldigger-and-skeleton-boy/4050-123682/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "colonel-weird-cosmagog",
+      "title": "Colonel Weird: Cosmagog",
+      "runTitle": "Colonel Weird: Cosmagog",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Jeff Lemire"
+      ],
+      "artists": [
+        "Tyler Crook"
+      ],
+      "colorists": [],
+      "startYear": 2020,
+      "startDate": "2020-10-28",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "COLONEL WEIRD: COSMAGOG"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/colonel-weird-cosmagog/4050-131511/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "barbalien-red-planet",
+      "title": "Barbalien: Red Planet",
+      "runTitle": "Barbalien: Red Planet",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Tate Brombal"
+      ],
+      "artists": [
+        "Gabriel Hernandez Walta"
+      ],
+      "colorists": [
+        "Dave Stewart",
+        "Jordie Bellaire"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-18",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "BARBALIEN: RED PLANET"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/barbalien-red-planet/4050-132099/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "black-hammer-visions",
+      "title": "Black Hammer: Visions",
+      "runTitle": "Black Hammer: Visions",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Patton Oswalt"
+      ],
+      "artists": [
+        "Dean Kotz"
+      ],
+      "colorists": [
+        "Jason Wordie"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-02-10",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "64",
+          "publication": "2021-08-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "BLACK HAMMER VISIONS"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/black-hammer-visions/4050-133717/"
+        }
+      ],
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -6820,6 +7204,47 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
+      "id": "gawains-girlfriend-and-the-green-knight",
+      "title": "Gawain's Girlfriend and the Green Knight",
+      "runTitle": "Gawain's Girlfriend and the Green Knight",
+      "publisher": "Webtoon",
+      "writers": [
+        "Polly Guo"
+      ],
+      "artists": [
+        "Polly Guo"
+      ],
+      "colorists": [],
+      "startYear": 2015,
+      "startDate": "2015-12-12",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "71",
+          "publication": "2022-02-15",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Общая заявка",
+          "rawTitle": "Gawain's Girlfriend and the Green Knight",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "itch.io",
+          "url": "https://pollyguo.itch.io/gawains-girlfriend"
+        }
+      ],
+      "url": "https://pollyguo.itch.io/gawains-girlfriend",
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
       "id": "go-bots",
       "title": "Go-Bots",
       "runTitle": "Go-Bots",
@@ -7271,30 +7696,32 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "hellboy-and-the-b-p-r-d-2020-one-shots-by-mignola",
-      "title": "Hellboy and the B.P.R.D. 2020 One-shots by Mignola",
-      "runTitle": "Hellboy and the B.P.R.D.",
+      "id": "hellboy-krampusnacht",
+      "title": "Hellboy: Krampusnacht",
+      "runTitle": "Hellboy: Krampusnacht",
       "publisher": "Dark Horse Comics",
       "writers": [
         "Mike Mignola"
       ],
       "artists": [
-        "Mike Mignola"
+        "Adam Hughes"
       ],
-      "colorists": [],
-      "startYear": 2008,
-      "startDate": "2008-04-01",
-      "decade": "2000-е",
+      "colorists": [
+        "Adam Hughes"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-12-20",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M0",
-          "publication": "2021-10-21",
+          "publication": "2021-09-24",
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D. 2020 One-shots by Mignola",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "Hellboy: Krampusnacht"
         }
       ],
       "sources": [
@@ -7304,7 +7731,347 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd/4050-142473/"
+          "url": "https://comicvine.gamespot.com/hellboy-krampusnacht/4050-107150/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-the-beast-of-vargu",
+      "title": "Hellboy and the B.P.R.D.: The Beast of Vargu",
+      "runTitle": "Hellboy and the B.P.R.D.: The Beast of Vargu",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Duncan Fegredo"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-06-19",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Beast of Vargu"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-beast-of-vargu/4050-119754/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-the-secret-god-of-the-roma",
+      "title": "Hellboy and the B.P.R.D.: The Secret God of the Roma",
+      "runTitle": "Hellboy and the B.P.R.D.: The Beast of Vargu",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Duncan Fegredo"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-06-19",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Secret God of the Roma"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-beast-of-vargu-1-the-secr/4000-711844/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-long-night-at-goloski-station",
+      "title": "Hellboy and the B.P.R.D.: Long Night at Goloski Station",
+      "runTitle": "Hellboy and the B.P.R.D.: Long Night at Goloski Station",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Matt Smith (US)"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-10-30",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: Long Night at Goloski Station"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-long-night-at-goloski-station/4050-122465/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-the-misers-gift",
+      "title": "Hellboy: The Miser's Gift",
+      "runTitle": "Hellboy Winter Special 2019",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson",
+        "Mike Mignola",
+        "Scott Allie"
+      ],
+      "artists": [
+        "Andrea Mutti",
+        "Leila del Duca",
+        "Mark Laszlo"
+      ],
+      "colorists": [
+        "Dave Stewart",
+        "Lee Loughridge",
+        "Michelle Madsen"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-01-15",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy: The Miser's Gift"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-winter-special-2019-1-the-misers-gift-the-/4000-733718/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-the-return-of-effie-kolb",
+      "title": "Hellboy and the B.P.R.D.: The Return of Effie Kolb",
+      "runTitle": "Hellboy and the B.P.R.D.: The Return of Effie Kolb",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Zach Howard"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-02-19",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Return of Effie Kolb"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-return-of-effie-kolb/4050-125130/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-the-seven-wives-club",
+      "title": "Hellboy and the B.P.R.D.: The Seven Wives Club",
+      "runTitle": "Hellboy and the B.P.R.D.: The Seven Wives Club",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Adam Hughes"
+      ],
+      "colorists": [],
+      "startYear": 2020,
+      "startDate": "2020-11-11",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Seven Wives Club"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-seven-wives-club/4050-131862/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-her-fatal-hour",
+      "title": "Hellboy and the B.P.R.D.: Her Fatal Hour",
+      "runTitle": "Hellboy and the B.P.R.D.: Her Fatal Hour and the Sending",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Tiernen Trevallion"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-12-02",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: Her Fatal Hour"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-her-fatal-hour-and-the-sendin/4000-820119/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-the-sending",
+      "title": "Hellboy and the B.P.R.D.: The Sending",
+      "runTitle": "Hellboy and the B.P.R.D.: Her Fatal Hour and the Sending",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Tiernen Trevallion"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-12-02",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-09-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Sending"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-her-fatal-hour-and-the-sendin/4000-820119/"
         }
       ],
       "status": "verified",
@@ -8008,39 +8775,6 @@ window.__NA_PANELI_COMICS__ = {
         }
       ],
       "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hickman-s-departure",
-      "title": "Hickman's Departure",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Inferno Panels",
-          "number": "IP0",
-          "publication": "2021-09-29",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hickman's Departure",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
       "kind": "comic"
     },
     {
@@ -8948,15 +9682,21 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "inferno-01",
-      "title": "Inferno [01]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "title": "Inferno #01",
+      "runTitle": "Inferno",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Valerio Schiti"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-09-29",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -8965,7 +9705,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno [01]",
+          "rawTitle": "Inferno #01",
           "kind": "comic"
         }
       ],
@@ -8973,23 +9713,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/inferno-1/4000-886937/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "inferno-02",
-      "title": "Inferno [02]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "title": "Inferno #02",
+      "runTitle": "Inferno",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Stefano Caselli"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-10-27",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -8998,7 +9747,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno [02]",
+          "rawTitle": "Inferno #02",
           "kind": "comic"
         }
       ],
@@ -9006,23 +9755,35 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/inferno-2/4000-891562/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "inferno-03",
-      "title": "Inferno [03]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "title": "Inferno #03",
+      "runTitle": "Inferno",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Adriano Di Benedetto",
+        "R. B. Silva",
+        "Stefano Caselli",
+        "Valerio Schiti"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-12-08",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -9031,7 +9792,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno [03]",
+          "rawTitle": "Inferno #03",
           "kind": "comic"
         }
       ],
@@ -9039,23 +9800,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/inferno-3/4000-897331/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "inferno-04",
-      "title": "Inferno [04]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "title": "Inferno #04",
+      "runTitle": "Legion of Super-Heroes",
+      "publisher": "DC Comics",
+      "writers": [
+        "Brian Michael Bendis"
+      ],
+      "artists": [
+        "Ryan Sook",
+        "Wade von Grawbadger"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-11-06",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -9064,7 +9835,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno [04]",
+          "rawTitle": "Inferno #04",
           "kind": "comic"
         }
       ],
@@ -9072,11 +9843,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/legion-of-super-heroes/4050-122626/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "infinite-crisis",
@@ -10554,14 +11328,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "locke-and-key-the-golden-age",
       "title": "Locke & Key: The Golden Age",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Locke & Key: The Golden Age",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Joe Hill"
+      ],
+      "artists": [
+        "Gabriel Rodriguez"
+      ],
+      "colorists": [
+        "Jay Fotos"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-04-26",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На бонусных панелях",
@@ -10578,11 +11358,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/locke-and-key-the-golden-age/4050-144610/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "lodger",
@@ -13237,14 +14020,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "our-encounters-with-evil",
       "title": "Our Encounters with Evil",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Our Encounters With Evil",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Warwick Johnson Cadwell"
+      ],
+      "artists": [
+        "Warwick Johnson Cadwell"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2019,
+      "startDate": "2019-11-13",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -13261,11 +14048,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/our-encounters-with-evil/4050-122799/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "outer-darkness",
@@ -17197,9 +17987,9 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "tales-from-the-outerverse",
-      "title": "Tales from the Outerverse",
-      "runTitle": "Tales from the Outerverse",
+      "id": "cojacaru-the-skinner",
+      "title": "Cojacaru the Skinner",
+      "runTitle": "Cojacaru the Skinner",
       "publisher": "Dark Horse Comics",
       "writers": [
         "Christopher Golden",
@@ -17211,8 +18001,8 @@ window.__NA_PANELI_COMICS__ = {
       "colorists": [
         "Michelle Madsen"
       ],
-      "startYear": 2022,
-      "startDate": "2022-02-22",
+      "startYear": 2021,
+      "startDate": "2021-04-21",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -17222,7 +18012,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Tales from the Outerverse",
+          "rawTitle": "Cojacaru the Skinner",
           "kind": "comic"
         }
       ],
@@ -17233,7 +18023,93 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/tales-from-the-outerverse/4050-141701/"
+          "url": "https://comicvine.gamespot.com/cojacaru-the-skinner/4050-135566/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "imogen-of-the-wyrding-way",
+      "title": "Imogen of the Wyrding Way",
+      "runTitle": "Imogen of the Wyrding Way",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Peter Bergting"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-23",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M2",
+          "publication": "2021-12-22",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Imogen of the Wyrding Way",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/imogen-of-the-wyrding-way/4050-137052/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "golem-walks-among-us",
+      "title": "Golem Walks Among Us!",
+      "runTitle": "The Golem Walks Among Us!",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Peter Bergting"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-08-04",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M2",
+          "publication": "2021-12-22",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Golem Walks Among Us!",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-golem-walks-among-us/4050-138119/"
         }
       ],
       "status": "verified",
@@ -17979,22 +18855,23 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "the-hidden-land",
-      "title": "The Hidden Land",
-      "runTitle": "The Hidden",
-      "publisher": "Fantagraphics",
+      "id": "young-hellboy-the-hidden-land",
+      "title": "Young Hellboy: The Hidden Land",
+      "runTitle": "Young Hellboy: The Hidden Land",
+      "publisher": "Dark Horse Comics",
       "writers": [
-        "Richard Sala"
+        "Mike Mignola",
+        "Tom Sniegoski"
       ],
       "artists": [
-        "Richard Sala"
+        "Craig Rousseau"
       ],
       "colorists": [
-        "Richard Sala"
+        "Dave Stewart"
       ],
-      "startYear": 2011,
-      "startDate": "2011-06-01",
-      "decade": "2010-е",
+      "startYear": 2021,
+      "startDate": "2021-02-17",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -18003,8 +18880,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "The Hidden Land",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "Young Hellboy: The Hidden Land"
         }
       ],
       "sources": [
@@ -18014,7 +18891,97 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-hidden/4050-55740/"
+          "url": "https://comicvine.gamespot.com/young-hellboy-the-hidden-land/4050-133879/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "sarah-jewell-the-longest-night",
+      "title": "Sarah Jewell: The Longest Night",
+      "runTitle": "Hellboy Winter Special 2019",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson",
+        "Mike Mignola",
+        "Scott Allie"
+      ],
+      "artists": [
+        "Andrea Mutti",
+        "Leila del Duca",
+        "Mark Laszlo"
+      ],
+      "colorists": [
+        "Dave Stewart",
+        "Lee Loughridge",
+        "Michelle Madsen"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-01-15",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M1",
+          "publication": "2021-11-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Sarah Jewell: The Longest Night"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-winter-special-2019-1-the-misers-gift-the-/4000-733718/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "the-house-of-lost-horizons-a-sarah-jewell-mystery",
+      "title": "The House of Lost Horizons: A Sarah Jewell Mystery",
+      "runTitle": "The House of Lost Horizons: A Sarah Jewell Mystery",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson"
+      ],
+      "artists": [
+        "Leila del Duca"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-02-22",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M1",
+          "publication": "2021-11-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "The House of Lost Horizons: A Sarah Jewell Mystery"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-house-of-lost-horizons-a-sarah-jewell-mystery/4050-141703/"
         }
       ],
       "status": "verified",
@@ -18057,48 +19024,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/the-highest-house/4050-115544/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "the-house-of-lost-horizons",
-      "title": "The House of Lost Horizons",
-      "runTitle": "The House of Lost Horizons",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson"
-      ],
-      "artists": [
-        "Leila del Duca"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-05-12",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M1",
-          "publication": "2021-11-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "The House of Lost Horizons",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-house-of-lost-horizons/4050-136014/"
         }
       ],
       "status": "verified",
@@ -20215,7 +21140,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-witch-queens",
-      "title": "The Witch Queens",
+      "title": "Lady Baltimore: The Witch Queens",
       "runTitle": "Lady Baltimore: The Witch Queens",
       "publisher": "Dark Horse Comics",
       "writers": [
@@ -20239,7 +21164,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "The Witch Queens",
+          "rawTitle": "Lady Baltimore: The Witch Queens",
           "kind": "comic"
         }
       ],

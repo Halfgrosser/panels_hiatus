@@ -266,13 +266,16 @@ function joinCredit(values) {
 }
 
 function renderCriterionList(group, values, options = {}) {
-  return values?.length ? values.map((value) => renderCriterionValue(group, value)).join(", ") : options.emptyLabel ?? "на проверке";
+  if (!values?.length) return options.emptyLabel ?? "на проверке";
+  return values
+    .map((value, index) => `<span class="criterion-item">${renderCriterionValue(group, value, { suffix: index < values.length - 1 ? "," : "" })}</span>`)
+    .join(" ");
 }
 
-function renderCriterionValue(group, value) {
+function renderCriterionValue(group, value, options = {}) {
   if (!value) return "на проверке";
   const selected = activeCriteria[group]?.has(normalize(value));
-  return `<button class="criterion-link${selected ? " is-selected" : ""}" type="button" data-filter-group="${escapeHtml(group)}" data-filter-value="${escapeHtml(value)}">${escapeHtml(value)}</button>`;
+  return `<button class="criterion-link${selected ? " is-selected" : ""}" type="button" data-filter-group="${escapeHtml(group)}" data-filter-value="${escapeHtml(value)}">${escapeHtml(value)}${escapeHtml(options.suffix || "")}</button>`;
 }
 
 function handleCriterionClick(event) {

@@ -504,7 +504,7 @@ input[type="search"] {
 }
 
 .table-wrap {
-  overflow: auto;
+  overflow: visible;
   border-radius: 8px;
 }
 
@@ -566,6 +566,11 @@ input[type="search"] {
   color: var(--hiatus-dark);
   background: transparent;
   outline: 0;
+}
+
+.criterion-item {
+  display: inline-block;
+  white-space: nowrap;
 }
 
 .comic-table {
