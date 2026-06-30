@@ -504,8 +504,7 @@ input[type="search"] {
 }
 
 .table-wrap {
-  overflow-x: auto;
-  overflow-y: visible;
+  overflow: visible;
   border-radius: 8px;
 }
 
