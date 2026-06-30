@@ -504,7 +504,8 @@ input[type="search"] {
 }
 
 .table-wrap {
-  overflow: auto;
+  overflow-x: auto;
+  overflow-y: visible;
   border-radius: 8px;
 }
 
@@ -587,7 +588,7 @@ input[type="search"] {
 .comic-table th {
   position: sticky;
   top: 0;
-  z-index: 1;
+  z-index: 2;
   color: var(--muted);
   background: #fffaf0;
   font-size: 0.68rem;
