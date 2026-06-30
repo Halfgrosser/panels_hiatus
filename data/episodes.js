@@ -4863,7 +4863,7 @@ window.__NA_PANELI_DATA__ = {
         "Beta Ray Bill",
         "Deep Dark Fears",
         "Kane & Able",
-        "Glass Town"
+        "Glass Town: The Imaginary World of the Brontës"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "-",
@@ -4893,7 +4893,7 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         },
         {
-          "title": "Glass Town",
+          "title": "Glass Town: The Imaginary World of the Brontës",
           "rawTitle": "Glass Town",
           "kind": "comic",
           "proposer": "Слушатели",
@@ -4907,8 +4907,8 @@ window.__NA_PANELI_DATA__ = {
       "number": "M4",
       "publication": "2022-02-25",
       "topics": [
-        "The Secret of Chesbro House",
-        "The Bones of Giant"
+        "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
+        "Hellboy: The Bones of Giants"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -4917,14 +4917,14 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "The Secret of Chesbro House",
+          "title": "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
           "rawTitle": "The Secret of Chesbro House",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "The Bones of Giant",
+          "title": "Hellboy: The Bones of Giants",
           "rawTitle": "The Bones of Giant",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -5022,8 +5022,8 @@ window.__NA_PANELI_DATA__ = {
       "number": "M5",
       "publication": "2022-04-12",
       "topics": [
-        "The Reign of Darkness",
-        "The Silver Lantern Club"
+        "Witchfinder: The Reign of Darkness",
+        "Hellboy: The Silver Lantern Club"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -5032,14 +5032,14 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "The Reign of Darkness",
+          "title": "Witchfinder: The Reign of Darkness",
           "rawTitle": "The Reign of Darkness",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "The Silver Lantern Club",
+          "title": "Hellboy: The Silver Lantern Club",
           "rawTitle": "The Silver Lantern Club",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -5260,7 +5260,8 @@ window.__NA_PANELI_DATA__ = {
       "number": "LR13",
       "publication": "2022-07-05",
       "topics": [
-        "My Little Pony & Transformers"
+        "My Little Pony/Transformers",
+        "My Little Pony/Transformers II"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Утешительное чтение",
@@ -5269,7 +5270,14 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "My Little Pony & Transformers",
+          "title": "My Little Pony/Transformers",
+          "rawTitle": "My Little Pony & Transformers",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "My Little Pony/Transformers II",
           "rawTitle": "My Little Pony & Transformers",
           "kind": "comic",
           "proposer": "Алексей Замский",
@@ -5460,7 +5468,7 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2022-10-21",
       "topics": [
         "The Sword of Hyperborea",
-        "Time Out of Mind"
+        "The British Paranormal Society: Time Out of Mind"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -5476,7 +5484,7 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Time Out of Mind",
+          "title": "The British Paranormal Society: Time Out of Mind",
           "rawTitle": "Time Out of Mind",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -5701,9 +5709,13 @@ window.__NA_PANELI_DATA__ = {
       "number": "M7",
       "publication": "2023-02-07",
       "topics": [
-        "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+        "Hellboy and the B.P.R.D.: Night of the Cyclops",
+        "Hellboy and the B.P.R.D.: Old Man Whittier",
+        "Hellboy and the B.P.R.D.: Time Is a River",
+        "Axorr, Slayer of Demons",
         "Radio Spaceman",
-        "Leonide the Vampyr"
+        "Leonide the Vampyr: Miracle at the Crow's Head",
+        "Leonide the Vampyr: A Christmas for Crows"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -5712,7 +5724,28 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "title": "Hellboy and the B.P.R.D.: Night of the Cyclops",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: Old Man Whittier",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: Time Is a River",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Axorr, Slayer of Demons",
           "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -5726,7 +5759,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Leonide the Vampyr",
+          "title": "Leonide the Vampyr: Miracle at the Crow's Head",
+          "rawTitle": "Leonide the Vampyr",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Leonide the Vampyr: A Christmas for Crows",
           "rawTitle": "Leonide the Vampyr",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -5846,7 +5886,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "M8",
       "publication": "2023-03-19",
       "topics": [
-        "Assault on Castle Death",
+        "Young Hellboy: Assault on Castle Death",
         "Castle Full of Blackbirds"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
@@ -5856,7 +5896,7 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "Assault on Castle Death",
+          "title": "Young Hellboy: Assault on Castle Death",
           "rawTitle": "Assault on Castle Death",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -5924,7 +5964,7 @@ window.__NA_PANELI_DATA__ = {
       "number": "73",
       "publication": "2023-04-12",
       "topics": [
-        "Under-World",
+        "Underworld",
         "Bliss",
         "TMNT: The Last Ronin",
         "The Many Deaths of Laila Starr"
@@ -5936,7 +5976,7 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "Under-World",
+          "title": "Underworld",
           "rawTitle": "Under-World",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
@@ -5971,8 +6011,9 @@ window.__NA_PANELI_DATA__ = {
       "number": "M9",
       "publication": "2023-04-20",
       "topics": [
+        "Frankenstein: New World",
+        "Sir Edward Grey: Acheron",
         "Koshchei in Hell",
-        "New World"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -5988,8 +6029,15 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "New World",
+          "title": "Frankenstein: New World",
           "rawTitle": "New World",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Sir Edward Grey: Acheron",
+          "rawTitle": "Sir Edward Grey: Acheron",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"

@@ -129,7 +129,9 @@ window.__NA_PANELI_COMICS__ = {
       "title": "A Land Called Tarot",
       "runTitle": "A Land Called Tarot",
       "publisher": "Image",
-      "writers": [],
+      "writers": [
+        "Gael Bertrand"
+      ],
       "artists": [
         "Gael Bertrand"
       ],
@@ -1135,7 +1137,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "assault-on-castle-death",
-      "title": "Assault on Castle Death",
+      "title": "Young Hellboy: Assault on Castle Death",
       "runTitle": "Young Hellboy: Assault on Castle Death",
       "publisher": "Dark Horse Comics",
       "writers": [
@@ -2474,13 +2476,17 @@ window.__NA_PANELI_COMICS__ = {
       "id": "bliss",
       "title": "Bliss",
       "runTitle": "Bliss",
-      "publisher": "Hero Universe",
-      "writers": [],
-      "artists": [],
+      "publisher": "Image",
+      "writers": [
+        "Sean Lewis"
+      ],
+      "artists": [
+        "Caitlin Yarsky"
+      ],
       "colorists": [],
-      "startYear": 2006,
-      "startDate": "",
-      "decade": "2000-е",
+      "startYear": 2021,
+      "startDate": "2021-07-21",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -2500,11 +2506,10 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/bliss/4050-78399/"
+          "url": "https://comicvine.gamespot.com/bliss/4050-137707/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -3177,7 +3182,7 @@ window.__NA_PANELI_COMICS__ = {
       "id": "celestia",
       "title": "Celestia",
       "runTitle": "Celestia",
-      "publisher": "Penguin Random House Grupo Editorial",
+      "publisher": "Fantagraphics",
       "writers": [
         "Manuele Fior"
       ],
@@ -3188,7 +3193,7 @@ window.__NA_PANELI_COMICS__ = {
         "Manuele Fior"
       ],
       "startYear": 2021,
-      "startDate": "2021-10-01",
+      "startDate": "2021-07-20",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -3209,7 +3214,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/celestia/4050-146502/"
+          "url": "https://comicvine.gamespot.com/celestia/4050-137704/"
         }
       ],
       "status": "verified",
@@ -6776,11 +6781,15 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "glass-town",
-      "title": "Glass Town",
+      "title": "Glass Town: The Imaginary World of the Brontës",
       "runTitle": "Glass Town: The Imaginary World of the Brontës",
       "publisher": "Harry N. Abrams",
-      "writers": [],
-      "artists": [],
+      "writers": [
+        "Isabel Greenberg"
+      ],
+      "artists": [
+        "Isabel Greenberg"
+      ],
       "colorists": [],
       "startYear": 2020,
       "startDate": "2020-03-11",
@@ -6807,8 +6816,7 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/glass-town-the-imaginary-world-of-the-brontes/4050-125578/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -7303,20 +7311,23 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "hellboy-and-the-b-p-r-d-2022-one-shots-by-mignola",
-      "title": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-      "runTitle": "Hellboy and the B.P.R.D.",
+      "id": "hellboy-and-the-b-p-r-d-night-of-the-cyclops",
+      "title": "Hellboy and the B.P.R.D.: Night of the Cyclops",
+      "runTitle": "Hellboy and the B.P.R.D.: Night of the Cyclops",
       "publisher": "Dark Horse Comics",
       "writers": [
-        "Mike Mignola"
+        "Mike Mignola",
+        "Olivier Vatine"
       ],
       "artists": [
-        "Mike Mignola"
+        "Olivier Vatine"
       ],
-      "colorists": [],
-      "startYear": 2008,
-      "startDate": "2008-04-01",
-      "decade": "2000-е",
+      "colorists": [
+        "Olivier Vatine"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-05-25",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -7336,7 +7347,134 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd/4050-142473/"
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-night-of-the-cyclops/4050-143122/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-old-man-whittier",
+      "title": "Hellboy and the B.P.R.D.: Old Man Whittier",
+      "runTitle": "Hellboy and the B.P.R.D.: Old Man Whittier",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Gabriel Hernandez Walta"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-06-29",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M7",
+          "publication": "2023-02-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-old-man-whittier/4050-143914/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-b-p-r-d-time-is-a-river",
+      "title": "Hellboy and the B.P.R.D.: Time Is a River",
+      "runTitle": "Hellboy and the B.P.R.D.: Time is a River",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Mark Laszlo"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-07-20",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M7",
+          "publication": "2023-02-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-time-is-a-river/4050-144141/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "axorr-slayer-of-demons",
+      "title": "Axorr, Slayer of Demons",
+      "runTitle": "The Amazing Screw-On Head and Other Curious Objects (Anniversary Edition)",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Katie Mignola",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Mike Mignola"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-07-26",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M7",
+          "publication": "2023-02-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-amazing-screw-on-head-and-other-curious-object/4050-144429/"
         }
       ],
       "status": "verified",
@@ -9220,14 +9358,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "it-s-jeff",
       "title": "It's Jeff!",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "It's Jeff",
+      "publisher": "Marvel",
+      "writers": [
+        "Kelly Thompson"
+      ],
+      "artists": [
+        "Gurihiru"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2023,
+      "startDate": "2023-03-29",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Утешительное чтение",
@@ -9244,11 +9386,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/its-jeff/4050-149052/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "it-s-lonely-at-the-centre-of-the-earth",
@@ -9534,14 +9679,21 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "jonna-and-the-unpossible-monsters",
       "title": "Jonna and the Unpossible Monsters",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Jonna and the Unpossible Monsters",
+      "publisher": "Oni Press",
+      "writers": [
+        "Chris Samnee",
+        "Laura Samnee"
+      ],
+      "artists": [
+        "Chris Samnee"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-03-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Утешительное чтение",
@@ -9558,11 +9710,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/jonna-and-the-unpossible-monsters/4050-134208/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "judas",
@@ -10119,16 +10274,22 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "leonide-the-vampyr",
-      "title": "Leonide the Vampyr",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "leonide-the-vampyr-miracle-at-the-crow-s-head",
+      "title": "Leonide the Vampyr: Miracle at the Crow's Head",
+      "runTitle": "Leonide the Vampyr: Miracle at The Crow's Head ",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Rachele Aragno"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-10-05",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -10145,11 +10306,57 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/leonide-the-vampyr-miracle-at-the-crows-head/4050-145372/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "leonide-the-vampyr-a-christmas-for-crows",
+      "title": "Leonide the Vampyr: A Christmas for Crows",
+      "runTitle": "Leonide the Vampyr: A Christmas for Crows",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Mike Mignola",
+        "Rachele Aragno"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-12-14",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M7",
+          "publication": "2023-02-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Leonide the Vampyr",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/leonide-the-vampyr-a-christmas-for-crows/4050-146879/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "liberality-for-all",
@@ -10585,14 +10792,19 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "malinky-robot",
       "title": "Malinky Robot",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "url": "https://comicvine.gamespot.com/malinky-robot-bicycle/4050-57124/",
+      "runTitle": "Malinky Robot: Bicycle",
+      "publisher": "Image",
+      "writers": [
+        "Sonny Liew"
+      ],
+      "artists": [
+        "Sonny Liew"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2011,
+      "startDate": "2011-08-24",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "Утешительное чтение",
@@ -10609,11 +10821,22 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/malinky-robot-bicycle/4050-57124/"
+        },
+        {
+          "label": "League of Comic Geeks: Sonny Liew",
+          "url": "https://leagueofcomicgeeks.com/people/10402/sonny-liew"
+        },
+        {
+          "label": "League of Comic Geeks: New Comics 2011-08-24",
+          "url": "https://leagueofcomicgeeks.com/comics/new-comics/2011/08/24"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "marathon",
@@ -10967,14 +11190,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "miles-morales-shock-waves",
       "title": "Miles Morales: Shock Waves",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Miles Morales: Shock Waves",
+      "publisher": "Scholastic Book Services",
+      "writers": [
+        "Justin A. Reynolds"
+      ],
+      "artists": [
+        "Pablo Leon"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2021,
+      "startDate": "2021-06-09",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Утешительное чтение",
@@ -10991,11 +11218,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/miles-morales-shock-waves/4050-136543/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "mirror",
@@ -11842,16 +12072,25 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "my-little-pony-and-transformers",
-      "title": "My Little Pony & Transformers",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "my-little-pony-transformers",
+      "title": "My Little Pony/Transformers",
+      "runTitle": "My Little Pony/Transformers",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Ian Flynn"
+      ],
+      "artists": [
+        "Jack Lawrence",
+        "Tony Fleecs"
+      ],
+      "colorists": [
+        "Lauren Perry",
+        "Luis Antonio Delgado",
+        "Tony Fleecs"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-08-05",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Утешительное чтение",
@@ -11868,11 +12107,59 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/my-little-ponytransformers/4050-129308/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "my-little-pony-transformers-ii",
+      "title": "My Little Pony/Transformers II",
+      "runTitle": "My Little Pony/Transformers II",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "James Asmus",
+        "Sam Maggs"
+      ],
+      "artists": [
+        "Casey W. Coller",
+        "Jack Lawrence"
+      ],
+      "colorists": [
+        "Joana Lafuente",
+        "Luis Antonio Delgado"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-04-28",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Утешительное чтение",
+          "number": "LR13",
+          "publication": "2022-07-05",
+          "episodeTitle": "",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "My Little Pony & Transformers",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/my-little-ponytransformers-ii/4050-135748/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "na-co-dybie-w-wielorybie-czubek-nosa-eskimosa",
@@ -12128,16 +12415,24 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "new-world",
-      "title": "New World",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "frankenstein-new-world",
+      "title": "Frankenstein: New World",
+      "runTitle": "Frankenstein: New World",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola",
+        "Tom Sniegoski"
+      ],
+      "artists": [
+        "Peter Bergting"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-08-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -12154,11 +12449,56 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/frankenstein-new-world/4050-144327/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "sir-edward-grey-acheron",
+      "title": "Sir Edward Grey: Acheron",
+      "runTitle": "Sir Edward Grey: Acheron",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Mike Mignola"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-12-01",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M9",
+          "publication": "2023-04-20",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Sir Edward Grey: Acheron",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/sir-edward-grey-acheron/4050-140295/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "nextwave-agents-of-h-a-t-e",
@@ -12485,14 +12825,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "nuclear-winter",
       "title": "Nuclear Winter",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Nuclear Winter",
+      "publisher": "Boom! Studios",
+      "writers": [
+        "Cab"
+      ],
+      "artists": [
+        "Cab"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-05-09",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "Утешительное чтение",
@@ -12509,11 +12853,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/nuclear-winter/4050-110756/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "oblivion-song",
@@ -13535,14 +13882,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "pilu-of-the-woods",
       "title": "Pilu of the Woods",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Pilu of the Woods",
+      "publisher": "Oni Press",
+      "writers": [
+        "Mai K. Nguyen"
+      ],
+      "artists": [
+        "Mai K. Nguyen"
+      ],
+      "colorists": [
+        "Mai K. Nguyen"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-04-17",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "Утешительное чтение",
@@ -13559,11 +13912,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/pilu-of-the-woods/4050-118409/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "pink-lemonade",
@@ -14472,14 +14828,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "radio-spaceman",
       "title": "Radio Spaceman",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Radio Spaceman",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Greg Hinkle"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-03-02",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -14496,11 +14858,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/radio-spaceman/4050-141801/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "rare-flavours",
@@ -17036,21 +17401,22 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "the-bones-of-giant",
-      "title": "The Bones of Giant",
-      "runTitle": "The Bones of the Gods",
-      "publisher": "Scout Comics",
+      "id": "hellboy-the-bones-of-giants",
+      "title": "Hellboy: The Bones of Giants",
+      "runTitle": "Hellboy: The Bones of Giants",
+      "publisher": "Dark Horse Comics",
       "writers": [
-        "Brendan Deneen"
+        "Christopher Golden",
+        "Mike Mignola"
       ],
       "artists": [
-        "Mauricio Melo"
+        "Matt Smith (US)"
       ],
       "colorists": [
-        "Mauricio Melo"
+        "Chris O'Halloran"
       ],
-      "startYear": 2022,
-      "startDate": "2022-11-01",
+      "startYear": 2021,
+      "startDate": "2021-11-03",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -17071,7 +17437,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-bones-of-the-gods/4050-156131/"
+          "url": "https://comicvine.gamespot.com/hellboy-the-bones-of-giants/4050-139991/"
         }
       ],
       "status": "verified",
@@ -18782,7 +19148,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-reign-of-darkness",
-      "title": "The Reign of Darkness",
+      "title": "Witchfinder: The Reign of Darkness",
       "runTitle": "Witchfinder: The Reign of Darkness",
       "publisher": "Dark Horse Comics",
       "writers": [
@@ -18824,22 +19190,23 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "the-secret-of-chesbro-house",
-      "title": "The Secret of Chesbro House",
-      "runTitle": "The Secret",
-      "publisher": "Edizioni Star Comics",
+      "id": "hellboy-and-the-b-p-r-d-the-secret-of-chesbro-house",
+      "title": "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
+      "runTitle": "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
+      "publisher": "Dark Horse Comics",
       "writers": [
-        "Giuseppe Di Bernardo"
+        "Christopher Golden",
+        "Mike Mignola"
       ],
       "artists": [
-        "Daniele Statella",
-        "Fabio Piacentini",
-        "Michela Da Sacco"
+        "Shawn McManus"
       ],
-      "colorists": [],
-      "startYear": 2011,
-      "startDate": "2011-04-01",
-      "decade": "2010-е",
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-07-07",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -18859,7 +19226,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-secret/4050-144503/"
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-secret-of-chesbro-house/4050-137457/"
         }
       ],
       "status": "verified",
@@ -19089,7 +19456,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-silver-lantern-club",
-      "title": "The Silver Lantern Club",
+      "title": "Hellboy: The Silver Lantern Club",
       "runTitle": "Hellboy: The Silver Lantern Club",
       "publisher": "Dark Horse Comics",
       "writers": [
@@ -20221,16 +20588,22 @@ window.__NA_PANELI_COMICS__ = {
       ]
     },
     {
-      "id": "time-out-of-mind",
-      "title": "Time Out of Mind",
-      "runTitle": "Time out of Mind",
-      "publisher": "Graphic Serials",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1985,
-      "startDate": "",
-      "decade": "1980-е",
+      "id": "the-british-paranormal-society-time-out-of-mind",
+      "title": "The British Paranormal Society: Time Out of Mind",
+      "runTitle": "The British Paranormal Society: Time Out of Mind",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Chris Roberson"
+      ],
+      "artists": [
+        "Andrea Mutti"
+      ],
+      "colorists": [
+        "Lee Loughridge"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-04-27",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -20250,12 +20623,11 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/time-out-of-mind/4050-76375/"
+          "url": "https://comicvine.gamespot.com/the-british-paranormal-society-time-out-of-mind/4050-142666/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "tmnt-mega-arc-1",
@@ -21574,15 +21946,21 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "under-world",
-      "title": "Under-World",
-      "runTitle": "Around the World Under the Sea",
-      "publisher": "Dell",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1966,
-      "startDate": "1966-12-01",
-      "decade": "1960-е",
+      "title": "Underworld",
+      "runTitle": "Underworld",
+      "publisher": "Europe Comics",
+      "writers": [
+        "Mathieu Burniat"
+      ],
+      "artists": [
+        "Mathieu Burniat"
+      ],
+      "colorists": [
+        "Mathieu Burniat"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-09-22",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -21602,12 +21980,11 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/around-the-world-under-the-sea/4050-37586/"
+          "url": "https://comicvine.gamespot.com/underworld/4050-139087/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "underwinter",
@@ -22190,8 +22567,12 @@ window.__NA_PANELI_COMICS__ = {
       "title": "Wayne Family Adventures",
       "runTitle": "Batman: Wayne Family Adventures",
       "publisher": "Line Webtoon",
-      "writers": [],
-      "artists": [],
+      "writers": [
+        "CRC Payne"
+      ],
+      "artists": [
+        "Starbite"
+      ],
       "colorists": [],
       "startYear": 2021,
       "startDate": "",
@@ -22218,9 +22599,8 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/batman-wayne-family-adventures/4050-139039/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "weird-detective",
@@ -23345,6 +23725,6 @@ window.__NA_PANELI_COMICS__ = {
       ]
     }
   ],
-  "enrichedAt": "2026-06-29",
+  "enrichedAt": "2026-06-30",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };

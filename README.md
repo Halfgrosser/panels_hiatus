@@ -10,7 +10,7 @@ npm run dev
 
 Откройте <http://localhost:4173>.
 
-Основной календарь находится на <http://localhost:4173/>. Каталог комиксов — на <http://localhost:4173/comics.html>.
+Основной календарь находится на <http://localhost:4173/>. Каталог комиксов — на <http://localhost:4173/comics>.
 
 ## Обновление данных
 
