@@ -619,7 +619,14 @@ window.__NA_PANELI_DATA__ = {
       "number": "14",
       "publication": "2018-06-19",
       "topics": [
-        "The Mighty Thor"
+        "Thor: God of Thunder by Aaron",
+        "Thor & Loki: The Tenth Realm",
+        "Thor",
+        "Thors",
+        "The Mighty Thor",
+        "The Unworthy Thor",
+        "Generations: The Unworthy Thor & The Mighty Thor",
+        "The Mighty Thor: At the Gates of Valhalla"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
       "comment": "Thor by Aaron special",
@@ -628,8 +635,57 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
+          "title": "Thor: God of Thunder by Aaron",
+          "rawTitle": "Thor: God of Thunder by Aaron",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Thor & Loki: The Tenth Realm",
+          "rawTitle": "Thor & Loki: The Tenth Realm",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Thor",
+          "rawTitle": "Thor",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Thors",
+          "rawTitle": "Thors",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
           "title": "The Mighty Thor",
           "rawTitle": "The Mighty Thor",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Unworthy Thor",
+          "rawTitle": "The Unworthy Thor",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Generations: The Unworthy Thor & The Mighty Thor",
+          "rawTitle": "Generations: The Unworthy Thor & The Mighty Thor",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Mighty Thor: At the Gates of Valhalla",
+          "rawTitle": "The Mighty Thor: At the Gates of Valhalla",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -5994,7 +6050,7 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2023-05-23",
       "topics": [
         "Did You Hear What Eddie Gein Done?",
-        "MONSTERS",
+        "Monsters",
         "I'm Still Alive",
         "The Secret to Superhuman Strength"
       ],
@@ -6012,7 +6068,7 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "MONSTERS",
+          "title": "Monsters",
           "rawTitle": "MONSTERS",
           "kind": "comic",
           "proposer": "Алексей Замский",
@@ -6040,8 +6096,10 @@ window.__NA_PANELI_DATA__ = {
       "number": "76",
       "publication": "2023-06-15",
       "topics": [
-        "Demon Days/Demon Wars",
-        "Ant-Man/Wasp",
+        "Demon Days",
+        "Demon Wars",
+        "Ant-Man",
+        "Wasp",
         "Joe Fixit",
         "Catwoman: Lonely City"
       ],
@@ -6052,14 +6110,28 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "Demon Days/Demon Wars",
+          "title": "Demon Days",
           "rawTitle": "Demon Days/Demon Wars",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
-          "title": "Ant-Man/Wasp",
+          "title": "Demon Wars",
+          "rawTitle": "Demon Days/Demon Wars",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Ant-Man",
+          "rawTitle": "Ant-Man/Wasp",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Wasp",
           "rawTitle": "Ant-Man/Wasp",
           "kind": "comic",
           "proposer": "Алексей Замский",
@@ -6224,29 +6296,29 @@ window.__NA_PANELI_DATA__ = {
           "title": "Ultimate Invasion #01",
           "rawTitle": "Ultimate Invasion #01",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Spider-Man",
           "rawTitle": "Ultimate Spider-Man",
           "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate X-Men",
           "rawTitle": "Ultimate X-Men",
           "kind": "comic",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "The Ultimates",
           "rawTitle": "The Ultimates",
           "kind": "comic",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ]
     },
@@ -6397,29 +6469,29 @@ window.__NA_PANELI_DATA__ = {
           "title": "Ultimate Invasion #02",
           "rawTitle": "Ultimate Invasion #02",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Fantastic Four",
           "rawTitle": "Ultimate Fantastic Four",
           "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Galactus Trilogy",
           "rawTitle": "Ultimate Galactus Trilogy",
           "kind": "comic",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Wolverine vs. Hulk",
           "rawTitle": "Ultimate Wolverine vs. Hulk",
           "kind": "comic",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ]
     },
@@ -6588,29 +6660,29 @@ window.__NA_PANELI_DATA__ = {
           "title": "Ultimate Invasion #03",
           "rawTitle": "Ultimate Invasion #03",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Power",
           "rawTitle": "Ultimate Power",
           "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Origins",
           "rawTitle": "Ultimate Origins",
           "kind": "comic",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimatum",
           "rawTitle": "Ultimatum",
           "kind": "comic",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ]
     },
@@ -6695,29 +6767,29 @@ window.__NA_PANELI_DATA__ = {
           "title": "Ultimate Invasion #04",
           "rawTitle": "Ultimate Invasion #04",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: Avengers",
           "rawTitle": "Ultimate Comics: Avengers",
           "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: Doomsday Trilogy",
           "rawTitle": "Ultimate Comics: Doomsday Trilogy",
           "kind": "comic",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: X",
           "rawTitle": "Ultimate Comics: X",
           "kind": "comic",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ]
     },
@@ -6812,29 +6884,29 @@ window.__NA_PANELI_DATA__ = {
           "title": "Ultimate Universe",
           "rawTitle": "Ultimate Universe",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: Spider-Man",
           "rawTitle": "Ultimate Comics: Spider-Man",
           "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: X-Men",
           "rawTitle": "Ultimate Comics: X-Men",
           "kind": "comic",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: The Ultimates",
           "rawTitle": "Ultimate Comics: The Ultimates",
           "kind": "comic",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели"
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ]
     },
@@ -7141,7 +7213,7 @@ window.__NA_PANELI_DATA__ = {
           "title": "Monsters & Ace's Story & Shokugeki no Sanji",
           "rawTitle": "Monsters & Ace's Story & Shokugeki no Sanji",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
       ]
@@ -7202,7 +7274,7 @@ window.__NA_PANELI_DATA__ = {
         "Pink Lemonade",
         "w0rldtr33",
         "Where Black Stars Rise",
-        "Starhenge"
+        "Starhenge Book One: The Dragon and the Boar"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "-",
@@ -7232,8 +7304,8 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Серега"
         },
         {
-          "title": "Starhenge",
-          "rawTitle": "Starhenge",
+          "title": "Starhenge Book One: The Dragon and the Boar",
+          "rawTitle": "Starhenge Book One: The Dragon and the Boar",
           "kind": "comic",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
@@ -7247,8 +7319,8 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2024-03-23",
       "topics": [
         "Giant Robot Hellboy",
-        "Four Gathered on Christmas Eve",
-        "Web of Wyrd"
+        "Hellboy: The Yule Cat",
+        "Four Gathered on Christmas Eve"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -7264,15 +7336,15 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Four Gathered on Christmas Eve",
-          "rawTitle": "Four Gathered on Christmas Eve",
+          "title": "Hellboy: The Yule Cat",
+          "rawTitle": "Hellboy: The Yule Cat",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "Web of Wyrd",
-          "rawTitle": "Web of Wyrd",
+          "title": "Four Gathered on Christmas Eve",
+          "rawTitle": "Four Gathered on Christmas Eve",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -7891,31 +7963,13 @@ window.__NA_PANELI_DATA__ = {
       "podcast": "ASOP",
       "number": "M13",
       "publication": "2024-09-24",
-      "topics": [
-        "Rise of the Blood Queen",
-        "The Crooked Man"
-      ],
+      "topics": [],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "Rise of the Blood Queen",
-          "rawTitle": "Rise of the Blood Queen",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "The Crooked Man",
-          "rawTitle": "The Crooked Man",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "comics": []
     },
     {
       "id": 210,
@@ -8335,8 +8389,10 @@ window.__NA_PANELI_DATA__ = {
       "number": "M15",
       "publication": "2025-03-26",
       "topics": [
-        "The Serpent in the Garden",
-        "Bowling with Corpses"
+        "Hellboy: The Fortune Teller",
+        "Koshchei in Hell",
+        "The Serpent in the Garden: Ed Grey and the Last Battle for England",
+        "Bowling with Corpses and Other Strange Tales from Lands Unknown"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
@@ -8345,15 +8401,29 @@ window.__NA_PANELI_DATA__ = {
       "source": "google-sheet",
       "comics": [
         {
-          "title": "The Serpent in the Garden",
-          "rawTitle": "The Serpent in the Garden",
+          "title": "Hellboy: The Fortune Teller",
+          "rawTitle": "Hellboy: The Fortune Teller",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "Bowling with Corpses",
-          "rawTitle": "Bowling with Corpses",
+          "title": "Koshchei in Hell",
+          "rawTitle": "Koshchei in Hell",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Serpent in the Garden: Ed Grey and the Last Battle for England",
+          "rawTitle": "The Serpent in the Garden: Ed Grey and the Last Battle for England",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Bowling with Corpses and Other Strange Tales from Lands Unknown",
+          "rawTitle": "Bowling with Corpses and Other Strange Tales from Lands Unknown",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"

@@ -540,9 +540,15 @@ window.__NA_PANELI_COMICS__ = {
       "title": "Agent of W.O.R.L.D.E.",
       "runTitle": "Agent of W.O.R.L.D.E.",
       "publisher": "Scout Comics",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
+      "writers": [
+        "Deniz Camp"
+      ],
+      "artists": [
+        "Filya Bratukhin"
+      ],
+      "colorists": [
+        "Jason Wordie"
+      ],
       "startYear": 2022,
       "startDate": "2022-06-29",
       "decade": "2020-е",
@@ -566,10 +572,21 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/agent-of-worlde/4050-151887/"
+        },
+        {
+          "label": "League of Comic Geeks: Deniz Camp",
+          "url": "https://leagueofcomicgeeks.com/people/17177/deniz-camp"
+        },
+        {
+          "label": "League of Comic Geeks: Filya Bratukhin",
+          "url": "https://leagueofcomicgeeks.com/people/42270/filya-bratukhin"
+        },
+        {
+          "label": "League of Comic Geeks: Jason Wordie",
+          "url": "https://leagueofcomicgeeks.com/people/2028/jason-wordie"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -869,23 +886,22 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "ant-man-wasp",
-      "title": "Ant-Man/Wasp",
-      "runTitle": "Ant-Man & Wasp",
+      "id": "ant-man",
+      "title": "Ant-Man",
+      "runTitle": "Ant-Man",
       "publisher": "Marvel",
       "writers": [
-        "Tim Seeley"
+        "Al Ewing"
       ],
       "artists": [
-        "Tim Seeley",
-        "Victor Olazaba"
+        "Tom Reilly"
       ],
       "colorists": [
-        "Val Staples"
+        "Jordie Bellaire"
       ],
-      "startYear": 2011,
-      "startDate": "2010-11-10",
-      "decade": "2010-е",
+      "startYear": 2022,
+      "startDate": "2022-07-27",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -905,7 +921,49 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ant-man-wasp/4050-36586/"
+          "url": "https://comicvine.gamespot.com/ant-man/4050-144204/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "wasp",
+      "title": "Wasp",
+      "runTitle": "Wasp",
+      "publisher": "Marvel",
+      "writers": [
+        "Al Ewing"
+      ],
+      "artists": [
+        "Kasia Nie"
+      ],
+      "colorists": [
+        "Kike J. Diaz"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-01-18",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "76",
+          "publication": "2023-06-15",
+          "episodeTitle": "",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "Ant-Man/Wasp",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/wasp/4050-147504/"
         }
       ],
       "status": "verified",
@@ -956,18 +1014,18 @@ window.__NA_PANELI_COMICS__ = {
       "id": "arca",
       "title": "Arca",
       "runTitle": "Arca",
-      "publisher": "Les Humanoïdes Associés",
+      "publisher": "IDW Publishing",
       "writers": [
-        "Romain Benassaya"
+        "Van Jensen"
       ],
       "artists": [
-        "Joan Urgell"
+        "Jesse Lonergan"
       ],
       "colorists": [
-        "Joan Urgell"
+        "Patricio Delpeche"
       ],
       "startYear": 2023,
-      "startDate": "2023-01-25",
+      "startDate": "2023-07-12",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -988,11 +1046,12 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/arca/4050-153646/"
+          "url": "https://comicvine.gamespot.com/arca/4050-154804/"
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/arca/4050-154804/"
     },
     {
       "id": "ask-for-mercy",
@@ -2684,8 +2743,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Bowling with Corpses",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "Bowling with Corpses and Other Strange Tales from Lands Unknown"
         }
       ],
       "sources": [
@@ -2699,7 +2758,8 @@ window.__NA_PANELI_COMICS__ = {
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/bowling-with-corpses-and-other-strange-tales-from-/4050-163459/"
     },
     {
       "id": "brat-pack",
@@ -4092,12 +4152,13 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "demon-days-demon-wars",
-      "title": "Demon Days/Demon Wars",
+      "id": "demon-days-treasury-edition",
+      "title": "Demon Days",
       "runTitle": "Demon Days",
-      "publisher": "Panini France",
+      "publisher": "Marvel",
       "writers": [
-        "Peach Momoko"
+        "Peach Momoko",
+        "Zack Davisson"
       ],
       "artists": [
         "Peach Momoko"
@@ -4106,7 +4167,7 @@ window.__NA_PANELI_COMICS__ = {
         "Peach Momoko"
       ],
       "startYear": 2022,
-      "startDate": "2022-11-01",
+      "startDate": "2022-05-25",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -4127,7 +4188,49 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/demon-days/4050-158996/"
+          "url": "https://comicvine.gamespot.com/demon-days-treasury-edition/4050-146448/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "demon-wars-treasury-edition",
+      "title": "Demon Wars",
+      "runTitle": "Demon Wars",
+      "publisher": "Marvel",
+      "writers": [
+        "Peach Momoko"
+      ],
+      "artists": [
+        "Peach Momoko"
+      ],
+      "colorists": [
+        "Peach Momoko"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-11-01",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "76",
+          "publication": "2023-06-15",
+          "episodeTitle": "",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Demon Days/Demon Wars",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/demon-wars-treasury-edition/4050-154404/"
         }
       ],
       "status": "verified",
@@ -5189,10 +5292,9 @@ window.__NA_PANELI_COMICS__ = {
       "id": "eight-billion-genies",
       "title": "Eight Billion Genies",
       "runTitle": "Eight Billion Genies",
-      "publisher": "Panini España",
+      "publisher": "Image",
       "writers": [
-        "Charles Soule",
-        "Ryan Browne"
+        "Charles Soule"
       ],
       "artists": [
         "Ryan Browne"
@@ -5201,8 +5303,8 @@ window.__NA_PANELI_COMICS__ = {
         "Kevin Knipstein",
         "Ryan Browne"
       ],
-      "startYear": 2023,
-      "startDate": "2023-03-01",
+      "startYear": 2022,
+      "startDate": "2022-05-18",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -5223,11 +5325,12 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/eight-billion-genies/4050-162775/"
+          "url": "https://comicvine.gamespot.com/eight-billion-genies/4050-154253/"
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/eight-billion-genies/4050-154253/"
     },
     {
       "id": "elektra-assassin",
@@ -6246,7 +6349,31 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "four-gathered-on-christmas-eve",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M12",
+          "publication": "2024-03-23",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Four Gathered on Christmas Eve"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/four-gathered-on-christmas-eve/4050-155622/"
+        }
+      ],
+      "kind": "comic",
       "title": "Four Gathered on Christmas Eve",
+      "url": "https://comicvine.gamespot.com/four-gathered-on-christmas-eve/4050-155622/",
       "runTitle": "Four Gathered on Christmas Eve",
       "publisher": "Exploding Albatross Funnybooks",
       "writers": [
@@ -6266,30 +6393,7 @@ window.__NA_PANELI_COMICS__ = {
       "startYear": 2023,
       "startDate": "2023-12-19",
       "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M12",
-          "publication": "2024-03-23",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Four Gathered on Christmas Eve",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/four-gathered-on-christmas-eve/4050-155622/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "verified"
     },
     {
       "id": "frankenstein-new-world-the-sea-of-forever",
@@ -6458,6 +6562,49 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
+      "id": "generations-the-unworthy-thor-and-the-mighty-thor",
+      "title": "Generations: The Unworthy Thor & The Mighty Thor",
+      "url": "https://comicvine.gamespot.com/generations-the-unworthy-thor-the-mighty-thor/4050-103605/",
+      "runTitle": "Generations: The Unworthy Thor & The Mighty Thor",
+      "publisher": "Marvel",
+      "writers": [
+        "Jason Aaron"
+      ],
+      "artists": [
+        "Mahmud A. Asrar"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-08-23",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "14",
+          "publication": "2018-06-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Generations: The Unworthy Thor & The Mighty Thor"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/generations-the-unworthy-thor-the-mighty-thor/4050-103605/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
       "id": "gentlemind",
       "title": "Gentlemind",
       "runTitle": "Gentlemind",
@@ -6568,8 +6715,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Giant Robot Hellboy",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "Giant Robot Hellboy"
         }
       ],
       "sources": [
@@ -6915,8 +7062,14 @@ window.__NA_PANELI_COMICS__ = {
       "title": "Grip of the Kombinat",
       "runTitle": "Grip of the Kombinat",
       "publisher": "Image",
-      "writers": [],
-      "artists": [],
+      "writers": [
+        "Simon Roy",
+        "Damon Gentry"
+      ],
+      "artists": [
+        "Simon Roy",
+        "Damon Gentry"
+      ],
       "colorists": [],
       "startYear": 2022,
       "startDate": "2022-06-08",
@@ -6943,8 +7096,7 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/grip-of-the-kombinat/4050-158503/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -7549,6 +7701,92 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic",
       "url": "https://comicvine.gamespot.com/hellboy-in-love-5-the-key-to-it-all/4000-1000256/",
       "reviewNote": ""
+    },
+    {
+      "id": "hellboy-the-fortune-teller",
+      "title": "Hellboy: The Fortune Teller",
+      "url": "https://comicvine.gamespot.com/free-comic-book-day-2024-general-1-the-fortune-tel/4000-1055270/",
+      "runTitle": "Free Comic Book Day 2024: General",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Mark Laszlo"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2024,
+      "startDate": "2024-05-08",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M15",
+          "publication": "2025-03-26",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy: The Fortune Teller"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/free-comic-book-day-2024-general-1-the-fortune-tel/4000-1055270/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-the-yule-cat",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M12",
+          "publication": "2024-03-23",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Hellboy: The Yule Cat"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-winter-special-the-yule-cat/4050-155170/"
+        }
+      ],
+      "kind": "comic",
+      "title": "Hellboy: The Yule Cat",
+      "url": "https://comicvine.gamespot.com/hellboy-winter-special-the-yule-cat/4050-155170/",
+      "runTitle": "Hellboy Winter Special: The Yule Cat",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Matt Smith (US)"
+      ],
+      "artists": [
+        "Matt Smith (US)"
+      ],
+      "colorists": [
+        "Chris O'Halloran"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-12-06",
+      "decade": "2020-е",
+      "status": "verified"
     },
     {
       "id": "hellions-05-new-mutants-13-cable-05",
@@ -9023,7 +9261,9 @@ window.__NA_PANELI_COMICS__ = {
       "artists": [
         "Zoe Thorogood"
       ],
-      "colorists": [],
+      "colorists": [
+        "Zoe Thorogood"
+      ],
       "startYear": 2022,
       "startDate": "2022-12-22",
       "decade": "2020-е",
@@ -9658,14 +9898,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "koshchei-in-hell",
       "title": "Koshchei in Hell",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Koshchei in Hell",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Ben Stenbeck"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-11-30",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
@@ -9676,17 +9922,31 @@ window.__NA_PANELI_COMICS__ = {
           "proposerColumn": "Стас",
           "rawTitle": "Koshchei in Hell",
           "kind": "comic"
+        },
+        {
+          "podcast": "ASOP",
+          "number": "M15",
+          "publication": "2025-03-26",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Koshchei in Hell"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/koshchei-in-hell/4050-146688/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
       "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "url": "https://comicvine.gamespot.com/koshchei-in-hell/4050-146688/"
     },
     {
       "id": "kroma",
@@ -10202,14 +10462,16 @@ window.__NA_PANELI_COMICS__ = {
       "id": "lore-olympus",
       "title": "Lore Olympus",
       "runTitle": "Lore Olympus",
-      "publisher": "Random House",
+      "publisher": "Webtoon",
       "writers": [
         "Rachel Smythe"
       ],
       "artists": [
         "Rachel Smythe"
       ],
-      "colorists": [],
+      "colorists": [
+        "Rachel Smythe"
+      ],
       "startYear": 2021,
       "startDate": "2021-11-03",
       "decade": "2020-е",
@@ -11022,15 +11284,19 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "monsters",
-      "title": "MONSTERS",
+      "title": "Monsters",
       "runTitle": "Monsters",
-      "publisher": "Ediciones Zinco",
-      "writers": [],
-      "artists": [],
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Barry Windsor-Smith"
+      ],
+      "artists": [
+        "Barry Windsor-Smith"
+      ],
       "colorists": [],
-      "startYear": 1983,
-      "startDate": "",
-      "decade": "1980-е",
+      "startYear": 2021,
+      "startDate": "2021-04-28",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -11050,12 +11316,11 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/monsters/4050-142300/"
+          "url": "https://comicvine.gamespot.com/monsters/4050-135329/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "monsters-and-ace-s-story-and-shokugeki-no-sanji-gol-d-panels-op25",
@@ -11064,17 +11329,18 @@ window.__NA_PANELI_COMICS__ = {
       "runTitle": "One Piece",
       "publisher": "Shueisha",
       "writers": [
-        "Eiichiro Oda"
+        "Eiichiro Oda",
+        "Boichi"
       ],
       "artists": [
-        "Eiichiro Oda"
+        "Eiichiro Oda",
+        "Boichi"
       ],
       "colorists": [],
       "startYear": 1997,
       "startDate": "1997-12-24",
       "decade": "1990-е",
       "status": "verified",
-      "reviewNote": "",
       "kind": "comic",
       "discussedIn": [
         {
@@ -11082,7 +11348,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "OP25",
           "episodeTitle": "Gol D. Panels",
           "publication": "2024-02-13",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Monsters & Ace's Story & Shokugeki no Sanji",
           "kind": "comic"
@@ -11610,7 +11876,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "na-co-dybie-w-wielorybie-czubek-nosa-eskimosa",
-      "title": "Na co dybie w wielorybie czubek nosa Eskimosa",
+      "title": "Na co dybie w wielorybie czubek nosa Eskimosa (Суета внутри кита)",
       "runTitle": "",
       "publisher": "Młodzieżowa Agencja Wydawnicza",
       "writers": [
@@ -11652,7 +11918,6 @@ window.__NA_PANELI_COMICS__ = {
         }
       ],
       "status": "verified",
-      "reviewNote": "",
       "kind": "comic",
       "url": "https://kultura.com.pl/kultura-gniewu/760-na-co-dybie-w-wielorybie-czubek-nosa-eskimosa.html"
     },
@@ -14482,39 +14747,6 @@ window.__NA_PANELI_COMICS__ = {
       "reviewNote": "comicvine-no-match"
     },
     {
-      "id": "rise-of-the-blood-queen",
-      "title": "Rise of the Blood Queen",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M13",
-          "publication": "2024-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Rise of the Blood Queen",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
       "id": "rock-candy-mountain",
       "title": "Rock Candy Mountain",
       "runTitle": "Rock Candy Mountain",
@@ -16102,8 +16334,12 @@ window.__NA_PANELI_COMICS__ = {
       "title": "Squire",
       "runTitle": "Squire",
       "publisher": "HarperCollins",
-      "writers": [],
-      "artists": [],
+      "writers": [
+        "Nadia Shammas"
+      ],
+      "artists": [
+        "Sara Alfageeh"
+      ],
       "colorists": [],
       "startYear": 2022,
       "startDate": "2022-03-08",
@@ -16128,11 +16364,18 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/squire/4050-144694/"
+        },
+        {
+          "label": "League of Comic Geeks: Nadia Shammas",
+          "url": "https://leagueofcomicgeeks.com/people/33027/nadia-shammas"
+        },
+        {
+          "label": "League of Comic Geeks: Sara Alfageeh",
+          "url": "https://leagueofcomicgeeks.com/people/29461/sara-alfageeh"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "star-wars-knights-of-the-old-republic",
@@ -16221,7 +16464,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "starhenge",
-      "title": "Starhenge",
+      "title": "Starhenge Book One: The Dragon and the Boar",
       "runTitle": "Starhenge Book One: The Dragon and the Boar",
       "publisher": "Image",
       "writers": [
@@ -16245,7 +16488,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "Starhenge",
+          "rawTitle": "Starhenge Book One: The Dragon and the Boar",
           "kind": "comic"
         }
       ],
@@ -16260,7 +16503,8 @@ window.__NA_PANELI_COMICS__ = {
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/starhenge-book-one-the-dragon-and-the-boar/4050-143977/"
     },
     {
       "id": "step-by-bloody-step",
@@ -16950,47 +17194,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/the-creepy-case-files-of-margo-maloo/4050-94110/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "the-crooked-man",
-      "title": "The Crooked Man",
-      "runTitle": "Hellboy: The Crooked Man and The Troll Witch",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola",
-        "Richard Corben"
-      ],
-      "artists": [
-        "Mike Mignola"
-      ],
-      "colorists": [],
-      "startYear": 2011,
-      "startDate": "2011-06-15",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M13",
-          "publication": "2024-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "The Crooked Man",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-the-crooked-man-and-the-troll-witch/4050-45523/"
         }
       ],
       "status": "verified",
@@ -18124,19 +18327,22 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "the-mighty-thor",
+      "id": "mighty-thor-2015",
       "title": "The Mighty Thor",
-      "runTitle": "The Mighty Thor",
+      "url": "https://comicvine.gamespot.com/mighty-thor/4050-86113/",
+      "runTitle": "Mighty Thor",
       "publisher": "Marvel",
       "writers": [
-        "Matt Fraction"
+        "Jason Aaron"
       ],
       "artists": [
-        "Olivier Coipel"
+        "Russell Dauterman"
       ],
-      "colorists": [],
-      "startYear": 2011,
-      "startDate": "2011-11-23",
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-11-18",
       "decade": "2010-е",
       "discussedIn": [
         {
@@ -18146,8 +18352,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "The Mighty Thor",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "The Mighty Thor"
         }
       ],
       "sources": [
@@ -18157,7 +18363,51 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-mighty-thor/4050-44149/"
+          "url": "https://comicvine.gamespot.com/mighty-thor/4050-86113/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "mighty-thor-at-the-gates-of-valhalla",
+      "title": "The Mighty Thor: At the Gates of Valhalla",
+      "url": "https://comicvine.gamespot.com/mighty-thor-at-the-gates-of-valhalla/4050-110925/",
+      "runTitle": "Mighty Thor: At the Gates of Valhalla",
+      "publisher": "Marvel",
+      "writers": [
+        "Jason Aaron"
+      ],
+      "artists": [
+        "Jen Bartel",
+        "Ramón Pérez"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-05-16",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "14",
+          "publication": "2018-06-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "The Mighty Thor: At the Gates of Valhalla"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mighty-thor-at-the-gates-of-valhalla/4050-110925/"
         }
       ],
       "status": "verified",
@@ -18750,7 +19000,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-serpent-in-the-garden",
-      "title": "The Serpent in the Garden",
+      "title": "The Serpent in the Garden: Ed Grey and the Last Battle for England",
       "runTitle": "Serpent in the Garden",
       "publisher": "Dark Horse Comics",
       "writers": [
@@ -18773,8 +19023,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "The Serpent in the Garden",
-          "kind": "comic"
+          "kind": "comic",
+          "rawTitle": "The Serpent in the Garden: Ed Grey and the Last Battle for England"
         }
       ],
       "sources": [
@@ -18785,10 +19035,15 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/serpent-in-the-garden/4050-161328/"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-serpent-in-the-garden-ed-grey-and-the-last-bat/4000-1079396/"
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/the-serpent-in-the-garden-ed-grey-and-the-last-bat/4000-1079396/"
     },
     {
       "id": "the-shadows",
@@ -19278,8 +19533,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP1",
           "publication": "2023-07-25",
           "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "The Ultimates",
           "kind": "comic"
         }
@@ -19332,6 +19587,49 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/the-unsound/4050-101965/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "the-unworthy-thor-2016",
+      "title": "The Unworthy Thor",
+      "url": "https://comicvine.gamespot.com/the-unworthy-thor/4050-95444/",
+      "runTitle": "The Unworthy Thor",
+      "publisher": "Marvel",
+      "writers": [
+        "Jason Aaron"
+      ],
+      "artists": [
+        "Olivier Coipel"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2016,
+      "startDate": "2016-11-02",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "14",
+          "publication": "2018-06-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "The Unworthy Thor"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-unworthy-thor/4050-95444/"
         }
       ],
       "status": "verified",
@@ -19701,6 +19999,180 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/this-was-our-pact/4050-119342/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "thor-2014",
+      "title": "Thor",
+      "url": "https://comicvine.gamespot.com/thor/4050-77223/",
+      "runTitle": "Thor",
+      "publisher": "Marvel",
+      "writers": [
+        "Jason Aaron"
+      ],
+      "artists": [
+        "Russell Dauterman"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2014,
+      "startDate": "2014-10-01",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "14",
+          "publication": "2018-06-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Thor"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/thor/4050-77223/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "thor-and-loki-the-tenth-realm",
+      "title": "Thor & Loki: The Tenth Realm",
+      "url": "https://comicvine.gamespot.com/original-sin-thor-loki-the-tenth-realm/4050-78138/",
+      "runTitle": "Original Sin: Thor & Loki - The Tenth Realm",
+      "publisher": "Marvel",
+      "writers": [
+        "Al Ewing",
+        "Jason Aaron"
+      ],
+      "artists": [
+        "Lee Garbett",
+        "Simone Bianchi"
+      ],
+      "colorists": [],
+      "startYear": 2014,
+      "startDate": "2014-07-09",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "14",
+          "publication": "2018-06-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Thor & Loki: The Tenth Realm"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/original-sin-thor-loki-the-tenth-realm/4050-78138/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "thor-god-of-thunder-by-aaron",
+      "title": "Thor: God of Thunder by Aaron",
+      "url": "https://comicvine.gamespot.com/thor-god-of-thunder/4050-53920/",
+      "runTitle": "Thor: God of Thunder",
+      "publisher": "Marvel",
+      "writers": [
+        "Jason Aaron"
+      ],
+      "artists": [
+        "Esad Ribic"
+      ],
+      "colorists": [
+        "Ive Svorcina"
+      ],
+      "startYear": 2012,
+      "startDate": "2012-11-14",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "14",
+          "publication": "2018-06-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Thor: God of Thunder by Aaron"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/thor-god-of-thunder/4050-53920/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "thors-2015",
+      "title": "Thors",
+      "url": "https://comicvine.gamespot.com/thors/4050-82716/",
+      "runTitle": "Thors",
+      "publisher": "Marvel",
+      "writers": [
+        "Jason Aaron"
+      ],
+      "artists": [
+        "Chris Sprouse",
+        "Karl Story"
+      ],
+      "colorists": [
+        "Dave McCaig",
+        "Marte Gracia"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-06-17",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "14",
+          "publication": "2018-06-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "kind": "comic",
+          "rawTitle": "Thors"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/thors/4050-82716/"
         }
       ],
       "status": "verified",
@@ -20101,8 +20573,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP4",
           "publication": "2023-10-24",
           "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Comics: Avengers",
           "kind": "comic"
         }
@@ -20141,8 +20613,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP4",
           "publication": "2023-10-24",
           "episodeTitle": "",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Comics: Doomsday Trilogy",
           "kind": "comic"
         }
@@ -20183,8 +20655,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP5",
           "publication": "2023-11-16",
           "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Comics: Spider-Man",
           "kind": "comic"
         }
@@ -20226,8 +20698,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP5",
           "publication": "2023-11-16",
           "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Comics: The Ultimates",
           "kind": "comic"
         }
@@ -20269,8 +20741,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP4",
           "publication": "2023-10-24",
           "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Comics: X",
           "kind": "comic"
         }
@@ -20312,8 +20784,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP5",
           "publication": "2023-11-16",
           "episodeTitle": "",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Comics: X-Men",
           "kind": "comic"
         }
@@ -20356,8 +20828,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP2",
           "publication": "2023-08-15",
           "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Fantastic Four",
           "kind": "comic"
         }
@@ -20424,8 +20896,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP2",
           "publication": "2023-08-15",
           "episodeTitle": "",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Galactus Trilogy",
           "kind": "comic"
         }
@@ -20467,7 +20939,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP1",
           "publication": "2023-07-25",
           "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #01",
           "kind": "comic"
@@ -20510,7 +20982,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP2",
           "publication": "2023-08-15",
           "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #02",
           "kind": "comic"
@@ -20553,7 +21025,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP3",
           "publication": "2023-09-26",
           "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #03",
           "kind": "comic"
@@ -20596,7 +21068,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP4",
           "publication": "2023-10-24",
           "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #04",
           "kind": "comic"
@@ -20644,8 +21116,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP3",
           "publication": "2023-09-26",
           "episodeTitle": "",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Origins",
           "kind": "comic"
         }
@@ -20687,8 +21159,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP3",
           "publication": "2023-09-26",
           "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Power",
           "kind": "comic"
         }
@@ -20731,8 +21203,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP1",
           "publication": "2023-07-25",
           "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Spider-Man",
           "kind": "comic"
         }
@@ -20816,7 +21288,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP5",
           "publication": "2023-11-16",
           "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Universe",
           "kind": "comic"
@@ -20859,8 +21331,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP2",
           "publication": "2023-08-15",
           "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate Wolverine vs. Hulk",
           "kind": "comic"
         }
@@ -20883,18 +21355,19 @@ window.__NA_PANELI_COMICS__ = {
       "id": "ultimate-x-men",
       "title": "Ultimate X-Men",
       "runTitle": "Ultimate X-Men",
-      "publisher": "Panini España",
+      "publisher": "Marvel",
       "writers": [
-        "Brian K. Vaughan"
+        "Mark Millar"
       ],
       "artists": [
-        "Brandon Peterson"
+        "Adam Kubert",
+        "Art Thibert"
       ],
       "colorists": [
-        "Justin Ponsor"
+        "Richard Isanove"
       ],
-      "startYear": 2005,
-      "startDate": "2005-02-28",
+      "startYear": 2001,
+      "startDate": "2000-12-13",
       "decade": "2000-е",
       "discussedIn": [
         {
@@ -20902,8 +21375,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP1",
           "publication": "2023-07-25",
           "episodeTitle": "",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimate X-Men",
           "kind": "comic"
         }
@@ -20915,11 +21388,12 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimate-x-men/4050-43445/"
+          "url": "https://comicvine.gamespot.com/ultimate-x-men/4050-7258/"
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "url": "https://comicvine.gamespot.com/ultimate-x-men/4050-7258/"
     },
     {
       "id": "ultimates",
@@ -20997,8 +21471,8 @@ window.__NA_PANELI_COMICS__ = {
           "number": "UP3",
           "publication": "2023-09-26",
           "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
           "rawTitle": "Ultimatum",
           "kind": "comic"
         }
@@ -22872,5 +23346,5 @@ window.__NA_PANELI_COMICS__ = {
     }
   ],
   "enrichedAt": "2026-06-29",
-  "generatedAt": "2026-06-29T14:27:02.654Z"
+  "generatedAt": "2026-06-29T18:23:36.118Z"
 };
