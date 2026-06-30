@@ -4063,7 +4063,7 @@ window.__NA_PANELI_DATA__ = {
     {
       "id": null,
       "podcast": "Gol D. Panels",
-      "number": "OP02",
+      "number": "OP2",
       "publication": "2021-05-31",
       "title": "Gol D. Panels. Saga 02: Alabasta",
       "topics": [],
@@ -6013,7 +6013,7 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Frankenstein: New World",
         "Sir Edward Grey: Acheron",
-        "Koshchei in Hell",
+        "Koshchei in Hell"
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",

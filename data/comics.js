@@ -636,9 +636,9 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "alabasta-gol-d-panels-op02",
-      "title": "Alabasta",
+      "title": "Alabasta / Chapters #101-217",
       "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
-      "runTitle": "One Piece",
+      "runTitle": "Alabasta / Chapters #101-217",
       "publisher": "Shueisha",
       "writers": [
         "Eiichiro Oda"
@@ -656,12 +656,12 @@ window.__NA_PANELI_COMICS__ = {
       "discussedIn": [
         {
           "podcast": "Gol D. Panels",
-          "number": "OP02",
+          "number": "OP2",
           "episodeTitle": "Gol D. Panels. Saga 02: Alabasta",
           "publication": "2021-05-31",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Alabasta",
+          "rawTitle": "Alabasta / Chapters #101-217",
           "kind": "comic"
         }
       ],
@@ -1395,14 +1395,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "bang",
       "title": "BANG!",
-      "runTitle": "Bang",
-      "publisher": "Hemmets Journal AB",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1966,
-      "startDate": "1966-08-01",
-      "decade": "1960-е",
+      "runTitle": "BANG!",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Matt Kindt"
+      ],
+      "artists": [
+        "Wilfredo Torres"
+      ],
+      "colorists": [
+        "Nayoung Kim"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-02-19",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -1422,54 +1428,11 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/bang/4050-8237/"
+          "url": "https://comicvine.gamespot.com/bang/4050-125128/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
-      "kind": "comic"
-    },
-    {
-      "id": "baron-omatsuri-gol-d-panels-op3",
-      "title": "Baron Omatsuri",
-      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
-      "runTitle": "One Piece",
-      "publisher": "Shueisha",
-      "writers": [
-        "Eiichiro Oda"
-      ],
-      "artists": [
-        "Eiichiro Oda"
-      ],
-      "colorists": [],
-      "startYear": 1997,
-      "startDate": "1997-12-24",
-      "decade": "1990-е",
       "status": "verified",
-      "reviewNote": "",
-      "kind": "comic",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP3",
-          "episodeTitle": "Gol D. Panels",
-          "publication": "2021-11-09",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Baron Omatsuri",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
-        }
-      ]
+      "kind": "comic"
     },
     {
       "id": "basileus",
@@ -3526,16 +3489,18 @@ window.__NA_PANELI_COMICS__ = {
       "id": "catwoman-lonely-city",
       "title": "Catwoman: Lonely City",
       "runTitle": "Catwoman: Lonely City",
-      "publisher": "Panini Verlag",
+      "publisher": "DC Comics",
       "writers": [
         "Cliff Chiang"
       ],
       "artists": [
         "Cliff Chiang"
       ],
-      "colorists": [],
-      "startYear": 2022,
-      "startDate": "2022-04-05",
+      "colorists": [
+        "Cliff Chiang"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-10-19",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -3556,7 +3521,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/catwoman-lonely-city/4050-146343/"
+          "url": "https://comicvine.gamespot.com/catwoman-lonely-city/4050-139667/"
         }
       ],
       "status": "verified",
@@ -3606,9 +3571,9 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "cinema-purgatorio",
-      "title": "Cinema Purgatorio",
-      "runTitle": "Cinema Purgatorio",
-      "publisher": "Panini España",
+      "title": "Alan Moore's Cinema Purgatorio",
+      "runTitle": "Alan Moore's Cinema Purgatorio",
+      "publisher": "Avatar Press",
       "writers": [
         "Alan Moore",
         "Christos N. Gage",
@@ -3624,8 +3589,8 @@ window.__NA_PANELI_COMICS__ = {
         "Raulo Caceres"
       ],
       "colorists": [],
-      "startYear": 2017,
-      "startDate": "2017-03-31",
+      "startYear": 2016,
+      "startDate": "2016-05-04",
       "decade": "2010-е",
       "discussedIn": [
         {
@@ -3635,7 +3600,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "Cinema Purgatorio",
+          "rawTitle": "Alan Moore's Cinema Purgatorio",
           "kind": "comic"
         }
       ],
@@ -3646,7 +3611,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/cinema-purgatorio/4050-105618/"
+          "url": "https://comicvine.gamespot.com/alan-moores-cinema-purgatorio/4050-90097/"
         }
       ],
       "status": "verified",
@@ -3995,16 +3960,18 @@ window.__NA_PANELI_COMICS__ = {
       "runTitle": "Daredevil",
       "publisher": "Marvel",
       "writers": [
-        "Stan Lee"
+        "Chip Zdarsky"
       ],
       "artists": [
-        "Bill Everett",
-        "Steve Ditko"
+        "Marco Checchetto",
+        "Rafael de Latorre"
       ],
-      "colorists": [],
-      "startYear": 1964,
-      "startDate": "1964-02-04",
-      "decade": "1960-е",
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2022,
+      "startDate": "2022-07-13",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -4024,7 +3991,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/daredevil/4050-2190/"
+          "url": "https://comicvine.gamespot.com/daredevil/4050-144027/"
         }
       ],
       "status": "verified",
@@ -6145,25 +6112,31 @@ window.__NA_PANELI_COMICS__ = {
       "url": "https://imagecomics.com/comics/series/everyday-hero-machine-boy"
     },
     {
-      "id": "excalibur-13-x-men-13",
-      "title": "Excalibur #13 // X-Men #13",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "house-of-x-01-pox1",
+      "title": "House of X #01",
+      "runTitle": "House of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-07-24",
+      "decade": "2010-е",
       "discussedIn": [
         {
-          "podcast": "X of Panels",
-          "number": "XoP5",
-          "publication": "2020-10-26",
+          "podcast": "Panels of X",
+          "number": "PoX1",
+          "publication": "2019-07-29",
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Excalibur #13 // X-Men #13",
+          "rawTitle": "House of X #01",
           "kind": "comic"
         }
       ],
@@ -6171,32 +6144,41 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/house-of-x-1-the-house-that-xavier-built/4000-714236/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
+      "status": "verified",
       "kind": "comic"
     },
     {
-      "id": "excalibur-15-x-men-15-x-of-swords-destruction",
-      "title": "Excalibur #15 // X-Men #15 // X of Swords: Destruction",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "house-of-x-02-pox3",
+      "title": "House of X #02",
+      "runTitle": "House of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-08-07",
+      "decade": "2010-е",
       "discussedIn": [
         {
-          "podcast": "X of Panels",
-          "number": "XoP10",
-          "publication": "2020-11-30",
+          "podcast": "Panels of X",
+          "number": "PoX3",
+          "publication": "2019-08-12",
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Excalibur #15 // X-Men #15 // X of Swords: Destruction",
+          "rawTitle": "House of X #02",
           "kind": "comic"
         }
       ],
@@ -6204,23 +6186,586 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/house-of-x-2-the-uncanny-life-of-moira-x/4000-715306/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
+      "status": "verified",
       "kind": "comic"
     },
     {
-      "id": "excalibur-21-x-men-21-children-of-the-atom-04",
-      "title": "Excalibur #21 // X-Men #21 // Children of the Atom #04",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "house-of-x-03-pox6",
+      "title": "House of X #03",
+      "runTitle": "House of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-08-28",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX6",
+          "publication": "2019-09-02",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X #03",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/house-of-x-3-once-more-unto-the-breach/4000-717519/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "house-of-x-04-pox7",
+      "title": "House of X #04",
+      "runTitle": "House of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-09-04",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX7",
+          "publication": "2019-09-09",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X #04",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/house-of-x-4-it-will-be-done/4000-718128/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "house-of-x-05-pox9",
+      "title": "House of X #05",
+      "runTitle": "House of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-09-18",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX9",
+          "publication": "2019-09-23",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X #05",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/house-of-x-5-society/4000-719439/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "house-of-x-06-pox11",
+      "title": "House of X #06",
+      "runTitle": "House of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "David Curiel",
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-10-02",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX11",
+          "publication": "2019-10-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X #06",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/house-of-x-6-i-am-not-ashamed/4000-721154/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "powers-of-x-01-pox2",
+      "title": "Powers of X #01",
+      "runTitle": "Powers of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Adriano Di Benedetto",
+        "R. B. Silva"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-07-31",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX2",
+          "publication": "2019-08-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X #01",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/powers-of-x-1-the-last-dream-of-professor-x/4000-714669/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "powers-of-x-02-pox4",
+      "title": "Powers of X #02",
+      "runTitle": "Powers of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Adriano Di Benedetto",
+        "R. B. Silva"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-08-14",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX4",
+          "publication": "2019-08-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X #02",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/powers-of-x-2-we-are-together-now-you-and-i/4000-716371/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "powers-of-x-03-pox5",
+      "title": "Powers of X #03",
+      "runTitle": "Powers of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "R. B. Silva"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-08-21",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX5",
+          "publication": "2019-08-23",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X #03",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/powers-of-x-3-this-is-what-you-do/4000-716968/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "powers-of-x-04-pox8",
+      "title": "Powers of X #04",
+      "runTitle": "Powers of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "R. B. Silva"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-09-11",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX8",
+          "publication": "2019-09-16",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X #04",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/powers-of-x-4-something-sinister/4000-718763/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "powers-of-x-05-pox10",
+      "title": "Powers of X #05",
+      "runTitle": "Powers of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "R. B. Silva"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-09-25",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX10",
+          "publication": "2019-09-30",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X #05",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/powers-of-x-5-for-the-children/4000-720169/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "powers-of-x-06-pox12",
+      "title": "Powers of X #06",
+      "runTitle": "Powers of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Pepe Larraz",
+        "R. B. Silva"
+      ],
+      "colorists": [
+        "David Curiel",
+        "Marte Gracia"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-10-09",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX12",
+          "publication": "2019-10-14",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X #06",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/powers-of-x-6-house-of-x/4000-721789/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "marauders-21-hp1",
+      "title": "Marauders #21",
+      "runTitle": "Marauders",
+      "publisher": "Marvel",
+      "writers": [
+        "Chris Claremont",
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "John Bolton",
+        "Matteo Lolli"
+      ],
+      "colorists": [
+        "Edgar Delgado",
+        "Glynis Oliver Wein"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-02",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP1",
+          "publication": "2021-06-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Marauders #21",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/marauders-21-you-are-cordially-invited-to-the-hell/4000-857597/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-force-20-hp1",
+      "title": "X-Force #20",
+      "runTitle": "X-Force",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy"
+      ],
+      "artists": [
+        "Joshua Cassara"
+      ],
+      "colorists": [
+        "Guru-eFX"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-02",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP1",
+          "publication": "2021-06-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Force #20",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-force-20-the-secret-garden/4000-857598/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellions-12-hp1",
+      "title": "Hellions #12",
+      "runTitle": "Hellions",
+      "publisher": "Marvel",
+      "writers": [
+        "Zeb Wells"
+      ],
+      "artists": [
+        "Stephen Segovia"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-02",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP1",
+          "publication": "2021-06-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellions #12",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellions-12-gatecrashing/4000-857596/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "excalibur-21-hp2",
+      "title": "Excalibur #21",
+      "runTitle": "Excalibur",
+      "publisher": "Marvel",
+      "writers": [
+        "Tini Howard"
+      ],
+      "artists": [
+        "Marcus To"
+      ],
+      "colorists": [
+        "Erick Arciniega"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-09",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Hellfire Panels",
@@ -6229,7 +6774,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Excalibur #21 // X-Men #21 // Children of the Atom #04",
+          "rawTitle": "Excalibur #21",
           "kind": "comic"
         }
       ],
@@ -6237,10 +6782,1367 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/excalibur-21-dont-feel-like-dancin/4000-858872/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-no-match",
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-men-21-hp2",
+      "title": "X-Men #21",
+      "runTitle": "X-Men",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Lucas Werneck",
+        "Nick Dragotta",
+        "Russell Dauterman",
+        "Sara Pichelli"
+      ],
+      "colorists": [
+        "Frank Martin Jr.",
+        "Matthew Wilson",
+        "Nolan Woodard",
+        "Sunny Gho"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-09",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP2",
+          "publication": "2021-06-14",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Men #21",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-men-21-the-beginning/4000-858873/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "children-of-the-atom-04-hp2",
+      "title": "Children of the Atom #04",
+      "runTitle": "Children of the Atom",
+      "publisher": "Marvel",
+      "writers": [
+        "Vita Ayala"
+      ],
+      "artists": [
+        "Paco Medina"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-09",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP2",
+          "publication": "2021-06-14",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Children of the Atom #04",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/children-of-the-atom-4-captured/4000-858871/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "planet-size-x-men-01-hp3",
+      "title": "Planet-Size X-Men #01",
+      "runTitle": "Planet-Size X-Men",
+      "publisher": "Marvel",
+      "writers": [
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-16",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP3",
+          "publication": "2021-06-21",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Planet-Size X-Men #01",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/planet-size-x-men-1-fireworks/4000-861642/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "new-mutants-19-hp3",
+      "title": "New Mutants #19",
+      "runTitle": "New Mutants",
+      "publisher": "Marvel",
+      "writers": [
+        "Vita Ayala"
+      ],
+      "artists": [
+        "Alex Lins"
+      ],
+      "colorists": [
+        "Matt Milla"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-16",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP3",
+          "publication": "2021-06-21",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "New Mutants #19",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/new-mutants-19-party-of-the-century/4000-861639/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-corp-02-hp3",
+      "title": "X-Corp #02",
+      "runTitle": "X-Corp",
+      "publisher": "Marvel",
+      "writers": [
+        "Tini Howard"
+      ],
+      "artists": [
+        "Alberto Foche"
+      ],
+      "colorists": [
+        "Sunny Gho"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-16",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP3",
+          "publication": "2021-06-21",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Corp #02",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-corp-2-a-shark-in-the-water/4000-861644/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "wolverine-13-hp4",
+      "title": "Wolverine #13",
+      "runTitle": "Wolverine",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy"
+      ],
+      "artists": [
+        "Oren Junior",
+        "Scot Eaton"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-23",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP4",
+          "publication": "2021-06-28",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Wolverine #13",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/wolverine-13-what-they-did-in-the-shadows/4000-863865/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "s-w-o-r-d-06-hp4",
+      "title": "S.W.O.R.D. #06",
+      "runTitle": "S.W.O.R.D.",
+      "publisher": "Marvel",
+      "writers": [
+        "Al Ewing"
+      ],
+      "artists": [
+        "Valerio Schiti"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-23",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP4",
+          "publication": "2021-06-28",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "S.W.O.R.D. #06",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/sword-6-this-is-what-comes-next/4000-863852/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "way-of-x-03-hp4",
+      "title": "Way of X #03",
+      "runTitle": "Way of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Simon Spurrier"
+      ],
+      "artists": [
+        "Bob Quinn"
+      ],
+      "colorists": [
+        "Javier Tartaglia"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-23",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP4",
+          "publication": "2021-06-28",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Way of X #03",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/way-of-x-3-joy-of-x/4000-863854/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-factor-10-hp5",
+      "title": "X-Factor #10",
+      "runTitle": "X-Factor",
+      "publisher": "Marvel",
+      "writers": [
+        "Leah Williams"
+      ],
+      "artists": [
+        "David Baldeón",
+        "David Messina",
+        "Lucas Werneck"
+      ],
+      "colorists": [
+        "Israel Silva"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-30",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP5",
+          "publication": "2021-07-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Factor #10",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-factor-10-finale/4000-866581/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "cable-11-hp5",
+      "title": "Cable #11",
+      "runTitle": "Cable",
+      "publisher": "Marvel",
+      "writers": [
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Phil Noto"
+      ],
+      "colorists": [],
+      "startYear": 2021,
+      "startDate": "2021-06-30",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP5",
+          "publication": "2021-07-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Cable #11",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/cable-11-depression/4000-866577/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-of-swords-creation-01-xop1",
+      "title": "X of Swords: Creation #01",
+      "runTitle": "X of Swords: Creation",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman",
+        "Tini Howard"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-09-23",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP1",
+          "publication": "2020-09-28",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X of Swords: Creation #01",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-of-swords-creation-1-x-of-swords-chapter-1/4000-803652/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-factor-04-xop2",
+      "title": "X-Factor #04",
+      "runTitle": "X-Factor",
+      "publisher": "Marvel",
+      "writers": [
+        "Leah Williams"
+      ],
+      "artists": [
+        "Carlos Gomez (SP)"
+      ],
+      "colorists": [
+        "Israel Silva"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-09-30",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP2",
+          "publication": "2020-10-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Factor #04",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-factor-4-x-of-swords-chapter-2/4000-805100/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "wolverine-06-xop3",
+      "title": "Wolverine #06",
+      "runTitle": "Wolverine",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy"
+      ],
+      "artists": [
+        "Viktor Bogdanovic"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-10-07",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP3",
+          "publication": "2020-10-12",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Wolverine #06",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/wolverine-6-x-of-swords-chapter-3/4000-807579/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-force-13-xop3",
+      "title": "X-Force #13",
+      "runTitle": "X-Force",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy"
+      ],
+      "artists": [
+        "Viktor Bogdanovic"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-10-07",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP3",
+          "publication": "2020-10-12",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Force #13",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-force-13-x-of-swords-chapter-4/4000-807580/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "marauders-13-xop3",
+      "title": "Marauders #13",
+      "runTitle": "Marauders",
+      "publisher": "Marvel",
+      "writers": [
+        "Vita Ayala"
+      ],
+      "artists": [
+        "Matteo Lolli"
+      ],
+      "colorists": [
+        "Edgar Delgado"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-10-07",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP3",
+          "publication": "2020-10-12",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Marauders #13",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/marauders-13-x-of-swords-chapter-5/4000-807571/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellions-05-xop4",
+      "title": "Hellions #05",
+      "runTitle": "Hellions",
+      "publisher": "Marvel",
+      "writers": [
+        "Zeb Wells"
+      ],
+      "artists": [
+        "Carmen Nunez Carnero"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-10-14",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP4",
+          "publication": "2020-10-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellions #05",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellions-5-x-of-swords-chapter-6/4000-810727/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "new-mutants-13-xop4",
+      "title": "New Mutants #13",
+      "runTitle": "New Mutants",
+      "publisher": "Marvel",
+      "writers": [
+        "Ed Brisson"
+      ],
+      "artists": [
+        "Rod Reis"
+      ],
+      "colorists": [],
+      "startYear": 2020,
+      "startDate": "2020-10-14",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP4",
+          "publication": "2020-10-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "New Mutants #13",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/new-mutants-13-x-of-swords-chapter-7/4000-810730/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "cable-05-xop4",
+      "title": "Cable #05",
+      "runTitle": "Cable",
+      "publisher": "Marvel",
+      "writers": [
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Phil Noto"
+      ],
+      "colorists": [],
+      "startYear": 2020,
+      "startDate": "2020-10-14",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP4",
+          "publication": "2020-10-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Cable #05",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/cable-5-x-of-swords-chapter-8/4000-810724/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "excalibur-13-xop5",
+      "title": "Excalibur #13",
+      "runTitle": "Excalibur",
+      "publisher": "Marvel",
+      "writers": [
+        "Tini Howard"
+      ],
+      "artists": [
+        "R. B. Silva"
+      ],
+      "colorists": [
+        "Nolan Woodard"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-10-21",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP5",
+          "publication": "2020-10-26",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Excalibur #13",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/excalibur-13-x-of-swords-chapter-9/4000-813279/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-men-13-xop5",
+      "title": "X-Men #13",
+      "runTitle": "X-Men",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Mahmud A. Asrar"
+      ],
+      "colorists": [
+        "Sunny Gho"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-10-21",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP5",
+          "publication": "2020-10-26",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Men #13",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-men-13-x-of-swords-chapter-10/4000-813291/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-of-swords-stasis-01-xop6",
+      "title": "X of Swords: Stasis #01",
+      "runTitle": "X of Swords: Stasis",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman",
+        "Tini Howard"
+      ],
+      "artists": [
+        "Mahmud A. Asrar",
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-10-28",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP6",
+          "publication": "2020-11-02",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X of Swords: Stasis #01",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-of-swords-stasis-1-x-of-swords-chapter-11/4000-814483/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-men-14-xop7",
+      "title": "X-Men #14",
+      "runTitle": "X-Men",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Leinil Francis Yu",
+        "Mahmud A. Asrar"
+      ],
+      "colorists": [
+        "Sunny Gho"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-04",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP7",
+          "publication": "2020-11-10",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Men #14",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-men-14-x-of-swords-chapter-12/4000-816456/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "marauders-14-xop7",
+      "title": "Marauders #14",
+      "runTitle": "Marauders",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy",
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Stefano Caselli"
+      ],
+      "colorists": [
+        "Edgar Delgado"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-04",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP7",
+          "publication": "2020-11-10",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Marauders #14",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/marauders-14-x-of-swords-chapter-13/4000-816455/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "marauders-15-xop8",
+      "title": "Marauders #15",
+      "runTitle": "Marauders",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy",
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Stefano Caselli"
+      ],
+      "colorists": [
+        "Edgar Delgado"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-11",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP8",
+          "publication": "2020-11-16",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Marauders #15",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/marauders-15-x-of-swords-chapter-14/4000-817705/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "excalibur-14-xop8",
+      "title": "Excalibur #14",
+      "runTitle": "Excalibur",
+      "publisher": "Marvel",
+      "writers": [
+        "Tini Howard"
+      ],
+      "artists": [
+        "Phil Noto"
+      ],
+      "colorists": [],
+      "startYear": 2020,
+      "startDate": "2020-11-11",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP8",
+          "publication": "2020-11-16",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Excalibur #14",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/excalibur-14-x-of-swords-chapter-15/4000-817704/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "wolverine-07-xop8",
+      "title": "Wolverine #07",
+      "runTitle": "Wolverine",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy",
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Joshua Cassara"
+      ],
+      "colorists": [
+        "Guru-eFX"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-11",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP8",
+          "publication": "2020-11-16",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Wolverine #07",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/wolverine-7-x-of-swords-chapter-16/4000-817706/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-force-14-xop9",
+      "title": "X-Force #14",
+      "runTitle": "X-Force",
+      "publisher": "Marvel",
+      "writers": [
+        "Benjamin Percy",
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Joshua Cassara"
+      ],
+      "colorists": [
+        "Guru-eFX"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-18",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP9",
+          "publication": "2020-11-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Force #14",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-force-14-x-of-swords-chapter-17/4000-819097/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellions-06-xop9",
+      "title": "Hellions #06",
+      "runTitle": "Hellions",
+      "publisher": "Marvel",
+      "writers": [
+        "Zeb Wells"
+      ],
+      "artists": [
+        "Carmen Nunez Carnero"
+      ],
+      "colorists": [
+        "David Curiel"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-18",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP9",
+          "publication": "2020-11-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellions #06",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellions-6-x-of-swords-chapter-18/4000-819096/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "cable-06-xop9",
+      "title": "Cable #06",
+      "runTitle": "Cable",
+      "publisher": "Marvel",
+      "writers": [
+        "Gerry Duggan"
+      ],
+      "artists": [
+        "Phil Noto"
+      ],
+      "colorists": [],
+      "startYear": 2020,
+      "startDate": "2020-11-18",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP9",
+          "publication": "2020-11-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Cable #06",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/cable-6-x-of-swords-chapter-19/4000-819095/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "excalibur-15-xop10",
+      "title": "Excalibur #15",
+      "runTitle": "Excalibur",
+      "publisher": "Marvel",
+      "writers": [
+        "Tini Howard"
+      ],
+      "artists": [
+        "Mahmud A. Asrar",
+        "Stefano Caselli"
+      ],
+      "colorists": [
+        "Rachelle Rosenberg",
+        "Sunny Gho"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-25",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP10",
+          "publication": "2020-11-30",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Excalibur #15",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/excalibur-15-x-of-swords-chapter-21/4000-819478/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-men-15-xop10",
+      "title": "X-Men #15",
+      "runTitle": "X-Men",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman"
+      ],
+      "artists": [
+        "Mahmud A. Asrar"
+      ],
+      "colorists": [
+        "Sunny Gho"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-25",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP10",
+          "publication": "2020-11-30",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Men #15",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-men-15-x-of-swords-chapter-20/4000-819479/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-of-swords-destruction-01-xop10",
+      "title": "X of Swords: Destruction #01",
+      "runTitle": "X of Swords: Destruction",
+      "publisher": "Marvel",
+      "writers": [
+        "Jonathan Hickman",
+        "Tini Howard"
+      ],
+      "artists": [
+        "Pepe Larraz"
+      ],
+      "colorists": [
+        "Marte Gracia"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-11-25",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP10",
+          "publication": "2020-11-30",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X of Swords: Destruction #01",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-of-swords-destruction-1-x-of-swords-chapter-22/4000-819480/"
+        }
+      ],
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -6577,13 +8479,19 @@ window.__NA_PANELI_COMICS__ = {
       "id": "fire-power",
       "title": "Fire Power",
       "runTitle": "Fire Power",
-      "publisher": "Magazine Enterprises",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1948,
-      "startDate": "1948-01-01",
-      "decade": "1940-е",
+      "publisher": "Image",
+      "writers": [
+        "Robert Kirkman"
+      ],
+      "artists": [
+        "Chris Samnee"
+      ],
+      "colorists": [
+        "Matthew Wilson"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-08-05",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -6603,11 +8511,10 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/fire-power/4050-54612/"
+          "url": "https://comicvine.gamespot.com/fire-power/4050-129260/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -8694,48 +10601,6 @@ window.__NA_PANELI_COMICS__ = {
       "status": "verified"
     },
     {
-      "id": "hellions-05-new-mutants-13-cable-05",
-      "title": "Hellions #05 // New Mutants #13 // Cable #05",
-      "runTitle": "Hellions",
-      "publisher": "Marvel",
-      "writers": [
-        "Zeb Wells"
-      ],
-      "artists": [
-        "Stephen Segovia"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-03-25",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP4",
-          "publication": "2020-10-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellions #05 // New Mutants #13 // Cable #05",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellions/4050-126015/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
       "id": "heroes-in-crisis",
       "title": "Heroes in Crisis",
       "runTitle": "Heroes In Crisis",
@@ -8936,258 +10801,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/house-of-women/4050-105575/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-01",
-      "title": "House of X [01]",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-24",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX1",
-          "publication": "2019-07-29",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X [01]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x/4050-120309/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-02",
-      "title": "House of X [02]",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-24",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX3",
-          "publication": "2019-08-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X [02]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x/4050-120309/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-03",
-      "title": "House of X [03]",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-24",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX6",
-          "publication": "2019-09-02",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X [03]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x/4050-120309/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-04",
-      "title": "House of X [04]",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-24",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX7",
-          "publication": "2019-09-09",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X [04]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x/4050-120309/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-05",
-      "title": "House of X [05]",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-24",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX9",
-          "publication": "2019-09-23",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X [05]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x/4050-120309/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-06",
-      "title": "House of X [06]",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-24",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX11",
-          "publication": "2019-10-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X [06]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x/4050-120309/"
         }
       ],
       "status": "verified",
@@ -9440,13 +11053,19 @@ window.__NA_PANELI_COMICS__ = {
       "id": "ice-cream-man",
       "title": "Ice Cream Man",
       "runTitle": "Ice Cream Man",
-      "publisher": "Huginn & Muninn",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "publisher": "Image",
+      "writers": [
+        "W. Maxwell Prince"
+      ],
+      "artists": [
+        "Martin Morazzo"
+      ],
+      "colorists": [
+        "Chris O'Halloran"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-01-17",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9466,11 +11085,10 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ice-cream-man/4050-151533/"
+          "url": "https://comicvine.gamespot.com/ice-cream-man/4050-107948/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -11664,72 +13282,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "marauders-15-excalibur-14-wolverine-07",
-      "title": "Marauders #15 // Excalibur #14 // Wolverine #07",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP8",
-          "publication": "2020-11-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Marauders #15 // Excalibur #14 // Wolverine #07",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "marauders-21-x-force-20-hellions-12",
-      "title": "Marauders #21 // X-Force #20 // Hellions #12",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP1",
-          "publication": "2021-06-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Marauders #21 // X-Force #20 // Hellions #12",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
       "id": "marineford-chapters-550-597-gol-d-panels-op8",
       "title": "Marineford / Chapters #550-597",
       "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
@@ -12185,16 +13737,17 @@ window.__NA_PANELI_COMICS__ = {
       "runTitle": "Mister Miracle",
       "publisher": "DC Comics",
       "writers": [
-        "Jack Kirby"
+        "Tom King"
       ],
       "artists": [
-        "Jack Kirby",
-        "Vince Colletta"
+        "Mitch Gerads"
       ],
-      "colorists": [],
-      "startYear": 1971,
-      "startDate": "1971-04-07",
-      "decade": "1970-е",
+      "colorists": [
+        "Mitch Gerads"
+      ],
+      "startYear": 2017,
+      "startDate": "2017-08-09",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12214,7 +13767,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/mister-miracle/4050-2504/"
+          "url": "https://comicvine.gamespot.com/mister-miracle/4050-103397/"
         }
       ],
       "status": "verified",
@@ -13157,9 +14710,9 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "neonomicon",
-      "title": "Neonomicon",
-      "runTitle": "Neonomicon",
-      "publisher": "Panini Verlag",
+      "title": "Alan Moore's Neonomicon",
+      "runTitle": "Alan Moore's Neonomicon",
+      "publisher": "Avatar Press",
       "writers": [
         "Alan Moore"
       ],
@@ -13169,8 +14722,8 @@ window.__NA_PANELI_COMICS__ = {
       "colorists": [
         "Juanmar"
       ],
-      "startYear": 2011,
-      "startDate": "2011-09-22",
+      "startYear": 2010,
+      "startDate": "2010-07-21",
       "decade": "2010-е",
       "discussedIn": [
         {
@@ -13180,7 +14733,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "Neonomicon",
+          "rawTitle": "Alan Moore's Neonomicon",
           "kind": "comic"
         }
       ],
@@ -13191,7 +14744,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/neonomicon/4050-61788/"
+          "url": "https://comicvine.gamespot.com/alan-moores-neonomicon/4050-34578/"
         }
       ],
       "status": "verified",
@@ -14193,13 +15746,17 @@ window.__NA_PANELI_COMICS__ = {
       "id": "panorama",
       "title": "Panorama",
       "runTitle": "Panorama",
-      "publisher": "Marketprint",
-      "writers": [],
-      "artists": [],
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Michel Fiffe"
+      ],
+      "artists": [
+        "Michel Fiffe"
+      ],
       "colorists": [],
-      "startYear": 1965,
-      "startDate": "",
-      "decade": "1960-е",
+      "startYear": 2020,
+      "startDate": "2020-06-17",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -14219,12 +15776,11 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/panorama/4050-136218/"
+          "url": "https://comicvine.gamespot.com/panorama/4050-127923/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "panya-the-mummy-s-curse",
@@ -14788,39 +16344,6 @@ window.__NA_PANELI_COMICS__ = {
       "reviewNote": "comicvine-no-match"
     },
     {
-      "id": "planet-size-x-men-new-mutants-19-x-corp-02",
-      "title": "Planet-Size X-Men // New Mutants #19 // X-Corp #02",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP3",
-          "publication": "2021-06-21",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Planet-Size X-Men // New Mutants #19 // X-Corp #02",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
       "id": "poison-ivy",
       "title": "Poison Ivy",
       "runTitle": "Poison Ivy",
@@ -14901,204 +16424,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "powers-of-x-01",
-      "title": "Powers of X [01]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX2",
-          "publication": "2019-08-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X [01]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "powers-of-x-02",
-      "title": "Powers of X [02]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX4",
-          "publication": "2019-08-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X [02]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "powers-of-x-03",
-      "title": "Powers of X [03]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX5",
-          "publication": "2019-08-23",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X [03]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "powers-of-x-04",
-      "title": "Powers of X [04]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX8",
-          "publication": "2019-09-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X [04]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "powers-of-x-05",
-      "title": "Powers of X [05]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX10",
-          "publication": "2019-09-30",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X [05]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "powers-of-x-06",
-      "title": "Powers of X [06]",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX12",
-          "publication": "2019-10-14",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X [06]",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
     },
     {
       "id": "pretty-deadly-the-rat",
@@ -15708,17 +17033,19 @@ window.__NA_PANELI_COMICS__ = {
       "id": "reckless",
       "title": "Reckless",
       "runTitle": "Reckless",
-      "publisher": "Harlequin Comics",
+      "publisher": "Image",
       "writers": [
-        "Julie Kenner"
+        "Ed Brubaker"
       ],
       "artists": [
-        "Yoshiko Hanatsu"
+        "Sean Phillips"
       ],
-      "colorists": [],
-      "startYear": 2018,
-      "startDate": "2018-07-19",
-      "decade": "2010-е",
+      "colorists": [
+        "Jacob Phillips"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-12-16",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -15738,7 +17065,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/reckless/4050-114596/"
+          "url": "https://comicvine.gamespot.com/reckless/4050-132624/"
         }
       ],
       "status": "verified",
@@ -15871,14 +17198,29 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "reign-of-x",
       "title": "Reign of X",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Reign of X",
+      "publisher": "Marvel",
+      "writers": [
+        "Al Ewing",
+        "Jonathan Hickman",
+        "Leah Williams",
+        "Zeb Wells"
+      ],
+      "artists": [
+        "David Baldeón",
+        "Phil Noto",
+        "Stephen Segovia",
+        "Valerio Schiti"
+      ],
+      "colorists": [
+        "David Curiel",
+        "Israel Silva",
+        "Marte Gracia",
+        "Phil Noto"
+      ],
+      "startYear": 2021,
+      "startDate": "2021-06-30",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Hellfire Panels",
@@ -15895,11 +17237,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/reign-of-x/4050-137265/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "rock-candy-mountain",
@@ -16107,20 +17452,19 @@ window.__NA_PANELI_COMICS__ = {
       "id": "sabrina",
       "title": "Sabrina",
       "runTitle": "Sabrina",
-      "publisher": "Archie Comics",
+      "publisher": "Drawn & Quarterly",
       "writers": [
-        "Michael Gallagher"
+        "Nick Drnaso"
       ],
       "artists": [
-        "Dave Manak",
-        "Jon D'Agostino"
+        "Nick Drnaso"
       ],
       "colorists": [
-        "Barry Grossman (Ben Sean)"
+        "Nick Drnaso"
       ],
-      "startYear": 2000,
-      "startDate": "2000-01-01",
-      "decade": "2000-е",
+      "startYear": 2018,
+      "startDate": "2018-05-23",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -16140,7 +17484,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/sabrina/4050-7298/"
+          "url": "https://comicvine.gamespot.com/sabrina/4050-111066/"
         }
       ],
       "status": "verified",
@@ -16942,20 +18286,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "smile",
       "title": "Smile",
-      "runTitle": "Smile!",
-      "publisher": "Gold Medal Books",
+      "runTitle": "Smile",
+      "publisher": "Scholastic Book Services",
       "writers": [
-        "Bil Keane"
+        "Raina Telgemeier"
       ],
       "artists": [
-        "Bil Keane"
+        "Raina Telgemeier"
       ],
-      "colorists": [
-        "Bil Keane"
-      ],
-      "startYear": 1976,
-      "startDate": "1976-12-31",
-      "decade": "1970-е",
+      "colorists": [],
+      "startYear": 2010,
+      "startDate": "2010-02-03",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -16975,7 +18317,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/smile/4050-64033/"
+          "url": "https://comicvine.gamespot.com/smile/4050-65483/"
         }
       ],
       "status": "verified",
@@ -17867,13 +19209,20 @@ window.__NA_PANELI_COMICS__ = {
       "id": "superman",
       "title": "Superman",
       "runTitle": "Superman",
-      "publisher": "Egmont Ehapa Verlag",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1967,
-      "startDate": "",
-      "decade": "1960-е",
+      "publisher": "DC Comics",
+      "writers": [
+        "Brian Michael Bendis"
+      ],
+      "artists": [
+        "Ivan Reis",
+        "Joe Prado"
+      ],
+      "colorists": [
+        "Alex Sinclair"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-07-11",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -17893,34 +19242,29 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/superman/4050-75392/"
+          "url": "https://comicvine.gamespot.com/superman/4050-112206/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "superman-s-pal-jimmy-olsen",
       "title": "Superman's Pal Jimmy Olsen",
-      "runTitle": "Superman's Pal, Jimmy Olsen",
+      "runTitle": "Superman's Pal Jimmy Olsen",
       "publisher": "DC Comics",
       "writers": [
-        "Henry Boltinoff",
-        "Jack Schiff",
-        "Otto Binder"
+        "Matt Fraction"
       ],
       "artists": [
-        "Curt Swan",
-        "Henry Boltinoff",
-        "Ray Burnley",
-        "Stan Kaye",
-        "Winslow Mortimer"
+        "Steve Lieber"
       ],
-      "colorists": [],
-      "startYear": 1954,
-      "startDate": "1954-09-01",
-      "decade": "1950-е",
+      "colorists": [
+        "Nathan Fairbairn"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-07-17",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -17940,7 +19284,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/supermans-pal-jimmy-olsen/4050-19172/"
+          "url": "https://comicvine.gamespot.com/supermans-pal-jimmy-olsen/4050-120215/"
         }
       ],
       "status": "verified",
@@ -18782,14 +20126,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "the-green-lantern",
       "title": "The Green Lantern",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "The Green Lantern",
+      "publisher": "DC Comics",
+      "writers": [
+        "Grant Morrison"
+      ],
+      "artists": [
+        "Liam Sharp"
+      ],
+      "colorists": [
+        "Steve Oliff"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-11-07",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -18806,11 +20156,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-green-lantern/4050-115055/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "the-grot",
@@ -21014,19 +22367,17 @@ window.__NA_PANELI_COMICS__ = {
       "id": "the-warning",
       "title": "The Warning",
       "runTitle": "The Warning",
-      "publisher": "Chick Publications",
+      "publisher": "Image",
       "writers": [
-        "Jack T. Chick"
+        "Edward Laroche"
       ],
       "artists": [
-        "Jack T. Chick"
+        "Edward Laroche"
       ],
-      "colorists": [
-        "Jack T. Chick"
-      ],
-      "startYear": 2000,
-      "startDate": "2000-01-01",
-      "decade": "2000-е",
+      "colorists": [],
+      "startYear": 2018,
+      "startDate": "2018-11-28",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -21046,7 +22397,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-warning/4050-46735/"
+          "url": "https://comicvine.gamespot.com/the-warning/4050-115596/"
         }
       ],
       "status": "verified",
@@ -22719,16 +24070,6 @@ window.__NA_PANELI_COMICS__ = {
           "proposerColumn": "Леша",
           "rawTitle": "Ultimates",
           "kind": "comic"
-        },
-        {
-          "podcast": "На панелях",
-          "number": "11",
-          "publication": "2018-05-08",
-          "episodeTitle": "",
-          "proposer": "Никита Стародубцев",
-          "proposerColumn": "Никита",
-          "rawTitle": "Ultimates",
-          "kind": "comic"
         }
       ],
       "sources": [
@@ -22739,6 +24080,90 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/ultimates/4050-158414/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "ultimates-2-2016-na-panely-11",
+      "title": "Ultimates 2",
+      "runTitle": "Ultimates 2",
+      "publisher": "Marvel",
+      "writers": [
+        "Al Ewing"
+      ],
+      "artists": [
+        "Travel Foreman"
+      ],
+      "colorists": [
+        "Dan Brown"
+      ],
+      "startYear": 2016,
+      "startDate": "2016-11-23",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "11",
+          "publication": "2018-05-08",
+          "episodeTitle": "",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита",
+          "kind": "comic",
+          "rawTitle": "Ultimates 2"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/ultimates-2/4050-95843/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "ultimates-2016-na-panely-11",
+      "title": "Ultimates (2016)",
+      "runTitle": "Ultimates",
+      "publisher": "Marvel",
+      "writers": [
+        "Al Ewing"
+      ],
+      "artists": [
+        "Kenneth Rocafort"
+      ],
+      "colorists": [
+        "Dan Brown"
+      ],
+      "startYear": 2015,
+      "startDate": "2015-11-11",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "11",
+          "publication": "2018-05-08",
+          "episodeTitle": "",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита",
+          "kind": "comic",
+          "rawTitle": "Ultimates (2016)"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/ultimates/4050-85972/"
         }
       ],
       "status": "verified",
@@ -23909,72 +25334,6 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "wolverine-06-x-force-13-marauders-13",
-      "title": "Wolverine #06 // X-Force #13 // Marauders #13",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP3",
-          "publication": "2020-10-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Wolverine #06 // X-Force #13 // Marauders #13",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "wolverine-13-s-w-o-r-d-06-way-of-x-03",
-      "title": "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP4",
-          "publication": "2021-06-28",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
       "id": "wolverine-the-long-night",
       "title": "Wolverine: The Long Night",
       "runTitle": "Wolverine: The Long Night",
@@ -24099,304 +25458,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "x-of-swords-creation",
-      "title": "X of Swords: Creation",
-      "runTitle": "X of Swords: Creation",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman",
-        "Tini Howard"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-09-23",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP1",
-          "publication": "2020-09-28",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X of Swords: Creation",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-of-swords-creation/4050-130569/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-of-swords-stasis",
-      "title": "X of Swords: Stasis",
-      "runTitle": "X of Swords: Stasis",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman",
-        "Tini Howard"
-      ],
-      "artists": [
-        "Mahmud A. Asrar",
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-28",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP6",
-          "publication": "2020-11-02",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X of Swords: Stasis",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-of-swords-stasis/4050-131525/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-factor-04",
-      "title": "X-Factor #04",
-      "runTitle": "X-Factor",
-      "publisher": "Marvel",
-      "writers": [
-        "Peter David"
-      ],
-      "artists": [
-        "Ryan Sook",
-        "Wade von Grawbadger"
-      ],
-      "colorists": [
-        "José Villarrubia"
-      ],
-      "startYear": 2006,
-      "startDate": "2005-12-14",
-      "decade": "2000-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP2",
-          "publication": "2020-10-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Factor #04",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-factor/4050-18109/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-factor-10-cable-11",
-      "title": "X-Factor #10 // Cable #11",
-      "runTitle": "X-Factor",
-      "publisher": "Panini España",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 2011,
-      "startDate": "2011-09-01",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP5",
-          "publication": "2021-07-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Factor #10 // Cable #11",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-factor/4050-46699/"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
-    },
-    {
-      "id": "x-force-14-hellions-06-cable-06",
-      "title": "X-Force #14 // Hellions #06 // Cable #06",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP9",
-          "publication": "2020-11-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Force #14 // Hellions #06 // Cable #06",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
-    },
-    {
-      "id": "x-men-14-marauders-14",
-      "title": "X-Men #14 // Marauders #14",
-      "runTitle": "X-Men: Marauders",
-      "publisher": "Marvel",
-      "writers": [
-        "Mike Carey"
-      ],
-      "artists": [
-        "Al Vey",
-        "Carlos Cuevas",
-        "Chris Bachalo",
-        "Clayton Henry",
-        "Humberto Ramos",
-        "Jaime Mendoza",
-        "Jon Holdredge",
-        "Jon Sibal",
-        "Mark Brooks",
-        "Mark Irwin",
-        "Mark Morales",
-        "Mike Choi",
-        "Tim Townsend",
-        "Victor Olazaba"
-      ],
-      "colorists": [
-        "Antonio Fabela",
-        "Chris Bachalo",
-        "Chris Sotomayor",
-        "Christina Strain",
-        "Edgar Delgado",
-        "John Rauch",
-        "Sonia Oback"
-      ],
-      "startYear": 2018,
-      "startDate": "2018-11-28",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP7",
-          "publication": "2020-11-10",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Men #14 // Marauders #14",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-men-marauders/4050-115600/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-men-before-hickman",
-      "title": "X-Men Before Hickman",
-      "runTitle": "X-Men",
-      "publisher": "Panini Verlag",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 2001,
-      "startDate": "",
-      "decade": "2000-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX0",
-          "publication": "2019-07-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Men Before Hickman",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-men/4050-43672/"
-        }
-      ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
     },
     {
       "id": "x-men-grand-design",
