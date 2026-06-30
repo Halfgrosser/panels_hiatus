@@ -10,8 +10,4 @@ await mkdir(dist, { recursive: true });
 for (const name of ["index.html", "comics.html", "styles.css", "app.js", "comics.js", "assets", "data"]) {
   await cp(resolve(root, name), resolve(dist, name), { recursive: true });
 }
-
-await mkdir(resolve(dist, "comics"), { recursive: true });
-await cp(resolve(root, "comics.html"), resolve(dist, "comics", "index.html"));
-
 console.log(`Static build created at ${dist}`);
