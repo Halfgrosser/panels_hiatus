@@ -3116,15 +3116,17 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "brat-pack",
       "title": "Brat Pack",
-      "runTitle": "Brat Pack",
+      "runTitle": "Bratpack",
       "publisher": "King Hell",
       "writers": [
         "Rick Veitch"
       ],
-      "artists": [],
+      "artists": [
+        "Rick Veitch"
+      ],
       "colorists": [],
-      "startYear": 1992,
-      "startDate": "2009-07-06",
+      "startYear": 1990,
+      "startDate": "1990-08-01",
       "decade": "1990-е",
       "discussedIn": [
         {
@@ -3145,7 +3147,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/brat-pack/4050-34638/"
+          "url": "https://comicvine.gamespot.com/bratpack/4050-4522/"
         }
       ],
       "status": "verified",
@@ -3407,15 +3409,22 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "cable",
-      "title": "Cable",
-      "runTitle": "Cable",
-      "publisher": "JuniorPress BV",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 1994,
-      "startDate": "",
-      "decade": "1990-е",
+      "title": "Cable: Past Fears",
+      "runTitle": "Cable: Past Fears",
+      "publisher": "Marvel",
+      "writers": [
+        "Lonnie Nadler",
+        "Zac Thompson"
+      ],
+      "artists": [
+        "German Peralta"
+      ],
+      "colorists": [
+        "Jesus Aburtov"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-09-19",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -3424,7 +3433,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
-          "rawTitle": "Cable",
+          "rawTitle": "Cable: Past Fears",
           "kind": "comic"
         }
       ],
@@ -3435,11 +3444,10 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/cable/4050-127570/"
+          "url": "https://comicvine.gamespot.com/cable-past-fears/4050-113692/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -3749,18 +3757,18 @@ window.__NA_PANELI_COMICS__ = {
       "title": "Conan the Barbarian",
       "runTitle": "Conan the Barbarian",
       "publisher": "Marvel",
-      "writers": [],
+      "writers": [
+        "Jason Aaron"
+      ],
       "artists": [
-        "Claudio Castellini",
-        "Lewis LaRosa",
-        "Mark Farmer"
+        "Mahmud A. Asrar"
       ],
       "colorists": [
-        "John Kalisz"
+        "Matthew Wilson"
       ],
-      "startYear": 1997,
-      "startDate": "1997-07-01",
-      "decade": "1990-е",
+      "startYear": 2019,
+      "startDate": "2019-01-02",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -3780,7 +3788,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/conan-the-barbarian/4050-22947/"
+          "url": "https://comicvine.gamespot.com/conan-the-barbarian/4050-116245/"
         }
       ],
       "status": "verified",
@@ -4051,15 +4059,13 @@ window.__NA_PANELI_COMICS__ = {
         "Tom Taylor"
       ],
       "artists": [
-        "Bengal",
         "Yasmine Putri"
       ],
       "colorists": [
-        "Arif Prianto",
         "Yasmine Putri"
       ],
-      "startYear": 2022,
-      "startDate": "2022-09-20",
+      "startYear": 2021,
+      "startDate": "2021-11-02",
       "decade": "2020-е",
       "discussedIn": [
         {
@@ -4080,7 +4086,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/dark-knights-of-steel/4050-145391/"
+          "url": "https://comicvine.gamespot.com/dark-knights-of-steel/4050-139924/"
         }
       ],
       "status": "verified",
@@ -4232,13 +4238,21 @@ window.__NA_PANELI_COMICS__ = {
       "id": "dceased",
       "title": "DCeased",
       "runTitle": "DCeased",
-      "publisher": "Urban Comics",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-10-04",
-      "decade": "2020-е",
+      "publisher": "DC Comics",
+      "writers": [
+        "Tom Taylor"
+      ],
+      "artists": [
+        "James Harren",
+        "Stefano Gaudiano",
+        "Trevor Hairsine"
+      ],
+      "colorists": [
+        "Rain Beredo"
+      ],
+      "startYear": 2019,
+      "startDate": "2019-05-01",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -4258,11 +4272,10 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/dceased/4050-130834/"
+          "url": "https://comicvine.gamespot.com/dceased/4050-118648/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -4472,11 +4485,15 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "demon-by-jason-shiga",
-      "title": "Demon (by Jason Shiga)",
+      "title": "Jason Shiga: Demon",
       "runTitle": "Jason Shiga: Demon",
       "publisher": "self published",
-      "writers": [],
-      "artists": [],
+      "writers": [
+        "Jason Shiga"
+      ],
+      "artists": [
+        "Jason Shiga"
+      ],
       "colorists": [],
       "startYear": 2014,
       "startDate": "",
@@ -4489,7 +4506,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "Demon (by Jason Shiga)",
+          "rawTitle": "Jason Shiga: Demon",
           "kind": "comic"
         }
       ],
@@ -4503,8 +4520,7 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/jason-shiga-demon/4050-76402/"
         }
       ],
-      "status": "needs-review",
-      "reviewNote": "comicvine-credits-not-found",
+      "status": "verified",
       "kind": "comic"
     },
     {
@@ -10935,10 +10951,36 @@ window.__NA_PANELI_COMICS__ = {
       "runTitle": "Hunters",
       "publisher": "Lion Forge Comics",
       "writers": [
-        "Josh Tierney"
+        "Paul Maybury",
+        "Josh Tierney",
+        "Benjamin Marra",
+        "Carlos Valderrama",
+        "Carlos Carrasco",
+        "Kyla Vanderklugt",
+        "Ramón Sierra",
+        "Meg Gandy",
+        "Irene Koh",
+        "Niami",
+        "Devin Kraft"
       ],
-      "artists": [],
-      "colorists": [],
+      "artists": [
+        "Paul Maybury",
+        "Josh Tierney",
+        "Kyla Vanderklugt",
+        "Ramón Sierra",
+        "Meg Gandy",
+        "Irene Koh",
+        "Niami",
+        "Devin Kraft",
+        "Jared Morgan",
+        "Vlad Gusev",
+        "Miguel Valderrama",
+        "Travel Foreman",
+        "Alexis Ziritt"
+      ],
+      "colorists": [
+        "Ian Bourgault"
+      ],
       "startYear": 2018,
       "startDate": "2018-06-13",
       "decade": "2010-е",
@@ -11473,14 +11515,23 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "infinite-crisis",
       "title": "Infinite Crisis",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Infinite Crisis",
+      "publisher": "DC Comics",
+      "writers": [
+        "Geoff Johns"
+      ],
+      "artists": [
+        "Andy Lanning",
+        "Phil Jimenez"
+      ],
+      "colorists": [
+        "Guy Major",
+        "Jeromy Cox",
+        "Tom Smith"
+      ],
+      "startYear": 2005,
+      "startDate": "2005-10-12",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -11497,11 +11548,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/infinite-crisis/4050-17983/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "injection",
@@ -11716,15 +11770,19 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "it-s-a-good-life-if-you-don-t-weaken",
-      "title": "It's a Good Life, If You Don't Weaken",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "title": "It's a Good Life if You Don't Weaken",
+      "runTitle": "It's a Good Life if You Don't Weaken",
+      "publisher": "Drawn & Quarterly",
+      "writers": [
+        "Seth"
+      ],
+      "artists": [
+        "Seth"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1996,
+      "startDate": "1996-09-01",
+      "decade": "1990-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -11733,7 +11791,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "It's a Good Life, If You Don't Weaken",
+          "rawTitle": "It's a Good Life if You Don't Weaken",
           "kind": "comic"
         }
       ],
@@ -11741,11 +11799,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/its-a-good-life-if-you-dont-weaken/4050-23143/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "it-s-jeff",
@@ -11831,15 +11892,22 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "jack-kirby-s-o-m-a-c-one-man-army-corps",
-      "title": "Jack Kirby's O.M.A.C.: One Man Army Corps",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "title": "OMAC",
+      "runTitle": "OMAC",
+      "publisher": "DC Comics",
+      "writers": [
+        "Jack Kirby"
+      ],
+      "artists": [
+        "Jack Kirby",
+        "Michael Royer"
+      ],
+      "colorists": [
+        "Jerry Serpe"
+      ],
+      "startYear": 1974,
+      "startDate": "1974-06-18",
+      "decade": "1970-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -11848,7 +11916,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
-          "rawTitle": "Jack Kirby's O.M.A.C.: One Man Army Corps",
+          "rawTitle": "OMAC",
           "kind": "comic"
         }
       ],
@@ -11856,20 +11924,32 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/omac/4050-2665/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "jawbreakers",
       "title": "Jawbreakers",
       "runTitle": "Jawbreakers: God-King",
       "publisher": "Splatto Comics",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
+      "writers": [
+        "Richard C. Meyer"
+      ],
+      "artists": [
+        "Kelsey Shannon",
+        "Jon Malin",
+        "Simon Bennett"
+      ],
+      "colorists": [
+        "Brett Smith",
+        "Kyle Ritter"
+      ],
       "startYear": null,
       "startDate": "",
       "decade": "",
@@ -11895,9 +11975,8 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/jawbreakers-god-king/4050-152045/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "jean-grey",
@@ -12115,17 +12194,17 @@ window.__NA_PANELI_COMICS__ = {
       "id": "judas",
       "title": "Judas",
       "runTitle": "Judas",
-      "publisher": "Sergio Bonelli Editore",
+      "publisher": "Boom! Studios",
       "writers": [
-        "Ennio Missaglia"
+        "Jeff Loveness"
       ],
       "artists": [
-        "Vladimiro Missaglia"
+        "Jakub Rebelka"
       ],
       "colorists": [],
-      "startYear": 1979,
-      "startDate": "1979-09-01",
-      "decade": "1970-е",
+      "startYear": 2017,
+      "startDate": "2017-12-13",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12145,7 +12224,7 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/judas/4050-129528/"
+          "url": "https://comicvine.gamespot.com/judas/4050-106880/"
         }
       ],
       "status": "verified",
@@ -12411,15 +12490,21 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "koschei-the-deathless",
-      "title": "Koschei the Deathless",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "title": "Koshchei the Deathless",
+      "runTitle": "Koshchei the Deathless",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Ben Stenbeck"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-01-03",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12428,7 +12513,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
-          "rawTitle": "Koschei the Deathless",
+          "rawTitle": "Koshchei the Deathless",
           "kind": "comic"
         }
       ],
@@ -12436,11 +12521,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/koshchei-the-deathless/4050-107506/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "koshchei-in-hell",
@@ -12838,14 +12926,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "like-a-velvet-glove-cast-in-iron",
       "title": "Like A Velvet Glove Cast In Iron",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Like A Velvet Glove Cast In Iron",
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Daniel Clowes"
+      ],
+      "artists": [
+        "Daniel Clowes"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1993,
+      "startDate": "1993-05-01",
+      "decade": "1990-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -12862,11 +12954,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/like-a-velvet-glove-cast-in-iron/4050-34818/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "little-bird",
@@ -12912,15 +13007,21 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "locke-and-key",
-      "title": "Locke & Key",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "title": "Locke & Key: Welcome to Lovecraft",
+      "runTitle": "Locke & Key: Welcome to Lovecraft",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Joe Hill"
+      ],
+      "artists": [
+        "Gabriel Rodriguez"
+      ],
+      "colorists": [
+        "Jay Fotos"
+      ],
+      "startYear": 2008,
+      "startDate": "2008-02-20",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "На бонусных панелях",
@@ -12929,7 +13030,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Locke & Key",
+          "rawTitle": "Locke & Key: Welcome to Lovecraft",
           "kind": "comic"
         }
       ],
@@ -12937,11 +13038,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/locke-key-welcome-to-lovecraft/4050-20701/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "locke-and-key-the-golden-age",
@@ -13324,23 +13428,24 @@ window.__NA_PANELI_COMICS__ = {
       ]
     },
     {
-      "id": "marvel-two-in-one",
-      "title": "Marvel Two-in-One",
-      "runTitle": "Marvel Two-in-One",
+      "id": "marvel-two-in-one-2017",
+      "title": "Marvel Two-In-One",
+      "runTitle": "Marvel Two-In-One",
       "publisher": "Marvel",
       "writers": [
-        "Steve Gerber"
+        "Chip Zdarsky"
       ],
       "artists": [
-        "Gil Kane",
-        "Joe Sinnott"
+        "Jim Cheung",
+        "John Dell",
+        "Walden Wong"
       ],
       "colorists": [
-        "George Roussos"
+        "Frank Martin Jr."
       ],
-      "startYear": 1974,
-      "startDate": "1973-10-09",
-      "decade": "1970-е",
+      "startYear": 2017,
+      "startDate": "2017-12-20",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -13349,7 +13454,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
-          "rawTitle": "Marvel Two-in-One",
+          "rawTitle": "Marvel Two-In-One",
           "kind": "comic"
         }
       ],
@@ -13360,7 +13465,49 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/marvel-two-in-one/4050-2696/"
+          "url": "https://comicvine.gamespot.com/marvel-twoinone/4050-107157/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "marvel-two-in-one-annual",
+      "title": "Marvel Two-In-One Annual",
+      "runTitle": "Marvel Two-In-One Annual",
+      "publisher": "Marvel",
+      "writers": [
+        "Chip Zdarsky"
+      ],
+      "artists": [
+        "Declan Shalvey"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-06-13",
+      "decade": "2010-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "20",
+          "publication": "2018-09-14",
+          "episodeTitle": "",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита",
+          "rawTitle": "Marvel Two-In-One Annual",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/marvel-two-in-one-annual/4050-111584/"
         }
       ],
       "status": "verified",
@@ -13452,14 +13599,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "meta4",
       "title": "Meta4",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Meta4",
+      "publisher": "Image",
+      "writers": [
+        "Ted McKeever"
+      ],
+      "artists": [
+        "Ted McKeever"
+      ],
+      "colorists": [
+        "Ted McKeever"
+      ],
+      "startYear": 2010,
+      "startDate": "2010-06-09",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -13476,11 +13629,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/meta4/4050-33677/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "mezolith",
@@ -13818,14 +13974,21 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "monstermen-and-other-scary-stories",
       "title": "Monstermen and Other Scary Stories",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Monstermen and Other Scary Stories",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Clark Ashton Smith",
+        "Gary Gianni",
+        "Robert E. Howard",
+        "William Hope Hodgson"
+      ],
+      "artists": [
+        "Gary Gianni"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2012,
+      "startDate": "2012-03-31",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -13842,11 +14005,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/monstermen-and-other-scary-stories/4050-46677/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "monsters",
@@ -14017,14 +14183,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "mort-cinder",
       "title": "Mort Cinder",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Mort Cinder",
+      "publisher": "Fantagraphics",
+      "writers": [
+        "Héctor Germán Oesterheld"
+      ],
+      "artists": [
+        "Alberto Breccia"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2018,
+      "startDate": "2018-10-31",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -14041,23 +14211,30 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mort-cinder/4050-114937/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "motor-girl",
       "title": "Motor Girl",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Motor Girl",
+      "publisher": "Abstract Studio",
+      "writers": [
+        "Terry Moore"
+      ],
+      "artists": [
+        "Terry Moore"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2016,
+      "startDate": "2016-11-02",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -14074,11 +14251,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/motor-girl/4050-95424/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "motro",
@@ -14167,15 +14347,19 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "mr-invincible",
-      "title": "Mr. Invincible",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "title": "Mister Invincible",
+      "runTitle": "Mister Invincible",
+      "publisher": "Magnetic Press",
+      "writers": [
+        "Pascal Jousselin"
+      ],
+      "artists": [
+        "Pascal Jousselin"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2020,
+      "startDate": "2020-07-22",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -14184,7 +14368,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "Mr. Invincible",
+          "rawTitle": "Mister Invincible",
           "kind": "comic"
         }
       ],
@@ -14192,11 +14376,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/mister-invincible/4050-128940/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "ms-marvel",
@@ -14924,15 +15111,19 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "night-music",
-      "title": "Night Music",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "title": "P. Craig Russell’s Night Music",
+      "runTitle": "P. Craig Russell’s Night Music",
+      "publisher": "Eclipse",
+      "writers": [
+        "P. Craig Russell"
+      ],
+      "artists": [
+        "P. Craig Russell"
+      ],
       "colorists": [],
-      "startYear": null,
+      "startYear": 1984,
       "startDate": "",
-      "decade": "",
+      "decade": "1980-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -14941,7 +15132,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "Night Music",
+          "rawTitle": "P. Craig Russell’s Night Music",
           "kind": "comic"
         }
       ],
@@ -14949,11 +15140,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/p-craig-russells-night-music/4050-33417/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "nightworld",
@@ -15128,14 +15322,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "nowhere-men",
       "title": "Nowhere Men",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Nowhere Men",
+      "publisher": "Image",
+      "writers": [
+        "Eric Stephenson"
+      ],
+      "artists": [
+        "Nate Bellegarde"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2012,
+      "startDate": "2012-11-28",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -15152,11 +15352,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/nowhere-men/4050-54313/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "nuclear-winter",
@@ -15950,14 +16153,18 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "parker-slayground",
       "title": "Parker: Slayground",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "Richard Stark's Parker",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Darwyn Cooke"
+      ],
+      "artists": [
+        "Darwyn Cooke"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2013,
+      "startDate": "2013-12-11",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -15974,11 +16181,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/richard-stark-s-parker-4-slayground/4000-436235/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "pathfinder",
@@ -16313,14 +16523,20 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "pizzeria-kamikaze",
       "title": "Pizzeria Kamikaze",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Pizzeria Kamikaze",
+      "publisher": "Boom! Studios",
+      "writers": [
+        "Etgar Keret"
+      ],
+      "artists": [
+        "Asaf Hanuka"
+      ],
+      "colorists": [
+        "Dan Jackson"
+      ],
+      "startYear": 2018,
+      "startDate": "2018-02-28",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -16337,11 +16553,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/pizzeria-kamikaze/4050-108958/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "poison-ivy",
@@ -18494,15 +18713,21 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "space-doll",
-      "title": "Space Doll",
-      "runTitle": "Sky Doll: Space Ship",
-      "publisher": "Marvel",
-      "writers": [],
-      "artists": [],
+      "title": "Skydoll Collection",
+      "runTitle": "Skydoll Collection",
+      "publisher": "Splitter",
+      "writers": [
+        "Alessandro Barbucci",
+        "Barbara Canepa"
+      ],
+      "artists": [
+        "Alessandro Barbucci",
+        "Barbara Canepa"
+      ],
       "colorists": [],
-      "startYear": 2010,
-      "startDate": "2010-06-03",
-      "decade": "2010-е",
+      "startYear": 2009,
+      "startDate": "2009-04-01",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -18511,7 +18736,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "Space Doll",
+          "rawTitle": "Skydoll Collection",
           "kind": "comic"
         }
       ],
@@ -18522,12 +18747,11 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/sky-doll-space-ship/4050-33568/"
+          "url": "https://comicvine.gamespot.com/skydoll-collection/4050-136144/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "space-riders",
@@ -19173,16 +19397,22 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "superhuman-trilogy",
-      "title": "Superhuman Trilogy",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "id": "black-summer",
+      "title": "Black Summer",
+      "runTitle": "Black Summer",
+      "publisher": "Avatar Press",
+      "writers": [
+        "Warren Ellis"
+      ],
+      "artists": [
+        "Juan Jose Ryp"
+      ],
+      "colorists": [
+        "Mark Sweeney"
+      ],
+      "startYear": 2007,
+      "startDate": "2007-06-06",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "На бонусных панелях",
@@ -19191,7 +19421,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Superhuman Trilogy",
+          "rawTitle": "Black Summer",
           "kind": "comic"
         }
       ],
@@ -19199,11 +19429,98 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/black-summer/4050-18673/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "no-hero",
+      "title": "No Hero",
+      "runTitle": "No Hero",
+      "publisher": "Avatar Press",
+      "writers": [
+        "Warren Ellis"
+      ],
+      "artists": [
+        "Juan Jose Ryp"
+      ],
+      "colorists": [
+        "Greg Waller"
+      ],
+      "startYear": 2008,
+      "startDate": "2008-06-25",
+      "decade": "2000-е",
+      "discussedIn": [
+        {
+          "podcast": "На бонусных панелях",
+          "number": "E4",
+          "publication": "2020-06-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "No Hero",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/no-hero/4050-21876/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "warren-ellis-supergod",
+      "title": "Warren Ellis' Supergod",
+      "runTitle": "Warren Ellis' Supergod",
+      "publisher": "Avatar Press",
+      "writers": [
+        "Warren Ellis"
+      ],
+      "artists": [
+        "Garry Gastonny"
+      ],
+      "colorists": [
+        "Digikore Studios"
+      ],
+      "startYear": 2009,
+      "startDate": "2009-11-11",
+      "decade": "2000-е",
+      "discussedIn": [
+        {
+          "podcast": "На бонусных панелях",
+          "number": "E4",
+          "publication": "2020-06-11",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Warren Ellis' Supergod",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/warren-ellis-supergod/4050-29755/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "superman",
@@ -19587,7 +19904,9 @@ window.__NA_PANELI_COMICS__ = {
       "title": "The Blot",
       "runTitle": "The Blot",
       "publisher": "I Will Destroy You Comics",
-      "writers": [],
+      "writers": [
+        "Tom Neely"
+      ],
       "artists": [
         "Tom Neely"
       ],
@@ -20049,8 +20368,12 @@ window.__NA_PANELI_COMICS__ = {
       "title": "The Gigantic Beard That Was Evil",
       "runTitle": "The Gigantic Beard That Was Evil",
       "publisher": "Macmillan Publishing",
-      "writers": [],
-      "artists": [],
+      "writers": [
+        "Stephen Collins"
+      ],
+      "artists": [
+        "Stephen Collins"
+      ],
       "colorists": [],
       "startYear": 2014,
       "startDate": "2014-10-08",
@@ -20077,9 +20400,8 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/the-gigantic-beard-that-was-evil/4050-77472/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "the-gravediggers-union",
@@ -21059,15 +21381,19 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-new-statesmen",
-      "title": "The New Statesmen",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "title": "New Statesmen",
+      "runTitle": "New Statesmen",
+      "publisher": "Fleetway",
+      "writers": [
+        "John Smith"
+      ],
+      "artists": [
+        "Jim Baikie"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 1989,
+      "startDate": "1989-05-01",
+      "decade": "1980-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -21076,7 +21402,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "The New Statesmen",
+          "rawTitle": "New Statesmen",
           "kind": "comic"
         }
       ],
@@ -21084,11 +21410,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/new-statesmen/4050-4305/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "the-new-world",
@@ -21263,13 +21592,17 @@ window.__NA_PANELI_COMICS__ = {
       "id": "the-originals",
       "title": "The Originals",
       "runTitle": "The Originals",
-      "publisher": "Internet Comics Network",
-      "writers": [],
-      "artists": [],
+      "publisher": "DC Comics",
+      "writers": [
+        "Dave Gibbons"
+      ],
+      "artists": [
+        "Dave Gibbons"
+      ],
       "colorists": [],
-      "startYear": 2011,
-      "startDate": "",
-      "decade": "2010-е",
+      "startYear": 2004,
+      "startDate": "2004-11-01",
+      "decade": "2000-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -21289,12 +21622,11 @@ window.__NA_PANELI_COMICS__ = {
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-originals/4050-47462/"
+          "url": "https://comicvine.gamespot.com/the-originals/4050-22360/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-credits-not-found"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "the-park-bench",
@@ -22535,14 +22867,23 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "the-world-of-edena",
       "title": "The World of Edena",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Moebius Library",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mœbius"
+      ],
+      "artists": [
+        "Mœbius"
+      ],
+      "colorists": [
+        "Bernard Hugueville",
+        "DomDom",
+        "Frayzic",
+        "Mœbius"
+      ],
+      "startYear": 2016,
+      "startDate": "2016-10-26",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -22559,11 +22900,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/moebius-library-1-the-world-of-edena/4000-555444/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "these-savage-shores",
@@ -22908,14 +23252,21 @@ window.__NA_PANELI_COMICS__ = {
     {
       "id": "tmnt-mega-arc-1",
       "title": "TMNT Mega-Arc 1",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Teenage Mutant Ninja Turtles",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Kevin Eastman",
+        "Tom Waltz"
+      ],
+      "artists": [
+        "Dan Duncan"
+      ],
+      "colorists": [
+        "Ronda Pattison"
+      ],
+      "startYear": 2011,
+      "startDate": "2011-08-24",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -22932,23 +23283,33 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/teenage-mutant-ninja-turtles/4050-42285/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "tmnt-mega-arc-2",
       "title": "TMNT Mega-Arc 2",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Teenage Mutant Ninja Turtles",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Kevin Eastman",
+        "Tom Waltz"
+      ],
+      "artists": [
+        "Dan Duncan"
+      ],
+      "colorists": [
+        "Ronda Pattison"
+      ],
+      "startYear": 2011,
+      "startDate": "2011-08-24",
+      "decade": "2010-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -22965,11 +23326,14 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/teenage-mutant-ninja-turtles/4050-42285/"
         }
       ],
-      "status": "needs-review",
-      "kind": "comic",
-      "reviewNote": "comicvine-no-match"
+      "status": "verified",
+      "kind": "comic"
     },
     {
       "id": "tmnt-the-last-ronin",
@@ -25711,6 +26075,6 @@ window.__NA_PANELI_COMICS__ = {
       ]
     }
   ],
-  "enrichedAt": "2026-06-30",
+  "enrichedAt": "2026-07-01",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };
