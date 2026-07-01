@@ -17,7 +17,7 @@
       href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Unbounded:wght@600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260628" />
+    <link rel="stylesheet" href="./styles.css?v=20260701" />
   </head>
   <body>
     <main class="page-shell">
@@ -40,24 +40,11 @@
         </nav>
       </header>
 
-      <section class="stats-grid stats-grid--comics" aria-label="Статистика каталога">
-        <article class="stat panel">
-          <span class="stat__label">Комиксов</span>
-          <strong id="stat-comics">—</strong>
-          <span>уникальных названий</span>
-        </article>
-        <article class="stat panel">
-          <span class="stat__label">Проверено</span>
-          <strong id="stat-verified">—</strong>
-          <span>записей с источниками по рану</span>
-        </article>
-      </section>
-
       <section class="panel controls comics-controls" aria-labelledby="catalog-title">
         <div class="controls__topline">
           <div>
-            <p class="kicker">Справочник</p>
-            <h2 id="catalog-title">Обозреваемые комиксы</h2>
+            <p class="kicker">Архив</p>
+            <h2 id="catalog-title">Комиксы, обсуждаемые в выпусках</h2>
           </div>
           <label class="search-wrap">
             <span>Поиск</span>
@@ -101,9 +88,12 @@
           >.
         </p>
       </footer>
+      <button class="scroll-search-button" type="button" aria-label="Вернуться к поиску" title="Вернуться к поиску" hidden>
+        ↑
+      </button>
     </main>
 
     <script src="./data/comics.js"></script>
-    <script type="module" src="./comics.js?v=20260628"></script>
+    <script type="module" src="./comics.js?v=20260701"></script>
   </body>
 </html>

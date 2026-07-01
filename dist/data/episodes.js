@@ -47,7 +47,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-01-uzhasnye-komiksy1"
     },
     {
       "id": 2,
@@ -94,7 +95,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-02-girl-power"
     },
     {
       "id": 3,
@@ -141,7 +143,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-03-bat-santa"
     },
     {
       "id": 4,
@@ -188,7 +191,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-04-kak-aja"
     },
     {
       "id": 5,
@@ -235,7 +239,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-05-the-death-of-starlin"
     },
     {
       "id": 6,
@@ -282,7 +287,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-neveroyatniy"
     },
     {
       "id": 7,
@@ -329,7 +335,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-antologichno"
     },
     {
       "id": 8,
@@ -376,7 +383,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-adskaya-pazhnina"
     },
     {
       "id": 9,
@@ -423,7 +431,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-anyway-i-selderey"
     },
     {
       "id": 10,
@@ -470,7 +479,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-space-oddity"
     },
     {
       "id": 11,
@@ -517,7 +527,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-11-nizkie-zhanry"
     },
     {
       "id": 12,
@@ -564,7 +575,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-12-carpe-diem"
     },
     {
       "id": 13,
@@ -611,7 +623,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-13-po-zayavkam"
     },
     {
       "id": 14,
@@ -690,7 +703,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
     },
     {
       "id": 15,
@@ -729,7 +743,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-15-jason"
     },
     {
       "id": 16,
@@ -776,7 +791,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-16-superbad"
     },
     {
       "id": 17,
@@ -823,7 +839,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-17-good-jokes"
     },
     {
       "id": 18,
@@ -870,7 +887,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-18-slozhniye-kalambury"
     },
     {
       "id": 19,
@@ -917,7 +935,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-19-limonad"
     },
     {
       "id": 20,
@@ -964,7 +983,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-20-dva-doma"
     },
     {
       "id": 21,
@@ -1011,7 +1031,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-21-pod-pokrovom-nochi"
     },
     {
       "id": 22,
@@ -1058,7 +1079,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-22-za-zelenoy-dveryu"
     },
     {
       "id": 23,
@@ -1105,7 +1127,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-23-kushat-podano"
     },
     {
       "id": 24,
@@ -1152,7 +1175,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-24-shchas-poneset"
     },
     {
       "id": null,
@@ -1206,7 +1230,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-25-providence"
     },
     {
       "id": 26,
@@ -1253,7 +1278,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-26-les-miserables"
     },
     {
       "id": 27,
@@ -1300,7 +1326,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-27-zloba-dnya"
     },
     {
       "id": null,
@@ -1362,7 +1389,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-28-venganza"
     },
     {
       "id": 29,
@@ -1409,7 +1437,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-29-sky-burial"
     },
     {
       "id": 30,
@@ -1456,7 +1485,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-30-chetyre-syra"
     },
     {
       "id": 31,
@@ -1503,7 +1533,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-31-ozhno"
     },
     {
       "id": null,
@@ -1565,7 +1596,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-32-klub-polunochnikov"
     },
     {
       "id": 33,
@@ -1612,7 +1644,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary"
     },
     {
       "id": 34,
@@ -1659,7 +1692,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-34-love-death-and-go-bots"
     },
     {
       "id": 35,
@@ -1706,7 +1740,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-35-crisis"
     },
     {
       "id": 36,
@@ -1753,7 +1788,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-36-detskie-travmy"
     },
     {
       "id": 37,
@@ -1800,7 +1836,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-37-zhuliki"
     },
     {
       "id": 38,
@@ -1847,7 +1884,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-38-podcast-in-crisis"
     },
     {
       "id": 39,
@@ -1894,7 +1932,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-39-warning"
     },
     {
       "id": 40,
@@ -1941,7 +1980,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-40-mzhdz"
     },
     {
       "id": 41,
@@ -1964,7 +2004,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-00-highs-and-lows"
     },
     {
       "id": 42,
@@ -1987,7 +2028,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-01-the-house-that-xavier-built"
     },
     {
       "id": 43,
@@ -2010,7 +2052,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-02-the-last-dream-of-professor-x"
     },
     {
       "id": null,
@@ -2048,7 +2091,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-03-the-ucanny-life-of-moira-x"
     },
     {
       "id": 45,
@@ -2071,7 +2115,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-04-we-are-together-now-you-and-i"
     },
     {
       "id": 46,
@@ -2094,7 +2139,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-05-this-is-what-you-do"
     },
     {
       "id": 47,
@@ -2141,7 +2187,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-41-going-native"
     },
     {
       "id": 48,
@@ -2164,7 +2211,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-06-once-more-unto-the-breach"
     },
     {
       "id": 49,
@@ -2187,7 +2235,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-07-it-will-be-done"
     },
     {
       "id": 50,
@@ -2210,7 +2259,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-08-something-sinister"
     },
     {
       "id": 51,
@@ -2233,7 +2283,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-09-society"
     },
     {
       "id": 52,
@@ -2280,7 +2331,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-42-dushnota"
     },
     {
       "id": 53,
@@ -2303,7 +2355,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-10-for-the-children"
     },
     {
       "id": 54,
@@ -2326,7 +2379,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-11-i-am-not-ashamed"
     },
     {
       "id": 55,
@@ -2349,7 +2403,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/panels-of-x-12-house-of-x"
     },
     {
       "id": null,
@@ -2403,7 +2458,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-43-farel-dalrymple"
     },
     {
       "id": 57,
@@ -2450,7 +2506,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-44-the-best"
     },
     {
       "id": 58,
@@ -2473,7 +2530,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-45-wicdiv"
     },
     {
       "id": 59,
@@ -2496,7 +2554,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-46-turtle-soup"
     },
     {
       "id": 60,
@@ -2519,7 +2578,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-47-turtle-dreams"
     },
     {
       "id": 61,
@@ -2542,7 +2602,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-48-superbad-2-superbad-sequels"
     },
     {
       "id": 62,
@@ -2635,7 +2696,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-49-chtenie-na-vybyvanie"
     },
     {
       "id": 66,
@@ -2705,7 +2767,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-50-new-special"
     },
     {
       "id": 67,
@@ -2728,7 +2791,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-51-vostochno-zapadniy"
     },
     {
       "id": 68,
@@ -2775,7 +2839,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-52-superbd"
     },
     {
       "id": 69,
@@ -2822,7 +2887,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-53-zolotoy"
     },
     {
       "id": 70,
@@ -2892,7 +2958,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-54-osmos-i-kosmos"
     },
     {
       "id": 72,
@@ -2939,7 +3006,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-01-everest"
     },
     {
       "id": 73,
@@ -2986,7 +3054,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-55-klatrio"
     },
     {
       "id": 74,
@@ -3033,7 +3102,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-56-cancel-humanity"
     },
     {
       "id": 75,
@@ -3056,7 +3126,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-02-infinite"
     },
     {
       "id": 76,
@@ -3103,7 +3174,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-57-imprinting"
     },
     {
       "id": 77,
@@ -3150,7 +3222,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-58-nuff-said"
     },
     {
       "id": 78,
@@ -3173,7 +3246,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-00-dawn-of-x"
     },
     {
       "id": 79,
@@ -3196,7 +3270,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-01-creation"
     },
     {
       "id": 80,
@@ -3219,7 +3294,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-02-x-factor"
     },
     {
       "id": 81,
@@ -3242,7 +3318,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-03-muramasa-skybreaker"
     },
     {
       "id": 82,
@@ -3265,7 +3342,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-04-hellions-new-mutants-cable"
     },
     {
       "id": 83,
@@ -3288,7 +3366,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-05-family-feuds"
     },
     {
       "id": 84,
@@ -3311,7 +3390,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-06-stasis"
     },
     {
       "id": 85,
@@ -3334,7 +3414,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-07-no-shame"
     },
     {
       "id": 86,
@@ -3357,7 +3438,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-08-upside-down"
     },
     {
       "id": 87,
@@ -3380,7 +3462,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-09-last-stand"
     },
     {
       "id": 88,
@@ -3403,7 +3486,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/x-of-panels-10-destruction"
     },
     {
       "id": 89,
@@ -3450,7 +3534,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-03-hyperreality"
     },
     {
       "id": 90,
@@ -3497,7 +3582,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-04-knizhnost"
     },
     {
       "id": 91,
@@ -3544,7 +3630,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-59-enough"
     },
     {
       "id": 92,
@@ -3591,7 +3678,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-05-kontrastnost"
     },
     {
       "id": 93,
@@ -3638,7 +3726,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-60-inevitable"
     },
     {
       "id": null,
@@ -3700,7 +3789,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-geroicheskiy"
     },
     {
       "id": 95,
@@ -3747,7 +3837,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-61-metafork"
     },
     {
       "id": 96,
@@ -3770,7 +3861,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-depressivniy"
     },
     {
       "id": null,
@@ -3832,7 +3924,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-62-40000-stradaniy"
     },
     {
       "id": null,
@@ -3894,7 +3987,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-poeticheskiy"
     },
     {
       "id": 99,
@@ -3941,7 +4035,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-63-ambitsiozniy"
     },
     {
       "id": 100,
@@ -3964,7 +4059,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-01-east-blue"
     },
     {
       "id": 101,
@@ -4011,7 +4107,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-staromodniy"
     },
     {
       "id": 102,
@@ -4058,7 +4155,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-final"
     },
     {
       "id": null,
@@ -4072,7 +4170,7 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": true,
       "supportersFree": false,
       "source": "patreon",
-      "link": "",
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-02-alabasta",
       "guid": ""
     },
     {
@@ -4096,7 +4194,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/hellfire-panels-00-reign-of-x"
     },
     {
       "id": 105,
@@ -4119,7 +4218,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/hellfire-panels-01-you-are-cordially-invited"
     },
     {
       "id": 106,
@@ -4142,7 +4242,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/hellfire-panels-02-the-beginning"
     },
     {
       "id": 107,
@@ -4165,7 +4266,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/hellfire-panels-03-fireworks"
     },
     {
       "id": 108,
@@ -4188,7 +4290,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/hellfire-panels-04-this-is-what-comes-next"
     },
     {
       "id": 109,
@@ -4211,7 +4314,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/hellfire-panels-05-finale"
     },
     {
       "id": 110,
@@ -4234,7 +4338,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
     },
     {
       "id": null,
@@ -4296,7 +4401,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-65-podcast-motherfker"
     },
     {
       "id": 112,
@@ -4319,7 +4425,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/inferno-panels-00-long-live-krakoa"
     },
     {
       "id": 113,
@@ -4342,7 +4449,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/inferno-panels-01-someone-remembers"
     },
     {
       "id": 114,
@@ -4388,7 +4496,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-66-krovososuschiy"
     },
     {
       "id": 116,
@@ -4458,7 +4567,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-67-trick-or-treat"
     },
     {
       "id": 118,
@@ -4481,7 +4591,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/inferno-panels-02-what-i-really-am"
     },
     {
       "id": 119,
@@ -4512,7 +4623,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-03-skypeia"
     },
     {
       "id": 120,
@@ -4566,7 +4678,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-68-immortal"
     },
     {
       "id": 122,
@@ -4613,7 +4726,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-69-abstraktniy"
     },
     {
       "id": 123,
@@ -4636,7 +4750,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/inferno-panels-03-different-history-of-the-world"
     },
     {
       "id": 124,
@@ -4690,7 +4805,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-04-part-1-water-7"
     },
     {
       "id": 126,
@@ -4713,7 +4829,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-04-part-2-enies-lobby"
     },
     {
       "id": 127,
@@ -4736,7 +4853,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/inferno-panels-04-the-death-of-moira-x"
     },
     {
       "id": 128,
@@ -4783,7 +4901,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-70-carte-blanche"
     },
     {
       "id": 129,
@@ -4837,7 +4956,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-05-thriller-bark"
     },
     {
       "id": null,
@@ -4899,7 +5019,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-71-strakhi-i-travmy"
     },
     {
       "id": 132,
@@ -5579,7 +5700,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-06-part-1-impel-down"
     },
     {
       "id": 158,
@@ -5602,7 +5724,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-06-part-2-marineford"
     },
     {
       "id": 159,
@@ -5686,7 +5809,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-07-fish-man-island"
     },
     {
       "id": null,
@@ -5956,7 +6080,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-72-neuteshytelnoe-chtenie"
     },
     {
       "id": 167,
@@ -6003,7 +6128,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-73-cherepahi-i-bogi"
     },
     {
       "id": 168,
@@ -6089,7 +6215,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-74-smertelno-prekrasny"
     },
     {
       "id": 170,
@@ -6136,7 +6263,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-75-dolgostroj"
     },
     {
       "id": 171,
@@ -6199,7 +6327,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
     },
     {
       "id": null,
@@ -6237,7 +6366,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-1-punk-hazard"
     },
     {
       "id": 173,
@@ -6260,7 +6390,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-2-dressrosa-act-i"
     },
     {
       "id": 174,
@@ -6283,7 +6414,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-3-dressrosa-act-ii"
     },
     {
       "id": null,
@@ -6321,7 +6453,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-4-dressrosa-act-iii"
     },
     {
       "id": 176,
@@ -6368,7 +6501,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy"
     },
     {
       "id": 177,
@@ -6415,7 +6549,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-77-chetyre-vsadnika-postapokalipsisa"
     },
     {
       "id": 178,
@@ -6541,7 +6676,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole"
     },
     {
       "id": 180,
@@ -6588,7 +6724,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-78-temnye-loshadki"
     },
     {
       "id": 181,
@@ -6611,7 +6748,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-1-zou"
     },
     {
       "id": 182,
@@ -6662,7 +6800,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-2-whole-cake-island-part-1"
     },
     {
       "id": 184,
@@ -6685,7 +6824,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-3-whole-cake-island-part-2"
     },
     {
       "id": 185,
@@ -6732,7 +6872,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass"
     },
     {
       "id": 186,
@@ -6792,7 +6933,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-79-zagadaj-zhelanie"
     },
     {
       "id": 188,
@@ -6839,7 +6981,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow"
     },
     {
       "id": 189,
@@ -6886,7 +7029,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-80-vspomnit-vsyo"
     },
     {
       "id": 190,
@@ -6909,7 +7053,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-02-redux-part-2-alabasta"
     },
     {
       "id": 191,
@@ -6956,7 +7101,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade"
     },
     {
       "id": null,
@@ -7049,7 +7195,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-81-chevapchichi"
     },
     {
       "id": null,
@@ -7087,7 +7234,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-1-wano-country-act-i"
     },
     {
       "id": 195,
@@ -7110,7 +7258,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-2-wano-country-act-ii"
     },
     {
       "id": 196,
@@ -7133,7 +7282,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-3-onigashima-part-1"
     },
     {
       "id": 197,
@@ -7156,7 +7306,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-4-onigashima-part-2"
     },
     {
       "id": 198,
@@ -7179,7 +7330,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-5-onigashima-part-3"
     },
     {
       "id": 199,
@@ -7226,7 +7378,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-82-posle-smerti"
     },
     {
       "id": null,
@@ -7264,7 +7417,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-bonus-ace-story-shokugeki-no-sanji"
     },
     {
       "id": 201,
@@ -7311,7 +7465,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-83-bessilie"
     },
     {
       "id": 202,
@@ -7358,7 +7513,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-84-cmyk"
     },
     {
       "id": 203,
@@ -7420,7 +7576,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-11-part-1-egghead-part-1"
     },
     {
       "id": 205,
@@ -7505,7 +7662,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-85-pustoe-i-gnetushhee"
     },
     {
       "id": null,
@@ -7687,7 +7845,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-86-bollocks"
     },
     {
       "id": null,
@@ -7929,7 +8088,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-87-budnichnyj-kannibalizm"
     },
     {
       "id": null,
@@ -8064,7 +8224,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-88-perevernut-nastoyashhee"
     },
     {
       "id": 211,
@@ -8111,7 +8272,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-89-nagoj-snobizm"
     },
     {
       "id": null,
@@ -8149,7 +8311,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/gol-d.-panels.-saga-11-part-2-egghead-part-2"
     },
     {
       "id": null,
@@ -8250,7 +8413,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-90-aeroportnoe-chtivo"
     },
     {
       "id": 215,
@@ -8273,7 +8437,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-91-lore-olympus"
     },
     {
       "id": 216,
@@ -8320,7 +8485,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-92-debri-podsoznaniya"
     },
     {
       "id": 217,
@@ -8367,7 +8533,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-93-naftalinnyj-yumor"
     },
     {
       "id": null,
@@ -8429,7 +8596,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-94-distilleriya"
     },
     {
       "id": 219,
@@ -8515,7 +8683,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега"
         }
-      ]
+      ],
+      "link": "https://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-11-vozvrashhenie"
     },
     {
       "id": null,
@@ -8592,7 +8761,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-95-podtekst-dlya-trusov"
     },
     {
       "id": null,
@@ -8669,7 +8839,8 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-96-big-in-tula"
     },
     {
       "id": null,

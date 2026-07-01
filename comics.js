@@ -5,8 +5,10 @@ const proposerFilter = document.querySelector("#proposer-filter");
 const publisherFilter = document.querySelector("#publisher-filter");
 const decadeFilter = document.querySelector("#decade-filter");
 const podcastFilter = document.querySelector("#podcast-filter");
+const controlsPanel = document.querySelector(".comics-controls");
 const activeFilters = document.querySelector("#active-comic-filters");
 const comicList = document.querySelector("#comic-list");
+const scrollSearchButton = document.querySelector(".scroll-search-button");
 const ruDate = new Intl.DateTimeFormat("ru-RU", {
   day: "numeric",
   month: "long",
@@ -59,17 +61,21 @@ publisherFilter.innerHTML = toOptions(["Все издательства", ...all
 decadeFilter.innerHTML = toOptions(["Все десятилетия", ...allDecades]);
 podcastFilter.innerHTML = toOptions(["Все форматы", ...allPodcasts], formatNames);
 
-setText("stat-comics", new Set(comicRows.map(statComicKey)).size);
-setText("stat-verified", new Set(comicRows.filter(({ comic }) => comic.status === "verified").map(statComicKey)).size);
-
 for (const control of [search, proposerFilter, publisherFilter, decadeFilter, podcastFilter]) {
   control.addEventListener("input", render);
   control.addEventListener("change", render);
 }
 comicList.addEventListener("click", handleCriterionClick);
 activeFilters.addEventListener("click", handleCriterionRemove);
+scrollSearchButton?.addEventListener("click", () => {
+  const top = controlsPanel.getBoundingClientRect().top + window.scrollY - 18;
+  window.scrollTo({ top, behavior: "smooth" });
+  window.setTimeout(() => search.focus({ preventScroll: true }), 250);
+});
+window.addEventListener("scroll", updateScrollSearchButton, { passive: true });
 
 render();
+updateScrollSearchButton();
 
 function render() {
   const rows = filterRows();
@@ -149,23 +155,23 @@ function renderComicTable(rows) {
 
 function renderComicRow({ comic, episode }) {
   const episodeName = episode.number ? `${episode.podcast} #${episode.number}` : episode.episodeTitle || episode.podcast;
+  const episodeTitle = episode.link
+    ? `<a href="${escapeHtml(episode.link)}" target="_blank" rel="noreferrer">${escapeHtml(episodeName)}</a>`
+    : escapeHtml(episodeName);
   const comicUrl = primaryComicUrl(comic);
   const comicTitle = comicUrl
     ? `<a href="${escapeHtml(comicUrl)}" target="_blank" rel="noreferrer">${escapeHtml(comic.title)}</a>`
     : escapeHtml(comic.title);
-  const confirmed = isComicConfirmed(comic);
-  const statusLabel = confirmed ? "Подтверждено" : "Нужна проверка";
+  const exclusiveMarker = isExclusiveEpisode(episode)
+    ? '&#8288;<span class="exclusive-lock" title="Эксклюзив для патронов" aria-label="Эксклюзив для патронов">🔒</span>'
+    : "";
   return `<tr>
       <td>
         <strong class="comic-title-line">
-          <span class="comic-status-icon ${confirmed ? "is-confirmed" : "needs-review"}" title="${statusLabel}" aria-label="${statusLabel}">
-            ${confirmed ? "✓" : "!"}
-          </span>
-          ${comicTitle}
+          <span class="comic-title-text">${comicTitle}${exclusiveMarker}</span>
         </strong>
-        ${comic.runTitle ? `<small>${escapeHtml(comic.runTitle)}</small>` : ""}
       </td>
-      <td>${escapeHtml(episodeName)}</td>
+      <td>${episodeTitle}</td>
       <td>${formatDate(episode.publication)}</td>
       <td>${renderCriterionValue("publisher", comic.publisher || "")}</td>
       <td>${renderCriterionList("writers", comic.writers)}</td>
@@ -176,12 +182,15 @@ function renderComicRow({ comic, episode }) {
     </tr>`;
 }
 
-function isComicConfirmed(comic) {
-  return comic.status === "verified"
-    && Boolean(comic.publisher)
-    && Boolean(comic.startYear)
-    && Boolean(comic.writers?.length)
-    && Boolean(comic.artists?.length);
+function isExclusiveEpisode(episode) {
+  if (episode.podcast === "На бонусных панелях" || episode.podcast === "Утешительное чтение" || episode.podcast === "ASOP") {
+    return true;
+  }
+  if (episode.podcast === "На пыльных панелях") {
+    const dustNumber = Number(String(episode.number || "").replace(/\D/g, ""));
+    return dustNumber === 12 || dustNumber === 13;
+  }
+  return false;
 }
 
 function normalizeComicRecord(comic) {
@@ -204,6 +213,13 @@ function statComicKey({ comic, episode }) {
     return "one-piece";
   }
   return comic.id;
+}
+
+function updateScrollSearchButton() {
+  if (!scrollSearchButton) return;
+  const searchRect = search.getBoundingClientRect();
+  const shouldShow = searchRect.bottom < 0 && comicList.getBoundingClientRect().top < window.innerHeight;
+  scrollSearchButton.hidden = !shouldShow;
 }
 
 function sortedUnique(values) {
@@ -322,13 +338,61 @@ function renderActiveFilters() {
   const chips = Object.entries(activeCriteria).flatMap(([group, values]) =>
     [...values.values()].map(
       (value) => `<button class="filter-chip" type="button" data-remove-group="${escapeHtml(group)}" data-remove-value="${escapeHtml(value)}">
-        <span>${escapeHtml(criterionLabels[group])}: ${escapeHtml(value)}</span>
+        <span>${escapeHtml(criterionLabels[group])}: ${escapeHtml(value)} (${criterionResultCount(group, value)})</span>
         <span aria-hidden="true">×</span>
       </button>`,
     ),
   );
   activeFilters.hidden = !chips.length;
   activeFilters.innerHTML = chips.length ? chips.join("") : "";
+}
+
+function criterionResultCount(group, value) {
+  return comicRows.filter(({ comic, episode }) =>
+    matchesBaseFilters(comic, episode) &&
+    matchesActiveCriteria(comic) &&
+    matchesCriterionGroupValue(group, value, comic)
+  ).length;
+}
+
+function matchesBaseFilters(comic, episode) {
+  const query = normalize(search.value);
+  const proposer = proposerFilter.value;
+  const publisher = publisherFilter.value;
+  const decade = decadeFilter.value;
+  const podcast = podcastFilter.value;
+  const haystack = normalize(
+    [
+      comic.title,
+      comic.runTitle,
+      comic.publisher,
+      ...comic.writers,
+      ...comic.artists,
+      ...comic.colorists,
+      episode.podcast,
+      episode.number,
+      episode.proposer,
+    ].join(" "),
+  );
+  const comicPublisher = comic.publisher || "На проверке";
+  const comicDecade = comic.decade || decadeFromYear(comic.startYear) || "На проверке";
+  return (
+    (!query || haystack.includes(query)) &&
+    (proposer === "Все заявители" || (episode.proposer || "Общая заявка") === proposer) &&
+    (publisher === "Все издательства" || comicPublisher === publisher) &&
+    (decade === "Все десятилетия" || comicDecade === decade) &&
+    (podcast === "Все форматы" || filterFormat(episode) === podcast)
+  );
+}
+
+function matchesCriterionGroupValue(group, value, comic) {
+  const values = {
+    publisher: [comic.publisher],
+    writers: comic.writers,
+    artists: comic.artists,
+    colorists: comic.colorists,
+  }[group] || [];
+  return values.filter(Boolean).map(normalize).includes(normalize(value));
 }
 
 function primaryComicUrl(comic) {

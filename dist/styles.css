@@ -210,10 +210,14 @@ h2 {
 }
 
 select {
+  appearance: none;
   width: 100%;
   padding: 12px 42px 12px 14px;
   color: var(--ink);
-  background: #fffdf7;
+  background:
+    url("data:image/svg+xml,%3Csvg width='14' height='10' viewBox='0 0 14 10' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2 2.5 7 7.5l5-5' fill='none' stroke='%23185947' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
+      right 18px top 58% / 14px 10px no-repeat,
+    #fffdf7;
   border: 1px solid var(--line);
   border-radius: 6px;
   font: inherit;
@@ -609,31 +613,22 @@ input[type="search"] {
   min-width: 230px;
 }
 
-.comic-table strong,
-.comic-table small {
+.comic-table strong {
   display: block;
 }
 
 .comic-table .comic-title-line {
-  display: flex;
-  align-items: center;
-  gap: 8px;
+  display: block;
 }
 
 .comic-title-line a {
-  flex: 1 1 auto;
   min-width: 0;
   overflow-wrap: anywhere;
 }
 
-.comic-title-line .comic-status-icon {
-  flex: 0 0 auto;
-}
-
-.comic-table small {
-  margin-top: 4px;
-  color: var(--muted);
-  font-weight: 700;
+.comic-title-text {
+  display: inline;
+  overflow-wrap: anywhere;
 }
 
 .muted-cell {
@@ -641,26 +636,15 @@ input[type="search"] {
   font-weight: 700;
 }
 
-.comic-status-icon {
-  flex: 0 0 auto;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 15px;
-  height: 15px;
-  color: var(--hiatus-dark);
-  background: #f4c95d;
-  border: 1px solid rgba(80, 64, 26, 0.22);
-  border-radius: 50%;
-  font-size: 0.64rem;
+.exclusive-lock {
+  display: inline;
+  margin-left: 0.12em;
+  color: var(--muted);
+  font-size: 0.62rem;
   font-weight: 900;
-  line-height: 1;
-}
-
-.comic-status-icon.is-confirmed {
-  color: var(--green);
-  background: rgba(24, 89, 71, 0.1);
-  border-color: rgba(24, 89, 71, 0.24);
+  line-height: 0;
+  vertical-align: super;
+  white-space: nowrap;
 }
 
 .status-pill {
@@ -779,6 +763,38 @@ input[type="search"] {
 
 .footer p {
   margin-bottom: 0;
+}
+
+.scroll-search-button {
+  position: fixed;
+  right: 22px;
+  bottom: 22px;
+  z-index: 20;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  color: var(--paper);
+  background: rgba(24, 89, 71, 0.46);
+  border: 1px solid rgba(24, 89, 71, 0.16);
+  border-radius: 50%;
+  box-shadow: 0 10px 28px rgba(33, 31, 26, 0.18);
+  cursor: pointer;
+  font-size: 1.15rem;
+  font-weight: 900;
+  line-height: 1;
+  backdrop-filter: blur(8px);
+}
+
+.scroll-search-button:hover,
+.scroll-search-button:focus-visible {
+  background: rgba(24, 89, 71, 0.68);
+  outline: 0;
+}
+
+.scroll-search-button[hidden] {
+  display: none;
 }
 
 .error {
