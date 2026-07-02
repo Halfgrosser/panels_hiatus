@@ -577,6 +577,10 @@ input[type="search"] {
   white-space: nowrap;
 }
 
+.criterion-list {
+  display: inline;
+}
+
 .comic-table {
   width: 100%;
   min-width: 1100px;
@@ -629,6 +633,10 @@ input[type="search"] {
 .comic-title-text {
   display: inline;
   overflow-wrap: anywhere;
+}
+
+.comic-table td::before {
+  content: none;
 }
 
 .muted-cell {
@@ -892,6 +900,114 @@ input[type="search"] {
     grid-template-columns: 1fr;
   }
 
+}
+
+@media (max-width: 760px) {
+  .table-wrap {
+    overflow: visible;
+  }
+
+  .comic-table {
+    display: block;
+    min-width: 0;
+    background: transparent;
+    border-collapse: separate;
+    font-size: 0.86rem;
+  }
+
+  .comic-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  .comic-table tbody {
+    display: grid;
+    gap: 10px;
+  }
+
+  .comic-table tr {
+    display: grid;
+    gap: 0;
+    padding: 14px;
+    background: rgba(255, 253, 247, 0.82);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+  }
+
+  .comic-table td {
+    display: grid;
+    grid-template-columns: minmax(96px, 34%) minmax(0, 1fr);
+    gap: 10px;
+    align-items: center;
+    min-width: 0;
+    padding: 9px 0;
+    border-bottom: 1px solid rgba(212, 204, 187, 0.72);
+  }
+
+  .comic-table td:first-child {
+    display: block;
+    min-width: 0;
+    padding-top: 0;
+    padding-bottom: 12px;
+    font-size: 1rem;
+  }
+
+  .comic-table td:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+
+  .comic-table td:not(:first-child)::before {
+    content: attr(data-label);
+    color: var(--muted);
+    font-size: 0.68rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    line-height: 1.35;
+    text-transform: uppercase;
+  }
+
+  .comic-table .comic-title-line {
+    line-height: 1.35;
+  }
+
+  .criterion-item {
+    white-space: normal;
+  }
+
+  .comic-table__credits .criterion-list {
+    display: block;
+    min-width: 0;
+    white-space: normal;
+  }
+
+  .comic-table__credits .criterion-item {
+    white-space: nowrap;
+  }
+
+  .comic-table td.comic-table__credits {
+    align-items: start;
+  }
+}
+
+@media (max-width: 420px) {
+  .comic-table tr {
+    padding: 12px;
+  }
+
+  .comic-table td {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .comic-table td.comic-table__credits {
+    grid-template-columns: minmax(86px, 32%) minmax(0, 1fr);
+    gap: 8px;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {

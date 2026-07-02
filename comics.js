@@ -166,19 +166,19 @@ function renderComicRow({ comic, episode }) {
     ? '&#8288;<span class="exclusive-lock" title="Эксклюзив для патронов" aria-label="Эксклюзив для патронов">🔒</span>'
     : "";
   return `<tr>
-      <td>
+      <td data-label="Комикс">
         <strong class="comic-title-line">
           <span class="comic-title-text">${comicTitle}${exclusiveMarker}</span>
         </strong>
       </td>
-      <td>${episodeTitle}</td>
-      <td>${formatDate(episode.publication)}</td>
-      <td>${renderCriterionValue("publisher", comic.publisher || "")}</td>
-      <td>${renderCriterionList("writers", comic.writers)}</td>
-      <td>${renderCriterionList("artists", comic.artists)}</td>
-      <td>${renderCriterionList("colorists", comic.colorists, { emptyLabel: "" })}</td>
-      <td>${escapeHtml(comic.startYear || "на проверке")}</td>
-      <td>${escapeHtml(episode.proposer || "Общая заявка")}</td>
+      <td data-label="Выпуск">${episodeTitle}</td>
+      <td data-label="Дата выпуска">${formatDate(episode.publication)}</td>
+      <td data-label="Издательство">${renderCriterionValue("publisher", comic.publisher || "")}</td>
+      <td class="comic-table__credits" data-label="Сценарист">${renderCriterionList("writers", comic.writers)}</td>
+      <td class="comic-table__credits" data-label="Художник">${renderCriterionList("artists", comic.artists)}</td>
+      <td data-label="Колорист">${renderCriterionList("colorists", comic.colorists, { emptyLabel: "" })}</td>
+      <td data-label="Год выхода">${escapeHtml(comic.startYear || "на проверке")}</td>
+      <td data-label="Заявка">${escapeHtml(episode.proposer || "Общая заявка")}</td>
     </tr>`;
 }
 
@@ -188,7 +188,7 @@ function isExclusiveEpisode(episode) {
   }
   if (episode.podcast === "На пыльных панелях") {
     const dustNumber = Number(String(episode.number || "").replace(/\D/g, ""));
-    return dustNumber === 12 || dustNumber === 13;
+    return dustNumber === 13;
   }
   return false;
 }
@@ -283,9 +283,10 @@ function joinCredit(values) {
 
 function renderCriterionList(group, values, options = {}) {
   if (!values?.length) return options.emptyLabel ?? "на проверке";
-  return values
+  const items = values
     .map((value, index) => `<span class="criterion-item">${renderCriterionValue(group, value, { suffix: index < values.length - 1 ? "," : "" })}</span>`)
     .join(" ");
+  return `<span class="criterion-list">${items}</span>`;
 }
 
 function renderCriterionValue(group, value, options = {}) {
