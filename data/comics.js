@@ -26587,8 +26587,8 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-daughters-of-medusa",
-      "title": "The Daughters of Medusa",
-      "runTitle": "The Daughters of Medusa",
+      "title": "Lady Baltimore: The Daughters of Medusa",
+      "runTitle": "Lady Baltimore: The Daughters of Medusa",
       "publisher": "Dark Horse Comics",
       "writers": [
         "Christopher Golden",
@@ -26607,10 +26607,10 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M18",
           "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
-          "rawTitle": "The Daughters of Medusa",
+          "rawTitle": "Lady Baltimore: The Daughters of Medusa",
           "kind": "comic"
         }
       ],
@@ -26626,8 +26626,8 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-skinless-man",
-      "title": "The Skinless Man",
-      "runTitle": "The Skinless Man",
+      "title": "Lands Unknown: The Skinless Man",
+      "runTitle": "Lands Unknown: The Skinless Man",
       "publisher": "Dark Horse Comics",
       "writers": [
         "Ben Stenbeck"
@@ -26645,10 +26645,10 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M18",
           "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
-          "rawTitle": "The Skinless Man",
+          "rawTitle": "Lands Unknown: The Skinless Man",
           "kind": "comic"
         }
       ],
@@ -26664,7 +26664,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-house-of-yonda",
-      "title": "The House of Yonda",
+      "title": "Leonide the Vampyr: The House of Yonda",
       "runTitle": "Leonide the Vampyr: The House of Yonda",
       "publisher": "Dark Horse Comics",
       "writers": [
@@ -26683,10 +26683,10 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M18",
           "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
-          "rawTitle": "The House of Yonda",
+          "rawTitle": "Leonide the Vampyr: The House of Yonda",
           "kind": "comic"
         }
       ],

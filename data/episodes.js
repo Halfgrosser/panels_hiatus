@@ -9655,28 +9655,28 @@ window.__NA_PANELI_DATA__ = {
       "number": "M18",
       "publication": "2026-07-08",
       "topics": [
-        "The Daughters of Medusa",
-        "The Skinless Man",
-        "The House of Yonda"
+        "Lady Baltimore: The Daughters of Medusa",
+        "Lands Unknown: The Skinless Man",
+        "Leonide the Vampyr: The House of Yonda"
       ],
       "comics": [
         {
-          "title": "The Daughters of Medusa",
-          "rawTitle": "The Daughters of Medusa",
+          "title": "Lady Baltimore: The Daughters of Medusa",
+          "rawTitle": "Lady Baltimore: The Daughters of Medusa",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
-          "title": "The Skinless Man",
-          "rawTitle": "The Skinless Man",
+          "title": "Lands Unknown: The Skinless Man",
+          "rawTitle": "Lands Unknown: The Skinless Man",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
-          "title": "The House of Yonda",
-          "rawTitle": "The House of Yonda",
+          "title": "Leonide the Vampyr: The House of Yonda",
+          "rawTitle": "Leonide the Vampyr: The House of Yonda",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
@@ -9687,7 +9687,7 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "title": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+      "title": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
       "link": "https://boosty.to/spidermedia/posts/4ddfffff-c46e-4b39-935e-49c242203cc9",
       "guid": "4ddfffff-c46e-4b39-935e-49c242203cc9"
     }
