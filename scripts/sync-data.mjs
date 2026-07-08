@@ -148,6 +148,7 @@ const publicationOverridesByEpisode = new Map([
   ["ASOP|M7", "2023-02-07"],
   ["ASOP|M16", "2025-07-03"],
   ["ASOP|M17", "2026-04-12"],
+  ["ASOP|M18", "2026-07-08"],
 ]);
 
 const publicationOverridesByTitle = new Map(
@@ -210,10 +211,11 @@ const sheetEpisodes = rows
   });
 
 const rssItems = parseRss(rss).filter((item) => !isRawRecording(item.title));
+const enrichedSheetEpisodes = sheetEpisodes.map((episode) => mergeRssMetadata(episode, rssItems));
 const rssEpisodes = rssItems
-  .filter((item) => !isRepresentedInSheet(item, sheetEpisodes))
+  .filter((item) => !isRepresentedInSheet(item, enrichedSheetEpisodes))
   .map(toRssEpisode);
-const importedEpisodes = [...sheetEpisodes, ...rssEpisodes].map(applyCorrections).filter(shouldIncludeEpisode);
+const importedEpisodes = [...enrichedSheetEpisodes, ...rssEpisodes].map(applyCorrections).filter(shouldIncludeEpisode);
 const patreonEpisodes = patreonRecords
   .map(toPatreonEpisode)
   .map(applyCorrections)
@@ -287,6 +289,24 @@ function isRepresentedInSheet(item, sheetEpisodes) {
   }
 
   return false;
+}
+
+function mergeRssMetadata(episode, rssItems) {
+  const item = rssItems.find((candidate) => {
+    const identity = titleIdentity(candidate.title);
+    if (!identity) return false;
+    return (
+      episode.podcast.toLocaleLowerCase("ru") === identity.podcast.toLocaleLowerCase("ru") &&
+      episode.number.toLocaleLowerCase("ru") === identity.number.toLocaleLowerCase("ru")
+    );
+  });
+  if (!item) return episode;
+  return {
+    ...episode,
+    title: item.title,
+    link: item.link,
+    guid: item.guid,
+  };
 }
 
 function buildSheetRows(header, records) {
@@ -461,6 +481,7 @@ function titleIdentity(title) {
     [/^«На пыльных панелях»\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "На пыльных панелях", number: `D${number}` })],
     [/^«На панелях\. Лайт»\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "Лайт", number: `L${number}` })],
     [/^Amazing Screw-On Podcast\s*#0*(\d+)/i, (number) => ({ podcast: "ASOP", number: `M${number}` })],
+    [/^Amazing Screw-On Club\s*#0*(\d+)/i, (number) => ({ podcast: "Amazing Screw-On Club", number: `ASC${number}` })],
     [/^Утешительное чтение\. Выпуск\s*0*(\d+)/i, (number) => ({ podcast: "Утешительное чтение", number: `LR${number}` })],
     [/^Ultimate Panels\s*\(0*(\d+)\)/i, (number) => ({ podcast: "Ultimate Panels", number: `UP${number}` })],
   ];
@@ -546,6 +567,7 @@ function shouldIncludeEpisode(episode) {
     return true;
   }
   if (excludedEpisodes.has(`${episode.podcast}|${episode.number}`)) return false;
+  if (episode.podcast === "Amazing Screw-On Club") return false;
   return !excludedTitles.has(normalizeTitle(episode.title || ""));
 }
 
@@ -571,7 +593,7 @@ function canonicalPodcast(podcast) {
 function inferRssFormat(title) {
   const formats = [
     [/^«На панелях\. ДНК»/i, "День новых комиксов", ""],
-    [/^X-Club\s+([\d.]+)/i, "X-Club"],
+    [/^X-Club\s+(\d+(?:\.\d+)?)(?:\.|\s|$)/i, "X-Club"],
     [/^The Podcast of Zelda\s*#0*(\d+)/i, "The Podcast of Zelda"],
     [/^Avatar Club\. Book\s*0*(\d+)/i, "Avatar Club"],
     [/^Письма от слушателей\. Выпуск\s*0*(\d+)/i, "Письма от слушателей"],

@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-07-08",
   "episodes": [
     {
       "id": 1,
@@ -13,11 +13,6 @@ window.__NA_PANELI_DATA__ = {
         "The Unsound",
         "Rock Candy Mountain"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Дебютный выпуск!",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Mr. Higgins Comes Home",
@@ -48,7 +43,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-01-uzhasnye-komiksy1"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Дебютный выпуск!",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 2,
@@ -61,11 +60,6 @@ window.__NA_PANELI_DATA__ = {
         "Injection",
         "Satania"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Women special + анонс слушательского слота",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Paper Girls",
@@ -96,7 +90,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-02-girl-power"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Women special + анонс слушательского слота",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 3,
@@ -109,11 +107,6 @@ window.__NA_PANELI_DATA__ = {
         "Klaus",
         "Royal City"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Motro",
@@ -144,7 +137,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-03-bat-santa"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 4,
@@ -157,11 +154,6 @@ window.__NA_PANELI_DATA__ = {
         "Moonshine",
         "Redneck"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Crime special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "4 Kids Walk Into a Bank",
@@ -192,7 +184,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-04-kak-aja"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Crime special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 5,
@@ -205,11 +201,6 @@ window.__NA_PANELI_DATA__ = {
         "The Infinity Finale",
         "Habitat"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X-Men: Grand Design",
@@ -240,7 +231,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-05-the-death-of-starlin"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 6,
@@ -253,11 +248,6 @@ window.__NA_PANELI_DATA__ = {
         "Dream Gang",
         "Seven to Eternity"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "My Favorite Thing is Monsters",
@@ -288,7 +278,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-neveroyatniy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 7,
@@ -301,11 +295,6 @@ window.__NA_PANELI_DATA__ = {
         "Paklis",
         "The Omega Men"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Anthology special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Sun Bakery",
@@ -336,7 +325,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-antologichno"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Anthology special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 8,
@@ -349,11 +342,6 @@ window.__NA_PANELI_DATA__ = {
         "Valhalla Mad",
         "Blast"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Extremity",
@@ -384,7 +372,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-adskaya-pazhnina"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 9,
@@ -397,11 +389,6 @@ window.__NA_PANELI_DATA__ = {
         "Maestros",
         "Nameless"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Magic special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ether",
@@ -432,7 +419,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-anyway-i-selderey"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Magic special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 10,
@@ -445,11 +436,6 @@ window.__NA_PANELI_DATA__ = {
         "Kaptara",
         "Eternity"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Live-выпуск #1 (Space special)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Space Riders",
@@ -480,7 +466,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-space-oddity"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Live-выпуск #1 (Space special)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 11,
@@ -493,11 +483,6 @@ window.__NA_PANELI_DATA__ = {
         "Ultimates",
         "The Squidder"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Twisted Romance",
@@ -528,7 +513,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-11-nizkie-zhanry"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 12,
@@ -541,11 +530,6 @@ window.__NA_PANELI_DATA__ = {
         "Dark Nights: METAL",
         "Monstress"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Two Brothers",
@@ -576,7 +560,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-12-carpe-diem"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 13,
@@ -589,11 +577,6 @@ window.__NA_PANELI_DATA__ = {
         "Batman: White Knight",
         "Black River"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Слушательский special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Damned",
@@ -624,7 +607,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-13-po-zayavkam"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Слушательский special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 14,
@@ -632,79 +619,22 @@ window.__NA_PANELI_DATA__ = {
       "number": "14",
       "publication": "2018-06-19",
       "topics": [
-        "Thor: God of Thunder by Aaron",
-        "Thor & Loki: The Tenth Realm",
-        "Thor",
-        "Thors",
-        "The Mighty Thor",
-        "The Unworthy Thor",
-        "Generations: The Unworthy Thor & The Mighty Thor",
-        "The Mighty Thor: At the Gates of Valhalla"
+        "The Mighty Thor"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Thor by Aaron special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
-        {
-          "title": "Thor: God of Thunder by Aaron",
-          "rawTitle": "Thor: God of Thunder by Aaron",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Thor & Loki: The Tenth Realm",
-          "rawTitle": "Thor & Loki: The Tenth Realm",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Thor",
-          "rawTitle": "Thor",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Thors",
-          "rawTitle": "Thors",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
         {
           "title": "The Mighty Thor",
           "rawTitle": "The Mighty Thor",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
-        },
-        {
-          "title": "The Unworthy Thor",
-          "rawTitle": "The Unworthy Thor",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Generations: The Unworthy Thor & The Mighty Thor",
-          "rawTitle": "Generations: The Unworthy Thor & The Mighty Thor",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "The Mighty Thor: At the Gates of Valhalla",
-          "rawTitle": "The Mighty Thor: At the Gates of Valhalla",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Thor by Aaron special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 15,
@@ -716,11 +646,6 @@ window.__NA_PANELI_DATA__ = {
         "On the Camino",
         "If You Steal"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "Jason special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Lost Cat",
@@ -744,7 +669,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Никита"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-15-jason"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "Jason special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 16,
@@ -757,11 +686,6 @@ window.__NA_PANELI_DATA__ = {
         "Liberality for All",
         "Leaving Megalopolis"
       ],
-      "participants": "Алексей Замский, Никита Стародубцев",
-      "comment": "SUPERBAD special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Jawbreakers",
@@ -792,7 +716,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-16-superbad"
+      "participants": "Алексей Замский, Никита Стародубцев",
+      "comment": "SUPERBAD special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 17,
@@ -805,11 +733,6 @@ window.__NA_PANELI_DATA__ = {
         "Edison Rex",
         "The Fix"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Immortal Iron Fists",
@@ -840,7 +763,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-17-good-jokes"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 18,
@@ -853,11 +780,6 @@ window.__NA_PANELI_DATA__ = {
         "Basileus",
         "Britannia"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Live-выпуск #2",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Prism Stalker",
@@ -888,7 +810,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-18-slozhniye-kalambury"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Live-выпуск #2",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 19,
@@ -901,11 +827,6 @@ window.__NA_PANELI_DATA__ = {
         "Shazam!",
         "The Beef"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Sabrina",
@@ -936,7 +857,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-19-limonad"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 20,
@@ -949,11 +874,6 @@ window.__NA_PANELI_DATA__ = {
         "Marvel Two-in-One",
         "Eternal Empire"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Анонс Patreon",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "House of Women",
@@ -984,7 +904,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-20-dva-doma"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Анонс Patreon",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 21,
@@ -997,11 +921,6 @@ window.__NA_PANELI_DATA__ = {
         "Hunters",
         "The Gravediggers Union"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Blackwood",
@@ -1032,7 +951,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-21-pod-pokrovom-nochi"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 22,
@@ -1045,11 +968,6 @@ window.__NA_PANELI_DATA__ = {
         "The Immortal Hulk",
         "Skybourne"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Cable",
@@ -1080,7 +998,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-22-za-zelenoy-dveryu"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 23,
@@ -1093,11 +1015,6 @@ window.__NA_PANELI_DATA__ = {
         "Flavor",
         "Hungry Ghosts"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Кулинарный special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Umami",
@@ -1128,7 +1045,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-23-kushat-podano"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Кулинарный special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 24,
@@ -1141,11 +1062,6 @@ window.__NA_PANELI_DATA__ = {
         "G.I. Joe",
         "Doctor Strange and the Sorcerers Supreme"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Beautiful Canvas",
@@ -1176,7 +1092,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-24-shchas-poneset"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -1203,11 +1123,6 @@ window.__NA_PANELI_DATA__ = {
         "Neonomicon",
         "Providence"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Год подкасту! (Providence special)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Courtyard",
@@ -1231,7 +1146,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Никита"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-25-providence"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Год подкасту! (Providence special)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 26,
@@ -1244,11 +1163,6 @@ window.__NA_PANELI_DATA__ = {
         "Dull Margaret",
         "Infamous Iron Man"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Nanjing: The Burning City",
@@ -1279,7 +1193,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-26-les-miserables"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 27,
@@ -1292,11 +1210,6 @@ window.__NA_PANELI_DATA__ = {
         "Death of Inhumans",
         "Multiple Man"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Актуальный special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The New World",
@@ -1327,7 +1240,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-27-zloba-dnya"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Актуальный special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -1355,11 +1272,6 @@ window.__NA_PANELI_DATA__ = {
         "The Life After",
         "Spread"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
-      "comment": "Sterpazook special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Deathmatch",
@@ -1390,7 +1302,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-28-venganza"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
+      "comment": "Sterpazook special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 29,
@@ -1403,11 +1319,6 @@ window.__NA_PANELI_DATA__ = {
         "Justice League",
         "Redlands"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Sara",
@@ -1438,7 +1349,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-29-sky-burial"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 30,
@@ -1451,11 +1366,6 @@ window.__NA_PANELI_DATA__ = {
         "Oblivion Song",
         "Secret Empire"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Итальянский special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Spider King",
@@ -1486,7 +1396,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-30-chetyre-syra"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Итальянский special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 31,
@@ -1499,11 +1413,6 @@ window.__NA_PANELI_DATA__ = {
         "Avengers: Rage of Ultron",
         "Upgrade Soul"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "OGN special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Prince and the Dressmaker",
@@ -1534,7 +1443,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-31-ozhno"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "OGN special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -1562,11 +1475,6 @@ window.__NA_PANELI_DATA__ = {
         "The Magic Order",
         "My Heroes Have Always Been Junkies"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Harrow County",
@@ -1597,7 +1505,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-32-klub-polunochnikov"
+      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 33,
@@ -1610,11 +1522,6 @@ window.__NA_PANELI_DATA__ = {
         "Witchfinder: The Gates of Heaven",
         "Into the Silent Sea"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Hellboy special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Koschei the Deathless",
@@ -1645,7 +1552,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Hellboy special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 34,
@@ -1658,11 +1569,6 @@ window.__NA_PANELI_DATA__ = {
         "William Gibson's Alien 3",
         "The Wake"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Go-Bots",
@@ -1693,7 +1599,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-34-love-death-and-go-bots"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 35,
@@ -1706,11 +1616,6 @@ window.__NA_PANELI_DATA__ = {
         "The Green Lantern",
         "Wonder Woman: The True Amazon"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "DC special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Superman",
@@ -1741,7 +1646,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-35-crisis"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "DC special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 36,
@@ -1754,11 +1663,6 @@ window.__NA_PANELI_DATA__ = {
         "Bad Ass",
         "Persephone"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Die",
@@ -1789,7 +1693,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-36-detskie-travmy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 37,
@@ -1802,11 +1710,6 @@ window.__NA_PANELI_DATA__ = {
         "G.I. Joe: Sierra Muerte",
         "MCMLXXV"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Murder Falcon",
@@ -1837,7 +1740,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-37-zhuliki"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 38,
@@ -1850,11 +1757,6 @@ window.__NA_PANELI_DATA__ = {
         "Peter Cannon: Thunderbolt",
         "Heroes in Crisis"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "29 мая special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Wolverine: The Long Night",
@@ -1885,7 +1787,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-38-podcast-in-crisis"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "29 мая special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 39,
@@ -1898,11 +1804,6 @@ window.__NA_PANELI_DATA__ = {
         "The Warning",
         "Outer Darkness"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Image special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Farmhand",
@@ -1933,7 +1834,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-39-warning"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Image special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 40,
@@ -1946,11 +1851,6 @@ window.__NA_PANELI_DATA__ = {
         "The Sentry",
         "Watersnakes"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "By Night",
@@ -1981,7 +1881,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-40-mzhdz"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 41,
@@ -1991,11 +1895,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "X-Men Before Hickman"
       ],
-      "participants": "Станислав Шаргородский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X-Men Before Hickman",
@@ -2005,7 +1904,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-00-highs-and-lows"
+      "participants": "Станислав Шаргородский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 42,
@@ -2015,11 +1918,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "House of X [01]"
       ],
-      "participants": "Станислав Шаргородский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "House of X [01]",
@@ -2029,7 +1927,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-01-the-house-that-xavier-built"
+      "participants": "Станислав Шаргородский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 43,
@@ -2039,11 +1941,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Powers of X [01]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Powers of X [01]",
@@ -2053,7 +1950,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-02-the-last-dream-of-professor-x"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -2078,11 +1979,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "House of X [02]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "House of X [02]",
@@ -2092,7 +1988,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-03-the-ucanny-life-of-moira-x"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 45,
@@ -2102,11 +2002,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Powers of X [02]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Powers of X [02]",
@@ -2116,7 +2011,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-04-we-are-together-now-you-and-i"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 46,
@@ -2126,11 +2025,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Powers of X [03]"
       ],
-      "participants": "Станислав Шаргородский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Powers of X [03]",
@@ -2140,7 +2034,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-05-this-is-what-you-do"
+      "participants": "Станислав Шаргородский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 47,
@@ -2153,11 +2051,6 @@ window.__NA_PANELI_DATA__ = {
         "Conan the Barbarian",
         "Little Bird"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ask For Mercy",
@@ -2188,7 +2081,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-41-going-native"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 48,
@@ -2198,11 +2095,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "House of X [03]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "House of X [03]",
@@ -2212,7 +2104,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-06-once-more-unto-the-breach"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 49,
@@ -2222,11 +2118,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "House of X [04]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "House of X [04]",
@@ -2236,7 +2127,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-07-it-will-be-done"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 50,
@@ -2246,11 +2141,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Powers of X [04]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Powers of X [04]",
@@ -2260,7 +2150,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-08-something-sinister"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 51,
@@ -2270,11 +2164,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "House of X [05]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "House of X [05]",
@@ -2284,7 +2173,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-09-society"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 52,
@@ -2297,11 +2190,6 @@ window.__NA_PANELI_DATA__ = {
         "Assassin Nation",
         "Fearscape"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "- (без Никиты)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Lodger",
@@ -2332,7 +2220,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-42-dushnota"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "- (без Никиты)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 53,
@@ -2342,11 +2234,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Powers of X [05]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Powers of X [05]",
@@ -2356,7 +2243,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-10-for-the-children"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 54,
@@ -2366,11 +2257,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "House of X [06]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "House of X [06]",
@@ -2380,7 +2266,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-11-i-am-not-ashamed"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 55,
@@ -2390,11 +2280,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Powers of X [06]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Panels of X",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Powers of X [06]",
@@ -2404,7 +2289,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/panels-of-x-12-house-of-x"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Panels of X",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -2431,11 +2320,6 @@ window.__NA_PANELI_DATA__ = {
         "Proxima Centauri",
         "Pop Gun War v02: Chain Letter"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Farel Dalrymple special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "It Will All Hurt",
@@ -2459,7 +2343,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Никита"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-43-farel-dalrymple"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Farel Dalrymple special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 57,
@@ -2472,11 +2360,6 @@ window.__NA_PANELI_DATA__ = {
         "The Gigantic Beard That Was Evil",
         "The Grot"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "ЛРоК special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Mezolith",
@@ -2507,7 +2390,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-44-the-best"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "ЛРоК special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 58,
@@ -2517,11 +2404,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "The Wicked + The Divine"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "Два года подкасту! (WicDiv special)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Wicked + The Divine",
@@ -2531,7 +2413,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-45-wicdiv"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "Два года подкасту! (WicDiv special)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 59,
@@ -2541,11 +2427,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "TMNT Mega-Arc 1"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Андрей Ложенко",
-      "comment": "TMNT special, part 1",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "TMNT Mega-Arc 1",
@@ -2555,7 +2436,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-46-turtle-soup"
+      "participants": "Станислав Шаргородский, Алексей Замский, Андрей Ложенко",
+      "comment": "TMNT special, part 1",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 60,
@@ -2565,11 +2450,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "TMNT Mega-Arc 2"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Андрей Ложенко",
-      "comment": "TMNT special, part 2",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "TMNT Mega-Arc 2",
@@ -2579,7 +2459,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-47-turtle-dreams"
+      "participants": "Станислав Шаргородский, Алексей Замский, Андрей Ложенко",
+      "comment": "TMNT special, part 2",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 61,
@@ -2587,13 +2471,9 @@ window.__NA_PANELI_DATA__ = {
       "number": "48",
       "publication": "2020-01-21",
       "topics": [
-        "Doomsday Clock"
+        "Doomsday Clock",
+        "Watchmen (HBO)"
       ],
-      "participants": "Алексей Замский, Никита Стародубцев",
-      "comment": "Watchmen Sequels special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Doomsday Clock",
@@ -2601,9 +2481,20 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
+        },
+        {
+          "title": "Watchmen (HBO)",
+          "rawTitle": "Watchmen (HBO)",
+          "kind": "comic",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-48-superbad-2-superbad-sequels"
+      "participants": "Алексей Замский, Никита Стародубцев",
+      "comment": "Watchmen Sequels special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 62,
@@ -2613,11 +2504,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Star Wars: Knights of the Old Republic"
       ],
-      "participants": "Алексей Замский, Никита Стародубцев",
-      "comment": "Эксклюзив (Никита)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Star Wars: Knights of the Old Republic",
@@ -2626,7 +2512,12 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Алексей Замский, Никита Стародубцев",
+      "comment": "Эксклюзив (Никита)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 63,
@@ -2636,11 +2527,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Locke & Key"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
-      "comment": "Эксклюзив (Стас)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Locke & Key",
@@ -2649,7 +2535,12 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
+      "comment": "Эксклюзив (Стас)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 64,
@@ -2662,11 +2553,6 @@ window.__NA_PANELI_DATA__ = {
         "Berlin",
         "On a Sunbeam"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "OGN special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Laura Dean Keeps Breaking Up with Me",
@@ -2697,7 +2583,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-49-chtenie-na-vybyvanie"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "OGN special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 66,
@@ -2707,11 +2597,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Seven Soldiers"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Эксклюзив (Леша)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Seven Soldiers",
@@ -2720,7 +2605,12 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Эксклюзив (Леша)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 65,
@@ -2733,11 +2623,6 @@ window.__NA_PANELI_DATA__ = {
         "Event Leviathan",
         "Batman: Last Knight on Earth"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "50 выпусков! (Двойка special)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Punisher Kill Krew",
@@ -2768,7 +2653,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-50-new-special"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "50 выпусков! (Двойка special)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 67,
@@ -2778,11 +2667,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "East of West"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "East of West special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "East of West",
@@ -2792,7 +2676,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-51-vostochno-zapadniy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "East of West special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 68,
@@ -2805,11 +2693,6 @@ window.__NA_PANELI_DATA__ = {
         "SHANGRI-LA",
         "The Ogre Gods"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "BD special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Park Bench",
@@ -2840,7 +2723,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-52-superbd"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "BD special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 69,
@@ -2853,11 +2740,6 @@ window.__NA_PANELI_DATA__ = {
         "War of the Realms",
         "About Betty's Boob"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Патреонный special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "This Was Our Pact",
@@ -2888,7 +2770,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-53-zolotoy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Патреонный special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 70,
@@ -2898,11 +2784,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Superhuman Trilogy"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
-      "comment": "Эксклюзив (Саша)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Superhuman Trilogy",
@@ -2911,7 +2792,12 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Александр Моисеенко",
+      "comment": "Эксклюзив (Саша)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 71,
@@ -2924,11 +2810,6 @@ window.__NA_PANELI_DATA__ = {
         "Daredevil",
         "Ghost Tree"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Eisner special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "BTTM FDRS",
@@ -2959,7 +2840,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-54-osmos-i-kosmos"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Eisner special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 72,
@@ -2972,11 +2857,6 @@ window.__NA_PANELI_DATA__ = {
         "Battling Boy",
         "Space Doll"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Патреонный special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Motor Girl",
@@ -3007,7 +2887,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-01-everest"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Патреонный special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 73,
@@ -3020,11 +2904,6 @@ window.__NA_PANELI_DATA__ = {
         "DCeased",
         "Faithless"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Folklords",
@@ -3055,7 +2934,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-55-klatrio"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 74,
@@ -3068,11 +2951,6 @@ window.__NA_PANELI_DATA__ = {
         "Die!Die!Die!",
         "A Girl in the Himalayas"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Human",
@@ -3103,7 +2981,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-56-cancel-humanity"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 75,
@@ -3113,11 +2995,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Infinite Crisis"
       ],
-      "participants": "Алексей Замский, Никита Стародубцев",
-      "comment": "Infinite Crisis special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Infinite Crisis",
@@ -3127,7 +3004,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-02-infinite"
+      "participants": "Алексей Замский, Никита Стародубцев",
+      "comment": "Infinite Crisis special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 76,
@@ -3140,11 +3021,6 @@ window.__NA_PANELI_DATA__ = {
         "The Dreaming",
         "Dial H for Hero"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "DC Imprint special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Basketful of Heads",
@@ -3175,7 +3051,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-57-imprinting"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "DC Imprint special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 77,
@@ -3188,11 +3068,6 @@ window.__NA_PANELI_DATA__ = {
         "Hedra",
         "Vivisectionary"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "ЛРоК special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ye",
@@ -3223,7 +3098,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-58-nuff-said"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "ЛРоК special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 78,
@@ -3233,11 +3112,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Dawn of X"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Dawn of X",
@@ -3247,7 +3121,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-00-dawn-of-x"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 79,
@@ -3257,11 +3135,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "X of Swords: Creation"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X of Swords: Creation",
@@ -3271,7 +3144,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-01-creation"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 80,
@@ -3281,11 +3158,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "X-Factor #04"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X-Factor #04",
@@ -3295,7 +3167,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-02-x-factor"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 81,
@@ -3305,11 +3181,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Wolverine #06 // X-Force #13 // Marauders #13"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Wolverine #06 // X-Force #13 // Marauders #13",
@@ -3319,7 +3190,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-03-muramasa-skybreaker"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 82,
@@ -3329,11 +3204,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Hellions #05 // New Mutants #13 // Cable #05"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Hellions #05 // New Mutants #13 // Cable #05",
@@ -3343,7 +3213,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-04-hellions-new-mutants-cable"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 83,
@@ -3353,11 +3227,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Excalibur #13 // X-Men #13"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Excalibur #13 // X-Men #13",
@@ -3367,7 +3236,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-05-family-feuds"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 84,
@@ -3377,11 +3250,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "X of Swords: Stasis"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X of Swords: Stasis",
@@ -3391,7 +3259,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-06-stasis"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 85,
@@ -3401,11 +3273,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "X-Men #14 // Marauders #14"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X-Men #14 // Marauders #14",
@@ -3415,7 +3282,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-07-no-shame"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 86,
@@ -3425,11 +3296,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Marauders #15 // Excalibur #14 // Wolverine #07"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Marauders #15 // Excalibur #14 // Wolverine #07",
@@ -3439,7 +3305,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-08-upside-down"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 87,
@@ -3449,11 +3319,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "X-Force #14 // Hellions #06 // Cable #06"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Три года подкасту! (X of Panels)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X-Force #14 // Hellions #06 // Cable #06",
@@ -3463,7 +3328,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-09-last-stand"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Три года подкасту! (X of Panels)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 88,
@@ -3473,11 +3342,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Excalibur #15 // X-Men #15 // X of Swords: Destruction"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "X of Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Excalibur #15 // X-Men #15 // X of Swords: Destruction",
@@ -3487,7 +3351,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/x-of-panels-10-destruction"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "X of Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 89,
@@ -3500,11 +3368,6 @@ window.__NA_PANELI_DATA__ = {
         "Usagi Yojimbo: Yokai",
         "Like A Velvet Glove Cast In Iron"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Enigma",
@@ -3535,7 +3398,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-03-hyperreality"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 90,
@@ -3548,11 +3415,6 @@ window.__NA_PANELI_DATA__ = {
         "Parker: Slayground",
         "The Stuff of Legend"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Pizzeria Kamikaze",
@@ -3583,7 +3445,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-04-knizhnost"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 91,
@@ -3596,11 +3462,6 @@ window.__NA_PANELI_DATA__ = {
         "Bog Bodies",
         "Sour Apple"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Against Hope",
@@ -3631,7 +3492,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-59-enough"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 92,
@@ -3644,11 +3509,6 @@ window.__NA_PANELI_DATA__ = {
         "The Originals",
         "It's a Good Life, If You Don't Weaken"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Cursed Pirate Girl",
@@ -3679,7 +3539,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-05-kontrastnost"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 93,
@@ -3692,11 +3556,6 @@ window.__NA_PANELI_DATA__ = {
         "Dark Nights: Death Metal",
         "Batman: Three Jokers"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "DC special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Wonder Woman: Dead Earth",
@@ -3727,7 +3586,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-60-inevitable"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "DC special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -3755,11 +3618,6 @@ window.__NA_PANELI_DATA__ = {
         "Nowhere Men",
         "Brat Pack"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Superheroes special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "SuperF*ckers",
@@ -3790,7 +3648,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-geroicheskiy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Superheroes special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 95,
@@ -3803,11 +3665,6 @@ window.__NA_PANELI_DATA__ = {
         "Reckless",
         "Slaughterhouse-Five"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "Stas special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Seeds",
@@ -3838,7 +3695,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-61-metafork"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "Stas special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 96,
@@ -3848,11 +3709,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Building Stories"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "Building Stories special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Building Stories",
@@ -3862,7 +3718,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-depressivniy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "Building Stories special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -3872,12 +3732,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Посмотрел, пришел и рассказал: Snyder Cut",
       "topics": [],
       "participants": "",
-      "comment": "Понравился",
+      "comment": "Классика теперь и на Boosty.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://www.patreon.com/spidermedia/posts/posmotrel-i-cut-49111867",
-      "guid": "43dc314f-df55-45dd-b881-4b0e8f3286f9"
+      "guid": "ea9433de-28c1-4f4f-b00c-9730b7be4744"
     },
     {
       "id": 97,
@@ -3890,11 +3750,6 @@ window.__NA_PANELI_DATA__ = {
         "Warhammer 40,000: Marneus Calgar",
         "Mr. Invincible"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Bitter Root",
@@ -3925,7 +3780,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-62-40000-stradaniy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -3953,11 +3812,6 @@ window.__NA_PANELI_DATA__ = {
         "Elektra: Assassin",
         "Swallow Me Whole"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Sock Monkey Treasure",
@@ -3988,7 +3842,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-poeticheskiy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 99,
@@ -4001,11 +3859,6 @@ window.__NA_PANELI_DATA__ = {
         "BANG!",
         "Fire Power"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Loneliness of the Long-Distance Cartoonist",
@@ -4036,7 +3889,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-63-ambitsiozniy"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 100,
@@ -4046,11 +3903,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "East Blue / Chapters #1-100"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "East Blue / Chapters #1-100",
@@ -4060,7 +3912,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-01-east-blue"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 101,
@@ -4073,11 +3929,6 @@ window.__NA_PANELI_DATA__ = {
         "Jack Kirby's O.M.A.C.: One Man Army Corps",
         "Zombo"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Blot",
@@ -4108,7 +3959,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-staromodniy"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 102,
@@ -4121,11 +3976,6 @@ window.__NA_PANELI_DATA__ = {
         "The World of Edena",
         "Heck"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Патреонный special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Duncan the Wonder Dog",
@@ -4156,12 +4006,16 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-final"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Патреонный special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
       "podcast": "Gol D. Panels",
-      "number": "OP2",
+      "number": "OP02",
       "publication": "2021-05-31",
       "title": "Gol D. Panels. Saga 02: Alabasta",
       "topics": [],
@@ -4170,7 +4024,7 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": true,
       "supportersFree": false,
       "source": "patreon",
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-02-alabasta",
+      "link": "",
       "guid": ""
     },
     {
@@ -4181,11 +4035,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Reign of X"
       ],
-      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
-      "comment": "Hellfire Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Reign of X",
@@ -4195,7 +4044,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/hellfire-panels-00-reign-of-x"
+      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
+      "comment": "Hellfire Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 105,
@@ -4205,11 +4058,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Marauders #21 // X-Force #20 // Hellions #12"
       ],
-      "participants": "Станислав Шаргородский, Евгений Еронин",
-      "comment": "Hellfire Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Marauders #21 // X-Force #20 // Hellions #12",
@@ -4219,7 +4067,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/hellfire-panels-01-you-are-cordially-invited"
+      "participants": "Станислав Шаргородский, Евгений Еронин",
+      "comment": "Hellfire Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 106,
@@ -4229,11 +4081,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Excalibur #21 // X-Men #21 // Children of the Atom #04"
       ],
-      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
-      "comment": "Hellfire Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Excalibur #21 // X-Men #21 // Children of the Atom #04",
@@ -4243,7 +4090,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/hellfire-panels-02-the-beginning"
+      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
+      "comment": "Hellfire Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 107,
@@ -4253,11 +4104,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Planet-Size X-Men // New Mutants #19 // X-Corp #02"
       ],
-      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
-      "comment": "Hellfire Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Planet-Size X-Men // New Mutants #19 // X-Corp #02",
@@ -4267,7 +4113,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/hellfire-panels-03-fireworks"
+      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
+      "comment": "Hellfire Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 108,
@@ -4277,11 +4127,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03"
       ],
-      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
-      "comment": "Hellfire Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03",
@@ -4291,7 +4136,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/hellfire-panels-04-this-is-what-comes-next"
+      "participants": "Станислав Шаргородский, Никита Стародубцев, Евгений Еронин",
+      "comment": "Hellfire Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 109,
@@ -4301,11 +4150,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "X-Factor #10 // Cable #11"
       ],
-      "participants": "Станислав Шаргородский, Евгений Еронин",
-      "comment": "Hellfire Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "X-Factor #10 // Cable #11",
@@ -4315,7 +4159,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/hellfire-panels-05-finale"
+      "participants": "Станислав Шаргородский, Евгений Еронин",
+      "comment": "Hellfire Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 110,
@@ -4325,11 +4173,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Black Hammer"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Black Hammer special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Black Hammer",
@@ -4339,7 +4182,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Black Hammer special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -4367,11 +4214,6 @@ window.__NA_PANELI_DATA__ = {
         "Blue in Green",
         "Dracula, Motherf++ker!"
       ],
-      "participants": "",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Nameless City",
@@ -4402,7 +4244,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-65-podcast-motherfker"
+      "participants": "",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 112,
@@ -4412,11 +4258,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Hickman's Departure"
       ],
-      "participants": "Станислав Шаргородский, Евгений Еронин",
-      "comment": "Inferno Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Hickman's Departure",
@@ -4426,7 +4267,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/inferno-panels-00-long-live-krakoa"
+      "participants": "Станислав Шаргородский, Евгений Еронин",
+      "comment": "Inferno Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 113,
@@ -4436,11 +4281,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Inferno [01]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "Inferno Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Inferno [01]",
@@ -4450,7 +4290,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/inferno-panels-01-someone-remembers"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "Inferno Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 114,
@@ -4460,11 +4304,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Locke & Key: The Golden Age"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
-      "comment": "Эксклюзив (Стас)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Locke & Key: The Golden Age",
@@ -4473,7 +4312,12 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
+      "comment": "Эксклюзив (Стас)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 115,
@@ -4483,11 +4327,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "American Vampire"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "American Vampire special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "American Vampire",
@@ -4497,7 +4336,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-66-krovososuschiy"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "American Vampire special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 116,
@@ -4507,11 +4350,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Hellboy and the B.P.R.D. 2020 One-shots by Mignola"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Hellboy and the B.P.R.D. 2020 One-shots by Mignola",
@@ -4520,7 +4358,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #00: Welcome Back",
+      "link": "https://boosty.to/spidermedia/posts/e84c1163-6b4e-44c4-aa28-227eeee10032",
+      "guid": "e84c1163-6b4e-44c4-aa28-227eeee10032"
     },
     {
       "id": 117,
@@ -4533,11 +4379,6 @@ window.__NA_PANELI_DATA__ = {
         "Home Sick Pilots",
         "The Man Who Came Down the Attic Stairs"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Haloween special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Shadows",
@@ -4568,7 +4409,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-67-trick-or-treat"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Haloween special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 118,
@@ -4578,11 +4423,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Inferno [02]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "Inferno Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Inferno [02]",
@@ -4592,7 +4432,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/inferno-panels-02-what-i-really-am"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "Inferno Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 119,
@@ -4603,11 +4447,6 @@ window.__NA_PANELI_DATA__ = {
         "Skypiea Saga / Chapters #218-302",
         "Baron Omatsuri"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Skypiea Saga / Chapters #218-302",
@@ -4624,7 +4463,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-03-skypeia"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 120,
@@ -4635,11 +4478,6 @@ window.__NA_PANELI_DATA__ = {
         "The Hidden Land",
         "The House of Lost Horizons"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Hidden Land",
@@ -4655,7 +4493,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #01: The Hidden Land // The House of Lost Horizons",
+      "link": "https://boosty.to/spidermedia/posts/ef53b293-ff1a-454b-aa29-7b120e2a91ca",
+      "guid": "ef53b293-ff1a-454b-aa29-7b120e2a91ca"
     },
     {
       "id": 121,
@@ -4665,11 +4511,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "The Immortal Hulk"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко, Сергей Мангасаров",
-      "comment": "Четыре года подкасту! (Hulk by Ewing special)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Immortal Hulk",
@@ -4679,7 +4520,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-68-immortal"
+      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко, Сергей Мангасаров",
+      "comment": "Четыре года подкасту! (Hulk by Ewing special)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 122,
@@ -4692,11 +4537,6 @@ window.__NA_PANELI_DATA__ = {
         "Crawl Space",
         "Lonely Receiver"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Lesha special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Last of the Atlases",
@@ -4727,7 +4567,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-69-abstraktniy"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Lesha special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 123,
@@ -4737,11 +4581,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Inferno [03]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
-      "comment": "Inferno Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Inferno [03]",
@@ -4751,7 +4590,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/inferno-panels-03-different-history-of-the-world"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин",
+      "comment": "Inferno Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 124,
@@ -4762,11 +4605,6 @@ window.__NA_PANELI_DATA__ = {
         "The Witch Queens",
         "Tales from the Outerverse"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Witch Queens",
@@ -4782,7 +4620,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #02: The Witch Queens // Tales from the Outerverse",
+      "link": "https://boosty.to/spidermedia/posts/509c6a31-c7a6-47c1-a4f4-788a72bec6eb",
+      "guid": "509c6a31-c7a6-47c1-a4f4-788a72bec6eb"
     },
     {
       "id": 125,
@@ -4792,11 +4638,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Water 7 Arc / Chapters #303-374"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Water 7 Arc / Chapters #303-374",
@@ -4806,7 +4647,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-04-part-1-water-7"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 126,
@@ -4816,11 +4661,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Enies Lobby Arc / Chapters #375-441"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Enies Lobby Arc / Chapters #375-441",
@@ -4830,7 +4670,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-04-part-2-enies-lobby"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 127,
@@ -4840,11 +4684,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Inferno [04]"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Евгений Еронин",
-      "comment": "Inferno Panels (с Женей и Никитой)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Inferno [04]",
@@ -4854,7 +4693,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/inferno-panels-04-the-death-of-moira-x"
+      "participants": "Станислав Шаргородский, Алексей Замский, Никита Стародубцев, Евгений Еронин",
+      "comment": "Inferno Panels (с Женей и Никитой)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 128,
@@ -4867,11 +4710,6 @@ window.__NA_PANELI_DATA__ = {
         "Ancestor",
         "Marathon"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Red Room",
@@ -4902,7 +4740,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-70-carte-blanche"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 129,
@@ -4913,11 +4755,6 @@ window.__NA_PANELI_DATA__ = {
         "Our Encounters with Evil",
         "Falconspeare"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Our Encounters with Evil",
@@ -4933,7 +4770,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #03: Our Encounters with Evil // Falconspeare",
+      "link": "https://boosty.to/spidermedia/posts/10531662-93da-4364-8254-c70d0c250184",
+      "guid": "10531662-93da-4364-8254-c70d0c250184"
     },
     {
       "id": 130,
@@ -4941,13 +4786,9 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP6",
       "publication": "2022-02-03",
       "topics": [
-        "Thriller Bark / Chapters #442-489"
+        "Thriller Bark / Chapters #442-489",
+        "Strong World"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Thriller Bark / Chapters #442-489",
@@ -4955,24 +4796,20 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
+        },
+        {
+          "title": "Strong World",
+          "rawTitle": "Strong World",
+          "kind": "movie",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-05-thriller-bark"
-    },
-    {
-      "id": null,
-      "podcast": "Прочёл, пришёл и рассказал",
-      "number": "",
-      "publication": "2022-02-07",
-      "title": "Прочёл, пришёл и рассказал: R-rated comics (not really)",
-      "topics": [],
-      "participants": "",
-      "comment": "",
-      "supportersOnly": true,
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
       "supportersFree": false,
-      "source": "patreon",
-      "link": "https://www.patreon.com/spidermedia/posts/prochiol-i-r-not-62210259",
-      "guid": ""
+      "source": "google-sheet"
     },
     {
       "id": 131,
@@ -4983,13 +4820,8 @@ window.__NA_PANELI_DATA__ = {
         "Beta Ray Bill",
         "Deep Dark Fears",
         "Kane & Able",
-        "Glass Town: The Imaginary World of the Brontës"
+        "Glass Town"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Beta Ray Bill",
@@ -5013,14 +4845,18 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         },
         {
-          "title": "Glass Town: The Imaginary World of the Brontës",
+          "title": "Glass Town",
           "rawTitle": "Glass Town",
           "kind": "comic",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-71-strakhi-i-travmy"
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 132,
@@ -5028,30 +4864,33 @@ window.__NA_PANELI_DATA__ = {
       "number": "M4",
       "publication": "2022-02-25",
       "topics": [
-        "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
-        "Hellboy: The Bones of Giants"
+        "The Secret of Chesbro House",
+        "The Bones of Giant"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
+          "title": "The Secret of Chesbro House",
           "rawTitle": "The Secret of Chesbro House",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "Hellboy: The Bones of Giants",
+          "title": "The Bones of Giant",
           "rawTitle": "The Bones of Giant",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #04: The Secret of Chesbro House // The Bones of Giants",
+      "link": "https://boosty.to/spidermedia/posts/128b35b7-0466-4adb-beec-c4ab3caf909c",
+      "guid": "128b35b7-0466-4adb-beec-c4ab3caf909c"
     },
     {
       "id": 133,
@@ -5061,11 +4900,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Bodie Troll"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Bodie Troll",
@@ -5074,7 +4908,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 01: Bodie Troll",
+      "link": "https://boosty.to/spidermedia/posts/8117f0aa-001c-4622-93fb-b8ee59efc311",
+      "guid": "8117f0aa-001c-4622-93fb-b8ee59efc311"
     },
     {
       "id": 134,
@@ -5084,11 +4926,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "A Land Called Tarot"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "A Land Called Tarot",
@@ -5097,7 +4934,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 02: A Land Called Tarot",
+      "link": "https://boosty.to/spidermedia/posts/c4328a65-4a3f-4d2a-9b71-7b1b5c266fd7",
+      "guid": "c4328a65-4a3f-4d2a-9b71-7b1b5c266fd7"
     },
     {
       "id": 135,
@@ -5107,11 +4952,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "The March of the Crabs"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The March of the Crabs",
@@ -5120,22 +4960,60 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 03: The March of the Crabs",
+      "link": "https://boosty.to/spidermedia/posts/4e18382f-cfb8-41fa-be14-6ad31fcbfa8f",
+      "guid": "4e18382f-cfb8-41fa-be14-6ad31fcbfa8f"
+    },
+    {
+      "id": null,
+      "podcast": "Спецвыпуск",
+      "number": "",
+      "publication": "2022-04-04",
+      "title": "«На бонусных панелях»: Locke & Key ~ The Golden Age",
+      "topics": [],
+      "participants": "",
+      "comment": "Обсуждаем весь цикл Locke & Key: The Golden Age",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/d514d7f1-9ee1-48a6-9076-02a25bf9a85a",
+      "guid": "d514d7f1-9ee1-48a6-9076-02a25bf9a85a"
+    },
+    {
+      "id": null,
+      "podcast": "Прочёл, пришёл и рассказал",
+      "number": "",
+      "publication": "2022-04-04",
+      "title": "Прочёл, пришёл и рассказал: R-rated comics (not really)",
+      "topics": [],
+      "participants": "",
+      "comment": "Леша рассказывает про пять разных комиксов, названия которых по случайному совпадению начинаются на R.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/7849d390-fd71-4699-97a4-cbb9a4b04539",
+      "guid": "7849d390-fd71-4699-97a4-cbb9a4b04539"
     },
     {
       "id": null,
       "podcast": "Прочие спецвыпуски",
       "number": "",
-      "publication": "2022-03-31",
+      "publication": "2022-04-05",
       "title": "SPIDER Talk: Потерянный эпизод",
       "topics": [],
       "participants": "",
       "comment": "",
       "supportersOnly": true,
       "supportersFree": false,
-      "source": "patreon",
-      "link": "https://www.patreon.com/spidermedia/posts/spider-talk-64508681",
-      "guid": ""
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/88af7d51-7511-474c-b612-60fcd1b8219c",
+      "guid": "88af7d51-7511-474c-b612-60fcd1b8219c"
     },
     {
       "id": 136,
@@ -5143,30 +5021,33 @@ window.__NA_PANELI_DATA__ = {
       "number": "M5",
       "publication": "2022-04-12",
       "topics": [
-        "Witchfinder: The Reign of Darkness",
-        "Hellboy: The Silver Lantern Club"
+        "The Reign of Darkness",
+        "The Silver Lantern Club"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Witchfinder: The Reign of Darkness",
+          "title": "The Reign of Darkness",
           "rawTitle": "The Reign of Darkness",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
-          "title": "Hellboy: The Silver Lantern Club",
+          "title": "The Silver Lantern Club",
           "rawTitle": "The Silver Lantern Club",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #05: The Reign of Darkness // The Silver Lantern Club",
+      "link": "https://boosty.to/spidermedia/posts/ff34ddef-c860-411d-93be-6f36089a407c",
+      "guid": "ff34ddef-c860-411d-93be-6f36089a407c"
     },
     {
       "id": 137,
@@ -5176,11 +5057,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Earth Boy"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Earth Boy",
@@ -5189,7 +5065,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 04: Earth Boy",
+      "link": "https://boosty.to/spidermedia/posts/0743cd96-9b5a-42bc-b3e3-86d007847f2d",
+      "guid": "0743cd96-9b5a-42bc-b3e3-86d007847f2d"
     },
     {
       "id": 138,
@@ -5199,11 +5083,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Water Memory"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Water Memory",
@@ -5212,7 +5091,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 05: Water Memory",
+      "link": "https://boosty.to/spidermedia/posts/3d86aa7a-d82a-4128-85a5-3af9a9749575",
+      "guid": "3d86aa7a-d82a-4128-85a5-3af9a9749575"
     },
     {
       "id": 139,
@@ -5222,11 +5109,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Cosplay"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Cosplay",
@@ -5235,7 +5117,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 06: Cosplay",
+      "link": "https://boosty.to/spidermedia/posts/3190422a-dbd8-4f66-8441-ec1229496f12",
+      "guid": "3190422a-dbd8-4f66-8441-ec1229496f12"
     },
     {
       "id": 140,
@@ -5245,11 +5135,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Bear"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Bear",
@@ -5258,7 +5143,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 07: Bear",
+      "link": "https://boosty.to/spidermedia/posts/f614ddd1-e9a1-487a-bf32-67d5e378baa3",
+      "guid": "f614ddd1-e9a1-487a-bf32-67d5e378baa3"
     },
     {
       "id": 141,
@@ -5268,11 +5161,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Malinky Robot"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Malinky Robot",
@@ -5281,7 +5169,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 08: Malinky Robot",
+      "link": "https://boosty.to/spidermedia/posts/35910cc8-d79e-4e79-adc2-b5851f772020",
+      "guid": "35910cc8-d79e-4e79-adc2-b5851f772020"
     },
     {
       "id": 142,
@@ -5291,11 +5187,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "A Sea of Love"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "A Sea of Love",
@@ -5304,7 +5195,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 09: A Sea of Love",
+      "link": "https://boosty.to/spidermedia/posts/139aed1f-2ef4-4424-8b53-28b9f71fa1a2",
+      "guid": "139aed1f-2ef4-4424-8b53-28b9f71fa1a2"
     },
     {
       "id": 143,
@@ -5314,11 +5213,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Miles Morales: Shock Waves"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Miles Morales: Shock Waves",
@@ -5327,7 +5221,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 10: Miles Morales - Shock Waves",
+      "link": "https://boosty.to/spidermedia/posts/f3b0186c-68e9-4a3a-aa7e-1bf7ccacb2ab",
+      "guid": "f3b0186c-68e9-4a3a-aa7e-1bf7ccacb2ab"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-05-30",
+      "title": "Бонусная часть к утешительному чтению: Doctor Strange 2, Newburn, Stranger Things",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/3cc566df-19a0-4bf3-93bd-7f223b1ea708",
+      "guid": "3cc566df-19a0-4bf3-93bd-7f223b1ea708"
     },
     {
       "id": 144,
@@ -5337,11 +5254,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Jonna and the Unpossible Monsters"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Jonna and the Unpossible Monsters",
@@ -5350,7 +5262,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 11: Jonna and the Unpossible Monsters",
+      "link": "https://boosty.to/spidermedia/posts/63342d97-8eb8-4e97-a173-f8318e663643",
+      "guid": "63342d97-8eb8-4e97-a173-f8318e663643"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-06-08",
+      "title": "Бонусная часть к утешительному чтению: One Piece, FreakAngels, Stranger Things (опять)",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/1a6e4b95-e032-4887-8ee6-935d2a0e6d99",
+      "guid": "1a6e4b95-e032-4887-8ee6-935d2a0e6d99"
     },
     {
       "id": 145,
@@ -5360,11 +5295,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "The Sisters"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Sisters",
@@ -5373,7 +5303,45 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 12: The Sisters",
+      "link": "https://boosty.to/spidermedia/posts/4d6a8e22-7afc-4beb-8869-307f4433362f",
+      "guid": "4d6a8e22-7afc-4beb-8869-307f4433362f"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-06-28",
+      "title": "Бонусная часть к утешительному чтению: Love, Death + Robots, игровые приставки, «МИР» и хорошее кино",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/4ecbe102-a78d-44cb-8a19-ae9bae8d6d51",
+      "guid": "4ecbe102-a78d-44cb-8a19-ae9bae8d6d51"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-07-04",
+      "title": "Бонусная часть к утешительному чтению: Switch, HoMM, Макдонах и Люк Бессон",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/304f81b0-0627-46e8-b791-98a51b93c00d",
+      "guid": "304f81b0-0627-46e8-b791-98a51b93c00d"
     },
     {
       "id": 146,
@@ -5381,30 +5349,25 @@ window.__NA_PANELI_DATA__ = {
       "number": "LR13",
       "publication": "2022-07-05",
       "topics": [
-        "My Little Pony/Transformers",
-        "My Little Pony/Transformers II"
+        "My Little Pony & Transformers"
+      ],
+      "comics": [
+        {
+          "title": "My Little Pony & Transformers",
+          "rawTitle": "My Little Pony & Transformers",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        }
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "My Little Pony/Transformers",
-          "rawTitle": "My Little Pony & Transformers",
-          "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
-        },
-        {
-          "title": "My Little Pony/Transformers II",
-          "rawTitle": "My Little Pony & Transformers",
-          "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
-        }
-      ]
+      "title": "Утешительное чтение. Выпуск 13: My Little Pony / Transformers",
+      "link": "https://boosty.to/spidermedia/posts/895aa282-9f72-4e73-b8a7-273847c8399b",
+      "guid": "895aa282-9f72-4e73-b8a7-273847c8399b"
     },
     {
       "id": 147,
@@ -5414,11 +5377,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Strange Academy"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Strange Academy",
@@ -5427,7 +5385,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 14: Strange Academy",
+      "link": "https://boosty.to/spidermedia/posts/20f28e21-a103-4d04-8b7d-a97aa6c73161",
+      "guid": "20f28e21-a103-4d04-8b7d-a97aa6c73161"
     },
     {
       "id": 148,
@@ -5437,11 +5403,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "The Creepy Case Files of Margo Maloo"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Creepy Case Files of Margo Maloo",
@@ -5450,7 +5411,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 15: The Creepy Case Files of Margo Maloo",
+      "link": "https://boosty.to/spidermedia/posts/ab87fdba-f0d6-4d8d-8f9b-eb9f4cc40901",
+      "guid": "ab87fdba-f0d6-4d8d-8f9b-eb9f4cc40901"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-08-04",
+      "title": "Бонусная часть к утешительному чтению: The Boys, Umbrella Academy, Gray Man, Annapurna и последние новости",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/9192611e-1f4e-4514-bd5e-565988025538",
+      "guid": "9192611e-1f4e-4514-bd5e-565988025538"
     },
     {
       "id": 149,
@@ -5460,11 +5444,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Young Shadow"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Young Shadow",
@@ -5473,7 +5452,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 16: Young Shadow",
+      "link": "https://boosty.to/spidermedia/posts/bfab39a2-6c96-4386-a661-7da6bf15bfe9",
+      "guid": "bfab39a2-6c96-4386-a661-7da6bf15bfe9"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-08-13",
+      "title": "Бонусная часть к утешительному чтению: DCEU (опять!), MCU (опять!), Уховертка, The King's Man",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/6312dbe3-70d8-4937-9232-1eb8ac7afad9",
+      "guid": "6312dbe3-70d8-4937-9232-1eb8ac7afad9"
     },
     {
       "id": null,
@@ -5486,9 +5488,9 @@ window.__NA_PANELI_DATA__ = {
       "comment": "",
       "supportersOnly": true,
       "supportersFree": false,
-      "source": "patreon",
-      "link": "https://www.patreon.com/spidermedia/posts/spider-talk-2-70642686",
-      "guid": ""
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/16f5255e-c549-413e-ba26-91f718d2aeef",
+      "guid": "16f5255e-c549-413e-ba26-91f718d2aeef"
     },
     {
       "id": 150,
@@ -5498,11 +5500,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Nuclear Winter"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Nuclear Winter",
@@ -5511,7 +5508,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 17: Nuclear Winter",
+      "link": "https://boosty.to/spidermedia/posts/997f3081-8b92-4839-b63c-4529ec3a8034",
+      "guid": "997f3081-8b92-4839-b63c-4529ec3a8034"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-08-25",
+      "title": "Бонусная часть к утешительному чтению: Day Shift, Arthur, House of the Dragon, WestWorld, Gamescon",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/adee53f5-3a0e-49e4-b934-4ac71165cede",
+      "guid": "adee53f5-3a0e-49e4-b934-4ac71165cede"
     },
     {
       "id": 151,
@@ -5521,11 +5541,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Diana: Princess of the Amazons"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение, Live-выпуск #3",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Diana: Princess of the Amazons",
@@ -5534,7 +5549,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение, Live-выпуск #3",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 18: Diana - Princess of the Amazons",
+      "link": "https://boosty.to/spidermedia/posts/43895b28-0a33-49fa-8cbb-20720960259a",
+      "guid": "43895b28-0a33-49fa-8cbb-20720960259a"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-09-14",
+      "title": "Бонусная часть к утешительному чтению: The Rings of Power, \"Три тысячи лет желаний\", RRR, Discovery",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/43245554-9f6b-4c74-82da-6c1f9a1fddaa",
+      "guid": "43245554-9f6b-4c74-82da-6c1f9a1fddaa"
     },
     {
       "id": 152,
@@ -5544,11 +5582,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Garlic and the Vampire"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение, Live-выпуск #4",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Garlic and the Vampire",
@@ -5557,7 +5590,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение, Live-выпуск #4",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 19: Garlic and the Vampire",
+      "link": "https://boosty.to/spidermedia/posts/de0f962a-6f30-43c9-b8d1-d77548ff18d8",
+      "guid": "de0f962a-6f30-43c9-b8d1-d77548ff18d8"
     },
     {
       "id": 153,
@@ -5567,11 +5608,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "BAGS (or a story thereof)"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "BAGS (or a story thereof)",
@@ -5580,7 +5616,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 20: BAGS (or a story thereof)",
+      "link": "https://boosty.to/spidermedia/posts/71cd0f5d-90d1-417f-9d94-0aa08aa08a2c",
+      "guid": "71cd0f5d-90d1-417f-9d94-0aa08aa08a2c"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-10-18",
+      "title": "Бонусная часть к утешительному чтению: Четвёртая фаза MCU",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/253f9fe7-b055-438a-903f-369caed36fe5",
+      "guid": "253f9fe7-b055-438a-903f-369caed36fe5"
     },
     {
       "id": 154,
@@ -5589,13 +5648,8 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2022-10-21",
       "topics": [
         "The Sword of Hyperborea",
-        "The British Paranormal Society: Time Out of Mind"
+        "Time Out of Mind"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Sword of Hyperborea",
@@ -5605,13 +5659,36 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "The British Paranormal Society: Time Out of Mind",
+          "title": "Time Out of Mind",
           "rawTitle": "Time Out of Mind",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #06: The Sword of Hyperborea // Time Out of Mind",
+      "link": "https://boosty.to/spidermedia/posts/a838d969-9ff4-478c-9d6d-005e35b56d49",
+      "guid": "a838d969-9ff4-478c-9d6d-005e35b56d49"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-10-26",
+      "title": "Бонусная часть к утешительному чтению: Black Adam, The Rings of Power (опять!), House of the Dragon (опять!), Skyward Sword",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/35a4f0fe-4cee-4965-b9a6-8101f62722b1",
+      "guid": "35a4f0fe-4cee-4965-b9a6-8101f62722b1"
     },
     {
       "id": 155,
@@ -5621,11 +5698,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "It's Jeff!"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "It's Jeff!",
@@ -5634,7 +5706,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 21: It's Jeff!",
+      "link": "https://boosty.to/spidermedia/posts/11a89b60-5049-4d36-bd2e-f4db5be711f3",
+      "guid": "11a89b60-5049-4d36-bd2e-f4db5be711f3"
     },
     {
       "id": null,
@@ -5644,12 +5724,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "The Podcast of Zelda #01: Skyward Sword // The Minish Cap",
       "topics": [],
       "participants": "",
-      "comment": "",
+      "comment": "Обсуждаем игры серии The Legend of Zelda: Skyward Sword и The Minish Cap.",
       "supportersOnly": true,
       "supportersFree": false,
-      "source": "patreon",
-      "link": "https://www.patreon.com/spidermedia/posts/podcast-of-zelda-74262434",
-      "guid": ""
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/49981c37-d478-49b4-9dde-239d614748f4",
+      "guid": "49981c37-d478-49b4-9dde-239d614748f4"
     },
     {
       "id": null,
@@ -5659,12 +5739,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришел и рассказал: Deadly Class & Friday",
       "topics": [],
       "participants": "",
-      "comment": "",
+      "comment": "Обсуждаем работы мастодонтов индустрии: одна только закончилась, вторая только разгоняется.",
       "supportersOnly": true,
       "supportersFree": false,
-      "source": "patreon",
-      "link": "https://www.patreon.com/spidermedia/posts/prochiol-prishel-74438931",
-      "guid": ""
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/89d857a2-eba6-4a15-90a4-3b54ca0b5dec",
+      "guid": "89d857a2-eba6-4a15-90a4-3b54ca0b5dec"
     },
     {
       "id": 156,
@@ -5672,12 +5752,30 @@ window.__NA_PANELI_DATA__ = {
       "number": "LR22",
       "publication": "2022-11-16",
       "topics": [],
+      "comics": [],
       "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
       "comment": "Утешительное чтение",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": []
+      "title": "Утешительное чтение. Выпуск 22: Twig",
+      "link": "https://boosty.to/spidermedia/posts/474ba7da-0add-4030-bdde-fba909a8e74e",
+      "guid": "474ba7da-0add-4030-bdde-fba909a8e74e"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-11-16",
+      "title": "Бонусная часть к утешительному чтению: Wakanda Forever, God of War, SAGA",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/7b70a6e0-a311-4757-b6a6-03ed723a4cd9",
+      "guid": "7b70a6e0-a311-4757-b6a6-03ed723a4cd9"
     },
     {
       "id": 157,
@@ -5687,11 +5785,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Impel Down / Chapters #490-549"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Пять лет подкасту! (Gol D. Panels)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Impel Down / Chapters #490-549",
@@ -5701,7 +5794,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-06-part-1-impel-down"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Пять лет подкасту! (Gol D. Panels)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 158,
@@ -5711,11 +5808,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Marineford / Chapters #550-597"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Marineford / Chapters #550-597",
@@ -5725,7 +5817,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-06-part-2-marineford"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 159,
@@ -5735,11 +5831,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "The Tea Dragon Society"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Tea Dragon Society",
@@ -5748,7 +5839,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 23: The Tea Dragon Society",
+      "link": "https://boosty.to/spidermedia/posts/2b623165-1ba4-4bbd-9790-66694a78c2e5",
+      "guid": "2b623165-1ba4-4bbd-9790-66694a78c2e5"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-12-01",
+      "title": "Бонусная часть к утешительному чтению: GotG Holiday Special, Wednesday, Reckless",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/9e287385-a99d-4854-9061-676524362056",
+      "guid": "9e287385-a99d-4854-9061-676524362056"
     },
     {
       "id": 160,
@@ -5758,11 +5872,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Always Never"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Always Never",
@@ -5771,7 +5880,30 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 24: Always Never",
+      "link": "https://boosty.to/spidermedia/posts/a81221cc-37be-401f-aaef-a1ed79fa2626",
+      "guid": "a81221cc-37be-401f-aaef-a1ed79fa2626"
+    },
+    {
+      "id": null,
+      "podcast": "Бонус",
+      "number": "",
+      "publication": "2022-12-17",
+      "title": "Бонусная часть к утешительному чтению: Генри Кэвилл, Леди Чаттерлей, Марио и Хидэо Кодзима",
+      "topics": [],
+      "participants": "",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/b5b3962d-cc99-446e-a376-fc3cf1afb595",
+      "guid": "b5b3962d-cc99-446e-a376-fc3cf1afb595"
     },
     {
       "id": null,
@@ -5781,12 +5913,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "SILVERS Talk: Пятнашки, Бейсбол и Рыбалка",
       "topics": [],
       "participants": "",
-      "comment": "",
+      "comment": "Обсуждаем игры по One Piece!",
       "supportersOnly": true,
       "supportersFree": false,
-      "source": "patreon",
-      "link": "https://www.patreon.com/spidermedia/posts/silvers-talk-i-76326891",
-      "guid": ""
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/e8b8bd7a-b8ac-4939-91c7-8573efebe71a",
+      "guid": "e8b8bd7a-b8ac-4939-91c7-8573efebe71a"
     },
     {
       "id": 161,
@@ -5796,11 +5928,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Fish-Man Island / Chapters #598-653"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Fish-Man Island / Chapters #598-653",
@@ -5810,7 +5937,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-07-fish-man-island"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -5820,12 +5951,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Бонусная часть без утешительного чтения: январский спецвыпуск",
       "topics": [],
       "participants": "",
-      "comment": "Перед уходом на перерыв, мы проговорились, что что-нибудь, да запишем в январе. И мы сделали! (запись была в воскресенье, но из-за вылетов пришлось повозиться с монтажом, так что никаких впечатлений от DCU).",
+      "comment": "Cобрались поделиться последними попкультурными впечатлениями.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/e844df87-d14c-48e9-9eda-e2d07e9073da",
-      "guid": "f479aedd-b87c-4801-a859-cf3f0b835e59"
+      "guid": "e844df87-d14c-48e9-9eda-e2d07e9073da"
     },
     {
       "id": 162,
@@ -5833,43 +5964,13 @@ window.__NA_PANELI_DATA__ = {
       "number": "M7",
       "publication": "2023-02-07",
       "topics": [
-        "Hellboy and the B.P.R.D.: Night of the Cyclops",
-        "Hellboy and the B.P.R.D.: Old Man Whittier",
-        "Hellboy and the B.P.R.D.: Time Is a River",
-        "Axorr, Slayer of Demons",
+        "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
         "Radio Spaceman",
-        "Leonide the Vampyr: Miracle at the Crow's Head",
-        "Leonide the Vampyr: A Christmas for Crows"
+        "Leonide the Vampyr"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Hellboy and the B.P.R.D.: Night of the Cyclops",
-          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy and the B.P.R.D.: Old Man Whittier",
-          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy and the B.P.R.D.: Time Is a River",
-          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Axorr, Slayer of Demons",
+          "title": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
           "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -5883,20 +5984,21 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Leonide the Vampyr: Miracle at the Crow's Head",
-          "rawTitle": "Leonide the Vampyr",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Leonide the Vampyr: A Christmas for Crows",
+          "title": "Leonide the Vampyr",
           "rawTitle": "Leonide the Vampyr",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #07: Hellboy and the B.P.R.D. // Radio Spaceman // Leonide the Vampyr",
+      "link": "https://boosty.to/spidermedia/posts/793e021e-9e79-40fc-abd3-e30114ec1499",
+      "guid": "793e021e-9e79-40fc-abd3-e30114ec1499"
     },
     {
       "id": 163,
@@ -5906,11 +6008,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Pilu of the Woods"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Pilu of the Woods",
@@ -5919,7 +6016,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 25: Pilu of the Woods",
+      "link": "https://boosty.to/spidermedia/posts/85daca95-611f-427e-9e83-d42b08bd2bf4",
+      "guid": "85daca95-611f-427e-9e83-d42b08bd2bf4"
     },
     {
       "id": null,
@@ -5929,12 +6034,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть первая",
       "topics": [],
       "participants": "",
-      "comment": "Ближайшие \"бонусные\" записи курирует Стас, который стал просто неиссякаемым источником крутых спецпроектов для подкаста. Мы поговорим о лучшей штуке на свете помимо комиксов - об анимации. В каждом выпуске будет по пять проектов, вышедших или дошедших до нас в прошлом году, и первый блок целиком относится к проектам «Нетфликса», который показал себя неожиданно разнообразно и хорошо (видимо, в последний раз).",
+      "comment": "В этой части: Pinocchio, Wendell and Wild, The Sea Beast, Entergalactic и My Father's Dragon",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/19824425-490f-41aa-81ab-f6da367a26c0",
-      "guid": "c637a1d5-2cde-4403-a6aa-1376491af239"
+      "guid": "19824425-490f-41aa-81ab-f6da367a26c0"
     },
     {
       "id": 164,
@@ -5944,11 +6049,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Wayne Family Adventures"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Wayne Family Adventures",
@@ -5957,7 +6057,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 26: Wayne Family Adventures",
+      "link": "https://boosty.to/spidermedia/posts/ec1ed99b-45f4-4df7-b5b4-9a3916e61f75",
+      "guid": "ec1ed99b-45f4-4df7-b5b4-9a3916e61f75"
     },
     {
       "id": null,
@@ -5967,12 +6075,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть вторая",
       "topics": [],
       "participants": "",
-      "comment": "Во втором акте специальной серии о прошлогодних мультиках империя наносит ответный удар, и мы смотрим картины, выпущенные крупнейшими студиями. Надо ли говорить, что второй акт должен заканчиваться мрачно, а мы остаемся недовольны? Что мы думаем про большинство из этих мультиков, вы и так можете предсказать, потому что в целом мы солидарны с критикой - но спорим, вы не угадаете, как мы разошлись во мнениях по поводу некоторых релизов? По поводу других, конечно, у нас есть полное единодушие.",
+      "comment": "В этой части: Minions: Rise of Gru, Strange World, Turning Red, Luck и Puss in Boots: The Last Wish",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/e6389742-ae9e-4b4a-aab5-067580bbe8c5",
-      "guid": "af5ce01e-994b-4df4-830e-88e799f446b2"
+      "guid": "e6389742-ae9e-4b4a-aab5-067580bbe8c5"
     },
     {
       "id": null,
@@ -5982,12 +6090,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "The Podcast of Zelda #02: Four Swords // Ocarina of Time",
       "topics": [],
       "participants": "",
-      "comment": "Возвращаемся к \"Зельде\" и обсуждаем два дебюта в серии: первый мультиплеер (Four Swords) и первая 3D-игра (Ocarina of Time).",
+      "comment": "Возвращаемся к \"Зельде\" и пытаемся осознать великую и ужасную \"Окарину времени\"!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/0a396303-304a-49f0-b1ec-1af39efb5593",
-      "guid": "9f959ee6-1d2a-46e7-bb0a-846bd7615556"
+      "guid": "0a396303-304a-49f0-b1ec-1af39efb5593"
     },
     {
       "id": null,
@@ -5997,12 +6105,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Бонусная часть к утешительному чтению: Анимация 2022, часть третья",
       "topics": [],
       "participants": "",
-      "comment": "Почему в аниме стали так много петь? Кто возьмет оскар за анимационный фильм в день выхода подкаста (вы уже знаете, а мы еще не знали)? Где мы все это видели и надо ли еще раз? Как зовут того режиссера, который про красивое и грустное, но не Синкай, ну вы поняли, да? (мы вспомнили с третьей попытки)",
+      "comment": "В этой части: Apollo 10½: A Space Age Childhood, Marcel the Shell with Shoes On, Mad God, Belle и Inu-Oh",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/23269be1-53be-4935-b6e6-4714492458e9",
-      "guid": "dc0354c4-1397-4b11-a10d-6e539bd47bfa"
+      "guid": "23269be1-53be-4935-b6e6-4714492458e9"
     },
     {
       "id": 165,
@@ -6010,17 +6118,12 @@ window.__NA_PANELI_DATA__ = {
       "number": "M8",
       "publication": "2023-03-19",
       "topics": [
-        "Young Hellboy: Assault on Castle Death",
+        "Assault on Castle Death",
         "Castle Full of Blackbirds"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Young Hellboy: Assault on Castle Death",
+          "title": "Assault on Castle Death",
           "rawTitle": "Assault on Castle Death",
           "kind": "comic",
           "proposer": "Общая заявка",
@@ -6033,7 +6136,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #08: Assault on Castle Death // Castle Full of Blackbirds",
+      "link": "https://boosty.to/spidermedia/posts/079a2a1f-b707-4aec-bf71-6b0bf8df7deb",
+      "guid": "079a2a1f-b707-4aec-bf71-6b0bf8df7deb"
     },
     {
       "id": 166,
@@ -6046,11 +6157,6 @@ window.__NA_PANELI_DATA__ = {
         "Celestia",
         "Ducks: Two Years in the Oil Sands"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Do a Powerbomb!",
@@ -6081,7 +6187,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-72-neuteshytelnoe-chtenie"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 72: Неутешительное чтение",
+      "link": "https://boosty.to/spidermedia/posts/94058b60-f731-4bfd-ac07-5536fde49969",
+      "guid": "94058b60-f731-4bfd-ac07-5536fde49969"
     },
     {
       "id": 167,
@@ -6089,19 +6202,14 @@ window.__NA_PANELI_DATA__ = {
       "number": "73",
       "publication": "2023-04-12",
       "topics": [
-        "Underworld",
+        "Under-World",
         "Bliss",
         "TMNT: The Last Ronin",
         "The Many Deaths of Laila Starr"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Underworld",
+          "title": "Under-World",
           "rawTitle": "Under-World",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
@@ -6129,7 +6237,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-73-cherepahi-i-bogi"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 73: Черепахи и боги",
+      "link": "https://boosty.to/spidermedia/posts/89881d39-4749-4c2f-8d2b-a79079612be0",
+      "guid": "89881d39-4749-4c2f-8d2b-a79079612be0"
     },
     {
       "id": 168,
@@ -6137,15 +6252,9 @@ window.__NA_PANELI_DATA__ = {
       "number": "M9",
       "publication": "2023-04-20",
       "topics": [
-        "Frankenstein: New World",
-        "Sir Edward Grey: Acheron",
-        "Koshchei in Hell"
+        "Koshchei in Hell",
+        "New World"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Koshchei in Hell",
@@ -6155,20 +6264,21 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Frankenstein: New World",
+          "title": "New World",
           "rawTitle": "New World",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
-        },
-        {
-          "title": "Sir Edward Grey: Acheron",
-          "rawTitle": "Sir Edward Grey: Acheron",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #09: New World // Koshchei in Hell",
+      "link": "https://boosty.to/spidermedia/posts/7f9735aa-c839-402e-8637-f636e935173d",
+      "guid": "7f9735aa-c839-402e-8637-f636e935173d"
     },
     {
       "id": 169,
@@ -6181,11 +6291,6 @@ window.__NA_PANELI_DATA__ = {
         "Squire",
         "Step by Bloody Step"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Анонс Telegram-чата",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Orphan and the Five Beasts",
@@ -6216,7 +6321,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-74-smertelno-prekrasny"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Анонс Telegram-чата",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 74: Смертельно прекрасны",
+      "link": "https://boosty.to/spidermedia/posts/7922e2bd-8323-43a6-810c-70ffef7f59a7",
+      "guid": "7922e2bd-8323-43a6-810c-70ffef7f59a7"
     },
     {
       "id": 170,
@@ -6225,15 +6337,10 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2023-05-23",
       "topics": [
         "Did You Hear What Eddie Gein Done?",
-        "Monsters",
+        "MONSTERS",
         "I'm Still Alive",
         "The Secret to Superhuman Strength"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "75 выпусков! Live-выпуск #5 (Prestige special)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Did You Hear What Eddie Gein Done?",
@@ -6243,7 +6350,7 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Monsters",
+          "title": "MONSTERS",
           "rawTitle": "MONSTERS",
           "kind": "comic",
           "proposer": "Алексей Замский",
@@ -6264,7 +6371,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-75-dolgostroj"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "75 выпусков! Live-выпуск #5 (Prestige special)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 75: Долгострой",
+      "link": "https://boosty.to/spidermedia/posts/0e6d7397-444b-48a3-815a-8b0b039abaaf",
+      "guid": "0e6d7397-444b-48a3-815a-8b0b039abaaf"
     },
     {
       "id": 171,
@@ -6272,42 +6386,21 @@ window.__NA_PANELI_DATA__ = {
       "number": "76",
       "publication": "2023-06-15",
       "topics": [
-        "Demon Days",
-        "Demon Wars",
-        "Ant-Man",
-        "Wasp",
+        "Demon Days/Demon Wars",
+        "Ant-Man/Wasp",
         "Joe Fixit",
         "Catwoman: Lonely City"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Двойка special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Demon Days",
+          "title": "Demon Days/Demon Wars",
           "rawTitle": "Demon Days/Demon Wars",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
-          "title": "Demon Wars",
-          "rawTitle": "Demon Days/Demon Wars",
-          "kind": "comic",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Ant-Man",
-          "rawTitle": "Ant-Man/Wasp",
-          "kind": "comic",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша"
-        },
-        {
-          "title": "Wasp",
+          "title": "Ant-Man/Wasp",
           "rawTitle": "Ant-Man/Wasp",
           "kind": "comic",
           "proposer": "Алексей Замский",
@@ -6328,7 +6421,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Двойка special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 76: BG2 Narrative Experience",
+      "link": "https://boosty.to/spidermedia/posts/107df175-98f9-4e4b-800f-870e5edef7bb",
+      "guid": "107df175-98f9-4e4b-800f-870e5edef7bb"
     },
     {
       "id": null,
@@ -6338,12 +6438,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришел и рассказал: Amazing Spider-Man & Human Target",
       "topics": [],
       "participants": "",
-      "comment": "Давно не виделись! Чтобы комиксы, которые я читаю, никуда не пропадали, мы возвращаем формат, в котором обсуждаемое читал только один человек, а лучше бы не читал никто. Вот есть неофициальная рубрика \"Леша пересказывает комикс интереснее, чем он есть\", а теперь получилась рубрика \"Леша пересказывает комикс нелепее, чем он есть, но всё равно хвалит\".",
+      "comment": "Все ясно из названия!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/81ad74f0-e9a8-4ace-a01e-05405a32f4a3",
-      "guid": "3e7450ce-eb55-4c2d-81e6-59a7bd0b0b76"
+      "guid": "81ad74f0-e9a8-4ace-a01e-05405a32f4a3"
     },
     {
       "id": 172,
@@ -6353,11 +6453,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Punk Hazard / Chapters #654-699"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Punk Hazard / Chapters #654-699",
@@ -6367,7 +6462,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-1-punk-hazard"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 173,
@@ -6377,11 +6476,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Dressrosa, Act I / Chapters #700-731"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Dressrosa, Act I / Chapters #700-731",
@@ -6391,7 +6485,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-2-dressrosa-act-i"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 174,
@@ -6401,11 +6499,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Dressrosa, Act II / Chapters #732-767"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Dressrosa, Act II / Chapters #732-767",
@@ -6415,7 +6508,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-3-dressrosa-act-ii"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -6425,12 +6522,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "The Podcast of Zelda #03: A Link to the Past // Link's Awakening",
       "topics": [],
       "participants": "",
-      "comment": "У нас новый подкаст по \"Зельде\", и вам это даже не приснилось!",
+      "comment": "Возвращаемся к \"Зельде\" и погружаемся в сон в кохолинтскую ночь!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/a6a54e34-aa96-4a30-a774-58504ca25e97",
-      "guid": "3e769a25-7d99-4832-ad3d-7c94fb587437"
+      "guid": "a6a54e34-aa96-4a30-a774-58504ca25e97"
     },
     {
       "id": 175,
@@ -6438,13 +6535,9 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP13",
       "publication": "2023-07-13",
       "topics": [
-        "Dressrosa, Act III / Chapters #768-801"
+        "Dressrosa, Act III / Chapters #768-801",
+        "Gold"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Dressrosa, Act III / Chapters #768-801",
@@ -6452,9 +6545,20 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
+        },
+        {
+          "title": "Gold",
+          "rawTitle": "Gold",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-4-dressrosa-act-iii"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 176,
@@ -6467,42 +6571,44 @@ window.__NA_PANELI_DATA__ = {
         "Ultimate X-Men",
         "The Ultimates"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Нахум Альшанский",
-      "comment": "Ultimate Panels, Live-выпуск #6",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ultimate Invasion #01",
           "rawTitle": "Ultimate Invasion #01",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Spider-Man",
           "rawTitle": "Ultimate Spider-Man",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
         },
         {
           "title": "Ultimate X-Men",
           "rawTitle": "Ultimate X-Men",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
         },
         {
           "title": "The Ultimates",
           "rawTitle": "The Ultimates",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy"
+      "participants": "Станислав Шаргородский, Алексей Замский, Нахум Альшанский",
+      "comment": "Ultimate Panels, Live-выпуск #6",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Ultimate Panels (01): Good Artists Copy",
+      "link": "https://boosty.to/spidermedia/posts/a63ec3b4-476b-407e-b981-7360a40afc35",
+      "guid": "a63ec3b4-476b-407e-b981-7360a40afc35"
     },
     {
       "id": 177,
@@ -6515,11 +6621,6 @@ window.__NA_PANELI_DATA__ = {
         "Ultramega",
         "Shaolin Cowboy: Cruel to be Kin"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Djeliya",
@@ -6550,7 +6651,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-77-chetyre-vsadnika-postapokalipsisa"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 77: Четыре всадника Постапокалипсиса",
+      "link": "https://boosty.to/spidermedia/posts/b762d9df-c74b-4aac-9e0f-5e1f2bba89d6",
+      "guid": "b762d9df-c74b-4aac-9e0f-5e1f2bba89d6"
     },
     {
       "id": 178,
@@ -6558,78 +6666,33 @@ window.__NA_PANELI_DATA__ = {
       "number": "M10",
       "publication": "2023-08-07",
       "topics": [
-        "Hellboy and the B.P.R.D.: 1957 - Family Ties",
-        "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
-        "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
-        "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
-        "Hellboy and the B.P.R.D.: 1957 - From Below",
-        "Hellboy in Love: Goblin Night",
-        "Hellboy in Love: Shadow Theater",
-        "Hellboy in Love: The Key to It All"
+        "1957",
+        "Hellboy in Love"
+      ],
+      "comics": [
+        {
+          "title": "1957",
+          "rawTitle": "1957",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy in Love",
+          "rawTitle": "Hellboy in Love",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "Hellboy and the B.P.R.D.: 1957 - Family Ties",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Family Ties",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy and the B.P.R.D.: 1957 - From Below",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - From Below",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy in Love: Goblin Night",
-          "rawTitle": "Hellboy in Love: Goblin Night",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy in Love: Shadow Theater",
-          "rawTitle": "Hellboy in Love: Shadow Theater",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy in Love: The Key to It All",
-          "rawTitle": "Hellboy in Love: The Key to It All",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "title": "Amazing Screw-On Podcast #10: 1957 // Hellboy in Love",
+      "link": "https://boosty.to/spidermedia/posts/b65f5b18-13d3-4f8d-84a4-12c1ade0e33d",
+      "guid": "b65f5b18-13d3-4f8d-84a4-12c1ade0e33d"
     },
     {
       "id": 179,
@@ -6642,42 +6705,44 @@ window.__NA_PANELI_DATA__ = {
         "Ultimate Galactus Trilogy",
         "Ultimate Wolverine vs. Hulk"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Кирон Гиллен",
-      "comment": "Ultimate Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ultimate Invasion #02",
           "rawTitle": "Ultimate Invasion #02",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Fantastic Four",
           "rawTitle": "Ultimate Fantastic Four",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
         },
         {
           "title": "Ultimate Galactus Trilogy",
           "rawTitle": "Ultimate Galactus Trilogy",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
         },
         {
           "title": "Ultimate Wolverine vs. Hulk",
           "rawTitle": "Ultimate Wolverine vs. Hulk",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole"
+      "participants": "Станислав Шаргородский, Алексей Замский, Кирон Гиллен",
+      "comment": "Ultimate Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Ultimate Panels (02): Down the Rabbit Hole",
+      "link": "https://boosty.to/spidermedia/posts/1a636383-378d-4506-b9f2-be69c22b4346",
+      "guid": "1a636383-378d-4506-b9f2-be69c22b4346"
     },
     {
       "id": 180,
@@ -6690,11 +6755,6 @@ window.__NA_PANELI_DATA__ = {
         "Where Monsters Lie",
         "Hound"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Great British Bump-Off",
@@ -6725,7 +6785,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-78-temnye-loshadki"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 78: Темные лошадки",
+      "link": "https://boosty.to/spidermedia/posts/adcc1dcc-5dbf-46a2-82f6-7002a202750e",
+      "guid": "adcc1dcc-5dbf-46a2-82f6-7002a202750e"
     },
     {
       "id": 181,
@@ -6735,11 +6802,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Zou / Chapters #802-824"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Zou / Chapters #802-824",
@@ -6749,20 +6811,34 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-1-zou"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 182,
       "podcast": "Gol D. Panels",
       "number": "OP17",
       "publication": "2023-09-12",
-      "topics": [],
+      "topics": [
+        "Live-Action Series, Season 1"
+      ],
+      "comics": [
+        {
+          "title": "Live-Action Series, Season 1",
+          "rawTitle": "Live-Action Series, Season 1",
+          "kind": "series",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet",
-      "comics": []
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -6772,12 +6848,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "ХОДИЛ СМОТРЕТЬ НА РАЗДАВЛЕННЫЕ ПОМИДОРЫ",
       "topics": [],
       "participants": "",
-      "comment": "На самом деле, конечно, никуда не ходил, а смотрел дома на большом экране. Давно планировал — и давно собирался повторить трюк «Джастис Лиги», когда я пробую пересказать Никите фильм смешнее, чем он есть.",
+      "comment": "Че-то про Кризисы...",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/1787d5dd-2c71-492a-bebd-0ce01cc5c18c",
-      "guid": "c39f9fc1-6738-4f91-ba9a-8b793607b16b"
+      "guid": "1787d5dd-2c71-492a-bebd-0ce01cc5c18c"
     },
     {
       "id": 183,
@@ -6787,11 +6863,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Whole Cake Island, Part 1 / Chapters #825-859"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Whole Cake Island, Part 1 / Chapters #825-859",
@@ -6801,7 +6872,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-2-whole-cake-island-part-1"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 184,
@@ -6811,11 +6886,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Whole Cake Island, Part 2 / Chapters #860-903"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Whole Cake Island, Part 2 / Chapters #860-903",
@@ -6825,7 +6895,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-3-whole-cake-island-part-2"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 185,
@@ -6838,55 +6912,67 @@ window.__NA_PANELI_DATA__ = {
         "Ultimate Origins",
         "Ultimatum"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Энтони Оливер",
-      "comment": "Ultimate Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ultimate Invasion #03",
           "rawTitle": "Ultimate Invasion #03",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Power",
           "rawTitle": "Ultimate Power",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
         },
         {
           "title": "Ultimate Origins",
           "rawTitle": "Ultimate Origins",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
         },
         {
           "title": "Ultimatum",
           "rawTitle": "Ultimatum",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass"
+      "participants": "Станислав Шаргородский, Алексей Замский, Энтони Оливер",
+      "comment": "Ultimate Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Ultimate Panels (03): Through the Looking Glass",
+      "link": "https://boosty.to/spidermedia/posts/ceb1017c-d6b9-41a6-8517-4ae33269974b",
+      "guid": "ceb1017c-d6b9-41a6-8517-4ae33269974b"
     },
     {
       "id": 186,
       "podcast": "Gol D. Panels",
       "number": "OP18",
       "publication": "2023-10-05",
-      "topics": [],
+      "topics": [
+        "World Seeker & Odyssey"
+      ],
+      "comics": [
+        {
+          "title": "World Seeker & Odyssey",
+          "rawTitle": "World Seeker & Odyssey",
+          "kind": "videogame",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ],
       "participants": "Станислав Шаргородский, Алексей Замский, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet",
-      "comics": []
+      "source": "google-sheet"
     },
     {
       "id": 187,
@@ -6899,11 +6985,6 @@ window.__NA_PANELI_DATA__ = {
         "She-Hulk",
         "Eight Billion Genies"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Everyday Hero Machine Boy",
@@ -6934,7 +7015,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-79-zagadaj-zhelanie"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 79: Загадай желание",
+      "link": "https://boosty.to/spidermedia/posts/c554a07a-02f2-424c-8c6a-eb434815b930",
+      "guid": "c554a07a-02f2-424c-8c6a-eb434815b930"
     },
     {
       "id": 188,
@@ -6947,42 +7035,44 @@ window.__NA_PANELI_DATA__ = {
         "Ultimate Comics: Doomsday Trilogy",
         "Ultimate Comics: X"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Джин Сакаи, Сергей Мангасаров",
-      "comment": "Ultimate Panels, Live-выпуск #7",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ultimate Invasion #04",
           "rawTitle": "Ultimate Invasion #04",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: Avengers",
           "rawTitle": "Ultimate Comics: Avengers",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
         },
         {
           "title": "Ultimate Comics: Doomsday Trilogy",
           "rawTitle": "Ultimate Comics: Doomsday Trilogy",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
         },
         {
           "title": "Ultimate Comics: X",
           "rawTitle": "Ultimate Comics: X",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow"
+      "participants": "Станислав Шаргородский, Алексей Замский, Джин Сакаи, Сергей Мангасаров",
+      "comment": "Ultimate Panels, Live-выпуск #7",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Ultimate Panels (04): Yesterday, Today, Tomorrow",
+      "link": "https://boosty.to/spidermedia/posts/c879cc82-8df8-4ff8-87ff-29ece9ef54d9",
+      "guid": "c879cc82-8df8-4ff8-87ff-29ece9ef54d9"
     },
     {
       "id": 189,
@@ -6995,11 +7085,6 @@ window.__NA_PANELI_DATA__ = {
         "Batman vs. Bigby! A Wolf In Gotham",
         "Ballad for Sophie"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Immortal Sergeant",
@@ -7030,7 +7115,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-80-vspomnit-vsyo"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 80: Вспомнить всё",
+      "link": "https://boosty.to/spidermedia/posts/1efd4f78-d8fd-4860-823b-14645bac4c54",
+      "guid": "1efd4f78-d8fd-4860-823b-14645bac4c54"
     },
     {
       "id": 190,
@@ -7040,11 +7132,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Alabasta / Chapters #155-217"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Alabasta / Chapters #155-217",
@@ -7054,7 +7141,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-02-redux-part-2-alabasta"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 191,
@@ -7067,42 +7158,44 @@ window.__NA_PANELI_DATA__ = {
         "Ultimate Comics: X-Men",
         "Ultimate Comics: The Ultimates"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Том Бревурт",
-      "comment": "Ultimate Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ultimate Universe",
           "rawTitle": "Ultimate Universe",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
           "title": "Ultimate Comics: Spider-Man",
           "rawTitle": "Ultimate Comics: Spider-Man",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
         },
         {
           "title": "Ultimate Comics: X-Men",
           "rawTitle": "Ultimate Comics: X-Men",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
         },
         {
           "title": "Ultimate Comics: The Ultimates",
           "rawTitle": "Ultimate Comics: The Ultimates",
           "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade"
+      "participants": "Станислав Шаргородский, Алексей Замский, Том Бревурт",
+      "comment": "Ultimate Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Ultimate Panels (05): The World Remade",
+      "link": "https://boosty.to/spidermedia/posts/35e747b0-01a9-4c87-bd09-1f2c9896076b",
+      "guid": "35e747b0-01a9-4c87-bd09-1f2c9896076b"
     },
     {
       "id": null,
@@ -7112,12 +7205,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришел и рассказал: Eternals & Green Hell",
       "topics": [],
       "participants": "",
-      "comment": "Как вы помните, Алексей воскресил формат ППР и попросил у вас помощи с подбором комиксов на будущие выпуски. Вы, конечно, откликнулись, но поняли задание не совсем корректно. Нужны были комиксы, от которых Леша бы страдал, но потом весело бы рассказывал. Вы же предложили комиксы НОРМАЛЬНЫЕ. Что из этого вышло, узнаете из эпизода.",
+      "comment": "Алексей читает и пересказывает НОРМАЛЬНЫЕ комиксы с вашей подачи.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/8be0d6fa-90ea-4752-9da0-2cc324f1d4d5",
-      "guid": "01f9aac4-ab25-4c1d-a852-aeabc4cae8f5"
+      "guid": "8be0d6fa-90ea-4752-9da0-2cc324f1d4d5"
     },
     {
       "id": 192,
@@ -7125,30 +7218,33 @@ window.__NA_PANELI_DATA__ = {
       "number": "M11",
       "publication": "2023-11-19",
       "topics": [
-        "Panya: The Mummy's Curse",
-        "Miss Truesdale and the Fall of Hyperborea"
+        "Miss Truesdale",
+        "The Mummy's Curse"
+      ],
+      "comics": [
+        {
+          "title": "Miss Truesdale",
+          "rawTitle": "Miss Truesdale",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Mummy's Curse",
+          "rawTitle": "The Mummy's Curse",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "Panya: The Mummy's Curse",
-          "rawTitle": "Panya: The Mummy's Curse",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Miss Truesdale and the Fall of Hyperborea",
-          "rawTitle": "Miss Truesdale and the Fall of Hyperborea",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "title": "Amazing Screw-On Podcast #11: The Mummy's Curse // The Fall of Hyperborea",
+      "link": "https://boosty.to/spidermedia/posts/6c5516d5-165a-4c01-9462-2bb483f80eaa",
+      "guid": "6c5516d5-165a-4c01-9462-2bb483f80eaa"
     },
     {
       "id": 193,
@@ -7161,11 +7257,6 @@ window.__NA_PANELI_DATA__ = {
         "I Am... Iron Man",
         "Grim"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
-      "comment": "Шесть лет подкасту!",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Clobberin' Time",
@@ -7196,7 +7287,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-81-chevapchichi"
+      "participants": "Станислав Шаргородский, Алексей Замский, Александр Моисеенко",
+      "comment": "Шесть лет подкасту!",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 81: Чевапчичи",
+      "link": "https://boosty.to/spidermedia/posts/528c5429-2033-46bb-9638-f6ccd6ebbf5c",
+      "guid": "528c5429-2033-46bb-9638-f6ccd6ebbf5c"
     },
     {
       "id": null,
@@ -7206,12 +7304,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Подкаст кинокомиксов",
       "topics": [],
       "participants": "",
-      "comment": "Если вы не участвуете в нашем подкастовом внутричатовом развлечении под названием",
+      "comment": "Подкаст про турнир кинокомиксов для чата подкаста.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/1f81e528-0e4f-408a-bb8f-2880b724319f",
-      "guid": "e5e479fc-5243-4b3d-acf2-c7069001cd5c"
+      "guid": "1f81e528-0e4f-408a-bb8f-2880b724319f"
     },
     {
       "id": 194,
@@ -7219,13 +7317,9 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP20",
       "publication": "2023-11-30",
       "topics": [
-        "Wano Country, Act I / Chapters #904-924"
+        "Wano Country, Act I / Chapters #904-924",
+        "Stampede"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Wano Country, Act I / Chapters #904-924",
@@ -7233,9 +7327,20 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
+        },
+        {
+          "title": "Stampede",
+          "rawTitle": "Stampede",
+          "kind": "movie",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-1-wano-country-act-i"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 195,
@@ -7245,11 +7350,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Wano Country, Act II / Chapters #925-957"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Wano Country, Act II / Chapters #925-957",
@@ -7259,7 +7359,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-2-wano-country-act-ii"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 196,
@@ -7269,11 +7373,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Onigashima, Part 1 / Chapters #958-1000"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Onigashima, Part 1 / Chapters #958-1000",
@@ -7283,7 +7382,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-3-onigashima-part-1"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 197,
@@ -7293,11 +7396,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Onigashima, Part 2 / Chapters #1001-1036"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Onigashima, Part 2 / Chapters #1001-1036",
@@ -7307,7 +7405,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-4-onigashima-part-2"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 198,
@@ -7315,13 +7417,9 @@ window.__NA_PANELI_DATA__ = {
       "number": "OP24",
       "publication": "2023-12-29",
       "topics": [
-        "Onigashima, Part 3 / Chapters #1037-1060"
+        "Onigashima, Part 3 / Chapters #1037-1060",
+        "Red"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Onigashima, Part 3 / Chapters #1037-1060",
@@ -7329,9 +7427,20 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
+        },
+        {
+          "title": "Red",
+          "rawTitle": "Red",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-5-onigashima-part-3"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 199,
@@ -7344,11 +7453,6 @@ window.__NA_PANELI_DATA__ = {
         "Karmen",
         "The Lonesome Hunters"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Negalyod: The God Network",
@@ -7379,7 +7483,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-82-posle-smerti"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 82: После смерти",
+      "link": "https://boosty.to/spidermedia/posts/d7bccee5-f0ad-450d-8cdd-c4883c99d382",
+      "guid": "d7bccee5-f0ad-450d-8cdd-c4883c99d382"
     },
     {
       "id": null,
@@ -7389,12 +7500,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришел и рассказал: МНОГО КОМИКСОВ",
       "topics": [],
       "participants": "",
-      "comment": "Очень много комиксов в пересказе Лёши Замского. Прям очень много. Аж ВОСЕМЬ ШТУК. Правда, от вас он взял только один, и тот снова нормальный. В следующий раз точно возьмет проклятый.",
+      "comment": "Очень много комиксов в пересказе Лёши Замского",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/460d1142-06b5-47b1-896d-ba92bf8b1e60",
-      "guid": "d18be29c-a299-409b-849e-34785994fbf7"
+      "guid": "460d1142-06b5-47b1-896d-ba92bf8b1e60"
     },
     {
       "id": 200,
@@ -7404,21 +7515,20 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Monsters & Ace's Story & Shokugeki no Sanji"
       ],
-      "participants": "Станислав Шаргородский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Monsters & Ace's Story & Shokugeki no Sanji",
           "rawTitle": "Monsters & Ace's Story & Shokugeki no Sanji",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-bonus-ace-story-shokugeki-no-sanji"
+      "participants": "Станислав Шаргородский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 201,
@@ -7431,11 +7541,6 @@ window.__NA_PANELI_DATA__ = {
         "The Immortal Thor",
         "Gentlemind"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Monica",
@@ -7466,7 +7571,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-83-bessilie"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 83: Бессилие",
+      "link": "https://boosty.to/spidermedia/posts/6eb123d7-cc4d-4d66-a5f5-9532bad24719",
+      "guid": "6eb123d7-cc4d-4d66-a5f5-9532bad24719"
     },
     {
       "id": 202,
@@ -7474,20 +7586,15 @@ window.__NA_PANELI_DATA__ = {
       "number": "84",
       "publication": "2024-03-14",
       "topics": [
-        "Pink Lemonade",
+        "Punk Lemonade",
         "w0rldtr33",
         "Where Black Stars Rise",
-        "Starhenge Book One: The Dragon and the Boar"
+        "Starhenge"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Pink Lemonade",
-          "rawTitle": "Pink Lemonade",
+          "title": "Punk Lemonade",
+          "rawTitle": "Punk Lemonade",
           "kind": "comic",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
@@ -7507,14 +7614,21 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Серега"
         },
         {
-          "title": "Starhenge Book One: The Dragon and the Boar",
-          "rawTitle": "Starhenge Book One: The Dragon and the Boar",
+          "title": "Starhenge",
+          "rawTitle": "Starhenge",
           "kind": "comic",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-84-cmyk"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 84: CMYK",
+      "link": "https://boosty.to/spidermedia/posts/f4c9ba15-12c0-4838-bc79-ec1c1ddf5369",
+      "guid": "f4c9ba15-12c0-4838-bc79-ec1c1ddf5369"
     },
     {
       "id": 203,
@@ -7523,25 +7637,13 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2024-03-23",
       "topics": [
         "Giant Robot Hellboy",
-        "Hellboy: The Yule Cat",
-        "Four Gathered on Christmas Eve"
+        "Four Gathered on Christmas Eve",
+        "Web of Wyrd"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Giant Robot Hellboy",
           "rawTitle": "Giant Robot Hellboy",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Hellboy: The Yule Cat",
-          "rawTitle": "Hellboy: The Yule Cat",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -7552,8 +7654,23 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
+        },
+        {
+          "title": "Web of Wyrd",
+          "rawTitle": "Web of Wyrd",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #12: Web of Wyrd // Giant Robot Hellboy // Four Gathered",
+      "link": "https://boosty.to/spidermedia/posts/8837f26e-af4e-48fd-8dff-3cc8d3823144",
+      "guid": "8837f26e-af4e-48fd-8dff-3cc8d3823144"
     },
     {
       "id": 204,
@@ -7563,11 +7680,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Egghead, Part 1 / Chapters #1061-1088"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Egghead, Part 1 / Chapters #1061-1088",
@@ -7577,7 +7689,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-11-part-1-egghead-part-1"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": 205,
@@ -7587,11 +7703,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Суета внутри кита"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Утешительное чтение",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Суета внутри кита",
@@ -7600,7 +7711,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Утешительное чтение",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Утешительное чтение. Выпуск 27: Суета внутри кита",
+      "link": "https://boosty.to/spidermedia/posts/cb2d9374-75b0-4e98-a6e9-68f2867593e1",
+      "guid": "cb2d9374-75b0-4e98-a6e9-68f2867593e1"
     },
     {
       "id": null,
@@ -7610,12 +7729,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "The Podcast of Zelda #04: Oracle of Seasons // Oracle of Ages",
       "topics": [],
       "participants": "",
-      "comment": "Возвращение Зельдакаста спустя... 9 месяцев, дальше шутите сами!",
+      "comment": "Возвращаемся к \"Зельде\" и отправляемся в неизведанные земли!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/20c009af-9164-4b93-ad1c-ff46eb3b5bd0",
-      "guid": "d1205c8c-e2c8-42ec-839a-de62decd58af"
+      "guid": "20c009af-9164-4b93-ad1c-ff46eb3b5bd0"
     },
     {
       "id": 206,
@@ -7628,11 +7747,6 @@ window.__NA_PANELI_DATA__ = {
         "Once & Future",
         "Transformers"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Arca",
@@ -7663,7 +7777,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-85-pustoe-i-gnetushhee"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 85: Пустое и гнетущее",
+      "link": "https://boosty.to/spidermedia/posts/1de2ec74-d328-4f06-aaa2-9074adf6bc1f",
+      "guid": "1de2ec74-d328-4f06-aaa2-9074adf6bc1f"
     },
     {
       "id": null,
@@ -7673,132 +7794,132 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На (звуковых) полях»: Разговор с художником Agent of W.O.R.L.D.E. Филей Братухиным",
       "topics": [],
       "participants": "",
-      "comment": "Нас настигло возмездие – художник комикса, который мы обсуждали в прошлом выпуске, Филя Братухин, пришел к нам в подкаст пояснить за арт, обсудить с нами наши оценки его комикса и вообще поговорить о ремесле и искусстве. Мы ожидали, что нас призовут к ответу, а Филя оказался совершеннейшей булочкой с корицей. В выпуске – много мудрости о жизни комиксиста, зверские инсайды иностранной индустрии, любовь к франко-бельгийской школе и восхваление Мебиуса на все лады.",
+      "comment": "Придётся ответить за \"базар\".",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/cc65fa0c-9010-4bea-b087-5fef7ca34094",
-      "guid": "20848c94-b1d9-4d04-930f-5d884c01a827"
+      "guid": "cc65fa0c-9010-4bea-b087-5fef7ca34094"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "01.",
+      "number": "01",
       "publication": "2024-05-07",
       "title": "X-Club 01. Days of Future Past",
       "topics": [],
       "participants": "",
-      "comment": "Пару недель назад у нас возникла идея для нового совместного интерактива в чате.",
+      "comment": "Начинаем препарировать XTAS.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/f066db7e-e961-4ea9-bf8f-f8543c8c42f5",
-      "guid": "da2a25a3-3c69-4996-836f-756680c9acd6"
+      "guid": "f066db7e-e961-4ea9-bf8f-f8543c8c42f5"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "02.",
+      "number": "02",
       "publication": "2024-05-12",
       "title": "X-Club 02. Till Death Do Us Part",
       "topics": [],
       "participants": "",
-      "comment": "Посмотрели и обсудили второй сезон X-Men TAS. От окружающего его контекста (почему у него такая необычная структура) до детального препарирования каждого из эпизодов:",
+      "comment": "Погружаемся в прошлое главных героев.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/a12a2fbf-2f15-4d84-8f9e-bdd9aae1512d",
-      "guid": "cf3bb40d-0174-436e-9cad-546ba3e0c11f"
+      "guid": "a12a2fbf-2f15-4d84-8f9e-bdd9aae1512d"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "03.",
+      "number": "03",
       "publication": "2024-05-17",
       "title": "X-Club 03. The Phoenix Saga",
       "topics": [],
       "participants": "",
-      "comment": "Посмотрели и обсудили первую половину третьего сезона X-Men TAS.",
+      "comment": "Сегодня про эмоции и большую космическую птицу.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/08ca67bb-922b-4980-a31c-580129068000",
-      "guid": "bc5f63a9-d874-461a-b47a-305b1391342f"
+      "guid": "08ca67bb-922b-4980-a31c-580129068000"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "04.",
+      "number": "04",
       "publication": "2024-05-26",
       "title": "X-Club 04. The Dark Phoenix",
       "topics": [],
       "participants": "",
-      "comment": "Посмотрели и обсудили вторую половину третьего сезона X-Men TAS (по моей разбивке). Снова не обошлось без технических накладок, поэтому ~первый час будет хуже из-за проблем на моей стороне, но дальше все хорошо. Список серий, что посмотрели в этот раз:",
+      "comment": "Сегодня про сексуальность и сомнительные решения.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/68bbf35d-e4fb-43ba-87bd-c6e3c87e145a",
-      "guid": "ddc42278-deb1-4b3a-82aa-73ab5fd69b23"
+      "guid": "68bbf35d-e4fb-43ba-87bd-c6e3c87e145a"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "05.",
+      "number": "05",
       "publication": "2024-05-30",
       "title": "X-Club 05. X-Men / United / Last Stand",
       "topics": [],
       "participants": "",
-      "comment": "Участникам X-Club показалось, что одного обсуждения анимационных икс-экранизаций недостаточно, ведь в этом году на экраны возвращается и кино про любимых мутантов, поэтому по заявкам неравнодушных было принято решения расширить границы обсуждаемого и добавить в повестку еще и все кино-адаптации.",
+      "comment": "Теперь мы обсуждаем и икс-фильмы!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/0c1c5dc6-4c3a-4310-876d-aab2af324b72",
-      "guid": "065adaaa-09c8-4ad4-9918-12d049e82d38"
+      "guid": "0c1c5dc6-4c3a-4310-876d-aab2af324b72"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "06.",
+      "number": "06",
       "publication": "2024-06-03",
       "title": "X-Club 06. Beyond Good and Evil",
       "topics": [],
       "participants": "",
-      "comment": "Возвращаемся к анимационным приключениям мутантов. Посмотрели и обсудили четвертый сезон, а вместе с ним и грандиозный финал всего мультсериала... ну, или то, что должно было им стать, но \"почему-то\" не стало. Этим эпизодом мы официально добили общий хронометраж записанного в X-Club до... целых суток. Даже не знаю, стоит нас с этим поздравить или же лучше посочувствовать. В любом случае, сегодняшний список серий:",
+      "comment": "Досрочный финал мультсериала!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/efa01298-a349-4dd8-b2ab-51e202d62d41",
-      "guid": "bf5572cc-c414-4b26-ae3a-e4e74f578c33"
+      "guid": "efa01298-a349-4dd8-b2ab-51e202d62d41"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "07.",
+      "number": "07",
       "publication": "2024-06-11",
       "title": "X-Club 07. Graduation Day",
       "topics": [],
       "participants": "",
-      "comment": "У нас большое событие! Выпускной день первого класса Икс-клуба! Самый большой блок анимационного цикла позади, а значит нас ждет рефлексия по поводу пройденного пути и заключительные мысли по, без иронии, великому мультсериалу. Но чтобы подсластить эту горькую (ну ладно, bittersweet) пилюлю, мы решили завершить просмотр X-Men TAS не только пятым сезоном, но и небольшим кроссовером с мультсериалом Spider-Man TAS:",
+      "comment": "Прощай, X-Men TAS, ты был нам дорог.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/d91b22a3-646c-4a9b-a746-f60b2c87eee8",
-      "guid": "7b17a10b-e49a-44b6-b645-e5a25a43c03b"
+      "guid": "d91b22a3-646c-4a9b-a746-f60b2c87eee8"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "08.",
+      "number": "08",
       "publication": "2024-06-13",
       "title": "X-Club 08. Origins / Wolverine",
       "topics": [],
       "participants": "",
-      "comment": "У нас новый киношный мидвик, и сегодня в программе псевдо-дилогия главного героя всей кинематографической икс-вселенной. Да, мы решили идти не по порядку, но в этом, как понимаете, есть четкая логика!",
+      "comment": "Действительно ли Логан лучший в своем деле?",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/3da258c4-9adc-4a2f-a61f-d5b178553d6d",
-      "guid": "2203f9fc-b275-4e3a-b779-9ae49357a1f2"
+      "guid": "3da258c4-9adc-4a2f-a61f-d5b178553d6d"
     },
     {
       "id": 207,
@@ -7811,11 +7932,6 @@ window.__NA_PANELI_DATA__ = {
         "Abbott",
         "Black's Myth"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Constantine special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Damn Them All",
@@ -7846,22 +7962,29 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-86-bollocks"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Constantine special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 86: Bollocks",
+      "link": "https://boosty.to/spidermedia/posts/e9018b1b-4920-414c-b515-d7233da11ab7",
+      "guid": "e9018b1b-4920-414c-b515-d7233da11ab7"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "09.",
+      "number": "09",
       "publication": "2024-06-21",
       "title": "X-Club 09. The Cauldron",
       "topics": [],
       "participants": "",
-      "comment": "Икс-клуб переходит к следующей крупной главе нашей инициативы - просмотру второго мультсериала про мутантов, X-Men: Evolution:",
+      "comment": "Икс-миф, а вместе с ним и Икс-клуб эволюционирует.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/f7245074-e779-4c6d-9d4d-787f74bc2118",
-      "guid": "1f1ffae3-860c-4ad1-b9e7-330955a9e569"
+      "guid": "f7245074-e779-4c6d-9d4d-787f74bc2118"
     },
     {
       "id": null,
@@ -7871,87 +7994,87 @@ window.__NA_PANELI_DATA__ = {
       "title": "Письма от слушателей. Выпуск 01",
       "topics": [],
       "participants": "",
-      "comment": "Друзья, по многочисленным просьбам мы с Лешей отвечаем на ваши горячие вопросы, которые вы задавали нам в чате подкаста. От Джеффа Джонса до Дарк Фентези! Да, Доктор Кто тоже на месте.",
+      "comment": "AMA Панели-style",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/ec14fcd3-3ac0-4f03-818e-746844affa69",
-      "guid": "f73066d7-7f34-4921-b087-3ce645251efc"
+      "guid": "ec14fcd3-3ac0-4f03-818e-746844affa69"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "10.",
+      "number": "10",
       "publication": "2024-06-28",
       "title": "X-Club 10. Day of Reckoning",
       "topics": [],
       "participants": "",
-      "comment": "Обсудили второй сезон X-Men: Evolution. В ходе записи я понял, что мой эксперимент с \"посмотрю-ка теперь, как выглядит стриминг-версия сериала с HBO Max\" обернулась фиаско, т.к. там сериал показывается не в том порядке, как создавался - по словной традиции TAS в этом сезоне 3 серии были показаны раньше положенного, из-за чего возникли мелкие континьюти-нестыковки.",
+      "comment": "Восхищаемся эволюции мультсериала.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/2bf1fec9-5c52-45b7-b39b-0e7709b75ccd",
-      "guid": "b9e284bf-d428-459e-a835-9bceb992e50d"
+      "guid": "2bf1fec9-5c52-45b7-b39b-0e7709b75ccd"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "11.",
+      "number": "11",
       "publication": "2024-07-04",
       "title": "X-Club 11. First Class / Days of Future Past / Apocalypse",
       "topics": [],
       "participants": "",
-      "comment": "Снова X-Club, и снова X-Men... Ну как X-Men, скорее целая трилогия про то, как была сформирована концепция Людей Икс. В этот раз очередь дошла до обсуждения приквел/ребут/ориджин трилогии про мутантов:",
+      "comment": "Добрались до лучшей икс-кинотрилогии.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/18156b30-a06d-4ac7-8d9b-c73e2e174226",
-      "guid": "4d63429e-40ae-48ab-96d1-2094592658cb"
+      "guid": "18156b30-a06d-4ac7-8d9b-c73e2e174226"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "12.",
+      "number": "12",
       "publication": "2024-07-09",
       "title": "X-Club 12. Dark Horizon",
       "topics": [],
       "participants": "",
-      "comment": "Обсудили третий сезон X-Men: Evolution. (На самом деле обсудили уже и четвертый, просто выпуски сюда заливаются с двухдневной задержкой, а прям с пылу с жару в чат, куда почему-то еще кто-то не вступил).",
+      "comment": "Добрались до очередного Апокалипсиса.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/c9cff68a-444d-46d2-9e05-eaddb49f3c35",
-      "guid": "9fefff49-6be4-4298-a183-b5dd16bfbbf4"
+      "guid": "c9cff68a-444d-46d2-9e05-eaddb49f3c35"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "13.",
+      "number": "13",
       "publication": "2024-07-11",
       "title": "X-Club 13. Ascension",
       "topics": [],
       "participants": "",
-      "comment": "Завершаем второй большой анимационный блок и вместе с ним выпускаем второй класс Икс-клуба! В четвертом сезоне X-Men: Evolution всего 9 серий, но они лишь повод окинуть взглядом весь мультсериал и понять, где создатели потерпели поражения, а где добились успеха. А главное, стоит ли сожалеть о том, что его не продлили на пятый сезон, как того хотела авторская команда?",
+      "comment": "Завершаем эволюцию мутантов!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/9050a273-a540-4e50-8721-a1a178fdbc90",
-      "guid": "fff02bea-45ee-492c-9835-f6d7ffa16952"
+      "guid": "9050a273-a540-4e50-8721-a1a178fdbc90"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "14.",
+      "number": "14",
       "publication": "2024-07-13",
       "title": "X-Club 14. Dark Phoenix / New Mutants",
       "topics": [],
       "participants": "",
-      "comment": "Мы добрались до \"самого ожидаемого обсуждения\" в киношной части Икс-клуба.",
+      "comment": "Ругаем (и хвалим) экранизации великих сюжетов.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/c925fc9f-eb5b-43a3-8fe1-8b9ea0f14ad3",
-      "guid": "e770907a-8550-4557-a08c-f37b866d0769"
+      "guid": "c925fc9f-eb5b-43a3-8fe1-8b9ea0f14ad3"
     },
     {
       "id": null,
@@ -7961,27 +8084,27 @@ window.__NA_PANELI_DATA__ = {
       "title": "Письма от слушателей. Выпуск 02",
       "topics": [],
       "participants": "",
-      "comment": "Снова собрались с Лешей, чтобы обсудить разнообразные вопросы, которые вы задавали нам в чате подкаста. В этот раз в фокусе были НРИ, геймдэв и лучшие дорамы!",
+      "comment": "AMA Панели-style (2)",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/0f48b8c9-1c52-4baf-b33f-cc3ee2fc133e",
-      "guid": "1bf16561-9a2e-40f1-941f-bdccf3c0bb6e"
+      "guid": "0f48b8c9-1c52-4baf-b33f-cc3ee2fc133e"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "15.",
+      "number": "15",
       "publication": "2024-07-17",
       "title": "X-Club 15. Hindsight",
       "topics": [],
       "participants": "",
-      "comment": "Запускаем третий блок анимационной программы Икс-клуба и приступаем к самому недооцененному из всех икс-мультсериалов - Wolverine and the X-Men. В нём всего один сезон, зато полноценный, на 26 серий, поэтому обсуждать мы его будем в два захода. В этот раз смотрели:",
+      "comment": "Новый мультсериал, новые ведущие, новые впечатления!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/60e8497f-3bb3-4c4a-8987-145f63ad404e",
-      "guid": "5d6f152e-788f-4d46-85b0-65cf63c56e9d"
+      "guid": "60e8497f-3bb3-4c4a-8987-145f63ad404e"
     },
     {
       "id": null,
@@ -7991,57 +8114,57 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришёл и рассказал: Ghost Machine, ДиСи и Пауки",
       "topics": [],
       "participants": "",
-      "comment": "Возвращение регулярной (ну в планах Алексея, по крайней мере) рубрики, в которой он пересказывает плохие комиксы. А т.к. в слушателях снова я - а нынче словно Мидас, к чему бы не прикоснулся, превращается в четыречасаибольше - выпуск вышел вдвое крупнее обычного (я реально жене сказал, что эта коротенькая запись, к которой мне даже готовиться не надо, будет на пару часов).",
+      "comment": "Два выпуска ППР по цене одного",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/a7541223-e122-4a4f-b187-6b71e3a9fab7",
-      "guid": "18c75c40-d417-4d60-8572-d87bb9ff8174"
+      "guid": "a7541223-e122-4a4f-b187-6b71e3a9fab7"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "16.",
+      "number": "16",
       "publication": "2024-07-29",
       "title": "X-Club 16. Foresight",
       "topics": [],
       "participants": "",
-      "comment": "Не успели начать, как уже заканчиваем обсуждение незаслуженно забытого икс-мультсериала - Wolverine and the X-Men. Сегодня в программе вторая половина единственного сезона:",
+      "comment": "Прощаемся с Людьми Икс Росомахи!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/dbd075d6-b127-4815-a29f-61d77251cad3",
-      "guid": "b5e1e99f-a6e2-4d25-946f-f0b502d776a5"
+      "guid": "dbd075d6-b127-4815-a29f-61d77251cad3"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "17.",
+      "number": "17",
       "publication": "2024-08-02",
       "title": "X-Club 17. Deadpool / Deadpool 2 / Logan",
       "topics": [],
       "participants": "",
-      "comment": "Последняя остановка киношной части Икс-клуба перед большой премьерой этого года, которую обсудим уже совсем скоро.",
+      "comment": "Сегодня будет очень смешно и очень грустно!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/ac760472-a21e-4943-8f62-be8f4dd40ee3",
-      "guid": "b0b0c8b0-6c28-4aa5-a365-a9f3ba82a7ad"
+      "guid": "ac760472-a21e-4943-8f62-be8f4dd40ee3"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "18.",
+      "number": "18",
       "publication": "2024-08-07",
       "title": "X-Club 18. Hell Road",
       "topics": [],
       "participants": "",
-      "comment": "Выходим на финишную прямую пересмотра икс-экранизаций. Перед двойным гранд-финалом, посвященным уже делам сегодняшнего дня внезапно, посещаем Японию, откуда родом занятный феномен под названием Marvel Anime.",
+      "comment": "Wolverine meets Anime",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/16ce5892-811b-4bc7-9b1f-eb66d6c55141",
-      "guid": "529b5bfa-13f5-4cdd-a4a2-a3b0db55f20c"
+      "guid": "16ce5892-811b-4bc7-9b1f-eb66d6c55141"
     },
     {
       "id": 208,
@@ -8054,11 +8177,6 @@ window.__NA_PANELI_DATA__ = {
         "Briar",
         "Bloodrik"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Our Bones Dust",
@@ -8089,67 +8207,74 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-87-budnichnyj-kannibalizm"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 87: Будничный каннибализм",
+      "link": "https://boosty.to/spidermedia/posts/75fe0397-deb9-46f9-b6c6-a7b46ce84df6",
+      "guid": "75fe0397-deb9-46f9-b6c6-a7b46ce84df6"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "19.",
+      "number": "19",
       "publication": "2024-08-13",
       "title": "X-Club 19. Secondary Mutation",
       "topics": [],
       "participants": "",
-      "comment": "Заканчиваем японские приключения Икс-клуба куда более занимательным проектом. Сменяем соло-экранизацию на командную и смотрим целиком X-Men Anime.",
+      "comment": "Смотрим Astonishing X-Men Уоррена Эллиса",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/fa58817a-9e01-455d-b97d-92b6a15970ac",
-      "guid": "c1ad2904-ee82-467d-b092-aa59f9a09e26"
+      "guid": "fa58817a-9e01-455d-b97d-92b6a15970ac"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "20.",
+      "number": "20",
       "publication": "2024-08-15",
       "title": "X-Club 20. Deadpool & Wolverine",
       "topics": [],
       "participants": "",
-      "comment": "THIS IS IT.",
+      "comment": "LET'S FUCKING GO!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/634c1256-3515-4dea-94df-d8e47d672a20",
-      "guid": "9e114a47-47ef-453b-8d97-59150c44eacb"
+      "guid": "634c1256-3515-4dea-94df-d8e47d672a20"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "21.",
+      "number": "21",
       "publication": "2024-08-26",
       "title": "X-Club 21. Remember It",
       "topics": [],
       "participants": "",
-      "comment": "Как гласит народная мудрость, \"если не можете обсудить один сезон мультсериала про Людей Икс за пять с половиной часов, то обсуждайте его одиннадцать\".",
+      "comment": "За выпуск обсудить X-Men '97 не смогли",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/e5e96fa6-ebd7-4ecd-aefc-0f6a6c311a76",
-      "guid": "f30f209d-55a4-4d85-93fb-ca1f7331260e"
+      "guid": "e5e96fa6-ebd7-4ecd-aefc-0f6a6c311a76"
     },
     {
       "id": null,
       "podcast": "X-Club",
-      "number": "22.",
+      "number": "22",
       "publication": "2024-08-27",
       "title": "X-Club 22. Tolerance Is Extinction",
       "topics": [],
       "participants": "",
-      "comment": "Теперь точно финал.",
+      "comment": "THIS IS THE END",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/6d0e06dd-3387-4ca5-8787-e986986fd620",
-      "guid": "eadcfc27-d6e0-40bc-b1cf-619908b3e6f4"
+      "guid": "6d0e06dd-3387-4ca5-8787-e986986fd620"
     },
     {
       "id": null,
@@ -8159,25 +8284,46 @@ window.__NA_PANELI_DATA__ = {
       "title": "The Podcast of Zelda #05: A Link Between Worlds // Tri Force Heroes",
       "topics": [],
       "participants": "",
-      "comment": "Скоро выйдет новая \"Зельда\", и в честь этого держите новый выпуск!",
+      "comment": "Легенда о Зельде, а в центре внимания - две другие принцессы!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/effd9874-b6aa-4c78-a526-eba15b5ef90a",
-      "guid": "fdf160c8-724a-413b-ad4f-0f8caa984317"
+      "guid": "effd9874-b6aa-4c78-a526-eba15b5ef90a"
     },
     {
       "id": 209,
       "podcast": "ASOP",
       "number": "M13",
       "publication": "2024-09-24",
-      "topics": [],
+      "topics": [
+        "Rise of the Blood Queen",
+        "The Crooked Man"
+      ],
+      "comics": [
+        {
+          "title": "Rise of the Blood Queen",
+          "rawTitle": "Rise of the Blood Queen",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Crooked Man",
+          "rawTitle": "The Crooked Man",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": []
+      "title": "Amazing Screw-On Podcast #13: Rise of the Blood Queen // The Crooked Man",
+      "link": "https://boosty.to/spidermedia/posts/e44762b0-c43e-4ca4-a0ed-b994ea520caf",
+      "guid": "e44762b0-c43e-4ca4-a0ed-b994ea520caf"
     },
     {
       "id": 210,
@@ -8190,11 +8336,6 @@ window.__NA_PANELI_DATA__ = {
         "The Me You Love in the Dark",
         "Faceless and the Family"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Grip of the Kombinat",
@@ -8225,7 +8366,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-88-perevernut-nastoyashhee"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 88: Перевернуть настоящее",
+      "link": "https://boosty.to/spidermedia/posts/8e199094-4735-42fc-86f3-0a69580cb591",
+      "guid": "8e199094-4735-42fc-86f3-0a69580cb591"
     },
     {
       "id": 211,
@@ -8238,11 +8386,6 @@ window.__NA_PANELI_DATA__ = {
         "A Sister",
         "PeePee PooPoo"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Highbrow special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "It's Lonely at the Centre of the Earth",
@@ -8273,7 +8416,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-89-nagoj-snobizm"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Highbrow special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 89: Нагой снобизм",
+      "link": "https://boosty.to/spidermedia/posts/9cf16836-366f-41b2-9305-be9940bff4ab",
+      "guid": "9cf16836-366f-41b2-9305-be9940bff4ab"
     },
     {
       "id": null,
@@ -8283,12 +8433,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "The Podcast of Zelda #06: Echoes of Wisdom // The Hyrule Fantasy",
       "topics": [],
       "participants": "",
-      "comment": "Первый и, возможно, последний актуальный выпуск этого подкаста.",
+      "comment": "Первая и последняя \"Зельда\"!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/1c2cf005-e632-459e-8bf7-80640ffcb1b7",
-      "guid": "c44883a7-3d3d-4979-ab87-5a885f090ffe"
+      "guid": "1c2cf005-e632-459e-8bf7-80640ffcb1b7"
     },
     {
       "id": 212,
@@ -8298,11 +8448,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Egghead, Part 2 / Chapters #1089-1126"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
-      "comment": "Gol D. Panels",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Egghead, Part 2 / Chapters #1089-1126",
@@ -8312,7 +8457,11 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/gol-d.-panels.-saga-11-part-2-egghead-part-2"
+      "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
+      "comment": "Gol D. Panels",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet"
     },
     {
       "id": null,
@@ -8322,12 +8471,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришёл и рассказал: финалы, ретконы и элсворлды",
       "topics": [],
       "participants": "",
-      "comment": "Признавайтесь, ведь вы давно ждали, как Леша завершит свою эпопею с пересказом всего рана Зэба Уэллса на \"Пауке\", и вот финальный эпизод!",
+      "comment": "Страдания в прямом эфире",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/0a007056-c741-4073-a0e5-05f1731ba542",
-      "guid": "5649500f-7d57-4421-8b67-cdc32f7f3834"
+      "guid": "0a007056-c741-4073-a0e5-05f1731ba542"
     },
     {
       "id": 213,
@@ -8339,11 +8488,6 @@ window.__NA_PANELI_DATA__ = {
         "The Proteus Club",
         "The Goddess of Manhattan"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "A Plague of Wasps",
@@ -8366,7 +8510,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #14: A Plague of Wasps // The Proteus Club // The Goddess of Manhattan",
+      "link": "https://boosty.to/spidermedia/posts/f692bc29-a90a-4caf-a225-741a12df5ebd",
+      "guid": "f692bc29-a90a-4caf-a225-741a12df5ebd"
     },
     {
       "id": 214,
@@ -8379,11 +8531,6 @@ window.__NA_PANELI_DATA__ = {
         "Where The Body Was",
         "Houses of the Unholy"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Brullips special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Pulp",
@@ -8414,7 +8561,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-90-aeroportnoe-chtivo"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Brullips special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 90: Аэропортное чтиво",
+      "link": "https://boosty.to/spidermedia/posts/d1a23953-d83a-450b-8beb-50897d626b61",
+      "guid": "d1a23953-d83a-450b-8beb-50897d626b61"
     },
     {
       "id": 215,
@@ -8424,11 +8578,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Lore Olympus"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Lore Olympus special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Lore Olympus",
@@ -8438,7 +8587,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-91-lore-olympus"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Lore Olympus special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 91: Lore Olympus",
+      "link": "https://boosty.to/spidermedia/posts/fc95b1f4-d80d-4ffc-9b98-53be37a94fe2",
+      "guid": "fc95b1f4-d80d-4ffc-9b98-53be37a94fe2"
     },
     {
       "id": 216,
@@ -8451,11 +8607,6 @@ window.__NA_PANELI_DATA__ = {
         "Aion",
         "In Utero"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Final Cut",
@@ -8486,7 +8637,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-92-debri-podsoznaniya"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 92: Дебри подсознания",
+      "link": "https://boosty.to/spidermedia/posts/11232cec-1556-451e-ab2a-980d179ee51b",
+      "guid": "11232cec-1556-451e-ab2a-980d179ee51b"
     },
     {
       "id": 217,
@@ -8499,11 +8657,6 @@ window.__NA_PANELI_DATA__ = {
         "Action Philosophers",
         "Scurvy Dogs"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Пыльник special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Nextwave: Agents of H.A.T.E.",
@@ -8534,7 +8687,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-93-naftalinnyj-yumor"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Пыльник special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 93: Нафталинный юмор",
+      "link": "https://boosty.to/spidermedia/posts/e274118a-a139-4cb7-be56-f6e0166a0c69",
+      "guid": "e274118a-a139-4cb7-be56-f6e0166a0c69"
     },
     {
       "id": null,
@@ -8544,12 +8704,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришёл и рассказал: All-Things DSTLRY",
       "topics": [],
       "participants": "",
-      "comment": "Впервые в ваших наушниках - кроссовер ППР и регулярных \"Панелей\".",
+      "comment": "Тай-ин к регулярному подкасту!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/8c173157-5932-4ab8-926b-f076ea12e009",
-      "guid": "19fd5ac6-99d8-4a5b-bdac-cca882058153"
+      "guid": "8c173157-5932-4ab8-926b-f076ea12e009"
     },
     {
       "id": 218,
@@ -8562,11 +8722,6 @@ window.__NA_PANELI_DATA__ = {
         "Blasfamous",
         "Spectregraph"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "DSTLRY special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Gone",
@@ -8597,7 +8752,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-94-distilleriya"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "DSTLRY special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 94: Дистиллерия",
+      "link": "https://boosty.to/spidermedia/posts/93038df3-dfd1-4018-b0c4-0cc12f2cba79",
+      "guid": "93038df3-dfd1-4018-b0c4-0cc12f2cba79"
     },
     {
       "id": 219,
@@ -8605,46 +8767,33 @@ window.__NA_PANELI_DATA__ = {
       "number": "M15",
       "publication": "2025-03-26",
       "topics": [
-        "Hellboy: The Fortune Teller",
-        "Koshchei in Hell",
-        "The Serpent in the Garden: Ed Grey and the Last Battle for England",
-        "Bowling with Corpses and Other Strange Tales from Lands Unknown"
+        "The Serpent in the Garden",
+        "Bowling with Corpses"
+      ],
+      "comics": [
+        {
+          "title": "The Serpent in the Garden",
+          "rawTitle": "The Serpent in the Garden",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Bowling with Corpses",
+          "rawTitle": "Bowling with Corpses",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "Hellboy: The Fortune Teller",
-          "rawTitle": "Hellboy: The Fortune Teller",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Koshchei in Hell",
-          "rawTitle": "Koshchei in Hell",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "The Serpent in the Garden: Ed Grey and the Last Battle for England",
-          "rawTitle": "The Serpent in the Garden: Ed Grey and the Last Battle for England",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Bowling with Corpses and Other Strange Tales from Lands Unknown",
-          "rawTitle": "Bowling with Corpses and Other Strange Tales from Lands Unknown",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "title": "Amazing Screw-On Podcast #15: The Serpent in the Garden // Bowling with Corpses",
+      "link": "https://boosty.to/spidermedia/posts/87b71975-2cb0-4771-86e0-cb58f6d8ac85",
+      "guid": "87b71975-2cb0-4771-86e0-cb58f6d8ac85"
     },
     {
       "id": 220,
@@ -8656,11 +8805,6 @@ window.__NA_PANELI_DATA__ = {
         "Liberty Meadows",
         "Ms. Marvel"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Донаторский special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Prophet",
@@ -8684,7 +8828,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Серега"
         }
       ],
-      "link": "https://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-11-vozvrashhenie"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Донаторский special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На пыльных панелях». Выпуск 11: Возвращение",
+      "link": "https://boosty.to/spidermedia/posts/7086664f-fe7c-48ad-b22c-ae7a197b0af1",
+      "guid": "7086664f-fe7c-48ad-b22c-ae7a197b0af1"
     },
     {
       "id": null,
@@ -8694,12 +8845,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Тула LIVE: Embrace Your Inner Fanperson на примере One Piece Fan Letter",
       "topics": [],
       "participants": "",
-      "comment": "Первый из двух часовых блоков, которыми мы разбавили обсуждение комиксов в Туле. Официально у него следующее описание:",
+      "comment": "Продолжаем выкладывать тульские приключения",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/550ec767-3c18-4c75-9f67-f2be3513f940",
-      "guid": "d8742338-88db-40cd-b842-4bc1f7b2fcad"
+      "guid": "550ec767-3c18-4c75-9f67-f2be3513f940"
     },
     {
       "id": null,
@@ -8709,12 +8860,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Тула LIVE: Метатекст моя отсылка елы-палы лес густой",
       "topics": [],
       "participants": "",
-      "comment": "Второй из двух часовых блоков, которыми мы разбавили обсуждение комиксов в Туле. Официально у него следующее описание:",
+      "comment": "Завершаем выкладывать тульские приключения",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/9835de5e-56f8-4498-b8ed-d66caab01933",
-      "guid": "d34c256a-1f46-49ce-932f-b277560c1e54"
+      "guid": "9835de5e-56f8-4498-b8ed-d66caab01933"
     },
     {
       "id": 221,
@@ -8727,11 +8878,6 @@ window.__NA_PANELI_DATA__ = {
         "The Cull",
         "Kroma"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Spectators",
@@ -8762,7 +8908,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-95-podtekst-dlya-trusov"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 95: Подтекст для трусов",
+      "link": "https://boosty.to/spidermedia/posts/8cf0cd8b-c177-45e2-9250-47078bc0c237",
+      "guid": "8cf0cd8b-c177-45e2-9250-47078bc0c237"
     },
     {
       "id": null,
@@ -8772,12 +8925,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 1: Вальдшнепы",
       "topics": [],
       "participants": "",
-      "comment": "Привет, это наш новый патреонный сериал, разговор с продолжением, в котором я сбивчиво и отвлекаясь рассказываю всё, что знаю о том, как мы читаем, понимаем прочитанное и что гуманитаристика знает на эту тему. Собеседнику – в этот раз это Серега – остается только поддакивать.",
+      "comment": "Новый подкастовый цикл Леши",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/4d6d9d7c-7183-4881-8718-647600866857",
-      "guid": "88731f05-ad69-4fac-8544-9058196a8890"
+      "guid": "4d6d9d7c-7183-4881-8718-647600866857"
     },
     {
       "id": null,
@@ -8787,12 +8940,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 2: Смерть",
       "topics": [],
       "participants": "",
-      "comment": "Самое ужасное в мини-лекционном формате: я сейчас, только вот закончив запись выпуска и сочиняя к нему подводку, понимаю, как надо было всё это получше объяснять и что говорить. И еще – с чего надо начать следующий выпуск, а ведь к моменту его записи я уже или забуду, или буду другим человеком, или еще что.",
+      "comment": "В программе история философии XX века, шутки про французов и отличия франкфуртской школы от постмодернистов.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/a1669f57-2b36-4230-94e7-c4acc341422c",
-      "guid": "465aaebe-aa15-4383-8faf-94d5c124444c"
+      "guid": "a1669f57-2b36-4230-94e7-c4acc341422c"
     },
     {
       "id": 222,
@@ -8801,15 +8954,10 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2025-05-22",
       "topics": [
         "Не-живые",
-        "Inside the Mind of Sherlock Holmes",
-        "Hound Dog",
+        "В голове Шерлока Холмса",
+        "Гончий пёс",
         "Туннели"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Тула LIVE special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Не-живые",
@@ -8819,15 +8967,15 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Inside the Mind of Sherlock Holmes",
-          "rawTitle": "Inside the Mind of Sherlock Holmes",
+          "title": "В голове Шерлока Холмса",
+          "rawTitle": "В голове Шерлока Холмса",
           "kind": "comic",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
         },
         {
-          "title": "Hound Dog",
-          "rawTitle": "Hound Dog",
+          "title": "Гончий пёс",
+          "rawTitle": "Гончий пёс",
           "kind": "comic",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега"
@@ -8840,7 +8988,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Слушатели"
         }
       ],
-      "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-96-big-in-tula"
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Тула LIVE special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 96: Big in Tula",
+      "link": "https://boosty.to/spidermedia/posts/49b91f34-a1e9-44a7-89f4-65f734d48e82",
+      "guid": "49b91f34-a1e9-44a7-89f4-65f734d48e82"
     },
     {
       "id": null,
@@ -8850,12 +9005,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 25.06.25 • Ненужный ребут",
       "topics": [],
       "participants": "",
-      "comment": "В кино одни ребуты и ремейки, в комиксах постоянные откаты к старым канонам и ежегодные перезапуски одних и тех же серий – где новые идеи?!",
+      "comment": "Камбэк легендарной рубрики в виде подкаста. День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/6349158f-6503-4d42-85d8-e8bba21a1f98",
-      "guid": "9056388a-119f-4ca4-af0a-1266c9e37eda"
+      "guid": "6349158f-6503-4d42-85d8-e8bba21a1f98"
     },
     {
       "id": null,
@@ -8865,12 +9020,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 3: пост пост",
       "topics": [],
       "participants": "",
-      "comment": "Что я хотел сказать, когда написал \"в следующий раз будет про наследство\"? Вот и иллюстрация тому, почему ни один из циклов статей на Патреоне так и не был закончен. Твоя жизнь, когда от архетипа рассеянного профессора взял только прилагательное.",
+      "comment": "В программе постмодернизм, биф с научными исследователями комиксов и ответы на вопросы слушателей.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/866d193a-e409-4963-9377-00de9aa90361",
-      "guid": "f51c0d16-bc88-483c-a993-a2825f6d392b"
+      "guid": "866d193a-e409-4963-9377-00de9aa90361"
     },
     {
       "id": 223,
@@ -8878,18 +9033,13 @@ window.__NA_PANELI_DATA__ = {
       "number": "M16",
       "publication": "2025-07-03",
       "topics": [
-        "Frankenstein: New World—The Sea of Forever",
+        "The Sea of Forever",
         "Shadow of the Golden Crane"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский",
-      "comment": "Amazing Screw-On Podcast",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
-          "title": "Frankenstein: New World—The Sea of Forever",
-          "rawTitle": "Frankenstein: New World—The Sea of Forever",
+          "title": "The Sea of Forever",
+          "rawTitle": "The Sea of Forever",
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
@@ -8901,7 +9051,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #16: The Sea of Forever // Shadow of the Golden Crane",
+      "link": "https://boosty.to/spidermedia/posts/7d348724-57ed-4d4d-af5a-492c01aa6d97",
+      "guid": "7d348724-57ed-4d4d-af5a-492c01aa6d97"
     },
     {
       "id": null,
@@ -8911,12 +9069,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 09.07.25 • Пляжный спецвыпуск",
       "topics": [],
       "participants": "",
-      "comment": "Только Ситхи возводят всё в абсолют – ну и Джейсон Аарон в серии Absolute Superman. Но ведущим нравится! Что ещё им нравится, а что вызывает вопрос «Зачем я это читаю», Женя, Лёша и Серёга рассказывают в новом выпуске подкаста «ДЕНЬ НОВЫХ КОМИКСОВ»! Почему Марк Миллар не менее влиятельный автор, чем Алан Мур; как в серии Лило и Ститча организовали самый дерзкий побег из тюрьмы в истории и зачем на самом деле Мстители фоткаются полуголыми – вопросы, которые вы бы никогда не задали, но у нас есть все ответы!",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/dca6c6c0-1265-4879-b19d-ae001fceb51d",
-      "guid": "42d9b2b2-dcec-4657-b069-0cd323a9bcf1"
+      "guid": "dca6c6c0-1265-4879-b19d-ae001fceb51d"
     },
     {
       "id": null,
@@ -8926,12 +9084,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 4: проблема",
       "topics": [],
       "participants": "",
-      "comment": "Тренировки на ушах патронов продолжаются — я все еще не чувствую, что мы готовы для прямых эфиров, тем более когда одному из ведущих реально бывают нужны паузы, чтобы собраться с мыслями. Так бывает, когда толком не готовишься к эфиру, а вместо этого пересматриваешь любимые вестерны.",
+      "comment": "В программе проблема определения жанра и «процесс» в искусстве.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/b27171f8-94cb-4cb7-afdc-46ed4e0efde2",
-      "guid": "70e8dd97-f494-4562-a87f-1c5822357c66"
+      "guid": "b27171f8-94cb-4cb7-afdc-46ed4e0efde2"
     },
     {
       "id": null,
@@ -8941,12 +9099,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 23.07.25 • Коллективный иск",
       "topics": [],
       "participants": "",
-      "comment": "Как там дела у Супермена и Лекса Лютора? А у Человека-Паука и Нормана Озборна? Можно не читать – мы расскажем! В новом подкасте «ДЕНЬ НОВЫХ КОМИКСОВ» Женя, Лёша и Сергей обнаруживают, что круче хай-концептов Ice Cream Man только Fortnite от Джеймса Тайниона, помериться силами с Годзиллой может лишь обычный парень из Америки, а мировую культуру скоро захватит киновселенная Спауна. Среда, что ещё сказать!",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/0add1490-f560-4855-a0bd-70695c50cfe1",
-      "guid": "8f8fd34e-9308-442b-b6cc-ec4f5054e6a9"
+      "guid": "0add1490-f560-4855-a0bd-70695c50cfe1"
     },
     {
       "id": null,
@@ -8956,12 +9114,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 30.07.25 • Осуждение Айснеров",
       "topics": [],
       "participants": "",
-      "comment": "Подкаст «ДЕНЬ НОВЫХ КОМИКСОВ» возвращается на неделю раньше с важной задачей: разобраться, правильно ли раздали премию Айснера. Есть вопросики! Помимо того, даже в пятую среду месяца Женя, Лёша и Сергей найдут, что обсудить из новых релизов. Чем привлекает новый Бэтмен от Джефа Лоэба? (не тот, другой) Кто был самым популярным злодеем в «Гаргульях»? (мнения разделились) С кем судится Годзилла? (вы не поверите) Про что всё-таки комикс I, Tyrant??? (это важно) ДНК даёт повод задуматься!",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/44c19d2c-9c77-42f1-aacb-9a8d6f26e7d0",
-      "guid": "6d48d706-b25b-4d6c-9ec5-659ef2f5f362"
+      "guid": "44c19d2c-9c77-42f1-aacb-9a8d6f26e7d0"
     },
     {
       "id": null,
@@ -8971,12 +9129,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 5: не специалист",
       "topics": [],
       "participants": "",
-      "comment": "Ведущий позорится на весь интернет и, уверенным голосом размывая границу между тем, в чем он разбирается, и тем, о чем он только имеет смутное представление, рассуждает о мифах, современной корпоративной культуре и границах понятия «Супергерой». А что! О волшебных корнях исторической сказки сейчас даже политологи высказываются, не то что комикс-критики. Что дальше? Рассуждения о том, почему раз у протестантов нет икон, то они и в супергероях не разбираются? Вы не поверите, и это тоже.",
+      "comment": "В программе мифы, современная корпоративная культура и границы понятия «Супергерой».",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/4980eb4b-0300-43f4-8f68-f08556d12253",
-      "guid": "70f5705f-00a8-4a3e-a607-aae01369542a"
+      "guid": "4980eb4b-0300-43f4-8f68-f08556d12253"
     },
     {
       "id": null,
@@ -8986,12 +9144,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 13.08.25 • Сброс нумерации",
       "topics": [],
       "participants": "",
-      "comment": "ДЕНЬ НОВЫХ КОМИКСОВ подкрался незаметно и подарил немало сюрпризов: Бэтмен нас газлайтит, Том Кинг работает для детей, Джейсон Аарон внезапно пишет про дядюшку Скруджа, а Valiant волевым решением перезапускает вообще всю вселенную. Но Женя, Лёша и Серёга ко всему готовы – наш подкаст активно рекомендует самые крутые комиксы и предупреждает, какие серии лучше обойти стороной.",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/d896b2fa-26ec-42f8-8eaa-6e60f8c983b0",
-      "guid": "9f3217b6-d58b-4603-9af4-66b0c63f6647"
+      "guid": "d896b2fa-26ec-42f8-8eaa-6e60f8c983b0"
     },
     {
       "id": null,
@@ -9001,12 +9159,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 03.09.25 • Мрачное переосмысление Нафани",
       "topics": [],
       "participants": "",
-      "comment": "Пережили мемы – заслужили подкаст. Да, мы решили, что в нашей вселенной именно сегодня ДЕНЬ НОВЫХ КОМИКСОВ! Женя, Лёша и присоединившийся к ним Стас ищут в невзрачной на вид неделе алмазы… и даже что-то находят! Обсуждаем триллер о рэп-индустрии с подозрительно знакомыми личностями, восхищаемся задорным постапоком от дочери Джеффа Дэрроу, абсолютно не понимаем Зелёного Фонаря и сходим с ума, пытаясь осмыслить новые приключения героев мультиков 80-х и драму семьи Веномов. Только в комиксах!",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/1b2e1158-87c4-4bff-a2c1-917395f5bc47",
-      "guid": "c3f8ec68-1c0e-47e5-91db-a22199f18d3d"
+      "guid": "1b2e1158-87c4-4bff-a2c1-917395f5bc47"
     },
     {
       "id": 224,
@@ -9016,11 +9174,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Dr. Werthless"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Dr. Werthless",
@@ -9029,7 +9182,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях. Лайт». Выпуск 01: Dr. Werthless",
+      "link": "https://boosty.to/spidermedia/posts/4d1d52aa-b6f0-4162-b4ac-f1c4a435fd84",
+      "guid": "4d1d52aa-b6f0-4162-b4ac-f1c4a435fd84"
     },
     {
       "id": null,
@@ -9039,12 +9200,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 24.09.25 • ТРЕТИЙ МАСТРИД",
       "topics": [],
       "participants": "",
-      "comment": "Подкаст ДЕНЬ НОВЫХ КОМИКСОВ встречает осень! Женя, Лёша и Серёга с каждой минутой становятся всё бодрее и смешливее, отвечая на главные вопросы сентября: откуда столько золота в «Супермене» Дэна Слотта? Что делает Красная Фурия в серии издательства Mad Cave? О чём всё-таки I, Tyrant? Реально ли хороший новый онгоинг про Мышей-рокеров с Марса? И почему всё это важно, если выходит НОВЫЙ КОМИКС ПРО УЛИЧНЫХ АКУЛ???",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/7d1f3f51-7b12-4076-8abd-d1dec062d194",
-      "guid": "ee3982cc-8983-42e7-88d3-529ebc86409e"
+      "guid": "7d1f3f51-7b12-4076-8abd-d1dec062d194"
     },
     {
       "id": null,
@@ -9054,12 +9215,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 15.10.25 • ХО-ХО-ХОРРОР",
       "topics": [],
       "participants": "",
-      "comment": "Подкаст «ДЕНЬ НОВЫХ КОМИКСОВ» пробует другой формат, но с тем же задором! Женя, Лёша и Серёга делают всё, что любят: обсуждают анонсы с Нью-Йорка, ищут интересные релизы и с разным уровнем энтузиазма пересказывают прочитанное. В этот раз поговорим про Силксонг, женщин в купальниках, Хартстоун и капитализм в Аду. При чём тут комиксы? А вы послушайте!",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/d630f0ae-e62b-47b5-bbaa-24c93e9c6efa",
-      "guid": "30e43134-9f01-4a01-82d4-da9f938c088f"
+      "guid": "d630f0ae-e62b-47b5-bbaa-24c93e9c6efa"
     },
     {
       "id": 225,
@@ -9069,11 +9230,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Feeding Ghosts: A Graphic Memoir"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Feeding Ghosts: A Graphic Memoir",
@@ -9082,7 +9238,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях. Лайт». Выпуск 02: Feeding Ghosts",
+      "link": "https://boosty.to/spidermedia/posts/6a85386b-d2a4-441b-b3f1-e9ca3c293645",
+      "guid": "6a85386b-d2a4-441b-b3f1-e9ca3c293645"
     },
     {
       "id": null,
@@ -9092,12 +9256,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 29.10.25 • Год первый",
       "topics": [],
       "participants": "",
-      "comment": "Даже в пятую среду месяца Женя, Лёша и Серёга нашли, на что пожаловаться. Новый выпуск подкаста «ДЕНЬ НОВЫХ КОМИКСОВ» отчаянно спойлерит серию про Бэтмена и Робина от Марка Уэйда и Криса Самни, космический мини-эпик Imperial от Джонатана Хикмана и убийство Серебряного Серфёра Грегом Паком, а также пытается понять, что такое Rocketfellers, зачем сиквелы комиксу Beauty и фильму «Сонная лощина» и почему у серии Nights много выпусков и преданная фанбаза, если её никто не читает. Просвещаемся вместе!",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/7dad9000-f193-41fe-8a73-f81d707ffcbd",
-      "guid": "7e366cc4-0bc7-4b43-8868-5b0aeb178842"
+      "guid": "7dad9000-f193-41fe-8a73-f81d707ffcbd"
     },
     {
       "id": null,
@@ -9107,12 +9271,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришёл и рассказал: DC Trinity",
       "topics": [],
       "participants": "",
-      "comment": "Два подкастера с тихими голосами медленно вспоминают, в чем заключается их работа. Забытый, но не пыльный (пыльный у нас другой) формат ППР, он же «смешной неправильный пересказ» понемногу возвращается, и мы записали его «новый пробный/пилотный выпуск», где Леша рассказывает про три серии ДиСи, которые читает (Бэтмэн, Аквамен, Чудо-женщина), и отвлекается на Питера Кэннона и продолжение комикса Тайниона и Чаретье для DSTLRYa.",
+      "comment": "DC Extravaganza!",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/0cab5f69-1d70-40f7-a3b6-d3bb45af11a7",
-      "guid": "c98dc94d-b6d3-46e7-aabe-41f590a80b3f"
+      "guid": "0cab5f69-1d70-40f7-a3b6-d3bb45af11a7"
     },
     {
       "id": 226,
@@ -9122,11 +9286,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "The Knives: A Criminal Book"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "The Knives: A Criminal Book",
@@ -9135,7 +9294,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях. Лайт». Выпуск 03: The Knives",
+      "link": "https://boosty.to/spidermedia/posts/469056b4-bd1a-453b-8414-83cf0d8d2f05",
+      "guid": "469056b4-bd1a-453b-8414-83cf0d8d2f05"
     },
     {
       "id": null,
@@ -9145,12 +9312,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "«На панелях. ДНК». 24.12.25 • Не лайв",
       "topics": [],
       "participants": "",
-      "comment": "В этот раз вернувшийся из отпуска «ДНК» должен был быть лайвом, но техника показала характер, так что это НЕ ЛАЙВ.",
+      "comment": "День новых комиксов и всё, что его окружает.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/cc82ce9b-fe68-44cc-b0e8-b875a9ce4d9e",
-      "guid": "164478a3-16c6-405f-b3a6-0e38220b62c8"
+      "guid": "cc82ce9b-fe68-44cc-b0e8-b875a9ce4d9e"
     },
     {
       "id": 227,
@@ -9159,15 +9326,10 @@ window.__NA_PANELI_DATA__ = {
       "publication": "2025-12-30",
       "topics": [
         "Ultimate Spider-Man",
-        "Ultimates",
+        "The Ultimates",
         "Absolute Batman",
         "Absolute Wonder Woman"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Восемь лет подкасту! (Ultimate/Absolute special)",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Ultimate Spider-Man",
@@ -9177,8 +9339,8 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Ultimates",
-          "rawTitle": "Ultimates",
+          "title": "The Ultimates",
+          "rawTitle": "The Ultimates",
           "kind": "comic",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
@@ -9197,7 +9359,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Восемь лет подкасту! (Ultimate/Absolute special)",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 97: А****т расправил плечи",
+      "link": "https://boosty.to/spidermedia/posts/8fba3587-3e83-471c-acec-4a0ca2121e86",
+      "guid": "8fba3587-3e83-471c-acec-4a0ca2121e86"
     },
     {
       "id": 228,
@@ -9207,11 +9377,6 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Nijigahara Holograph"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "-",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Nijigahara Holograph",
@@ -9220,7 +9385,15 @@ window.__NA_PANELI_DATA__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях. Лайт». Выпуск 04: Nijigahara Holograph",
+      "link": "https://boosty.to/spidermedia/posts/5dc2bfda-f75a-4f9f-8400-c41b61aa3588",
+      "guid": "5dc2bfda-f75a-4f9f-8400-c41b61aa3588"
     },
     {
       "id": 229,
@@ -9230,14 +9403,8 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Doctor Who: The Eleventh Doctor",
         "Star Wars: The High Republic",
-        "Pathfinder",
-        "Pathfinder: City of Secrets"
+        "Pathfinder"
       ],
-      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
-      "comment": "Лицензионный special",
-      "supportersOnly": false,
-      "supportersFree": false,
-      "source": "google-sheet",
       "comics": [
         {
           "title": "Doctor Who: The Eleventh Doctor",
@@ -9259,28 +9426,39 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега"
-        },
-        {
-          "title": "Pathfinder: City of Secrets",
-          "rawTitle": "Pathfinder: City of Secrets",
-          "kind": "comic",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Лицензионный special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На пыльных панелях». Выпуск 12: Страдание",
+      "link": "https://boosty.to/spidermedia/posts/1e7fa7f9-ff55-4d12-8ceb-f8b88dc7ee33",
+      "guid": "1e7fa7f9-ff55-4d12-8ceb-f8b88dc7ee33"
     },
     {
       "id": 230,
       "podcast": "Gol D. Panels",
       "number": "OP28",
       "publication": "2026-03-27",
-      "topics": [],
+      "topics": [
+        "Live-Action Series, Season 2"
+      ],
+      "comics": [
+        {
+          "title": "Live-Action Series, Season 2",
+          "rawTitle": "Live-Action Series, Season 2",
+          "kind": "series",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ],
       "participants": "Станислав Шаргородский, Алексей Замский, Евгений Еронин, Владислав Миктум, Сергей Мангасаров",
       "comment": "Gol D. Panels",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "google-sheet",
-      "comics": []
+      "source": "google-sheet"
     },
     {
       "id": 231,
@@ -9288,30 +9466,33 @@ window.__NA_PANELI_DATA__ = {
       "number": "M17",
       "publication": "2026-04-12",
       "topics": [
-        "Miss Truesdale and the Rise of Man",
-        "Uri Tupka and the Gods: Another Story from Lands Unknown"
+        "The Rise of Man",
+        "Uri Tupka and the Gods"
+      ],
+      "comics": [
+        {
+          "title": "The Rise of Man",
+          "rawTitle": "The Rise of Man",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Uri Tupka and the Gods",
+          "rawTitle": "Uri Tupka and the Gods",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
       "comment": "Amazing Screw-On Podcast",
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "comics": [
-        {
-          "title": "Miss Truesdale and the Rise of Man",
-          "rawTitle": "Miss Truesdale and the Rise of Man",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        },
-        {
-          "title": "Uri Tupka and the Gods: Another Story from Lands Unknown",
-          "rawTitle": "Uri Tupka and the Gods: Another Story from Lands Unknown",
-          "kind": "comic",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас"
-        }
-      ]
+      "title": "Amazing Screw-On Podcast #17: The Rise of Man // Uri Tupka and the Gods",
+      "link": "https://boosty.to/spidermedia/posts/b1828da5-683e-410f-b41e-04abd59edc18",
+      "guid": "b1828da5-683e-410f-b41e-04abd59edc18"
     },
     {
       "id": null,
@@ -9321,12 +9502,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Avatar Club. Book 01: Water",
       "topics": [],
       "participants": "",
-      "comment": "Инициатива X-Club, посвященная пересмотру всех икс-экранизаций, оказалась заразительной, и с тех пор наш \"патронный\" чатик (вы еще не там? ищите ссылку в личных сообщениях, либо там же запросите ее у нас) захлестнула волна самых разных \"клубов\", в рамках которых участники чата наполняются большой культурой.",
+      "comment": "Изучаем магию воды",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/c6ad3cda-e785-454c-b2ae-86a5c447d1cd",
-      "guid": "e593effe-ddf4-4e94-b015-952cc67a8437"
+      "guid": "c6ad3cda-e785-454c-b2ae-86a5c447d1cd"
     },
     {
       "id": null,
@@ -9336,12 +9517,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришёл и рассказал: DC Extravaganza",
       "topics": [],
       "participants": "",
-      "comment": "Возвращение любимого формата. Леша читает комиксы, чтобы вам не пришлось.",
+      "comment": "Леша снова читает комиксы, чтобы вам не пришлось",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/942371f2-caaf-4881-a314-e5c933111ea4",
-      "guid": "ad5909ea-b3c8-49c9-b2e7-9071a27be241"
+      "guid": "942371f2-caaf-4881-a314-e5c933111ea4"
     },
     {
       "id": null,
@@ -9351,32 +9532,24 @@ window.__NA_PANELI_DATA__ = {
       "title": "Avatar Club. Book 02: Earth",
       "topics": [],
       "participants": "",
-      "comment": "Снова собрались, чтобы больше пяти часов обсуждать возможно лучший анимационный сезон в истории - Avatar: The Last Airbender, Book Two.",
+      "comment": "Изучаем магию земли",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/252cc2ba-0c50-4c92-ad35-de0f4a2b762a",
-      "guid": "605c7934-e299-4195-a89c-e6049a146620"
+      "guid": "252cc2ba-0c50-4c92-ad35-de0f4a2b762a"
     },
     {
-      "id": null,
+      "id": 232,
       "podcast": "На панелях",
       "number": "98",
       "publication": "2026-05-28",
-      "title": "«На панелях». Выпуск 98: Шкаф с омнибасами",
       "topics": [
         "Beware the Eye of Odin",
-        "Outsiders",
+        "Rare Flavours",
         "November",
-        "Rare Flavours"
+        "Outsiders"
       ],
-      "participants": "",
-      "comment": "Уважаемая редакция музыкальных передач, включите уже хоть раз музыку. А, вы не редакция музыкальных передач. Ну тогда поставьте в эфир обсуждение комикса по нашему заказу, а еще мы хотим передать привет… Но кому они хотели передать привет, мы никогда не узнаем, потому что мы сами с приветом: должны в каждом выпуске обсуждать по одному комиксу по заявкам слушателей, но стали частенько их игнорировать. А так делать нельзя – как говорил один рыцарь из малоизвестного текста, «в конце концов, они нас кормят».",
-      "supportersOnly": true,
-      "supportersFree": false,
-      "source": "boosty-rss",
-      "link": "https://boosty.to/spidermedia/posts/289c8016-eb2f-42ea-bce5-eb80537d47fa",
-      "guid": "766a9591-301d-4cb8-98b4-aa5e792a2d3f",
       "comics": [
         {
           "title": "Beware the Eye of Odin",
@@ -9386,8 +9559,8 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Стас"
         },
         {
-          "title": "Outsiders",
-          "rawTitle": "Outsiders",
+          "title": "Rare Flavours",
+          "rawTitle": "Rare Flavours",
           "kind": "comic",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша"
@@ -9400,13 +9573,21 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Серега"
         },
         {
-          "title": "Rare Flavours",
-          "rawTitle": "Rare Flavours",
+          "title": "Outsiders",
+          "rawTitle": "Outsiders",
           "kind": "comic",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели"
         }
-      ]
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Слушательский special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 98: Шкаф с омнибасами",
+      "link": "https://boosty.to/spidermedia/posts/289c8016-eb2f-42ea-bce5-eb80537d47fa",
+      "guid": "289c8016-eb2f-42ea-bce5-eb80537d47fa"
     },
     {
       "id": null,
@@ -9416,12 +9597,12 @@ window.__NA_PANELI_DATA__ = {
       "title": "Метатекст моя отсылка ёлы-палы лес густой, часть 6: пока идет футбол",
       "topics": [],
       "participants": "",
-      "comment": "История прошлогодних стримов «Метатекст моя отсылка» состоит из невыполненных обещаний, отсылок (да) к будущим монологам, которые не были произнесены, и заметок на будущее, которыми никто не воспользовался. Меняем ли мы это положение? Нет. Вместо этого в «стриме для разогрева», с помощью которого мы планируем возродить рубрику с Андреем, как новым соведущим, Леша полтора часа отвечает на вопрос о субъективной и объективной критике и почему они не существуют, а на все остальные вопросы обещает ответить когда-нибудь потом.",
+      "comment": "В программе критика во всем ее объективном и субъективном виде.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/6dd369a6-3240-449b-9acc-3ba53d44e510",
-      "guid": "4da2d285-7254-4e2e-ab23-d0f6d3668f0c"
+      "guid": "6dd369a6-3240-449b-9acc-3ba53d44e510"
     },
     {
       "id": null,
@@ -9431,12 +9612,84 @@ window.__NA_PANELI_DATA__ = {
       "title": "Прочёл, пришёл и рассказал: ошибка в ДНК",
       "topics": [],
       "participants": "",
-      "comment": "Попытки быть регулярными нам не удаются, поэтому постараемся хотя бы быть провокативными.",
+      "comment": "Леша вышел за пределы супергероики (ну почти)",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/643926fe-c088-4a42-953f-43e655d70d9e",
-      "guid": "bca770e6-b790-4e71-9100-b7bf5bea1775"
+      "guid": "643926fe-c088-4a42-953f-43e655d70d9e"
+    },
+    {
+      "id": null,
+      "podcast": "Avatar Club",
+      "number": "3",
+      "publication": "2026-07-05",
+      "title": "Avatar Club. Book 03: Fire",
+      "topics": [],
+      "participants": "",
+      "comment": "Изучаем магию огня",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/9ea361c2-9d94-49b1-bb06-842710acbbd2",
+      "guid": "9ea361c2-9d94-49b1-bb06-842710acbbd2"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "23",
+      "publication": "2026-07-06",
+      "title": "X-Club 23. Mutant Underground",
+      "topics": [],
+      "participants": "",
+      "comment": "Уходим в подполье",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/c172638f-cc77-425f-b007-112016b1ead9",
+      "guid": "c172638f-cc77-425f-b007-112016b1ead9"
+    },
+    {
+      "id": 233,
+      "podcast": "ASOP",
+      "number": "M18",
+      "publication": "2026-07-08",
+      "topics": [
+        "The Daughters of Medusa",
+        "The Skinless Man",
+        "The House of Yonda"
+      ],
+      "comics": [
+        {
+          "title": "The Daughters of Medusa",
+          "rawTitle": "The Daughters of Medusa",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Skinless Man",
+          "rawTitle": "The Skinless Man",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The House of Yonda",
+          "rawTitle": "The House of Yonda",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+      "link": "https://boosty.to/spidermedia/posts/4ddfffff-c46e-4b39-935e-49c242203cc9",
+      "guid": "4ddfffff-c46e-4b39-935e-49c242203cc9"
     }
   ]
 };

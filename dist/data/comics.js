@@ -1,6 +1,6 @@
 window.__NA_PANELI_COMICS__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-07-08",
   "comics": [
     {
       "id": "20th-century-men",
@@ -26584,8 +26584,123 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
       ]
+    },
+    {
+      "id": "the-daughters-of-medusa",
+      "title": "The Daughters of Medusa",
+      "runTitle": "The Daughters of Medusa",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Bridgit Connell"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2025,
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Daughters of Medusa",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lady-baltimore-the-daughters-of-medusa/4050-164199/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "startDate": "2025-05-07"
+    },
+    {
+      "id": "the-skinless-man",
+      "title": "The Skinless Man",
+      "runTitle": "The Skinless Man",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Ben Stenbeck"
+      ],
+      "artists": [
+        "Ben Stenbeck"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2026,
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Skinless Man",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lands-unknown-the-skinless-man/4050-170819/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "startDate": "2026-03-04"
+    },
+    {
+      "id": "the-house-of-yonda",
+      "title": "The House of Yonda",
+      "runTitle": "Leonide the Vampyr: The House of Yonda",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Rachele Aragno"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2026,
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "The House of Yonda",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/leonide-the-vampyr-the-house-of-yonda/4050-171021/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "startDate": "2026-03-18"
     }
   ],
-  "enrichedAt": "2026-07-01",
+  "enrichedAt": "2026-07-08",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };
