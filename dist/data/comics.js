@@ -26608,7 +26608,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "M18",
           "publication": "2026-07-08",
           "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Lady Baltimore: The Daughters of Medusa",
           "kind": "comic"
@@ -26646,7 +26646,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "M18",
           "publication": "2026-07-08",
           "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Lands Unknown: The Skinless Man",
           "kind": "comic"
@@ -26684,7 +26684,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "M18",
           "publication": "2026-07-08",
           "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Leonide the Vampyr: The House of Yonda",
           "kind": "comic"
@@ -26699,8 +26699,86 @@ window.__NA_PANELI_COMICS__ = {
       "status": "verified",
       "kind": "comic",
       "startDate": "2026-03-18"
+    },
+    {
+      "id": "captain-henry-and-the-graveyard-of-time",
+      "title": "Captain Henry and the Graveyard of Time",
+      "runTitle": "Captain Henry and the Graveyard of Time",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Bruce Zick",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Bruce Zick"
+      ],
+      "colorists": [
+        "Bruce Zick"
+      ],
+      "startYear": 2025,
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M19",
+          "publication": "2026-07-10",
+          "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Captain Henry and the Graveyard of Time",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/captain-henry-and-the-graveyard-of-time/4050-167809/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "startDate": "2025-10-22"
+    },
+    {
+      "id": "carmen-red-claw-belly-of-the-beast",
+      "title": "Carmen Red Claw: Belly of the Beast",
+      "runTitle": "Carmen Red Claw: Belly of the Beast",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola",
+        "Rae Allen"
+      ],
+      "artists": [
+        "Rae Allen"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2026,
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M19",
+          "publication": "2026-07-10",
+          "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Carmen Red Claw: Belly of the Beast",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/carmen-red-claw-belly-of-the-beast/4050-169971/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "startDate": "2026-01-07"
     }
   ],
-  "enrichedAt": "2026-07-08",
+  "enrichedAt": "2026-07-11",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };
