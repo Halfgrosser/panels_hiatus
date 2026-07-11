@@ -9664,21 +9664,21 @@ window.__NA_PANELI_DATA__ = {
           "title": "Lady Baltimore: The Daughters of Medusa",
           "rawTitle": "Lady Baltimore: The Daughters of Medusa",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Lands Unknown: The Skinless Man",
           "rawTitle": "Lands Unknown: The Skinless Man",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Leonide the Vampyr: The House of Yonda",
           "rawTitle": "Leonide the Vampyr: The House of Yonda",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
       ],
@@ -9690,6 +9690,40 @@ window.__NA_PANELI_DATA__ = {
       "title": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
       "link": "https://boosty.to/spidermedia/posts/4ddfffff-c46e-4b39-935e-49c242203cc9",
       "guid": "4ddfffff-c46e-4b39-935e-49c242203cc9"
+    },
+    {
+      "id": null,
+      "podcast": "ASOP",
+      "number": "M19",
+      "publication": "2026-07-10",
+      "topics": [
+        "Captain Henry and the Graveyard of Time",
+        "Carmen Red Claw: Belly of the Beast"
+      ],
+      "comics": [
+        {
+          "title": "Captain Henry and the Graveyard of Time",
+          "rawTitle": "Captain Henry and the Graveyard of Time",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Carmen Red Claw: Belly of the Beast",
+          "rawTitle": "Carmen Red Claw: Belly of the Beast",
+          "kind": "comic",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
+        }
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "title": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
+      "link": "https://boosty.to/spidermedia/posts/ac7ca4c5-97be-472b-89a9-7fda5057c157",
+      "guid": "ac7ca4c5-97be-472b-89a9-7fda5057c157"
     }
   ]
 };
