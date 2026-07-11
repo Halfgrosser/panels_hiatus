@@ -194,10 +194,11 @@ const rows = buildSheetRows(header, records);
 const sheetEpisodes = rows
   .map(({ row, proposerColumns }) => {
     const id = Number(row[""]) || null;
-    const comics = extractComicEntries(row, id, proposerColumns);
+    const podcast = canonicalPodcast(clean(row["Подкаст"]));
+    const comics = extractComicEntries(row, id, podcast, proposerColumns);
     return {
       id,
-      podcast: canonicalPodcast(clean(row["Подкаст"])),
+      podcast,
       number: clean(row["#"]),
       publication: correctPublication(clean(row["Подкаст"]), clean(row["#"]), toIsoDate(row["Публикация"])),
       topics: comics.map((comic) => comic.title),
@@ -328,7 +329,7 @@ function buildSheetRows(header, records) {
   return rows;
 }
 
-function extractComicEntries(row, episodeId, columns = defaultProposerColumns()) {
+function extractComicEntries(row, episodeId, podcast, columns = defaultProposerColumns()) {
   const entries = [];
 
   for (const { column, proposer, label } of columns) {
@@ -347,7 +348,7 @@ function extractComicEntries(row, episodeId, columns = defaultProposerColumns())
     }
   }
 
-  if (commonRequestEpisodeIds.has(episodeId)) {
+  if (podcast === "ASOP" || commonRequestEpisodeIds.has(episodeId)) {
     return entries.map((entry) => ({ ...entry, proposer: "Общая заявка" }));
   }
 

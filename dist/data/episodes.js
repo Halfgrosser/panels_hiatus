@@ -9705,14 +9705,14 @@ window.__NA_PANELI_DATA__ = {
           "title": "Captain Henry and the Graveyard of Time",
           "rawTitle": "Captain Henry and the Graveyard of Time",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         },
         {
           "title": "Carmen Red Claw: Belly of the Beast",
           "rawTitle": "Carmen Red Claw: Belly of the Beast",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас"
         }
       ],

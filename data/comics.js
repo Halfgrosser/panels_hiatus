@@ -26723,7 +26723,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "M19",
           "publication": "2026-07-10",
           "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Captain Henry and the Graveyard of Time",
           "kind": "comic"
@@ -26762,7 +26762,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "M19",
           "publication": "2026-07-10",
           "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Carmen Red Claw: Belly of the Beast",
           "kind": "comic"
