@@ -56,9 +56,7 @@ window.__NA_PANELI_COMICS__ = {
       "artists": [
         "Tyler Boss"
       ],
-      "colorists": [
-        "Pamela Rambo"
-      ],
+      "colorists": [],
       "startYear": 2016,
       "startDate": "2016-04-27",
       "decade": "2010-е",
@@ -26791,7 +26789,9 @@ window.__NA_PANELI_COMICS__ = {
       "artists": [
         "Patrick McEown"
       ],
-      "colorists": [],
+      "colorists": [
+        "Pamela Rambo"
+      ],
       "startYear": 1997,
       "startDate": "1997-09-01",
       "decade": "1990-е",
