@@ -65,10 +65,6 @@ a {
   box-shadow: var(--shadow);
 }
 
-.hero--compact {
-  padding-bottom: 42px;
-}
-
 .hero::after {
   content: "";
   position: absolute;
@@ -849,6 +845,10 @@ input[type="search"] {
     width: 52px;
     align-self: flex-start;
     margin-top: 4px;
+  }
+
+  .hero__title-row h1 {
+    min-height: 4lh;
   }
 
   .controls__topline,
