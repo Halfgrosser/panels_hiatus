@@ -56,7 +56,9 @@ window.__NA_PANELI_COMICS__ = {
       "artists": [
         "Tyler Boss"
       ],
-      "colorists": [],
+      "colorists": [
+        "Pamela Rambo"
+      ],
       "startYear": 2016,
       "startDate": "2016-04-27",
       "decade": "2010-е",
@@ -26809,6 +26811,10 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/zombieworld-champion-of-the-worms/4050-19359/"
+        },
+        {
+          "label": "League of Comic Geeks",
+          "url": "https://leagueofcomicgeeks.com/people/2745/pamela-rambo"
         }
       ],
       "status": "verified",
