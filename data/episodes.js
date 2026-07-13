@@ -9724,6 +9724,40 @@ window.__NA_PANELI_DATA__ = {
       "title": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
       "link": "https://boosty.to/spidermedia/posts/ac7ca4c5-97be-472b-89a9-7fda5057c157",
       "guid": "ac7ca4c5-97be-472b-89a9-7fda5057c157"
+    },
+    {
+      "id": null,
+      "podcast": "ASOP",
+      "number": "M20",
+      "publication": "2026-07-12",
+      "topics": [
+        "ZombieWorld: Champion of the Worms",
+        "Fearless Dawn Meets Hellboy"
+      ],
+      "comics": [
+        {
+          "title": "ZombieWorld: Champion of the Worms",
+          "rawTitle": "ZombieWorld: Champion of the Worms",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Fearless Dawn Meets Hellboy",
+          "rawTitle": "Fearless Dawn Meets Hellboy",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "title": "Amazing Screw-On Podcast #20: ZombieWorld // Grim Death and Bill the Electrocuted Criminal",
+      "link": "https://boosty.to/spidermedia/posts/d4726c93-9a13-49b5-96ef-3961a6ec99ef",
+      "guid": "d4726c93-9a13-49b5-96ef-3961a6ec99ef"
     }
   ]
 };
