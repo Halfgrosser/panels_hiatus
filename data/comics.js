@@ -26777,8 +26777,84 @@ window.__NA_PANELI_COMICS__ = {
       "status": "verified",
       "kind": "comic",
       "startDate": "2026-01-07"
+    },
+    {
+      "id": "zombieworld-champion-of-the-worms",
+      "title": "ZombieWorld: Champion of the Worms",
+      "runTitle": "ZombieWorld: Champion of the Worms",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Patrick McEown"
+      ],
+      "colorists": [],
+      "startYear": 1997,
+      "startDate": "1997-09-01",
+      "decade": "1990-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M20",
+          "publication": "2026-07-12",
+          "episodeTitle": "Amazing Screw-On Podcast #20: ZombieWorld // Grim Death and Bill the Electrocuted Criminal",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "ZombieWorld: Champion of the Worms",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/zombieworld-champion-of-the-worms/4050-19359/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "fearless-dawn-meets-hellboy",
+      "title": "Fearless Dawn Meets Hellboy",
+      "runTitle": "Fearless Dawn Meets Hellboy",
+      "publisher": "Exploding Albatross Funnybooks",
+      "writers": [
+        "Mike Mignola",
+        "Steve Mannion"
+      ],
+      "artists": [
+        "Mike Mignola",
+        "Steve Mannion"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-09-16",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M20",
+          "publication": "2026-07-12",
+          "episodeTitle": "Amazing Screw-On Podcast #20: ZombieWorld // Grim Death and Bill the Electrocuted Criminal",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Fearless Dawn Meets Hellboy",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/fearless-dawn-meets-hellboy/4050-130313/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
     }
   ],
-  "enrichedAt": "2026-07-11",
+  "enrichedAt": "2026-07-13",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };
