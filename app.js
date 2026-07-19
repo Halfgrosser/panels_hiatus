@@ -16,6 +16,7 @@ const formatNames = {
 const formatGroups = new Map([
   ["Panels of X", new Set(["Panels of X", "X of Panels", "Hellfire Panels", "Inferno Panels"])],
 ]);
+const excludedPodcastCategories = new Set(["Спецвыпуск", "Бонус"]);
 const hiatusText = "На этой неделе выпусков не было";
 
 if (!data?.episodes?.length) {
@@ -24,6 +25,7 @@ if (!data?.episodes?.length) {
 }
 
 const episodes = data.episodes
+  .filter((episode) => !excludedPodcastCategories.has(episode.podcast))
   .map((episode) => ({ ...episode, date: new Date(`${episode.publication}T12:00:00`) }))
   .sort((a, b) => a.date - b.date);
 

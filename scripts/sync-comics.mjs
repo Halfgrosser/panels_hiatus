@@ -16,6 +16,25 @@ const commonRequestEpisodeIds = new Set([
   174, 175, 178, 181, 182, 183, 184, 186, 190, 192, 194, 195, 196, 197, 198, 200, 203, 204, 209, 212, 213, 215,
   219, 223, 224, 225, 226, 228, 230, 231,
 ]);
+const comicOverridesByEpisode = new Map([
+  [
+    "ASOP|M18",
+    [
+      "Lady Baltimore: The Daughters of Medusa",
+      "Lands Unknown: The Skinless Man",
+      "Leonide the Vampyr: The House of Yonda",
+      "Lady Baltimore: The Dream of Ikelos",
+      "I Hate Fairyland #42",
+    ],
+  ],
+  [
+    "ASOP|M20",
+    [
+      "ZombieWorld: Champion of the Worms",
+      "Fearless Dawn Meets Hellboy",
+    ],
+  ],
+]);
 
 const csv = process.env.SYNC_SHEET_FILE
   ? await readFile(process.env.SYNC_SHEET_FILE, "utf8")
@@ -42,15 +61,17 @@ for (const { row, proposerColumns } of rows) {
 
 const payload = readPayload(await readFile(episodesPath, "utf8"));
 const existingComics = readExistingComics(await readFile(comicsPath, "utf8"));
-const episodes = payload.episodes.map((episode) => {
-  const source = (episode.id && sheetById.get(episode.id)) || sheetByIdentity.get(episodeIdentity(episode));
-  if (!source) return episode;
-  return {
-    ...episode,
-    topics: source.topics,
-    comics: source.comics,
-  };
-});
+const episodes = payload.episodes
+  .map((episode) => {
+    const source = (episode.id && sheetById.get(episode.id)) || sheetByIdentity.get(episodeIdentity(episode));
+    if (!source) return episode;
+    return {
+      ...episode,
+      topics: source.topics,
+      comics: source.comics,
+    };
+  })
+  .map(applyComicCorrections);
 
 const updatedAt = new Date().toISOString().slice(0, 10);
 const episodesPayload = {
@@ -183,6 +204,19 @@ function normalizeComicTitle(value) {
   const proposer = proposerMatch ? normalizeProposer(proposerMatch[1]) : "";
   const title = proposerMatch ? clean(raw.slice(0, proposerMatch.index)) : raw;
   return { title, proposer };
+}
+
+function applyComicCorrections(episode) {
+  const titles = comicOverridesByEpisode.get(`${episode.podcast}|${episode.number}`);
+  if (!titles) return episode;
+  const comics = titles.map((title) => ({
+    title,
+    rawTitle: title,
+    kind: "comic",
+    proposer: "Общая заявка",
+    proposerColumn: "Стас",
+  }));
+  return { ...episode, topics: titles, comics };
 }
 
 function normalizeProposer(value) {

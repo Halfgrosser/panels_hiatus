@@ -26607,7 +26607,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M18",
           "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Lady Baltimore: The Daughters of Medusa",
@@ -26645,7 +26645,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M18",
           "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Lands Unknown: The Skinless Man",
@@ -26683,7 +26683,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M18",
           "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Leonide the Vampyr: The House of Yonda",
@@ -26855,6 +26855,87 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/fearless-dawn-meets-hellboy/4050-130313/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "lady-baltimore-the-dream-of-ikelos",
+      "title": "Lady Baltimore: The Dream of Ikelos",
+      "runTitle": "Lady Baltimore: The Dream of Ikelos",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Bridgit Connell"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-03-29",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Lady Baltimore: The Dream of Ikelos",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lady-baltimore-the-dream-of-ikelos/4050-149154/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "i-hate-fairyland-42",
+      "title": "I Hate Fairyland #42",
+      "runTitle": "I Hate Fairyland",
+      "publisher": "Image",
+      "writers": [
+        "Skottie Young"
+      ],
+      "artists": [
+        "Derek Laufman"
+      ],
+      "colorists": [
+        "Jean-Francois Beaulieu"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-07-09",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "I Hate Fairyland #42",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Image Comics",
+          "url": "https://imagecomics.com/comics/releases/i-hate-fairyland-42"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/i-hate-fairyland-42/4000-1119172/"
         }
       ],
       "status": "verified",

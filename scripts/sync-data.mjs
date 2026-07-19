@@ -151,6 +151,13 @@ const publicationOverridesByEpisode = new Map([
   ["ASOP|M18", "2026-07-08"],
 ]);
 
+const titleOverridesByEpisode = new Map([
+  [
+    "ASOP|M18",
+    "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+  ],
+]);
+
 const publicationOverridesByTitle = new Map(
   [
     ["X-Club 04. The Dark Phoenix", "2024-05-26"],
@@ -178,6 +185,25 @@ const commonRequestEpisodeIds = new Set([
   118, 119, 120, 121, 123, 124, 125, 126, 127, 129, 130, 132, 136, 154, 157, 158, 161, 162, 165, 168, 172, 173,
   174, 175, 178, 181, 182, 183, 184, 186, 190, 192, 194, 195, 196, 197, 198, 200, 203, 204, 209, 212, 213, 215,
   219, 223, 224, 225, 226, 228, 230, 231,
+]);
+const comicOverridesByEpisode = new Map([
+  [
+    "ASOP|M18",
+    [
+      "Lady Baltimore: The Daughters of Medusa",
+      "Lands Unknown: The Skinless Man",
+      "Leonide the Vampyr: The House of Yonda",
+      "Lady Baltimore: The Dream of Ikelos",
+      "I Hate Fairyland #42",
+    ],
+  ],
+  [
+    "ASOP|M20",
+    [
+      "ZombieWorld: Champion of the Worms",
+      "Fearless Dawn Meets Hellboy",
+    ],
+  ],
 ]);
 
 if (!rssUrl && !process.env.SYNC_RSS_FILE) {
@@ -216,7 +242,10 @@ const enrichedSheetEpisodes = sheetEpisodes.map((episode) => mergeRssMetadata(ep
 const rssEpisodes = rssItems
   .filter((item) => !isRepresentedInSheet(item, enrichedSheetEpisodes))
   .map(toRssEpisode);
-const importedEpisodes = [...enrichedSheetEpisodes, ...rssEpisodes].map(applyCorrections).filter(shouldIncludeEpisode);
+const importedEpisodes = [...enrichedSheetEpisodes, ...rssEpisodes]
+  .map(applyCorrections)
+  .map(applyComicCorrections)
+  .filter(shouldIncludeEpisode);
 const patreonEpisodes = patreonRecords
   .map(toPatreonEpisode)
   .map(applyCorrections)
@@ -546,9 +575,11 @@ function toPatreonEpisode(record) {
 function applyCorrections(episode) {
   const titleKey = normalizeTitle(episode.title || "");
   let podcast = canonicalPodcast(episode.podcast);
+  const episodeKey = `${podcast}|${episode.number}`;
   const publication = publicationOverridesByTitle.get(titleKey) ||
-    publicationOverridesByEpisode.get(`${podcast}|${episode.number}`) ||
+    publicationOverridesByEpisode.get(episodeKey) ||
     episode.publication;
+  const title = titleOverridesByEpisode.get(episodeKey) || episode.title;
 
   if (titleKey === normalizeTitle("ХОДИЛ СМОТРЕТЬ НА РАЗДАВЛЕННЫЕ ПОМИДОРЫ")) {
     podcast = "Прочёл, пришёл и рассказал";
@@ -556,7 +587,20 @@ function applyCorrections(episode) {
     podcast = "Прочие спецвыпуски";
   }
 
-  return { ...episode, podcast, publication };
+  return { ...episode, podcast, publication, title };
+}
+
+function applyComicCorrections(episode) {
+  const titles = comicOverridesByEpisode.get(`${episode.podcast}|${episode.number}`);
+  if (!titles) return episode;
+  const comics = titles.map((title) => ({
+    title,
+    rawTitle: title,
+    kind: "comic",
+    proposer: "Общая заявка",
+    proposerColumn: "Стас",
+  }));
+  return { ...episode, topics: titles, comics };
 }
 
 function shouldIncludeEpisode(episode) {

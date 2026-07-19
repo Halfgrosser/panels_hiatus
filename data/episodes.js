@@ -9657,7 +9657,9 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Lady Baltimore: The Daughters of Medusa",
         "Lands Unknown: The Skinless Man",
-        "Leonide the Vampyr: The House of Yonda"
+        "Leonide the Vampyr: The House of Yonda",
+        "Lady Baltimore: The Dream of Ikelos",
+        "I Hate Fairyland #42"
       ],
       "comics": [
         {
@@ -9680,6 +9682,20 @@ window.__NA_PANELI_DATA__ = {
           "kind": "comic",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас"
+        },
+        {
+          "title": "Lady Baltimore: The Dream of Ikelos",
+          "rawTitle": "Lady Baltimore: The Dream of Ikelos",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "I Hate Fairyland #42",
+          "rawTitle": "I Hate Fairyland #42",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
         }
       ],
       "participants": "Станислав Шаргородский, Алексей Замский",
@@ -9687,7 +9703,7 @@ window.__NA_PANELI_DATA__ = {
       "supportersOnly": false,
       "supportersFree": false,
       "source": "google-sheet",
-      "title": "Amazing Screw-On Podcast #18: Lady Baltimore: The Daughters of Medusa // Lands Unknown: The Skinless Man // Leonide the Vampyr: The House of Yonda",
+      "title": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
       "link": "https://boosty.to/spidermedia/posts/4ddfffff-c46e-4b39-935e-49c242203cc9",
       "guid": "4ddfffff-c46e-4b39-935e-49c242203cc9"
     },
