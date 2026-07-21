@@ -34,6 +34,13 @@ const comicOverridesByEpisode = new Map([
       "Fearless Dawn Meets Hellboy",
     ],
   ],
+  [
+    "Лайт|L5",
+    [
+      "Glamourpuss",
+      "The Strange Death of Alex Raymond",
+    ],
+  ],
 ]);
 
 const csv = process.env.SYNC_SHEET_FILE

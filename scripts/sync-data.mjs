@@ -204,6 +204,13 @@ const comicOverridesByEpisode = new Map([
       "Fearless Dawn Meets Hellboy",
     ],
   ],
+  [
+    "Лайт|L5",
+    [
+      "Glamourpuss",
+      "The Strange Death of Alex Raymond",
+    ],
+  ],
 ]);
 
 if (!rssUrl && !process.env.SYNC_RSS_FILE) {
