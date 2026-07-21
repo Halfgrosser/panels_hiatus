@@ -9279,6 +9279,46 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
+      "id": "glamourpuss",
+      "title": "Glamourpuss",
+      "runTitle": "Glamourpuss",
+      "publisher": "Aardvark",
+      "writers": [
+        "Dave Sim"
+      ],
+      "artists": [
+        "Dave Sim"
+      ],
+      "colorists": [],
+      "startYear": 2008,
+      "startDate": "2008-04-01",
+      "decade": "2000-е",
+      "discussedIn": [
+        {
+          "podcast": "Лайт",
+          "number": "L5",
+          "publication": "2026-07-16",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 05: The Strange Death of Alex Raymond",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Glamourpuss",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/glamourpuss/4050-23362/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
       "id": "glass-town",
       "title": "Glass Town: The Imaginary World of the Brontës",
       "runTitle": "Glass Town: The Imaginary World of the Brontës",
@@ -22744,6 +22784,47 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/the-squidder/4050-79732/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "the-strange-death-of-alex-raymond",
+      "title": "The Strange Death of Alex Raymond",
+      "runTitle": "The Strange Death of Alex Raymond",
+      "publisher": "Living the Line",
+      "writers": [
+        "Dave Sim"
+      ],
+      "artists": [
+        "Carson Grubaugh",
+        "Dave Sim"
+      ],
+      "colorists": [],
+      "startYear": 2021,
+      "startDate": "2021-08-04",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Лайт",
+          "number": "L5",
+          "publication": "2026-07-16",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 05: The Strange Death of Alex Raymond",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Strange Death of Alex Raymond",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-strange-death-of-alex-raymond/4050-138109/"
         }
       ],
       "status": "verified",

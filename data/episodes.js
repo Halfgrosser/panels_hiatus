@@ -9774,6 +9774,40 @@ window.__NA_PANELI_DATA__ = {
       "title": "Amazing Screw-On Podcast #20: ZombieWorld // Grim Death and Bill the Electrocuted Criminal",
       "link": "https://boosty.to/spidermedia/posts/d4726c93-9a13-49b5-96ef-3961a6ec99ef",
       "guid": "d4726c93-9a13-49b5-96ef-3961a6ec99ef"
+    },
+    {
+      "id": null,
+      "podcast": "Лайт",
+      "number": "L5",
+      "publication": "2026-07-16",
+      "topics": [
+        "Glamourpuss",
+        "The Strange Death of Alex Raymond"
+      ],
+      "comics": [
+        {
+          "title": "Glamourpuss",
+          "rawTitle": "Glamourpuss",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "The Strange Death of Alex Raymond",
+          "rawTitle": "The Strange Death of Alex Raymond",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Легко про очень безумное",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "title": "«На панелях. Лайт». Выпуск 05: The Strange Death of Alex Raymond",
+      "link": "https://boosty.to/spidermedia/posts/63729939-8826-44e0-9c9e-cb10d4db8ba4",
+      "guid": "63729939-8826-44e0-9c9e-cb10d4db8ba4"
     }
   ]
 };
