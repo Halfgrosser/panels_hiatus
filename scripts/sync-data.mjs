@@ -8,7 +8,7 @@ const sourceUrl = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?for
 const rssUrl = process.env.BOOSTY_RSS_URL;
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const episodesOutput = resolve(root, "data/episodes.js");
-const comicsOutput = resolve(root, "data/comics.js");
+const previousEpisodesPayload = await readExistingPayload(episodesOutput);
 const patreonRecords = [
   {
     podcast: "На ночь глядя",
@@ -245,11 +245,26 @@ const sheetEpisodes = rows
   });
 
 const rssItems = parseRss(rss).filter((item) => !isRawRecording(item.title));
-const enrichedSheetEpisodes = sheetEpisodes.map((episode) => mergeRssMetadata(episode, rssItems));
-const rssEpisodes = rssItems
-  .filter((item) => !isRepresentedInSheet(item, enrichedSheetEpisodes))
-  .map(toRssEpisode);
-const importedEpisodes = [...enrichedSheetEpisodes, ...rssEpisodes]
+const sheetEpisodesWithHistory = sheetEpisodes.map((episode) =>
+  mergePreviousRssMetadata(episode, previousEpisodesPayload?.episodes || []),
+);
+const enrichedSheetEpisodes = sheetEpisodesWithHistory.map((episode) => mergeRssMetadata(episode, rssItems));
+const currentRssEpisodes = rssItems.map((item) =>
+  preservePreviousRssGuid(toRssEpisode(item), previousEpisodesPayload?.episodes || []),
+);
+const rssEpisodes = currentRssEpisodes.filter((item) => !isRepresentedInSheet(item, enrichedSheetEpisodes));
+const historicRssEpisodes = (previousEpisodesPayload?.episodes || [])
+  .filter((episode) => episode.source === "boosty-rss")
+  .filter((episode) => !isRepresentedInSheet(episode, enrichedSheetEpisodes))
+  .filter(
+    (episode) =>
+      !currentRssEpisodes.some(
+        (current) =>
+          (episode.guid && current.guid && episode.guid === current.guid) ||
+          (episode.title && current.title && sameTitle(episode.title, current.title)),
+      ),
+  );
+const importedEpisodes = [...enrichedSheetEpisodes, ...rssEpisodes, ...historicRssEpisodes]
   .map(applyCorrections)
   .map(applyComicCorrections)
   .filter(shouldIncludeEpisode);
@@ -273,19 +288,25 @@ const payload = {
   updatedAt: new Date().toISOString().slice(0, 10),
   episodes,
 };
-const comicsPayload = {
-  source: sourceUrl,
-  updatedAt: payload.updatedAt,
-  comics: buildComicsCatalog(episodes),
-};
 
 await mkdir(dirname(episodesOutput), { recursive: true });
 await writeFile(episodesOutput, `window.__NA_PANELI_DATA__ = ${JSON.stringify(payload, null, 2)};\n`, "utf8");
-await writeFile(comicsOutput, `window.__NA_PANELI_COMICS__ = ${JSON.stringify(comicsPayload, null, 2)};\n`, "utf8");
 console.log(
-  `Saved ${episodes.length} episodes (${sheetEpisodes.length} from the sheet, ${rssEpisodes.length} RSS-only, ${patreonEpisodes.length} Patreon-only) to ${episodesOutput}`,
+  `Saved ${episodes.length} episodes (${sheetEpisodes.length} from the sheet, ${rssEpisodes.length} current RSS-only, ${historicRssEpisodes.length} retained RSS-only, ${patreonEpisodes.length} Patreon-only) to ${episodesOutput}`,
 );
-console.log(`Saved ${comicsPayload.comics.length} comic records to ${comicsOutput}`);
+
+async function readExistingPayload(path) {
+  try {
+    const source = await readFile(path, "utf8");
+    const assignment = source.indexOf("=");
+    const terminator = source.lastIndexOf(";");
+    if (assignment === -1 || terminator === -1) return null;
+    return JSON.parse(source.slice(assignment + 1, terminator));
+  } catch (error) {
+    if (error.code === "ENOENT") return null;
+    throw error;
+  }
+}
 
 async function loadSource(url, label, localPath) {
   if (localPath) return readFile(localPath, "utf8");
@@ -342,8 +363,30 @@ function mergeRssMetadata(episode, rssItems) {
     ...episode,
     title: item.title,
     link: item.link,
-    guid: item.guid,
+    guid: episode.link === item.link && episode.guid ? episode.guid : item.guid,
   };
+}
+
+function mergePreviousRssMetadata(episode, previousEpisodes) {
+  const previous = previousEpisodes.find(
+    (candidate) =>
+      (episode.id && candidate.id === episode.id) ||
+      (episode.podcast.toLocaleLowerCase("ru") === candidate.podcast.toLocaleLowerCase("ru") &&
+        episode.number &&
+        episode.number.toLocaleLowerCase("ru") === candidate.number.toLocaleLowerCase("ru")),
+  );
+  if (!previous) return episode;
+  return {
+    ...episode,
+    ...(previous.title ? { title: previous.title } : {}),
+    ...(previous.link ? { link: previous.link } : {}),
+    ...(previous.guid ? { guid: previous.guid } : {}),
+  };
+}
+
+function preservePreviousRssGuid(episode, previousEpisodes) {
+  const previous = previousEpisodes.find((candidate) => candidate.link && candidate.link === episode.link);
+  return previous?.guid ? { ...episode, guid: previous.guid } : episode;
 }
 
 function buildSheetRows(header, records) {
@@ -456,60 +499,6 @@ function discussionKind(title, rawTitle, row) {
   if (/live action series|watchmen hbo|season 1|season 2/.test(value)) return "series";
   if (/baron omatsuri|strong world|stampede|film red|\\bred\\b|\\bgold\\b/.test(value)) return "movie";
   return "comic";
-}
-
-function buildComicsCatalog(episodes) {
-  const byTitle = new Map();
-  for (const episode of episodes) {
-    for (const comic of episode.comics || []) {
-      const key = `${comic.kind || "comic"}|${normalizeTitle(comic.title)}`;
-      const record = byTitle.get(key) || {
-        id: slugify(comic.title),
-        title: comic.title,
-        kind: comic.kind || "comic",
-        runTitle: "",
-        publisher: "",
-        writers: [],
-        artists: [],
-        colorists: [],
-        startYear: null,
-        startDate: "",
-        decade: "",
-        discussedIn: [],
-        sources: [
-          {
-            label: "Публичная таблица выпусков",
-            url: sourceUrl,
-          },
-        ],
-        status: "needs-review",
-      };
-
-      record.discussedIn.push({
-        podcast: episode.podcast,
-        number: episode.number,
-        publication: episode.publication,
-        episodeTitle: episode.title || "",
-        proposer: comic.proposer,
-        proposerColumn: comic.proposerColumn,
-        rawTitle: comic.rawTitle,
-        kind: comic.kind || "comic",
-      });
-      byTitle.set(key, record);
-    }
-  }
-
-  return [...byTitle.values()].sort((left, right) => left.title.localeCompare(right.title, "ru", { sensitivity: "base" }));
-}
-
-function slugify(value) {
-  const slug = value
-    .toLocaleLowerCase("en")
-    .replaceAll("&", " and ")
-    .replace(/[^a-z0-9а-яё]+/giu, "-")
-    .replace(/^-+|-+$/g, "")
-    .slice(0, 80);
-  return slug || `comic-${Math.random().toString(36).slice(2)}`;
 }
 
 function titleIdentity(title) {
