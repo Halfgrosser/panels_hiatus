@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-09-02",
   "episodes": [
     {
       "id": 1,
@@ -9853,6 +9853,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/0c7170fb-278d-43d0-8c33-005e350501a4",
       "guid": "9553b50d-02a8-4396-b020-fd7824b9f613"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "27",
+      "publication": "2026-08-30",
+      "title": "X-Club 27. Survival of the Fittest",
+      "topics": [],
+      "participants": "",
+      "comment": "Возвращаем Иксменов к 80-ым",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/6cbc5aba-4c8e-4656-af92-d5412e46ef06",
+      "guid": "6cbc5aba-4c8e-4656-af92-d5412e46ef06"
     }
   ]
 };

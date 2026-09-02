@@ -1,6 +1,6 @@
 window.__NA_PANELI_COMICS__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-09-02",
   "comics": [
     {
       "id": "20th-century-men",
