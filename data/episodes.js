@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-09",
   "episodes": [
     {
       "id": 1,
@@ -9868,6 +9868,21 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/6cbc5aba-4c8e-4656-af92-d5412e46ef06",
       "guid": "6cbc5aba-4c8e-4656-af92-d5412e46ef06"
+    },
+    {
+      "id": null,
+      "podcast": "Avatar Club",
+      "number": "4",
+      "publication": "2026-09-08",
+      "title": "Avatar Club. Book 04: Grief",
+      "topics": [],
+      "participants": "",
+      "comment": "Принимаем потерю и движемся дальше",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/e5a03c7e-51c6-4c97-bd50-bd96bcb81f20",
+      "guid": "e5a03c7e-51c6-4c97-bd50-bd96bcb81f20"
     }
   ]
 };
