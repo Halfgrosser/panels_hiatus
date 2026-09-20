@@ -1,6 +1,6 @@
 window.__NA_PANELI_COMICS__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-20",
   "comics": [
     {
       "id": "20th-century-men",
@@ -27021,8 +27021,241 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "hellboy-in-love-the-art-of-fire",
+      "title": "Hellboy in Love: The Art of Fire",
+      "runTitle": "Hellboy in Love: The Art of Fire",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Alex Nieto"
+      ],
+      "colorists": [
+        "Alex Nieto"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-08-06",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy in Love: The Art of Fire",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-the-art-of-fire/4050-166138/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-in-love-black-eyes",
+      "title": "Hellboy in Love: Black Eyes",
+      "runTitle": "Hellboy in Love: Black Eyes",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Alex Nieto"
+      ],
+      "colorists": [
+        "Alex Nieto"
+      ],
+      "startYear": 2026,
+      "startDate": "2026-04-29",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy in Love: Black Eyes",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-black-eyes/4050-171688/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-in-love-obsidian",
+      "title": "Hellboy in Love: Obsidian",
+      "runTitle": "Hellboy in Love: Obsidian",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Michael Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Alex Nieto"
+      ],
+      "colorists": [
+        "Alex Nieto"
+      ],
+      "startYear": 2026,
+      "startDate": "2026-06-17",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy in Love: Obsidian",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-obsidian/4050-173108/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-bprd-the-monster-of-nivola",
+      "title": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+      "runTitle": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Daniele Serra"
+      ],
+      "colorists": [
+        "Daniele Serra"
+      ],
+      "startYear": 2026,
+      "startDate": "2026-06-24",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-monster-of-nivola/4050-173279/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-bprd-professor-harvey-is-gone",
+      "title": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+      "runTitle": "Hellboy and the B.P.R.D.: Professor Harvey is Gone",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Giuseppe Manunta"
+      ],
+      "colorists": [
+        "Giuseppe Manunta"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-08-27",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-professor-harvey-is-gone/4050-166448/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-bprd-the-ghost-ships-of-labrador",
+      "title": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+      "runTitle": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola",
+        "Rob Williams"
+      ],
+      "artists": [
+        "Laurence Campbell"
+      ],
+      "colorists": [
+        "Lee Loughridge"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-11-12",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-ghost-ships-of-labrador/4050-168409/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
     }
   ],
-  "enrichedAt": "2026-07-13",
+  "enrichedAt": "2026-09-20",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };
