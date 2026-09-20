@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-20",
   "episodes": [
     {
       "id": 1,
@@ -9883,6 +9883,72 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/e5a03c7e-51c6-4c97-bd50-bd96bcb81f20",
       "guid": "e5a03c7e-51c6-4c97-bd50-bd96bcb81f20"
+    },
+    {
+      "id": 237,
+      "podcast": "ASOP",
+      "number": "M21",
+      "publication": "2026-09-16",
+      "topics": [
+        "Hellboy in Love: The Art of Fire",
+        "Hellboy in Love: Black Eyes",
+        "Hellboy in Love: Obsidian",
+        "Hellboy and the B.P.R.D.: The Monster of Nivola",
+        "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+        "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador"
+      ],
+      "comics": [
+        {
+          "title": "Hellboy in Love: The Art of Fire",
+          "rawTitle": "Hellboy in Love: The Art of Fire",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy in Love: Black Eyes",
+          "rawTitle": "Hellboy in Love: Black Eyes",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy in Love: Obsidian",
+          "rawTitle": "Hellboy in Love: Obsidian",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+          "rawTitle": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+          "rawTitle": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+          "kind": "comic",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас"
+        }
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский",
+      "comment": "Amazing Screw-On Podcast",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+      "link": "https://boosty.to/spidermedia/posts/229df171-069d-48fc-9c6f-1aed09005736",
+      "guid": "229df171-069d-48fc-9c6f-1aed09005736"
     }
   ]
 };

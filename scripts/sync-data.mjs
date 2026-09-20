@@ -205,6 +205,17 @@ const comicOverridesByEpisode = new Map([
     ],
   ],
   [
+    "ASOP|M21",
+    [
+      "Hellboy in Love: The Art of Fire",
+      "Hellboy in Love: Black Eyes",
+      "Hellboy in Love: Obsidian",
+      "Hellboy and the B.P.R.D.: The Monster of Nivola",
+      "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+      "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+    ],
+  ],
+  [
     "Лайт|L5",
     [
       "Glamourpuss",
