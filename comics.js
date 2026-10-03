@@ -1,4 +1,6 @@
+import { createEpisodeLinkResolver } from "./episode-links.js";
 const data = window.__NA_PANELI_COMICS__;
+const episodeLink = createEpisodeLinkResolver(window.__NA_PANELI_DATA__?.episodes || [], data?.comics || []);
 
 const search = document.querySelector("#comic-search");
 const proposerFilter = document.querySelector("#proposer-filter");
@@ -155,8 +157,9 @@ function renderComicTable(rows) {
 
 function renderComicRow({ comic, episode }) {
   const episodeName = episode.number ? `${episode.podcast} #${episode.number}` : episode.episodeTitle || episode.podcast;
-  const episodeTitle = episode.link
-    ? `<a href="${escapeHtml(episode.link)}" target="_blank" rel="noreferrer">${escapeHtml(episodeName)}</a>`
+  const link = episodeLink(episode);
+  const episodeTitle = link
+    ? `<a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(episodeName)}</a>`
     : escapeHtml(episodeName);
   const comicUrl = primaryComicUrl(comic);
   const comicTitle = comicUrl
