@@ -1,4 +1,6 @@
+import { createEpisodeLinkResolver } from "./episode-links.js";
 const data = window.__NA_PANELI_DATA__;
+const episodeLink = createEpisodeLinkResolver(data?.episodes || [], window.__NA_PANELI_COMICS__?.comics || []);
 
 const chart = document.querySelector("#chart");
 const filter = document.querySelector("#series-filter");
@@ -120,7 +122,7 @@ function showWeek(isoDate, found, isHiatus) {
     ${found
       .map(
         (episode) => `<div class="episode-line">
-          <h3>${escapeHtml(episodeLabel(episode))}</h3>
+          <h3>${episodeLink(episode) ? `<a href="${escapeHtml(episodeLink(episode))}" target="_blank" rel="noopener noreferrer">${escapeHtml(episodeLabel(episode))}</a>` : escapeHtml(episodeLabel(episode))}</h3>
           <p class="episode-topics">${escapeHtml(episode.topics.join(" · ") || episode.comment || "Без описания")}</p>
         </div>`,
       )
