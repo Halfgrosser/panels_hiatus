@@ -8,6 +8,10 @@
     "enrich:comics": "node scripts/enrich-comics-locg.mjs",
     "enrich:comicvine": "node scripts/enrich-comics-comicvine.mjs",
     "dev": "python3 -m http.server 4173 --directory dist",
-    "build": "node scripts/build.mjs"
+    "build": "node scripts/build.mjs",
+    "import:mustread": "node scripts/import-mustread.mjs"
+  },
+  "devDependencies": {
+    "linkedom": "0.18.13"
   }
 }
