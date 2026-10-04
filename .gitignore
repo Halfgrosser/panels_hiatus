@@ -1,3 +1,4 @@
 .DS_Store
 .cache/
 .secrets/
+node_modules/
