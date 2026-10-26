@@ -1,6 +1,6 @@
 window.__NA_PANELI_COMICS__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-10-26",
   "comics": [
     {
       "id": "20th-century-men",
@@ -27254,8 +27254,49 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "look-back",
+      "title": "Look Back",
+      "runTitle": "Look Back",
+      "publisher": "Shueisha",
+      "writers": [
+        "Tatsuki Fujimoto"
+      ],
+      "artists": [
+        "Tatsuki Fujimoto"
+      ],
+      "colorists": [],
+      "startYear": 2021,
+      "startDate": "2021-09-03",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Лайт",
+          "number": "L6",
+          "publication": "2026-10-05",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 06: Look Back",
+          "proposer": "",
+          "proposerColumn": "",
+          "rawTitle": "Look Back",
+          "kind": "comic",
+          "link": "https://spidermedia.podster.fm/e/495388/na-panelyah-layt-vypusk-06-look-back"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичный RSS подкаста",
+          "url": "https://podster.fm/rss.xml?pid=39021"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/look-back/4050-138676/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
     }
   ],
-  "enrichedAt": "2026-09-20",
+  "enrichedAt": "2026-10-26",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };

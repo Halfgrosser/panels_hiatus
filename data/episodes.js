@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-10-26",
   "episodes": [
     {
       "id": 1,
@@ -9949,6 +9949,30 @@ window.__NA_PANELI_DATA__ = {
       "title": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
       "link": "https://boosty.to/spidermedia/posts/229df171-069d-48fc-9c6f-1aed09005736",
       "guid": "229df171-069d-48fc-9c6f-1aed09005736"
+    },
+    {
+      "id": null,
+      "podcast": "Лайт",
+      "number": "L6",
+      "publication": "2026-10-05",
+      "title": "«На панелях. Лайт». Выпуск 06: Look Back",
+      "topics": ["Look Back"],
+      "comics": [
+        {
+          "title": "Look Back",
+          "rawTitle": "Look Back",
+          "kind": "comic",
+          "proposer": "",
+          "proposerColumn": ""
+        }
+      ],
+      "participants": "",
+      "comment": "Легко про очень личное",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "podster-rss",
+      "link": "https://spidermedia.podster.fm/e/495388/na-panelyah-layt-vypusk-06-look-back",
+      "guid": "a2e84ca3-47e3-4ffb-8776-72889d7cfeb5"
     }
   ]
 };
