@@ -27259,13 +27259,17 @@ window.__NA_PANELI_COMICS__ = {
       "id": "look-back",
       "title": "Look Back",
       "runTitle": "Look Back",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "publisher": "Shueisha",
+      "writers": [
+        "Tatsuki Fujimoto"
+      ],
+      "artists": [
+        "Tatsuki Fujimoto"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2021,
+      "startDate": "2021-09-03",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "Лайт",
@@ -27283,12 +27287,16 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичный RSS подкаста",
           "url": "https://podster.fm/rss.xml?pid=39021"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/look-back/4050-138676/"
         }
       ],
-      "status": "needs-review",
+      "status": "verified",
       "kind": "comic"
     }
   ],
-  "enrichedAt": "2026-09-20",
+  "enrichedAt": "2026-10-26",
   "generatedAt": "2026-06-29T18:23:36.118Z"
 };
