@@ -1,6 +1,6 @@
 window.__NA_PANELI_COMICS__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-10-26",
   "comics": [
     {
       "id": "20th-century-men",
@@ -27253,6 +27253,39 @@ window.__NA_PANELI_COMICS__ = {
         }
       ],
       "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "look-back",
+      "title": "Look Back",
+      "runTitle": "Look Back",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Лайт",
+          "number": "L6",
+          "publication": "2026-10-05",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 06: Look Back",
+          "proposer": "",
+          "proposerColumn": "",
+          "rawTitle": "Look Back",
+          "kind": "comic",
+          "link": "https://spidermedia.podster.fm/e/495388/na-panelyah-layt-vypusk-06-look-back"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичный RSS подкаста",
+          "url": "https://podster.fm/rss.xml?pid=39021"
+        }
+      ],
+      "status": "needs-review",
       "kind": "comic"
     }
   ],
