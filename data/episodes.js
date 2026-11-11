@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-11",
   "episodes": [
     {
       "id": 1,
@@ -9862,7 +9862,7 @@ window.__NA_PANELI_DATA__ = {
       "title": "X-Club 27. Survival of the Fittest",
       "topics": [],
       "participants": "",
-      "comment": "Возвращаем Иксменов к 80-ым",
+      "comment": "Завершаем обсуждение второго сезона X-Men '97 и смотрим, удалось ли создателям собрать его воедино. Сегодня в программе: 05) Weapon X, Lies, and DVDs 06) Danger.exe 07) Strange Land, Savage Heart 08) The Dead Man's Hand 09) Survival of the Fittest Кто в итоге стал главным злодеем сезона? А кто главными действующими лицами? Как изменились исходные планы ДеМайо и что нам готовит третий сезон? А главное, нашли ли мы хоть какие-то точки соприкосновения по всем этим вопросам? Еще плюс четыре часа в копилку Икс-Клуба.",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
@@ -9877,7 +9877,7 @@ window.__NA_PANELI_DATA__ = {
       "title": "Avatar Club. Book 04: Grief",
       "topics": [],
       "participants": "",
-      "comment": "Принимаем потерю и движемся дальше",
+      "comment": "Внезапно раньше времени взялись обсуждать первую анимационную новинку во вселенной \"Аватара\" с 2014-го, но она, справедливости ради, отлично ложится между двумя сериалами, формируя своего рода мостик от Аанга к Корре. В общем, обсуждаем то, ради чего весь клуб и задумывался - Avatar Aang: The Last Airbender. В качестве сопроводительных материалов видео, которое несколько раз упоминается в ходе обсуждения:",
       "supportersOnly": true,
       "supportersFree": false,
       "source": "boosty-rss",
@@ -9951,28 +9951,60 @@ window.__NA_PANELI_DATA__ = {
       "guid": "229df171-069d-48fc-9c6f-1aed09005736"
     },
     {
-      "id": null,
+      "id": 238,
       "podcast": "Лайт",
       "number": "L6",
       "publication": "2026-10-05",
-      "title": "«На панелях. Лайт». Выпуск 06: Look Back",
-      "topics": ["Look Back"],
+      "topics": [
+        "Look Back"
+      ],
       "comics": [
         {
           "title": "Look Back",
           "rawTitle": "Look Back",
           "kind": "comic",
-          "proposer": "",
-          "proposerColumn": ""
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас"
         }
       ],
-      "participants": "",
-      "comment": "Легко про очень личное",
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "-",
       "supportersOnly": false,
       "supportersFree": false,
-      "source": "podster-rss",
+      "source": "google-sheet",
+      "title": "«На панелях. Лайт». Выпуск 06: Look Back",
       "link": "https://spidermedia.podster.fm/e/495388/na-panelyah-layt-vypusk-06-look-back",
       "guid": "a2e84ca3-47e3-4ffb-8776-72889d7cfeb5"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "28",
+      "publication": "2026-10-18",
+      "title": "X-Club 28. Brand New Day",
+      "topics": [],
+      "participants": "",
+      "comment": "В честь выхода фильма в цифре мы обсуждаем в Икс-Клубе новую экранизацию... Человека-Паука? 01) Spider-Man: Brand New Day (2026) Да, впервые в нашем проекте в основном фокусе адаптация не икс-комиксов, но с важными импликациями для будущих адаптаций икс-комиксов. MCU запускает свою мутантскую шарманку, и великий рандомайзер за стартовую точку выбирает именно \"Новый день\". Который, как мы выяснили, новый не только для титульного героя, но и для всей вселенной...",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/187711e8-0e11-4033-9188-75da0cc9e161",
+      "guid": "2cadb48f-68e0-406a-82ad-bddaad1e2954"
+    },
+    {
+      "id": null,
+      "podcast": "X-Club",
+      "number": "29",
+      "publication": "2026-11-07",
+      "title": "X-Club 29. Marvel's Wolverine",
+      "topics": [],
+      "participants": "",
+      "comment": "Икс-Клуб выходит за пределы экранов, на которые мы только смотрим, и обсуждает экраны, где что-то от нас даже зависит (правда очень условно в этот раз, ха-ха). 01) Marvel's Wolverine (2026)нф Первая БОЛЬШАЯ игра киношка про Иксменов Икстимовцев, которая должна положить начало новой большой икс-саге, вызвала крайне неоднозначное отношение в наших кругах. Немного смотрим в прошлое икс-игр, чуть больше анализируем настоящее и совсем уж активно эмоционируем от сюжетной составляющей главной новинки сентября. Последний Икс-Клуб в этом году!",
+      "supportersOnly": true,
+      "supportersFree": false,
+      "source": "boosty-rss",
+      "link": "https://boosty.to/spidermedia/posts/81ace9da-d30d-4671-9eb8-adeb01c5fba5",
+      "guid": "caad796d-b06c-473b-83ac-76e63051f876"
     }
   ]
 };
