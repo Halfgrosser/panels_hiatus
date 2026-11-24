@@ -54,6 +54,15 @@ const comicOverridesByEpisode = new Map([
   ],
 ]);
 
+const comicTitleSplits = new Map(
+  [["Vanishing Point Terrorbytes", ["Vanishing Point", "Terrorbytes"]]].map(([title, parts]) => [
+    normalizeTitle(title),
+    parts,
+  ]),
+);
+
+const comicProposerOverridesByEpisode = new Map([["На панелях|99", "Алексей Замский"]]);
+
 const csv = process.env.SYNC_SHEET_FILE
   ? await readFile(process.env.SYNC_SHEET_FILE, "utf8")
   : await loadSheet();
@@ -64,7 +73,11 @@ const sheetById = new Map();
 const sheetByIdentity = new Map();
 for (const { row, proposerColumns } of rows) {
   const id = Number(row[""]) || null;
-  const comics = extractComicEntries(row, id, proposerColumns);
+  const comics = applyProposerOverride(
+    extractComicEntries(row, id, proposerColumns),
+    canonicalPodcast(clean(row["Подкаст"])),
+    clean(row["#"]),
+  );
   const entry = {
     id,
     podcast: canonicalPodcast(clean(row["Подкаст"])),
@@ -165,13 +178,15 @@ function extractComicEntries(row, episodeId, columns = defaultProposerColumns())
     for (const part of splitComicCell(raw)) {
       const cleaned = normalizeComicTitle(part);
       if (!cleaned.title) continue;
-      entries.push({
-        title: cleaned.title,
-        rawTitle: part,
-        kind: discussionKind(cleaned.title, part, row),
-        proposer: cleaned.proposer || proposer,
-        proposerColumn: label,
-      });
+      for (const title of splitComicTitle(cleaned.title)) {
+        entries.push({
+          title,
+          rawTitle: part,
+          kind: discussionKind(title, part, row),
+          proposer: cleaned.proposer || proposer,
+          proposerColumn: label,
+        });
+      }
     }
   }
 
@@ -214,6 +229,16 @@ function isProposerHeaderLabel(value) {
 function splitComicCell(value) {
   if (normalizeTitle(value) === normalizeTitle("The Wicked + The Divine")) return [value];
   return value.split(/\s+\+\s+/).map(clean).filter(Boolean);
+}
+
+function splitComicTitle(title) {
+  return comicTitleSplits.get(normalizeTitle(title)) || [title];
+}
+
+function applyProposerOverride(comics, podcast, number) {
+  const proposer = comicProposerOverridesByEpisode.get(`${podcast}|${number}`);
+  if (!proposer) return comics;
+  return comics.map((comic) => ({ ...comic, proposer }));
 }
 
 function normalizeComicTitle(value) {

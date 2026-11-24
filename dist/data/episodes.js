@@ -1,6 +1,6 @@
 window.__NA_PANELI_DATA__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-24",
   "episodes": [
     {
       "id": 1,
@@ -9721,14 +9721,14 @@ window.__NA_PANELI_DATA__ = {
           "title": "The Graveyard of Time",
           "rawTitle": "The Graveyard of Time",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         },
         {
           "title": "Belly of the Beast",
           "rawTitle": "Belly of the Beast",
           "kind": "comic",
-          "proposer": "Общая заявка",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас"
         }
       ],
@@ -10005,6 +10005,64 @@ window.__NA_PANELI_DATA__ = {
       "source": "boosty-rss",
       "link": "https://boosty.to/spidermedia/posts/81ace9da-d30d-4671-9eb8-adeb01c5fba5",
       "guid": "caad796d-b06c-473b-83ac-76e63051f876"
+    },
+    {
+      "id": 240,
+      "podcast": "На панелях",
+      "number": "99",
+      "publication": "2026-11-24",
+      "topics": [
+        "Twilight Zone",
+        "Hello Darkness",
+        "Vanishing Point",
+        "Terrorbytes",
+        "Assorted Crisis Events"
+      ],
+      "comics": [
+        {
+          "title": "Twilight Zone",
+          "rawTitle": "Twilight Zone",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Стас"
+        },
+        {
+          "title": "Hello Darkness",
+          "rawTitle": "Hello Darkness",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша"
+        },
+        {
+          "title": "Vanishing Point",
+          "rawTitle": "Vanishing Point Terrorbytes",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Terrorbytes",
+          "rawTitle": "Vanishing Point Terrorbytes",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Assorted Crisis Events",
+          "rawTitle": "Assorted Crisis Events",
+          "kind": "comic",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Слушатели"
+        }
+      ],
+      "participants": "Станислав Шаргородский, Алексей Замский, Сергей Мангасаров",
+      "comment": "Антологии special",
+      "supportersOnly": false,
+      "supportersFree": false,
+      "source": "google-sheet",
+      "title": "«На панелях». Выпуск 99: Девятиэтажка",
+      "link": "https://boosty.to/spidermedia/posts/dedd0abb-2953-4113-946b-103b7f0429ff",
+      "guid": "4264de22-0169-4f2f-aeac-9d873dca87e8"
     }
   ]
 };
