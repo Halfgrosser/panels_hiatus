@@ -1,7 +1,39 @@
 window.__NA_PANELI_COMICS__ = {
   "source": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0",
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-24",
   "comics": [
+    {
+      "id": "1957",
+      "title": "1957",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "Amazing Screw-On Podcast #10: 1957 // Hellboy in Love",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "1957",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
     {
       "id": "20th-century-men",
       "title": "20th Century Men",
@@ -24,12 +56,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "72",
           "publication": "2023-03-28",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 72: Неутешительное чтение",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "20th Century Men",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-72-neuteshytelnoe-chtenie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -69,8 +100,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "4 Kids Walk Into a Bank",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-04-kak-aja"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -85,6 +115,166 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "в-голове-шерлока-холмса",
+      "title": "В голове Шерлока Холмса",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "96",
+          "publication": "2025-05-22",
+          "episodeTitle": "«На панелях». Выпуск 96: Big in Tula",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "В голове Шерлока Холмса",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "гончий-пёс",
+      "title": "Гончий пёс",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "96",
+          "publication": "2025-05-22",
+          "episodeTitle": "«На панелях». Выпуск 96: Big in Tula",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
+          "rawTitle": "Гончий пёс",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "не-живые",
+      "title": "Не-живые",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "96",
+          "publication": "2025-05-22",
+          "episodeTitle": "«На панелях». Выпуск 96: Big in Tula",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Не-живые",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "суета-внутри-кита",
+      "title": "Суета внутри кита",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Утешительное чтение",
+          "number": "LR27",
+          "publication": "2024-04-05",
+          "episodeTitle": "Утешительное чтение. Выпуск 27: Суета внутри кита",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "Суета внутри кита",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "туннели",
+      "title": "Туннели",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "96",
+          "publication": "2025-05-22",
+          "episodeTitle": "«На панелях». Выпуск 96: Big in Tula",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
+          "rawTitle": "Туннели",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "a-girl-in-the-himalayas",
@@ -110,8 +300,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "A Girl in the Himalayas",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-56-cancel-humanity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -147,7 +336,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR2",
           "publication": "2022-03-16",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 02: A Land Called Tarot",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "A Land Called Tarot",
@@ -166,6 +355,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "a-plague-of-wasps",
+      "title": "A Plague of Wasps",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M14",
+          "publication": "2024-11-07",
+          "episodeTitle": "Amazing Screw-On Podcast #14: A Plague of Wasps // The Proteus Club // The Goddess of Manhattan",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "A Plague of Wasps",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "a-sea-of-love",
@@ -187,7 +408,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR9",
           "publication": "2022-05-24",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 09: A Sea of Love",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "A Sea of Love",
@@ -227,12 +448,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "89",
           "publication": "2024-10-10",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 89: Нагой снобизм",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "A Sister",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-89-nagoj-snobizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -270,12 +490,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "86",
           "publication": "2024-06-18",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 86: Bollocks",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Abbott",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-86-bollocks"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -315,8 +534,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "About Betty's Boob",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-53-zolotoy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -354,12 +572,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "88",
           "publication": "2024-09-24",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 88: Перевернуть настоящее",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Above Snakes",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-88-perevernut-nastoyashhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -399,7 +616,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "97",
           "publication": "2025-12-30",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 97: А****т расправил плечи",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Absolute Batman",
@@ -441,7 +658,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "97",
           "publication": "2025-12-30",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 97: А****т расправил плечи",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Absolute Wonder Woman",
@@ -463,47 +680,35 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "action-philosophers",
-      "title": "Action Philosophers!",
-      "url": "https://comicvine.gamespot.com/action-philosophers/4050-23725/",
-      "runTitle": "Action Philosophers!",
-      "publisher": "Evil Twin Comics",
-      "writers": [
-        "Fred Van Lente"
-      ],
-      "artists": [
-        "Ryan Dunlavey"
-      ],
-      "colorists": [
-        "Ryan Dunlavey"
-      ],
-      "startYear": 2005,
-      "startDate": "2005-05-01",
-      "decade": "2000-е",
+      "title": "Action Philosophers",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
           "number": "93",
           "publication": "2025-02-11",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 93: Нафталинный юмор",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Action Philosophers",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-93-naftalinnyj-yumor"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/action-philosophers/4050-23725/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "against-hope",
@@ -529,8 +734,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Against Hope",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-59-enough"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -568,12 +772,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "85",
           "publication": "2024-04-25",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 85: Пустое и гнетущее",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Agent of W.O.R.L.D.E.",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-85-pustoe-i-gnetushhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -624,12 +827,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "92",
           "publication": "2024-12-30",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 92: Дебри подсознания",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Aion",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-92-debri-podsoznaniya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -644,49 +846,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "alabasta-gol-d-panels-op02",
-      "title": "Alabasta / Chapters #101-217",
-      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
-      "runTitle": "Alabasta / Chapters #101-217",
-      "publisher": "Shueisha",
-      "writers": [
-        "Eiichiro Oda"
-      ],
-      "artists": [
-        "Eiichiro Oda"
-      ],
-      "colorists": [],
-      "startYear": 1997,
-      "startDate": "1997-12-24",
-      "decade": "1990-е",
-      "status": "verified",
-      "reviewNote": "",
-      "kind": "comic",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP2",
-          "episodeTitle": "Gol D. Panels. Saga 02: Alabasta",
-          "publication": "2021-05-31",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Alabasta / Chapters #101-217",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-02-alabasta"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
-        }
-      ]
     },
     {
       "id": "alabasta-chapters-155-217-gol-d-panels-op19",
@@ -711,13 +870,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP19",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-11-10",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Alabasta / Chapters #155-217",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-02-redux-part-2-alabasta"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -755,8 +913,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Aleister & Adolf",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-31-ozhno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -794,7 +951,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR24",
           "publication": "2022-12-17",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 24: Always Never",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Always Never",
@@ -843,8 +1000,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "American Vampire",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-66-krovososuschiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -886,8 +1042,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Ancestor",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-70-carte-blanche"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -904,90 +1059,36 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "ant-man",
-      "title": "Ant-Man",
-      "runTitle": "Ant-Man",
-      "publisher": "Marvel",
-      "writers": [
-        "Al Ewing"
-      ],
-      "artists": [
-        "Tom Reilly"
-      ],
-      "colorists": [
-        "Jordie Bellaire"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-07-27",
-      "decade": "2020-е",
+      "id": "ant-man-wasp",
+      "title": "Ant-Man/Wasp",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
           "number": "76",
           "publication": "2023-06-15",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 76: BG2 Narrative Experience",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Ant-Man/Wasp",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ant-man/4050-144204/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "wasp",
-      "title": "Wasp",
-      "runTitle": "Wasp",
-      "publisher": "Marvel",
-      "writers": [
-        "Al Ewing"
-      ],
-      "artists": [
-        "Kasia Nie"
-      ],
-      "colorists": [
-        "Kike J. Diaz"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-01-18",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "76",
-          "publication": "2023-06-15",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "Ant-Man/Wasp",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/wasp/4050-147504/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "apocalyptic",
@@ -1014,8 +1115,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Apocalyptic",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-17-good-jokes"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1053,12 +1153,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "85",
           "publication": "2024-04-25",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 85: Пустое и гнетущее",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Arca",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-85-pustoe-i-gnetushhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1099,8 +1198,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ask For Mercy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-41-going-native"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1140,8 +1238,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Assassin Nation",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-42-dushnota"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1159,28 +1256,22 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "assault-on-castle-death",
-      "title": "Young Hellboy: Assault on Castle Death",
-      "runTitle": "Young Hellboy: Assault on Castle Death",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola",
-        "Tom Sniegoski"
-      ],
-      "artists": [
-        "Craig Rousseau"
-      ],
-      "colorists": [
-        "Chris O'Halloran"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-07-20",
-      "decade": "2020-е",
+      "title": "Assault on Castle Death",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M8",
           "publication": "2023-03-19",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #08: Assault on Castle Death // Castle Full of Blackbirds",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Assault on Castle Death",
@@ -1191,14 +1282,41 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/young-hellboy-assault-on-castle-death/4050-144134/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
+    },
+    {
+      "id": "assorted-crisis-events",
+      "title": "Assorted Crisis Events",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "99",
+          "publication": "2026-11-24",
+          "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
+          "rawTitle": "Assorted Crisis Events",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "atomic-empire",
@@ -1224,8 +1342,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Atomic Empire",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-49-chtenie-na-vybyvanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1271,8 +1388,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Avengers: Rage of Ultron",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-31-ozhno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1314,8 +1430,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Bad Ass",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-36-detskie-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1353,7 +1468,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR20",
           "publication": "2022-10-18",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 20: BAGS (or a story thereof)",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "BAGS (or a story thereof)",
@@ -1397,12 +1512,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "80",
           "publication": "2023-10-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 80: Вспомнить всё",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Ballad for Sophie",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-80-vspomnit-vsyo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1444,8 +1558,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "BANG!",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-63-ambitsiozniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1460,6 +1573,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "baron-omatsuri",
+      "title": "Baron Omatsuri",
+      "kind": "movie",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP3",
+          "publication": "2021-11-09",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Baron Omatsuri",
+          "kind": "movie"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "basileus",
@@ -1485,8 +1630,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Basileus",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-18-slozhniye-kalambury"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1529,8 +1673,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Basketful of Heads",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-57-imprinting"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1569,12 +1712,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "80",
           "publication": "2023-10-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 80: Вспомнить всё",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Batman vs. Bigby! A Wolf In Gotham",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-80-vspomnit-vsyo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1617,8 +1759,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Batman: Last Knight on Earth",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-50-new-special"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1660,8 +1801,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Batman: Three Jokers",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-60-inevitable"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1703,8 +1843,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Batman: White Knight",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-13-po-zayavkam"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1747,8 +1886,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Battling Boy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-01-everest"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1784,7 +1922,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR7",
           "publication": "2022-05-04",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 07: Bear",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Bear",
@@ -1828,8 +1966,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Bearskin",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-04-kak-aja"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1871,8 +2008,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Beautiful Canvas",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-24-shchas-poneset"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1887,6 +2023,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "belly-of-the-beast",
+      "title": "Belly of the Beast",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M19",
+          "publication": "2026-07-10",
+          "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Belly of the Beast",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "berlin",
@@ -1912,8 +2080,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Berlin",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-49-chtenie-na-vybyvanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1955,8 +2122,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Beta Ray Bill",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-71-strakhi-i-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -1994,7 +2160,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "98",
           "publication": "2026-05-28",
-          "episodeTitle": "Шкаф с омнибасами",
+          "episodeTitle": "«На панелях». Выпуск 98: Шкаф с омнибасами",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Beware the Eye of Odin",
@@ -2043,8 +2209,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Big Kids",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-11-nizkie-zhanry"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2086,8 +2251,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Birthright",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-28-venganza"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2130,8 +2294,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Bitter Root",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-62-40000-stradaniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2173,8 +2336,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Black Bolt",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-13-po-zayavkam"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2212,13 +2374,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "На панелях",
           "number": "64",
-          "publication": "2021-08-11",
+          "publication": "2021-07-13",
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "BLACK HAMMER",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
+          "rawTitle": "Black Hammer",
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2229,393 +2390,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/black-hammer/4050-92354/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "sherlock-frankenstein-and-the-legion-of-evil",
-      "title": "Sherlock Frankenstein and the Legion of Evil",
-      "runTitle": "Sherlock Frankenstein and the Legion of Evil",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Jeff Lemire"
-      ],
-      "artists": [
-        "David Rubín"
-      ],
-      "colorists": [
-        "Dave Stewart",
-        "David Rubín",
-        "Kike J. Diaz"
-      ],
-      "startYear": 2017,
-      "startDate": "2017-10-18",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "SHERLOCK FRANKENSTEIN AND THE LEGION OF DOOM",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/sherlock-frankenstein-and-the-legion-of-evil/4050-105355/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "doctor-andromeda-and-the-kingdom-of-lost-tomorrows",
-      "title": "Doctor Andromeda and the Kingdom of Lost Tomorrows",
-      "runTitle": "Doctor Andromeda and the Kingdom of Lost Tomorrows",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Jeff Lemire"
-      ],
-      "artists": [
-        "Max Fiumara"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-05-12",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "DOCTOR ANDROMEDA AND THE KINGDOM OF THE LOST TOMORROW",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/doctor-andromeda-and-the-kingdom-of-lost-tomorrows/4050-136017/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "quantum-age",
-      "title": "Quantum Age",
-      "runTitle": "Quantum Age",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Jeff Lemire"
-      ],
-      "artists": [
-        "Wilfredo Torres"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2018,
-      "startDate": "2018-07-04",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "THE QUANTUM AGE",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/quantum-age/4050-112051/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "black-hammer-45",
-      "title": "Black Hammer '45",
-      "runTitle": "Black Hammer '45",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Jeff Lemire",
-        "Ray Fawkes"
-      ],
-      "artists": [
-        "Matt Kindt"
-      ],
-      "colorists": [
-        "Sharlene Kindt"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-03-06",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "BLACK HAMMER ’45",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/black-hammer-45/4050-117437/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "black-hammer-justice-league-hammer-of-justice",
-      "title": "Black Hammer/Justice League: Hammer of Justice!",
-      "runTitle": "Black Hammer/Justice League: Hammer of Justice!",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Jeff Lemire"
-      ],
-      "artists": [
-        "Michael Walsh"
-      ],
-      "colorists": [],
-      "startYear": 2019,
-      "startDate": "2019-07-10",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "BLACK HAMMER/JUSTICE LEAGUE: HAMMER OF JUSTICE",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/black-hammerjustice-league-hammer-of-justice/4050-120103/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "skulldigger-and-skeleton-boy",
-      "title": "Skulldigger and Skeleton Boy",
-      "runTitle": "Skulldigger and Skeleton Boy",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Jeff Lemire"
-      ],
-      "artists": [
-        "Tonci Zonjic"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-12-18",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "SKULLDIGGER + SKELETON BOY",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/skulldigger-and-skeleton-boy/4050-123682/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "colonel-weird-cosmagog",
-      "title": "Colonel Weird: Cosmagog",
-      "runTitle": "Colonel Weird: Cosmagog",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Jeff Lemire"
-      ],
-      "artists": [
-        "Tyler Crook"
-      ],
-      "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-10-28",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "COLONEL WEIRD: COSMAGOG",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/colonel-weird-cosmagog/4050-131511/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "barbalien-red-planet",
-      "title": "Barbalien: Red Planet",
-      "runTitle": "Barbalien: Red Planet",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Tate Brombal"
-      ],
-      "artists": [
-        "Gabriel Hernandez Walta"
-      ],
-      "colorists": [
-        "Dave Stewart",
-        "Jordie Bellaire"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-18",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "BARBALIEN: RED PLANET",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/barbalien-red-planet/4050-132099/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "black-hammer-visions",
-      "title": "Black Hammer: Visions",
-      "runTitle": "Black Hammer: Visions",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Patton Oswalt"
-      ],
-      "artists": [
-        "Dean Kotz"
-      ],
-      "colorists": [
-        "Jason Wordie"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-02-10",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "64",
-          "publication": "2021-08-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "BLACK HAMMER VISIONS",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-64-molotoboyniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/black-hammer-visions/4050-133717/"
         }
       ],
       "status": "verified",
@@ -2647,8 +2421,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Black Magick",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-anyway-i-selderey"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2688,8 +2461,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Black River",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-13-po-zayavkam"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2729,12 +2501,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "86",
           "publication": "2024-06-18",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 86: Bollocks",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Black's Myth",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-86-bollocks"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2775,8 +2546,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Blackwood",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-21-pod-pokrovom-nochi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2815,12 +2585,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "94",
           "publication": "2025-03-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 94: Дистиллерия",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Blasfamous",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-94-distilleriya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2860,8 +2629,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Blast",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-adskaya-pazhnina"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2897,12 +2665,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "73",
           "publication": "2023-04-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 73: Черепахи и боги",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Bliss",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-73-cherepahi-i-bogi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2940,12 +2707,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "89",
           "publication": "2024-10-10",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 89: Нагой снобизм",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Blood of the Virgin",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-89-nagoj-snobizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -2983,12 +2749,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "87",
           "publication": "2024-08-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 87: Будничный каннибализм",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Bloodrik",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-87-budnichnyj-kannibalizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3030,8 +2795,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Blue in Green",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-65-podcast-motherfker"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3070,7 +2834,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR1",
           "publication": "2022-03-12",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 01: Bodie Troll",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Bodie Troll",
@@ -3116,8 +2880,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Bog Bodies",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-59-enough"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3135,46 +2898,35 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "bowling-with-corpses",
-      "title": "Bowling with Corpses and Other Strange Tales from Lands Unknown",
-      "runTitle": "Bowling with Corpses and Other Strange Tales from Lands Unknown",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Mike Mignola"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2025,
-      "startDate": "2025-01-21",
-      "decade": "2020-е",
+      "title": "Bowling with Corpses",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M15",
           "publication": "2025-03-26",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #15: The Serpent in the Garden // Bowling with Corpses",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Bowling with Corpses and Other Strange Tales from Lands Unknown"
+          "rawTitle": "Bowling with Corpses",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/bowling-with-corpses-and-other-strange-tales-from-/4050-163459/"
         }
       ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/bowling-with-corpses-and-other-strange-tales-from-/4050-163459/"
+      "status": "needs-review"
     },
     {
       "id": "brat-pack",
@@ -3200,8 +2952,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Brat Pack",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-geroicheskiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3239,12 +2990,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "87",
           "publication": "2024-08-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 87: Будничный каннибализм",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Briar",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-87-budnichnyj-kannibalizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3288,8 +3038,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Britannia",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-18-slozhniye-kalambury"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3331,8 +3080,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "BTTM FDRS",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-54-osmos-i-kosmos"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3374,8 +3122,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Bug! The Adventures of Forager",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-05-the-death-of-starlin"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3417,8 +3164,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Building Stories",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-depressivniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3460,8 +3206,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "By Night",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-40-mzhdz"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3479,22 +3224,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "cable",
-      "title": "Cable: Past Fears",
-      "runTitle": "Cable: Past Fears",
-      "publisher": "Marvel",
-      "writers": [
-        "Lonnie Nadler",
-        "Zac Thompson"
-      ],
-      "artists": [
-        "German Peralta"
-      ],
-      "colorists": [
-        "Jesus Aburtov"
-      ],
-      "startYear": 2018,
-      "startDate": "2018-09-19",
-      "decade": "2010-е",
+      "title": "Cable",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -3503,23 +3242,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
-          "rawTitle": "Cable: Past Fears",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-22-za-zelenoy-dveryu"
+          "rawTitle": "Cable",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/cable-past-fears/4050-113692/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "castle-full-of-blackbirds",
@@ -3544,7 +3277,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M8",
           "publication": "2023-03-19",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #08: Assault on Castle Death // Castle Full of Blackbirds",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Castle Full of Blackbirds",
@@ -3586,12 +3319,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "76",
           "publication": "2023-06-15",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 76: BG2 Narrative Experience",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Catwoman: Lonely City",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3629,12 +3361,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "72",
           "publication": "2023-03-28",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 72: Неутешительное чтение",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Celestia",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-72-neuteshytelnoe-chtenie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3652,27 +3383,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "cinema-purgatorio",
-      "title": "Alan Moore's Cinema Purgatorio",
-      "runTitle": "Alan Moore's Cinema Purgatorio",
-      "publisher": "Avatar Press",
-      "writers": [
-        "Alan Moore",
-        "Christos N. Gage",
-        "Garth Ennis",
-        "Kieron Gillen",
-        "Max Brooks"
-      ],
-      "artists": [
-        "Gabriel Andrade",
-        "Ignacio Calero",
-        "Kevin O'Neill",
-        "Michael DiPascale",
-        "Raulo Caceres"
-      ],
+      "title": "Cinema Purgatorio",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2016,
-      "startDate": "2016-05-04",
-      "decade": "2010-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -3681,23 +3401,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "Alan Moore's Cinema Purgatorio",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-03-bat-santa"
+          "rawTitle": "Cinema Purgatorio",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/alan-moores-cinema-purgatorio/4050-90097/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "clobberin-time",
@@ -3721,12 +3435,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "81",
           "publication": "2023-11-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 81: Чевапчичи",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Clobberin' Time",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-81-chevapchichi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3768,8 +3481,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Coda",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-38-podcast-in-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3812,8 +3524,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Collapser",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-57-imprinting"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3855,8 +3566,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Conan the Barbarian",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-41-going-native"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3892,7 +3602,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR6",
           "publication": "2022-04-29",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 06: Cosplay",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Cosplay",
@@ -3938,8 +3648,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Crawl Space",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-69-abstraktniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -3980,8 +3689,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Cursed Pirate Girl",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-05-kontrastnost"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4022,12 +3730,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "86",
           "publication": "2024-06-18",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 86: Bollocks",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Damn Them All",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-86-bollocks"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4070,8 +3777,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Daredevil",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-54-osmos-i-kosmos"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4116,8 +3822,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Dark Knight III: The Master Race",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-35-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4155,12 +3860,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "81",
           "publication": "2023-11-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 81: Чевапчичи",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Dark Knights of Steel",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-81-chevapchichi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4203,8 +3907,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Dark Nights: Death Metal",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-60-inevitable"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4247,8 +3950,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Dark Nights: METAL",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-12-carpe-diem"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4304,8 +4006,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dawn of X",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-00-dawn-of-x"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4349,8 +4050,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "DCeased",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-55-klatrio"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4390,8 +4090,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Dead Dog's Bite",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-70-carte-blanche"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4433,8 +4132,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Death of Inhumans",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-27-zloba-dnya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4477,8 +4175,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Deathmatch",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-28-venganza"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4518,8 +4215,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Deep Dark Fears",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-71-strakhi-i-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4559,8 +4255,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Deep Roots",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-32-klub-polunochnikov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4578,19 +4273,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "demon-by-jason-shiga",
-      "title": "Jason Shiga: Demon",
-      "runTitle": "Jason Shiga: Demon",
-      "publisher": "self published",
-      "writers": [
-        "Jason Shiga"
-      ],
-      "artists": [
-        "Jason Shiga"
-      ],
+      "title": "Demon (by Jason Shiga)",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2014,
+      "startYear": null,
       "startDate": "",
-      "decade": "2010-е",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -4599,110 +4291,49 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "Jason Shiga: Demon",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-40-mzhdz"
+          "rawTitle": "Demon (by Jason Shiga)",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/jason-shiga-demon/4050-76402/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
-      "id": "demon-days-treasury-edition",
-      "title": "Demon Days",
-      "runTitle": "Demon Days",
-      "publisher": "Marvel",
-      "writers": [
-        "Peach Momoko",
-        "Zack Davisson"
-      ],
-      "artists": [
-        "Peach Momoko"
-      ],
-      "colorists": [
-        "Peach Momoko"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-05-25",
-      "decade": "2020-е",
+      "id": "demon-days-demon-wars",
+      "title": "Demon Days/Demon Wars",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
           "number": "76",
           "publication": "2023-06-15",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 76: BG2 Narrative Experience",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Demon Days/Demon Wars",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/demon-days-treasury-edition/4050-146448/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "demon-wars-treasury-edition",
-      "title": "Demon Wars",
-      "runTitle": "Demon Wars",
-      "publisher": "Marvel",
-      "writers": [
-        "Peach Momoko"
-      ],
-      "artists": [
-        "Peach Momoko"
-      ],
-      "colorists": [
-        "Peach Momoko"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-11-01",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "76",
-          "publication": "2023-06-15",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Demon Days/Demon Wars",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/demon-wars-treasury-edition/4050-154404/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "dial-h-for-hero",
@@ -4728,8 +4359,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Dial H for Hero",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-57-imprinting"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4768,7 +4398,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR18",
           "publication": "2022-09-14",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 18: Diana - Princess of the Amazons",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Diana: Princess of the Amazons",
@@ -4809,12 +4439,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "75",
           "publication": "2023-05-23",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 75: Долгострой",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Did You Hear What Eddie Gein Done?",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-75-dolgostroj"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4854,8 +4483,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Die",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-36-detskie-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4898,8 +4526,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Die!Die!Die!",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-56-cancel-humanity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4937,12 +4564,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "77",
           "publication": "2023-08-01",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 77: Четыре всадника Постапокалипсиса",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Djeliya",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-77-chetyre-vsadnika-postapokalipsisa"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -4980,12 +4606,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "72",
           "publication": "2023-03-28",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 72: Неутешительное чтение",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Do a Powerbomb!",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-72-neuteshytelnoe-chtenie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5028,8 +4653,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Doctor Strange and the Sorcerers Supreme",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-24-shchas-poneset"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5069,7 +4693,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На пыльных панелях",
           "number": "D12",
           "publication": "2026-03-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На пыльных панелях». Выпуск 12: Страдание",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Doctor Who: The Eleventh Doctor",
@@ -5115,8 +4739,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Doomsday Clock",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-48-superbad-2-superbad-sequels"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5154,7 +4777,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Лайт",
           "number": "L1",
           "publication": "2025-09-20",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 01: Dr. Werthless",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dr. Werthless",
@@ -5206,8 +4829,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Dracula, Motherf++ker!",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-65-podcast-motherfker"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5249,8 +4871,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Dream Gang",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-neveroyatniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5289,13 +4910,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP11",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-06-29",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dressrosa, Act I / Chapters #700-731",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-2-dressrosa-act-i"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5332,13 +4952,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP12",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-07-06",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dressrosa, Act II / Chapters #732-767",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-3-dressrosa-act-ii"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5375,13 +4994,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP13",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-07-13",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Dressrosa, Act III / Chapters #768-801",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-4-dressrosa-act-iii"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5415,12 +5033,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "72",
           "publication": "2023-03-28",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 72: Неутешительное чтение",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Ducks: Two Years in the Oil Sands",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-72-neuteshytelnoe-chtenie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5462,8 +5079,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Dull Margaret",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-26-les-miserables"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5503,8 +5119,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Duncan the Wonder Dog",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-final"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5542,7 +5157,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR4",
           "publication": "2022-04-13",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 04: Earth Boy",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Earth Boy",
@@ -5585,13 +5200,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP1",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2021-05-04",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "East Blue / Chapters #1-100",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-01-east-blue"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5631,8 +5245,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "East of West",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-51-vostochno-zapadniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5674,8 +5287,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Edison Rex",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-17-good-jokes"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5714,13 +5326,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP26",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2024-03-26",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Egghead, Part 1 / Chapters #1061-1088",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-11-part-1-egghead-part-1"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5757,13 +5368,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP27",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2024-10-24",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Egghead, Part 2 / Chapters #1089-1126",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d.-panels.-saga-11-part-2-egghead-part-2"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5800,12 +5410,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "79",
           "publication": "2023-10-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 79: Загадай желание",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Eight Billion Genies",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-79-zagadaj-zhelanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5846,8 +5455,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Elektra: Assassin",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-poeticheskiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5886,12 +5494,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "87",
           "publication": "2024-08-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 87: Будничный каннибализм",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Elixir",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-87-budnichnyj-kannibalizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5930,13 +5537,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP5",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2021-12-30",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Enies Lobby Arc / Chapters #375-441",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-04-part-2-enies-lobby"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -5976,8 +5582,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Enigma",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-03-hyperreality"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -6018,8 +5623,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Eternal Empire",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-20-dva-doma"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -6061,8 +5665,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Eternity",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-space-oddity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -6102,8 +5705,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Eternity Girl",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-22-za-zelenoy-dveryu"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -6143,8 +5745,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ether",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-anyway-i-selderey"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -6184,8 +5785,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Event Leviathan",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-50-new-special"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -6224,12 +5824,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "79",
           "publication": "2023-10-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 79: Загадай желание",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Everyday Hero Machine Boy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-79-zagadaj-zhelanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -6256,1496 +5855,17 @@ window.__NA_PANELI_COMICS__ = {
       "url": "https://imagecomics.com/comics/series/everyday-hero-machine-boy"
     },
     {
-      "id": "house-of-x-01-pox1",
-      "title": "House of X #01",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-24",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX1",
-          "publication": "2019-07-29",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-01-the-house-that-xavier-built"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x-1-the-house-that-xavier-built/4000-714236/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-02-pox3",
-      "title": "House of X #02",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-08-07",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX3",
-          "publication": "2019-08-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X #02",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-03-the-ucanny-life-of-moira-x"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x-2-the-uncanny-life-of-moira-x/4000-715306/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-03-pox6",
-      "title": "House of X #03",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-08-28",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX6",
-          "publication": "2019-09-02",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X #03",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-06-once-more-unto-the-breach"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x-3-once-more-unto-the-breach/4000-717519/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-04-pox7",
-      "title": "House of X #04",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-09-04",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX7",
-          "publication": "2019-09-09",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X #04",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-07-it-will-be-done"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x-4-it-will-be-done/4000-718128/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-05-pox9",
-      "title": "House of X #05",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-09-18",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX9",
-          "publication": "2019-09-23",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X #05",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-09-society"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x-5-society/4000-719439/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "house-of-x-06-pox11",
-      "title": "House of X #06",
-      "runTitle": "House of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "David Curiel",
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-10-02",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX11",
-          "publication": "2019-10-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "House of X #06",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-11-i-am-not-ashamed"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/house-of-x-6-i-am-not-ashamed/4000-721154/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "powers-of-x-01-pox2",
-      "title": "Powers of X #01",
-      "runTitle": "Powers of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Adriano Di Benedetto",
-        "R. B. Silva"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-07-31",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX2",
-          "publication": "2019-08-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-02-the-last-dream-of-professor-x"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/powers-of-x-1-the-last-dream-of-professor-x/4000-714669/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "powers-of-x-02-pox4",
-      "title": "Powers of X #02",
-      "runTitle": "Powers of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Adriano Di Benedetto",
-        "R. B. Silva"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-08-14",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX4",
-          "publication": "2019-08-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X #02",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-04-we-are-together-now-you-and-i"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/powers-of-x-2-we-are-together-now-you-and-i/4000-716371/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "powers-of-x-03-pox5",
-      "title": "Powers of X #03",
-      "runTitle": "Powers of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "R. B. Silva"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-08-21",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX5",
-          "publication": "2019-08-23",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X #03",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-05-this-is-what-you-do"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/powers-of-x-3-this-is-what-you-do/4000-716968/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "powers-of-x-04-pox8",
-      "title": "Powers of X #04",
-      "runTitle": "Powers of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "R. B. Silva"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-09-11",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX8",
-          "publication": "2019-09-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X #04",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-08-something-sinister"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/powers-of-x-4-something-sinister/4000-718763/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "powers-of-x-05-pox10",
-      "title": "Powers of X #05",
-      "runTitle": "Powers of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "R. B. Silva"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-09-25",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX10",
-          "publication": "2019-09-30",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X #05",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-10-for-the-children"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/powers-of-x-5-for-the-children/4000-720169/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "powers-of-x-06-pox12",
-      "title": "Powers of X #06",
-      "runTitle": "Powers of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Pepe Larraz",
-        "R. B. Silva"
-      ],
-      "colorists": [
-        "David Curiel",
-        "Marte Gracia"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-10-09",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "Panels of X",
-          "number": "PoX12",
-          "publication": "2019-10-14",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Powers of X #06",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/panels-of-x-12-house-of-x"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/powers-of-x-6-house-of-x/4000-721789/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "marauders-21-hp1",
-      "title": "Marauders #21",
-      "runTitle": "Marauders",
-      "publisher": "Marvel",
-      "writers": [
-        "Chris Claremont",
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "John Bolton",
-        "Matteo Lolli"
-      ],
-      "colorists": [
-        "Edgar Delgado",
-        "Glynis Oliver Wein"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-02",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP1",
-          "publication": "2021-06-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Marauders #21",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-01-you-are-cordially-invited"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/marauders-21-you-are-cordially-invited-to-the-hell/4000-857597/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-force-20-hp1",
-      "title": "X-Force #20",
-      "runTitle": "X-Force",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy"
-      ],
-      "artists": [
-        "Joshua Cassara"
-      ],
-      "colorists": [
-        "Guru-eFX"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-02",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP1",
-          "publication": "2021-06-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Force #20",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-01-you-are-cordially-invited"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-force-20-the-secret-garden/4000-857598/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellions-12-hp1",
-      "title": "Hellions #12",
-      "runTitle": "Hellions",
-      "publisher": "Marvel",
-      "writers": [
-        "Zeb Wells"
-      ],
-      "artists": [
-        "Stephen Segovia"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-02",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP1",
-          "publication": "2021-06-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellions #12",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-01-you-are-cordially-invited"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellions-12-gatecrashing/4000-857596/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "excalibur-21-hp2",
-      "title": "Excalibur #21",
-      "runTitle": "Excalibur",
-      "publisher": "Marvel",
-      "writers": [
-        "Tini Howard"
-      ],
-      "artists": [
-        "Marcus To"
-      ],
-      "colorists": [
-        "Erick Arciniega"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-09",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP2",
-          "publication": "2021-06-14",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Excalibur #21",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-02-the-beginning"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/excalibur-21-dont-feel-like-dancin/4000-858872/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-men-21-hp2",
-      "title": "X-Men #21",
-      "runTitle": "X-Men",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Lucas Werneck",
-        "Nick Dragotta",
-        "Russell Dauterman",
-        "Sara Pichelli"
-      ],
-      "colorists": [
-        "Frank Martin Jr.",
-        "Matthew Wilson",
-        "Nolan Woodard",
-        "Sunny Gho"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-09",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP2",
-          "publication": "2021-06-14",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Men #21",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-02-the-beginning"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-men-21-the-beginning/4000-858873/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "children-of-the-atom-04-hp2",
-      "title": "Children of the Atom #04",
-      "runTitle": "Children of the Atom",
-      "publisher": "Marvel",
-      "writers": [
-        "Vita Ayala"
-      ],
-      "artists": [
-        "Paco Medina"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-09",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP2",
-          "publication": "2021-06-14",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Children of the Atom #04",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-02-the-beginning"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/children-of-the-atom-4-captured/4000-858871/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "planet-size-x-men-01-hp3",
-      "title": "Planet-Size X-Men #01",
-      "runTitle": "Planet-Size X-Men",
-      "publisher": "Marvel",
-      "writers": [
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-16",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP3",
-          "publication": "2021-06-21",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Planet-Size X-Men #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-03-fireworks"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/planet-size-x-men-1-fireworks/4000-861642/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "new-mutants-19-hp3",
-      "title": "New Mutants #19",
-      "runTitle": "New Mutants",
-      "publisher": "Marvel",
-      "writers": [
-        "Vita Ayala"
-      ],
-      "artists": [
-        "Alex Lins"
-      ],
-      "colorists": [
-        "Matt Milla"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-16",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP3",
-          "publication": "2021-06-21",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "New Mutants #19",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-03-fireworks"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/new-mutants-19-party-of-the-century/4000-861639/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-corp-02-hp3",
-      "title": "X-Corp #02",
-      "runTitle": "X-Corp",
-      "publisher": "Marvel",
-      "writers": [
-        "Tini Howard"
-      ],
-      "artists": [
-        "Alberto Foche"
-      ],
-      "colorists": [
-        "Sunny Gho"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-16",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP3",
-          "publication": "2021-06-21",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Corp #02",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-03-fireworks"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-corp-2-a-shark-in-the-water/4000-861644/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "wolverine-13-hp4",
-      "title": "Wolverine #13",
-      "runTitle": "Wolverine",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy"
-      ],
-      "artists": [
-        "Oren Junior",
-        "Scot Eaton"
-      ],
-      "colorists": [
-        "Matthew Wilson"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-23",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP4",
-          "publication": "2021-06-28",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Wolverine #13",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-04-this-is-what-comes-next"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/wolverine-13-what-they-did-in-the-shadows/4000-863865/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "s-w-o-r-d-06-hp4",
-      "title": "S.W.O.R.D. #06",
-      "runTitle": "S.W.O.R.D.",
-      "publisher": "Marvel",
-      "writers": [
-        "Al Ewing"
-      ],
-      "artists": [
-        "Valerio Schiti"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-23",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP4",
-          "publication": "2021-06-28",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "S.W.O.R.D. #06",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-04-this-is-what-comes-next"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/sword-6-this-is-what-comes-next/4000-863852/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "way-of-x-03-hp4",
-      "title": "Way of X #03",
-      "runTitle": "Way of X",
-      "publisher": "Marvel",
-      "writers": [
-        "Simon Spurrier"
-      ],
-      "artists": [
-        "Bob Quinn"
-      ],
-      "colorists": [
-        "Javier Tartaglia"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-23",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP4",
-          "publication": "2021-06-28",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Way of X #03",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-04-this-is-what-comes-next"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/way-of-x-3-joy-of-x/4000-863854/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-factor-10-hp5",
-      "title": "X-Factor #10",
-      "runTitle": "X-Factor",
-      "publisher": "Marvel",
-      "writers": [
-        "Leah Williams"
-      ],
-      "artists": [
-        "David Baldeón",
-        "David Messina",
-        "Lucas Werneck"
-      ],
-      "colorists": [
-        "Israel Silva"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-30",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP5",
-          "publication": "2021-07-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Factor #10",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-05-finale"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-factor-10-finale/4000-866581/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "cable-11-hp5",
-      "title": "Cable #11",
-      "runTitle": "Cable",
-      "publisher": "Marvel",
-      "writers": [
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Phil Noto"
-      ],
+      "id": "excalibur-13-x-men-13",
+      "title": "Excalibur #13 // X-Men #13",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2021,
-      "startDate": "2021-06-30",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Hellfire Panels",
-          "number": "HP5",
-          "publication": "2021-07-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Cable #11",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-05-finale"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/cable-11-depression/4000-866577/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-of-swords-creation-01-xop1",
-      "title": "X of Swords: Creation #01",
-      "runTitle": "X of Swords: Creation",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman",
-        "Tini Howard"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-09-23",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP1",
-          "publication": "2020-09-28",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X of Swords: Creation #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-01-creation"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-of-swords-creation-1-x-of-swords-chapter-1/4000-803652/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-factor-04-xop2",
-      "title": "X-Factor #04",
-      "runTitle": "X-Factor",
-      "publisher": "Marvel",
-      "writers": [
-        "Leah Williams"
-      ],
-      "artists": [
-        "Carlos Gomez (SP)"
-      ],
-      "colorists": [
-        "Israel Silva"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-09-30",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP2",
-          "publication": "2020-10-05",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Factor #04",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-02-x-factor"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-factor-4-x-of-swords-chapter-2/4000-805100/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "wolverine-06-xop3",
-      "title": "Wolverine #06",
-      "runTitle": "Wolverine",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy"
-      ],
-      "artists": [
-        "Viktor Bogdanovic"
-      ],
-      "colorists": [
-        "Matthew Wilson"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-07",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP3",
-          "publication": "2020-10-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Wolverine #06",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-03-muramasa-skybreaker"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/wolverine-6-x-of-swords-chapter-3/4000-807579/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-force-13-xop3",
-      "title": "X-Force #13",
-      "runTitle": "X-Force",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy"
-      ],
-      "artists": [
-        "Viktor Bogdanovic"
-      ],
-      "colorists": [
-        "Matthew Wilson"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-07",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP3",
-          "publication": "2020-10-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Force #13",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-03-muramasa-skybreaker"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-force-13-x-of-swords-chapter-4/4000-807580/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "marauders-13-xop3",
-      "title": "Marauders #13",
-      "runTitle": "Marauders",
-      "publisher": "Marvel",
-      "writers": [
-        "Vita Ayala"
-      ],
-      "artists": [
-        "Matteo Lolli"
-      ],
-      "colorists": [
-        "Edgar Delgado"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-07",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP3",
-          "publication": "2020-10-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Marauders #13",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-03-muramasa-skybreaker"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/marauders-13-x-of-swords-chapter-5/4000-807571/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellions-05-xop4",
-      "title": "Hellions #05",
-      "runTitle": "Hellions",
-      "publisher": "Marvel",
-      "writers": [
-        "Zeb Wells"
-      ],
-      "artists": [
-        "Carmen Nunez Carnero"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-14",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP4",
-          "publication": "2020-10-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellions #05",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-04-hellions-new-mutants-cable"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellions-5-x-of-swords-chapter-6/4000-810727/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "new-mutants-13-xop4",
-      "title": "New Mutants #13",
-      "runTitle": "New Mutants",
-      "publisher": "Marvel",
-      "writers": [
-        "Ed Brisson"
-      ],
-      "artists": [
-        "Rod Reis"
-      ],
-      "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-10-14",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP4",
-          "publication": "2020-10-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "New Mutants #13",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-04-hellions-new-mutants-cable"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/new-mutants-13-x-of-swords-chapter-7/4000-810730/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "cable-05-xop4",
-      "title": "Cable #05",
-      "runTitle": "Cable",
-      "publisher": "Marvel",
-      "writers": [
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Phil Noto"
-      ],
-      "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-10-14",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP4",
-          "publication": "2020-10-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Cable #05",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-04-hellions-new-mutants-cable"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/cable-5-x-of-swords-chapter-8/4000-810724/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "excalibur-13-xop5",
-      "title": "Excalibur #13",
-      "runTitle": "Excalibur",
-      "publisher": "Marvel",
-      "writers": [
-        "Tini Howard"
-      ],
-      "artists": [
-        "R. B. Silva"
-      ],
-      "colorists": [
-        "Nolan Woodard"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-21",
-      "decade": "2020-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "X of Panels",
@@ -7754,588 +5874,81 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Excalibur #13",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-05-family-feuds"
+          "rawTitle": "Excalibur #13 // X-Men #13",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/excalibur-13-x-of-swords-chapter-9/4000-813279/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
-      "id": "x-men-13-xop5",
-      "title": "X-Men #13",
-      "runTitle": "X-Men",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Mahmud A. Asrar"
-      ],
-      "colorists": [
-        "Sunny Gho"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-21",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP5",
-          "publication": "2020-10-26",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Men #13",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-05-family-feuds"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-men-13-x-of-swords-chapter-10/4000-813291/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-of-swords-stasis-01-xop6",
-      "title": "X of Swords: Stasis #01",
-      "runTitle": "X of Swords: Stasis",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman",
-        "Tini Howard"
-      ],
-      "artists": [
-        "Mahmud A. Asrar",
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-10-28",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP6",
-          "publication": "2020-11-02",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X of Swords: Stasis #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-06-stasis"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-of-swords-stasis-1-x-of-swords-chapter-11/4000-814483/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-men-14-xop7",
-      "title": "X-Men #14",
-      "runTitle": "X-Men",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Leinil Francis Yu",
-        "Mahmud A. Asrar"
-      ],
-      "colorists": [
-        "Sunny Gho"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-04",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP7",
-          "publication": "2020-11-10",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Men #14",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-07-no-shame"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-men-14-x-of-swords-chapter-12/4000-816456/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "marauders-14-xop7",
-      "title": "Marauders #14",
-      "runTitle": "Marauders",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy",
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Stefano Caselli"
-      ],
-      "colorists": [
-        "Edgar Delgado"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-04",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP7",
-          "publication": "2020-11-10",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Marauders #14",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-07-no-shame"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/marauders-14-x-of-swords-chapter-13/4000-816455/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "marauders-15-xop8",
-      "title": "Marauders #15",
-      "runTitle": "Marauders",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy",
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Stefano Caselli"
-      ],
-      "colorists": [
-        "Edgar Delgado"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-11",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP8",
-          "publication": "2020-11-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Marauders #15",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-08-upside-down"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/marauders-15-x-of-swords-chapter-14/4000-817705/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "excalibur-14-xop8",
-      "title": "Excalibur #14",
-      "runTitle": "Excalibur",
-      "publisher": "Marvel",
-      "writers": [
-        "Tini Howard"
-      ],
-      "artists": [
-        "Phil Noto"
-      ],
+      "id": "excalibur-15-x-men-15-x-of-swords-destruction",
+      "title": "Excalibur #15 // X-Men #15 // X of Swords: Destruction",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-11-11",
-      "decade": "2020-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "X of Panels",
-          "number": "XoP8",
-          "publication": "2020-11-16",
+          "number": "XoP10",
+          "publication": "2020-11-30",
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Excalibur #14",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-08-upside-down"
+          "rawTitle": "Excalibur #15 // X-Men #15 // X of Swords: Destruction",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/excalibur-14-x-of-swords-chapter-15/4000-817704/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
-      "id": "wolverine-07-xop8",
-      "title": "Wolverine #07",
-      "runTitle": "Wolverine",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy",
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Joshua Cassara"
-      ],
-      "colorists": [
-        "Guru-eFX"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-11",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP8",
-          "publication": "2020-11-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Wolverine #07",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-08-upside-down"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/wolverine-7-x-of-swords-chapter-16/4000-817706/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-force-14-xop9",
-      "title": "X-Force #14",
-      "runTitle": "X-Force",
-      "publisher": "Marvel",
-      "writers": [
-        "Benjamin Percy",
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Joshua Cassara"
-      ],
-      "colorists": [
-        "Guru-eFX"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-18",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP9",
-          "publication": "2020-11-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Force #14",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-09-last-stand"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-force-14-x-of-swords-chapter-17/4000-819097/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellions-06-xop9",
-      "title": "Hellions #06",
-      "runTitle": "Hellions",
-      "publisher": "Marvel",
-      "writers": [
-        "Zeb Wells"
-      ],
-      "artists": [
-        "Carmen Nunez Carnero"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-18",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP9",
-          "publication": "2020-11-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellions #06",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-09-last-stand"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellions-6-x-of-swords-chapter-18/4000-819096/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "cable-06-xop9",
-      "title": "Cable #06",
-      "runTitle": "Cable",
-      "publisher": "Marvel",
-      "writers": [
-        "Gerry Duggan"
-      ],
-      "artists": [
-        "Phil Noto"
-      ],
+      "id": "excalibur-21-x-men-21-children-of-the-atom-04",
+      "title": "Excalibur #21 // X-Men #21 // Children of the Atom #04",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-11-18",
-      "decade": "2020-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
-          "podcast": "X of Panels",
-          "number": "XoP9",
-          "publication": "2020-11-24",
+          "podcast": "Hellfire Panels",
+          "number": "HP2",
+          "publication": "2021-06-14",
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Cable #06",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-09-last-stand"
+          "rawTitle": "Excalibur #21 // X-Men #21 // Children of the Atom #04",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/cable-6-x-of-swords-chapter-19/4000-819095/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "excalibur-15-xop10",
-      "title": "Excalibur #15",
-      "runTitle": "Excalibur",
-      "publisher": "Marvel",
-      "writers": [
-        "Tini Howard"
-      ],
-      "artists": [
-        "Mahmud A. Asrar",
-        "Stefano Caselli"
-      ],
-      "colorists": [
-        "Rachelle Rosenberg",
-        "Sunny Gho"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-25",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP10",
-          "publication": "2020-11-30",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Excalibur #15",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-10-destruction"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/excalibur-15-x-of-swords-chapter-21/4000-819478/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-men-15-xop10",
-      "title": "X-Men #15",
-      "runTitle": "X-Men",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Mahmud A. Asrar"
-      ],
-      "colorists": [
-        "Sunny Gho"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-25",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP10",
-          "publication": "2020-11-30",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X-Men #15",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-10-destruction"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-men-15-x-of-swords-chapter-20/4000-819479/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "x-of-swords-destruction-01-xop10",
-      "title": "X of Swords: Destruction #01",
-      "runTitle": "X of Swords: Destruction",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman",
-        "Tini Howard"
-      ],
-      "artists": [
-        "Pepe Larraz"
-      ],
-      "colorists": [
-        "Marte Gracia"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-11-25",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "X of Panels",
-          "number": "XoP10",
-          "publication": "2020-11-30",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "X of Swords: Destruction #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/x-of-panels-10-destruction"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/x-of-swords-destruction-1-x-of-swords-chapter-22/4000-819480/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "extremity",
@@ -8363,8 +5976,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Extremity",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-adskaya-pazhnina"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8400,12 +6012,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "88",
           "publication": "2024-09-24",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 88: Перевернуть настоящее",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Faceless and the Family",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-88-perevernut-nastoyashhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8447,8 +6058,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Faithless",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-55-klatrio"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8486,7 +6096,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M3",
           "publication": "2022-01-29",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #03: Our Encounters with Evil // Falconspeare",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Falconspeare",
@@ -8532,8 +6142,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Farmhand",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-39-warning"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8544,6 +6153,46 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/farmhand/4050-116498/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "fearless-dawn-meets-hellboy",
+      "title": "Fearless Dawn Meets Hellboy",
+      "runTitle": "Fearless Dawn Meets Hellboy",
+      "publisher": "Exploding Albatross Funnybooks",
+      "writers": [
+        "Mike Mignola",
+        "Steve Mannion"
+      ],
+      "artists": [
+        "Mike Mignola",
+        "Steve Mannion"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-09-16",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M20",
+          "publication": "2026-07-12",
+          "episodeTitle": "Amazing Screw-On Podcast #20: ZombieWorld // Grim Death and Bill the Electrocuted Criminal",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Fearless Dawn Meets Hellboy",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/fearless-dawn-meets-hellboy/4050-130313/"
         }
       ],
       "status": "verified",
@@ -8573,8 +6222,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Fearscape",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-42-dushnota"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8610,7 +6258,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Лайт",
           "number": "L2",
           "publication": "2025-10-24",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 02: Feeding Ghosts",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Feeding Ghosts: A Graphic Memoir",
@@ -8652,12 +6300,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "92",
           "publication": "2024-12-30",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 92: Дебри подсознания",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Final Cut",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-92-debri-podsoznaniya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8699,8 +6346,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Fire Power",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-63-ambitsiozniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8739,13 +6385,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP9",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2022-12-29",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Fish-Man Island / Chapters #598-653",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-07-fish-man-island"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8785,8 +6430,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Flavor",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-23-kushat-podano"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8828,8 +6472,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Folklords",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-55-klatrio"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8852,11 +6495,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M12",
           "publication": "2024-03-23",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #12: Web of Wyrd // Giant Robot Hellboy // Four Gathered",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Four Gathered on Christmas Eve"
+          "rawTitle": "Four Gathered on Christmas Eve",
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -8894,50 +6537,6 @@ window.__NA_PANELI_COMICS__ = {
       "status": "verified"
     },
     {
-      "id": "frankenstein-new-world-the-sea-of-forever",
-      "title": "Frankenstein: New World—The Sea of Forever",
-      "runTitle": "Frankenstein: New World—The Sea of Forever",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola",
-        "Tom Sniegoski"
-      ],
-      "artists": [
-        "Peter Bergting"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2025,
-      "startDate": "2025-12-02",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M16",
-          "publication": "2025-07-03",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Frankenstein: New World—The Sea of Forever",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/frankenstein-new-world-the-sea-of-forever/4050-171505/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
       "id": "g-i-joe",
       "title": "G.I. Joe",
       "runTitle": "G.I. Joe",
@@ -8963,8 +6562,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "G.I. Joe",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-24-shchas-poneset"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9004,8 +6602,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "G.I. Joe: Sierra Muerte",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-37-zhuliki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9041,7 +6638,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR19",
           "publication": "2022-09-16",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 19: Garlic and the Vampire",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Garlic and the Vampire",
@@ -9056,50 +6653,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/garlic-and-the-vampire/4050-139213/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "generations-the-unworthy-thor-and-the-mighty-thor",
-      "title": "Generations: The Unworthy Thor & The Mighty Thor",
-      "url": "https://comicvine.gamespot.com/generations-the-unworthy-thor-the-mighty-thor/4050-103605/",
-      "runTitle": "Generations: The Unworthy Thor & The Mighty Thor",
-      "publisher": "Marvel",
-      "writers": [
-        "Jason Aaron"
-      ],
-      "artists": [
-        "Mahmud A. Asrar"
-      ],
-      "colorists": [
-        "Jordie Bellaire"
-      ],
-      "startYear": 2017,
-      "startDate": "2017-08-23",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "14",
-          "publication": "2018-06-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Generations: The Unworthy Thor & The Mighty Thor",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/generations-the-unworthy-thor-the-mighty-thor/4050-103605/"
         }
       ],
       "status": "verified",
@@ -9128,12 +6681,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "83",
           "publication": "2024-02-29",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 83: Бессилие",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Gentlemind",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-83-bessilie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9176,8 +6728,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Ghost Tree",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-54-osmos-i-kosmos"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9215,11 +6766,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M12",
           "publication": "2024-03-23",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #12: Web of Wyrd // Giant Robot Hellboy // Four Gathered",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Giant Robot Hellboy"
+          "rawTitle": "Giant Robot Hellboy",
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9257,12 +6808,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "82",
           "publication": "2024-02-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 82: После смерти",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Giga",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-82-posle-smerti"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9320,19 +6870,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "glass-town",
-      "title": "Glass Town: The Imaginary World of the Brontës",
-      "runTitle": "Glass Town: The Imaginary World of the Brontës",
-      "publisher": "Harry N. Abrams",
-      "writers": [
-        "Isabel Greenberg"
-      ],
-      "artists": [
-        "Isabel Greenberg"
-      ],
+      "title": "Glass Town",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-03-11",
-      "decade": "2020-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -9342,64 +6889,16 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Glass Town",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-71-strakhi-i-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/glass-town-the-imaginary-world-of-the-brontes/4050-125578/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "gawains-girlfriend-and-the-green-knight",
-      "title": "Gawain's Girlfriend and the Green Knight",
-      "runTitle": "Gawain's Girlfriend and the Green Knight",
-      "publisher": "Webtoon",
-      "writers": [
-        "Polly Guo"
-      ],
-      "artists": [
-        "Polly Guo"
-      ],
-      "colorists": [],
-      "startYear": 2015,
-      "startDate": "2015-12-12",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "71",
-          "publication": "2022-02-15",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Общая заявка",
-          "rawTitle": "Gawain's Girlfriend and the Green Knight",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-71-strakhi-i-travmy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "itch.io",
-          "url": "https://pollyguo.itch.io/gawains-girlfriend"
-        }
-      ],
-      "url": "https://pollyguo.itch.io/gawains-girlfriend",
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "go-bots",
@@ -9425,8 +6924,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Go-Bots",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-34-love-death-and-go-bots"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9466,8 +6964,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Godshaper",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-12-carpe-diem"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9482,6 +6979,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "gold",
+      "title": "Gold",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP13",
+          "publication": "2023-07-13",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Gold",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "gone",
@@ -9507,12 +7036,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "94",
           "publication": "2025-03-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 94: Дистиллерия",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Gone",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-94-distilleriya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9552,8 +7080,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Grass Kings",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-41-going-native"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9591,12 +7118,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "78",
           "publication": "2023-08-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 78: Темные лошадки",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Great British Bump-Off",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-78-temnye-loshadki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9632,12 +7158,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "81",
           "publication": "2023-11-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 81: Чевапчичи",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Grim",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-81-chevapchichi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9675,12 +7200,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "88",
           "publication": "2024-09-24",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 88: Перевернуть настоящее",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Grip of the Kombinat",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-88-perevernut-nastoyashhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9720,8 +7244,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Habitat",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-05-the-death-of-starlin"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9762,8 +7285,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Harrow County",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-32-klub-polunochnikov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9803,8 +7325,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Heck",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-final"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9846,8 +7367,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Hedra",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-58-nuff-said"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -9864,1002 +7384,397 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "hellboy-krampusnacht",
-      "title": "Hellboy: Krampusnacht",
-      "runTitle": "Hellboy: Krampusnacht",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Adam Hughes"
-      ],
-      "colorists": [
-        "Adam Hughes"
-      ],
-      "startYear": 2017,
-      "startDate": "2017-12-20",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy: Krampusnacht"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-krampusnacht/4050-107150/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-the-beast-of-vargu",
-      "title": "Hellboy and the B.P.R.D.: The Beast of Vargu",
-      "runTitle": "Hellboy and the B.P.R.D.: The Beast of Vargu",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Duncan Fegredo"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-06-19",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: The Beast of Vargu"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-beast-of-vargu/4050-119754/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-the-secret-god-of-the-roma",
-      "title": "Hellboy and the B.P.R.D.: The Secret God of the Roma",
-      "runTitle": "Hellboy and the B.P.R.D.: The Beast of Vargu",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Duncan Fegredo"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-06-19",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: The Secret God of the Roma"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-beast-of-vargu-1-the-secr/4000-711844/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-long-night-at-goloski-station",
-      "title": "Hellboy and the B.P.R.D.: Long Night at Goloski Station",
-      "runTitle": "Hellboy and the B.P.R.D.: Long Night at Goloski Station",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Matt Smith (US)"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-10-30",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: Long Night at Goloski Station"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-long-night-at-goloski-station/4050-122465/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-the-misers-gift",
-      "title": "Hellboy: The Miser's Gift",
-      "runTitle": "Hellboy Winter Special 2019",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola",
-        "Scott Allie"
-      ],
-      "artists": [
-        "Andrea Mutti",
-        "Leila del Duca",
-        "Mark Laszlo"
-      ],
-      "colorists": [
-        "Dave Stewart",
-        "Lee Loughridge",
-        "Michelle Madsen"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-01-15",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy: The Miser's Gift"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-winter-special-2019-1-the-misers-gift-the-/4000-733718/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-the-return-of-effie-kolb",
-      "title": "Hellboy and the B.P.R.D.: The Return of Effie Kolb",
-      "runTitle": "Hellboy and the B.P.R.D.: The Return of Effie Kolb",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Zach Howard"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-02-19",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: The Return of Effie Kolb"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-return-of-effie-kolb/4050-125130/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-the-seven-wives-club",
-      "title": "Hellboy and the B.P.R.D.: The Seven Wives Club",
-      "runTitle": "Hellboy and the B.P.R.D.: The Seven Wives Club",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Adam Hughes"
-      ],
-      "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-11-11",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: The Seven Wives Club"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-seven-wives-club/4050-131862/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-her-fatal-hour",
-      "title": "Hellboy and the B.P.R.D.: Her Fatal Hour",
-      "runTitle": "Hellboy and the B.P.R.D.: Her Fatal Hour and the Sending",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Tiernen Trevallion"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-12-02",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: Her Fatal Hour"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-her-fatal-hour-and-the-sendin/4000-820119/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-the-sending",
-      "title": "Hellboy and the B.P.R.D.: The Sending",
-      "runTitle": "Hellboy and the B.P.R.D.: Her Fatal Hour and the Sending",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Tiernen Trevallion"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-12-02",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M0",
-          "publication": "2021-09-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: The Sending"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-her-fatal-hour-and-the-sendin/4000-820119/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-night-of-the-cyclops",
-      "title": "Hellboy and the B.P.R.D.: Night of the Cyclops",
-      "runTitle": "Hellboy and the B.P.R.D.: Night of the Cyclops",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola",
-        "Olivier Vatine"
-      ],
-      "artists": [
-        "Olivier Vatine"
-      ],
-      "colorists": [
-        "Olivier Vatine"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-05-25",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M7",
-          "publication": "2023-02-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-night-of-the-cyclops/4050-143122/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-old-man-whittier",
-      "title": "Hellboy and the B.P.R.D.: Old Man Whittier",
-      "runTitle": "Hellboy and the B.P.R.D.: Old Man Whittier",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Gabriel Hernandez Walta"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-06-29",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M7",
-          "publication": "2023-02-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-old-man-whittier/4050-143914/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-time-is-a-river",
-      "title": "Hellboy and the B.P.R.D.: Time Is a River",
-      "runTitle": "Hellboy and the B.P.R.D.: Time is a River",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Mark Laszlo"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-07-20",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M7",
-          "publication": "2023-02-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-time-is-a-river/4050-144141/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "axorr-slayer-of-demons",
-      "title": "Axorr, Slayer of Demons",
-      "runTitle": "The Amazing Screw-On Head and Other Curious Objects (Anniversary Edition)",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Katie Mignola",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Mike Mignola"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-07-26",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M7",
-          "publication": "2023-02-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-amazing-screw-on-head-and-other-curious-object/4050-144429/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-1957-fallen-sky",
-      "title": "Hellboy and the B.P.R.D.: 1957 - Falling Sky",
-      "runTitle": "Hellboy And The B.P.R.D.: 1957 - Falling Sky",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Shawn Martinbrough"
-      ],
-      "colorists": [
-        "Lee Loughridge"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-08-10",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Falling Sky"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-falling-sky-1/4000-941528/"
-        }
-      ],
-      "status": "verified",
+      "id": "hellboy-and-the-b-p-r-d-2020-one-shots-by-mignola",
+      "title": "Hellboy and the B.P.R.D. 2020 One-shots by Mignola",
       "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-falling-sky-1/4000-941528/",
-      "reviewNote": ""
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M0",
+          "publication": "2021-10-21",
+          "episodeTitle": "Amazing Screw-On Podcast #00: Welcome Back",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D. 2020 One-shots by Mignola",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
-      "id": "hellboy-and-the-b-p-r-d-1957-family-ties",
-      "title": "Hellboy and the B.P.R.D.: 1957 - Family Ties",
-      "runTitle": "Hellboy and the B.P.R.D.: Family Ties",
+      "id": "hellboy-and-the-b-p-r-d-2022-one-shots-by-mignola",
+      "title": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M7",
+          "publication": "2023-02-07",
+          "episodeTitle": "Amazing Screw-On Podcast #07: Hellboy and the B.P.R.D. // Radio Spaceman // Leonide the Vampyr",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D. 2022 One-shots by Mignola",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "hellboy-and-the-bprd-professor-harvey-is-gone",
+      "title": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+      "runTitle": "Hellboy and the B.P.R.D.: Professor Harvey is Gone",
       "publisher": "Dark Horse Comics",
       "writers": [
-        "Chris Roberson",
         "Mike Mignola"
+      ],
+      "artists": [
+        "Giuseppe Manunta"
+      ],
+      "colorists": [
+        "Giuseppe Manunta"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-08-27",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-professor-harvey-is-gone/4050-166448/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-and-the-bprd-the-ghost-ships-of-labrador",
+      "title": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+      "runTitle": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Mike Mignola",
+        "Rob Williams"
       ],
       "artists": [
         "Laurence Campbell"
       ],
       "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-09-15",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Family Ties"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-family-ties-1/4000-884933/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-family-ties-1/4000-884933/",
-      "reviewNote": ""
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-1957-fearful-symmetry",
-      "title": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry",
-      "runTitle": "Hellboy and the B.P.R.D.: Fearful Symmetry",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Alison Sampson"
-      ],
-      "colorists": [
         "Lee Loughridge"
       ],
-      "startYear": 2023,
-      "startDate": "2023-06-28",
+      "startYear": 2025,
+      "startDate": "2025-11-12",
       "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Fearful Symmetry"
+          "rawTitle": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-fearful-symmetry-1/4000-997764/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-fearful-symmetry-1/4000-997764/",
-      "reviewNote": ""
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-1957-forgotten-lives",
-      "title": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives",
-      "runTitle": "Hellboy and the B.P.R.D.: 1957: Forgotten Lives",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Stephen Green"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-02-09",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - Forgotten Lives"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-forgotten-lives-1/4000-907086/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-forgotten-lives-1/4000-907086/",
-      "reviewNote": ""
-    },
-    {
-      "id": "hellboy-and-the-b-p-r-d-1957-from-below",
-      "title": "Hellboy and the B.P.R.D.: 1957 - From Below",
-      "runTitle": "Hellboy and the B.P.R.D.: 1957 - From Below",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Mike Norton"
-      ],
-      "colorists": [
-        "Dave Stewart",
-        "Lee Loughridge"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-08-02",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy and the B.P.R.D.: 1957 - From Below"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-from-below-1/4000-1005528/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-1957-from-below-1/4000-1005528/",
-      "reviewNote": ""
-    },
-    {
-      "id": "hellboy-in-love-goblin-night",
-      "title": "Hellboy in Love: Goblin Night",
-      "runTitle": "Hellboy in Love",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Matt Smith (US)"
-      ],
-      "colorists": [
-        "Chris O'Halloran"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-10-19",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy in Love: Goblin Night"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-in-love-1-goblin-night-part-1-of-2/4000-951501/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-in-love-1-goblin-night-part-1-of-2/4000-951501/",
-      "reviewNote": ""
-    },
-    {
-      "id": "hellboy-in-love-shadow-theater",
-      "title": "Hellboy in Love: Shadow Theater",
-      "runTitle": "Hellboy in Love",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden"
-      ],
-      "artists": [
-        "Matt Smith (US)"
-      ],
-      "colorists": [
-        "Chris O'Halloran"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-02-22",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy in Love: Shadow Theater"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-in-love-3-shadow-theater-part-1-of-2/4000-973285/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-in-love-3-shadow-theater-part-1-of-2/4000-973285/",
-      "reviewNote": ""
-    },
-    {
-      "id": "hellboy-in-love-the-key-to-it-all",
-      "title": "Hellboy in Love: The Key to It All",
-      "runTitle": "Hellboy in Love",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Matt Smith (US)"
-      ],
-      "colorists": [
-        "Chris O'Halloran"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-07-12",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M10",
-          "publication": "2023-08-07",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy in Love: The Key to It All"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-in-love-5-the-key-to-it-all/4000-1000256/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/hellboy-in-love-5-the-key-to-it-all/4000-1000256/",
-      "reviewNote": ""
-    },
-    {
-      "id": "hellboy-the-fortune-teller",
-      "title": "Hellboy: The Fortune Teller",
-      "url": "https://comicvine.gamespot.com/free-comic-book-day-2024-general-1-the-fortune-tel/4000-1055270/",
-      "runTitle": "Free Comic Book Day 2024: General",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Mark Laszlo"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2024,
-      "startDate": "2024-05-08",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M15",
-          "publication": "2025-03-26",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy: The Fortune Teller"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/free-comic-book-day-2024-general-1-the-fortune-tel/4000-1055270/"
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-ghost-ships-of-labrador/4050-168409/"
         }
       ],
       "status": "verified",
       "kind": "comic"
     },
     {
-      "id": "hellboy-the-yule-cat",
+      "id": "hellboy-and-the-bprd-the-monster-of-nivola",
+      "title": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+      "runTitle": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Daniele Serra"
+      ],
+      "colorists": [
+        "Daniele Serra"
+      ],
+      "startYear": 2026,
+      "startDate": "2026-06-24",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
-          "number": "M12",
-          "publication": "2024-03-23",
-          "episodeTitle": "",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Hellboy: The Yule Cat"
+          "rawTitle": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-monster-of-nivola/4050-173279/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-in-love",
+      "title": "Hellboy in Love",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M10",
+          "publication": "2023-08-07",
+          "episodeTitle": "Amazing Screw-On Podcast #10: 1957 // Hellboy in Love",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy in Love",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-winter-special-the-yule-cat/4050-155170/"
         }
       ],
-      "kind": "comic",
-      "title": "Hellboy: The Yule Cat",
-      "url": "https://comicvine.gamespot.com/hellboy-winter-special-the-yule-cat/4050-155170/",
-      "runTitle": "Hellboy Winter Special: The Yule Cat",
+      "status": "needs-review"
+    },
+    {
+      "id": "hellboy-in-love-black-eyes",
+      "title": "Hellboy in Love: Black Eyes",
+      "runTitle": "Hellboy in Love: Black Eyes",
       "publisher": "Dark Horse Comics",
       "writers": [
-        "Matt Smith (US)"
+        "Christopher Golden",
+        "Mike Mignola"
       ],
       "artists": [
-        "Matt Smith (US)"
+        "Alex Nieto"
       ],
       "colorists": [
-        "Chris O'Halloran"
+        "Alex Nieto"
       ],
-      "startYear": 2023,
-      "startDate": "2023-12-06",
+      "startYear": 2026,
+      "startDate": "2026-04-29",
       "decade": "2020-е",
-      "status": "verified"
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy in Love: Black Eyes",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-black-eyes/4050-171688/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-in-love-obsidian",
+      "title": "Hellboy in Love: Obsidian",
+      "runTitle": "Hellboy in Love: Obsidian",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Michael Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Alex Nieto"
+      ],
+      "colorists": [
+        "Alex Nieto"
+      ],
+      "startYear": 2026,
+      "startDate": "2026-06-17",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy in Love: Obsidian",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-obsidian/4050-173108/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellboy-in-love-the-art-of-fire",
+      "title": "Hellboy in Love: The Art of Fire",
+      "runTitle": "Hellboy in Love: The Art of Fire",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Alex Nieto"
+      ],
+      "colorists": [
+        "Alex Nieto"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-08-06",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M21",
+          "publication": "2026-09-16",
+          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellboy in Love: The Art of Fire",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hellboy-in-love-the-art-of-fire/4050-166138/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "hellions-05-new-mutants-13-cable-05",
+      "title": "Hellions #05 // New Mutants #13 // Cable #05",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP4",
+          "publication": "2020-10-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hellions #05 // New Mutants #13 // Cable #05",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "hello-darkness",
+      "title": "Hello Darkness",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "99",
+          "publication": "2026-11-24",
+          "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "Hello Darkness",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "heroes-in-crisis",
@@ -10887,8 +7802,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Heroes in Crisis",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-38-podcast-in-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -10903,6 +7817,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "hickman-s-departure",
+      "title": "Hickman's Departure",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Inferno Panels",
+          "number": "IP0",
+          "publication": "2021-09-29",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Hickman's Departure",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "home-sick-pilots",
@@ -10928,8 +7874,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Home Sick Pilots",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-67-trick-or-treat"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -10966,12 +7911,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "78",
           "publication": "2023-08-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 78: Темные лошадки",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Hound",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-78-temnye-loshadki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -10986,50 +7930,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "hound-dog",
-      "title": "Hound Dog",
-      "runTitle": "",
-      "publisher": "Denoël",
-      "writers": [
-        "Nicolas Pegon"
-      ],
-      "artists": [
-        "Nicolas Pegon"
-      ],
-      "colorists": [
-        "Nicolas Pegon"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-04-13",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "96",
-          "publication": "2025-05-22",
-          "episodeTitle": "",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега",
-          "rawTitle": "Hound Dog",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-96-big-in-tula"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Denoël",
-          "url": "https://www.denoel.fr/catalogue/hound-dog/9782207159064"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://www.denoel.fr/catalogue/hound-dog/9782207159064"
     },
     {
       "id": "house-of-women",
@@ -11055,8 +7955,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "House of Women",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-20-dva-doma"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11071,6 +7970,198 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "house-of-x-01",
+      "title": "House of X [01]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX1",
+          "publication": "2019-07-29",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X [01]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "house-of-x-02",
+      "title": "House of X [02]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX3",
+          "publication": "2019-08-12",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X [02]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "house-of-x-03",
+      "title": "House of X [03]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX6",
+          "publication": "2019-09-02",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X [03]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "house-of-x-04",
+      "title": "House of X [04]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX7",
+          "publication": "2019-09-09",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X [04]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "house-of-x-05",
+      "title": "House of X [05]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX9",
+          "publication": "2019-09-23",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X [05]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "house-of-x-06",
+      "title": "House of X [06]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX11",
+          "publication": "2019-10-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "House of X [06]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "houses-of-the-unholy",
@@ -11094,12 +8185,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "90",
           "publication": "2024-11-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 90: Аэропортное чтиво",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Houses of the Unholy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-90-aeroportnoe-chtivo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11139,8 +8229,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Human",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-56-cancel-humanity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11181,8 +8270,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Hungry Ghosts",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-23-kushat-podano"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11246,8 +8334,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Hunters",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-21-pod-pokrovom-nochi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11285,12 +8372,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "81",
           "publication": "2023-11-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 81: Чевапчичи",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "I Am... Iron Man",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-81-chevapchichi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11301,6 +8387,48 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/i-am-iron-man/4050-148666/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "i-hate-fairyland-42",
+      "title": "I Hate Fairyland #42",
+      "runTitle": "I Hate Fairyland",
+      "publisher": "Image",
+      "writers": [
+        "Skottie Young"
+      ],
+      "artists": [
+        "Derek Laufman"
+      ],
+      "colorists": [
+        "Jean-Francois Beaulieu"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-07-09",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "I Hate Fairyland #42",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Image Comics",
+          "url": "https://imagecomics.com/comics/releases/i-hate-fairyland-42"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/i-hate-fairyland-42/4000-1119172/"
         }
       ],
       "status": "verified",
@@ -11326,12 +8454,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "75",
           "publication": "2023-05-23",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 75: Долгострой",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "I'm Still Alive",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-75-dolgostroj"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11373,8 +8500,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Ice Cream Man",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-39-warning"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11414,8 +8540,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "If You Steal",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-15-jason"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11451,12 +8576,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "80",
           "publication": "2023-10-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 80: Вспомнить всё",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Immortal Sergeant",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-80-vspomnit-vsyo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11495,13 +8619,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP7",
-          "episodeTitle": "Пять лет подкасту! (Gol D. Panels)",
           "publication": "2022-11-21",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Impel Down / Chapters #490-549",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-06-part-1-impel-down"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11538,12 +8661,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "92",
           "publication": "2024-12-30",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 92: Дебри подсознания",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "In Utero",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-92-debri-podsoznaniya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11585,8 +8707,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Infamous Iron Man",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-26-les-miserables"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11604,21 +8725,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "inferno-01",
-      "title": "Inferno #01",
-      "runTitle": "Inferno",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Valerio Schiti"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-09-29",
-      "decade": "2020-е",
+      "title": "Inferno [01]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -11627,41 +8743,30 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/inferno-panels-01-someone-remembers"
+          "rawTitle": "Inferno [01]",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/inferno-1/4000-886937/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "inferno-02",
-      "title": "Inferno #02",
-      "runTitle": "Inferno",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Stefano Caselli"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-10-27",
-      "decade": "2020-е",
+      "title": "Inferno [02]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -11670,44 +8775,30 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno #02",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/inferno-panels-02-what-i-really-am"
+          "rawTitle": "Inferno [02]",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/inferno-2/4000-891562/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "inferno-03",
-      "title": "Inferno #03",
-      "runTitle": "Inferno",
-      "publisher": "Marvel",
-      "writers": [
-        "Jonathan Hickman"
-      ],
-      "artists": [
-        "Adriano Di Benedetto",
-        "R. B. Silva",
-        "Stefano Caselli",
-        "Valerio Schiti"
-      ],
-      "colorists": [
-        "David Curiel"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-12-08",
-      "decade": "2020-е",
+      "title": "Inferno [03]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -11716,42 +8807,30 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno #03",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/inferno-panels-03-different-history-of-the-world"
+          "rawTitle": "Inferno [03]",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/inferno-3/4000-897331/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "inferno-04",
-      "title": "Inferno #04",
-      "runTitle": "Legion of Super-Heroes",
-      "publisher": "DC Comics",
-      "writers": [
-        "Brian Michael Bendis"
-      ],
-      "artists": [
-        "Ryan Sook",
-        "Wade von Grawbadger"
-      ],
-      "colorists": [
-        "Jordie Bellaire"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-11-06",
-      "decade": "2010-е",
+      "title": "Inferno [04]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "Inferno Panels",
@@ -11760,23 +8839,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Inferno #04",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/inferno-panels-04-the-death-of-moira-x"
+          "rawTitle": "Inferno [04]",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/legion-of-super-heroes/4050-122626/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "infinite-crisis",
@@ -11807,8 +8880,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Infinite Crisis",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-02-infinite"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11850,8 +8922,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Injection",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-02-girl-power"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11862,50 +8933,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/injection/4050-81986/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "inside-the-mind-of-sherlock-holmes",
-      "title": "Inside the Mind of Sherlock Holmes",
-      "runTitle": "Inside the Mind of Sherlock Holmes",
-      "publisher": "Titan Comics",
-      "writers": [
-        "Benoit Dahan",
-        "Cyril Liéron"
-      ],
-      "artists": [
-        "Benoit Dahan"
-      ],
-      "colorists": [
-        "Benoit Dahan"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-11-14",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "96",
-          "publication": "2025-05-22",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "Inside the Mind of Sherlock Holmes",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-96-big-in-tula"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/inside-the-mind-of-sherlock-holmes/4050-154818/"
         }
       ],
       "status": "verified",
@@ -11939,8 +8966,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Into the Silent Sea",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -11980,8 +9006,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Invisible Kingdom",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-54-osmos-i-kosmos"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12023,8 +9048,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "It Will All Hurt",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-43-farel-dalrymple"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12042,19 +9066,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "it-s-a-good-life-if-you-don-t-weaken",
-      "title": "It's a Good Life if You Don't Weaken",
-      "runTitle": "It's a Good Life if You Don't Weaken",
-      "publisher": "Drawn & Quarterly",
-      "writers": [
-        "Seth"
-      ],
-      "artists": [
-        "Seth"
-      ],
+      "title": "It's a Good Life, If You Don't Weaken",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 1996,
-      "startDate": "1996-09-01",
-      "decade": "1990-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -12063,23 +9084,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "It's a Good Life if You Don't Weaken",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-05-kontrastnost"
+          "rawTitle": "It's a Good Life, If You Don't Weaken",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/its-a-good-life-if-you-dont-weaken/4050-23143/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "it-s-jeff",
@@ -12101,7 +9116,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR21",
           "publication": "2022-10-27",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 21: It's Jeff!",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "It's Jeff!",
@@ -12143,12 +9158,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "89",
           "publication": "2024-10-10",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 89: Нагой снобизм",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "It's Lonely at the Centre of the Earth",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-89-nagoj-snobizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12166,22 +9180,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "jack-kirby-s-o-m-a-c-one-man-army-corps",
-      "title": "OMAC",
-      "runTitle": "OMAC",
-      "publisher": "DC Comics",
-      "writers": [
-        "Jack Kirby"
-      ],
-      "artists": [
-        "Jack Kirby",
-        "Michael Royer"
-      ],
-      "colorists": [
-        "Jerry Serpe"
-      ],
-      "startYear": 1974,
-      "startDate": "1974-06-18",
-      "decade": "1970-е",
+      "title": "Jack Kirby's O.M.A.C.: One Man Army Corps",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -12190,23 +9198,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
-          "rawTitle": "OMAC",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-staromodniy"
+          "rawTitle": "Jack Kirby's O.M.A.C.: One Man Army Corps",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/omac/4050-2665/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "jawbreakers",
@@ -12237,8 +9239,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Jawbreakers",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-16-superbad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12280,8 +9281,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Jean Grey",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-02-girl-power"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12319,12 +9319,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "77",
           "publication": "2023-08-01",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 77: Четыре всадника Постапокалипсиса",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Joe Death and the Graven Image",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-77-chetyre-vsadnika-postapokalipsisa"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12363,12 +9362,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "76",
           "publication": "2023-06-15",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 76: BG2 Narrative Experience",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Joe Fixit",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-76-bg2-narrative-experience"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12406,12 +9404,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "86",
           "publication": "2024-06-18",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 86: Bollocks",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "John Constantine: Hellblazer",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-86-bollocks"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12450,7 +9447,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR11",
           "publication": "2022-06-08",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 11: Jonna and the Unpossible Monsters",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Jonna and the Unpossible Monsters",
@@ -12494,8 +9491,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Judas",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-26-les-miserables"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12538,8 +9534,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Justice League",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-29-sky-burial"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12584,8 +9579,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Kane & Able",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-71-strakhi-i-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12627,8 +9621,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Kaptara",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-space-oddity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12666,12 +9659,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "82",
           "publication": "2024-02-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 82: После смерти",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Karmen",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-82-posle-smerti"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12715,8 +9707,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Kid Lobotomy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-37-zhuliki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12758,8 +9749,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Klaus",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-03-bat-santa"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12777,21 +9767,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "koschei-the-deathless",
-      "title": "Koshchei the Deathless",
-      "runTitle": "Koshchei the Deathless",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Ben Stenbeck"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2018,
-      "startDate": "2018-01-03",
-      "decade": "2010-е",
+      "title": "Koschei the Deathless",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -12800,23 +9785,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
-          "rawTitle": "Koshchei the Deathless",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary"
+          "rawTitle": "Koschei the Deathless",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/koshchei-the-deathless/4050-107506/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "koshchei-in-hell",
@@ -12840,21 +9819,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M9",
           "publication": "2023-04-20",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #09: New World // Koshchei in Hell",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Koshchei in Hell",
           "kind": "comic"
-        },
-        {
-          "podcast": "ASOP",
-          "number": "M15",
-          "publication": "2025-03-26",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Koshchei in Hell"
         }
       ],
       "sources": [
@@ -12894,12 +9863,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "95",
           "publication": "2025-05-06",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 95: Подтекст для трусов",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Kroma",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-95-podtekst-dlya-trusov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12914,6 +9882,122 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "the-daughters-of-medusa",
+      "title": "Lady Baltimore: The Daughters of Medusa",
+      "runTitle": "Lady Baltimore: The Daughters of Medusa",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Bridgit Connell"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2025,
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Lady Baltimore: The Daughters of Medusa",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lady-baltimore-the-daughters-of-medusa/4050-164199/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "startDate": "2025-05-07"
+    },
+    {
+      "id": "lady-baltimore-the-dream-of-ikelos",
+      "title": "Lady Baltimore: The Dream of Ikelos",
+      "runTitle": "Lady Baltimore: The Dream of Ikelos",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Christopher Golden",
+        "Mike Mignola"
+      ],
+      "artists": [
+        "Bridgit Connell"
+      ],
+      "colorists": [
+        "Michelle Madsen"
+      ],
+      "startYear": 2023,
+      "startDate": "2023-03-29",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Lady Baltimore: The Dream of Ikelos",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lady-baltimore-the-dream-of-ikelos/4050-149154/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "the-skinless-man",
+      "title": "Lands Unknown: The Skinless Man",
+      "runTitle": "Lands Unknown: The Skinless Man",
+      "publisher": "Dark Horse Comics",
+      "writers": [
+        "Ben Stenbeck"
+      ],
+      "artists": [
+        "Ben Stenbeck"
+      ],
+      "colorists": [
+        "Dave Stewart"
+      ],
+      "startYear": 2026,
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Lands Unknown: The Skinless Man",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/lands-unknown-the-skinless-man/4050-170819/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic",
+      "startDate": "2026-03-04"
     },
     {
       "id": "last-of-the-atlases",
@@ -12941,8 +10025,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Last of the Atlases",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-69-abstraktniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -12984,8 +10067,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Laura Dean Keeps Breaking Up with Me",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-49-chtenie-na-vybyvanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13028,8 +10110,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Leaving Megalopolis",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-16-superbad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13046,28 +10127,23 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "leonide-the-vampyr-miracle-at-the-crow-s-head",
-      "title": "Leonide the Vampyr: Miracle at the Crow's Head",
-      "runTitle": "Leonide the Vampyr: Miracle at The Crow's Head ",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Rachele Aragno"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-10-05",
-      "decade": "2020-е",
+      "id": "leonide-the-vampyr",
+      "title": "Leonide the Vampyr",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M7",
           "publication": "2023-02-07",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #07: Hellboy and the B.P.R.D. // Radio Spaceman // Leonide the Vampyr",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Leonide the Vampyr",
@@ -13078,57 +10154,47 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/leonide-the-vampyr-miracle-at-the-crows-head/4050-145372/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
-      "id": "leonide-the-vampyr-a-christmas-for-crows",
-      "title": "Leonide the Vampyr: A Christmas for Crows",
-      "runTitle": "Leonide the Vampyr: A Christmas for Crows",
+      "id": "the-house-of-yonda",
+      "title": "Leonide the Vampyr: The House of Yonda",
+      "runTitle": "Leonide the Vampyr: The House of Yonda",
       "publisher": "Dark Horse Comics",
       "writers": [
         "Mike Mignola"
       ],
       "artists": [
-        "Mike Mignola",
         "Rachele Aragno"
       ],
       "colorists": [
         "Dave Stewart"
       ],
-      "startYear": 2022,
-      "startDate": "2022-12-14",
+      "startYear": 2026,
       "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "ASOP",
-          "number": "M7",
-          "publication": "2023-02-07",
-          "episodeTitle": "",
+          "number": "M18",
+          "publication": "2026-07-08",
+          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Leonide the Vampyr",
+          "rawTitle": "Leonide the Vampyr: The House of Yonda",
           "kind": "comic"
         }
       ],
       "sources": [
         {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/leonide-the-vampyr-a-christmas-for-crows/4050-146879/"
+          "url": "https://comicvine.gamespot.com/leonide-the-vampyr-the-house-of-yonda/4050-171021/"
         }
       ],
       "status": "verified",
-      "kind": "comic"
+      "kind": "comic",
+      "startDate": "2026-03-18"
     },
     {
       "id": "liberality-for-all",
@@ -13156,8 +10222,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Liberality for All",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-16-superbad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13196,12 +10261,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На пыльных панелях",
           "number": "D11",
           "publication": "2025-04-03",
-          "episodeTitle": "",
+          "episodeTitle": "«На пыльных панелях». Выпуск 11: Возвращение",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Liberty Meadows",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-11-vozvrashhenie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13241,8 +10305,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Like A Velvet Glove Cast In Iron",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-03-hyperreality"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13284,8 +10347,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Little Bird",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-41-going-native"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13302,22 +10364,81 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
+      "id": "live-action-series-season-1",
+      "title": "Live-Action Series, Season 1",
+      "kind": "series",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP17",
+          "publication": "2023-09-12",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Live-Action Series, Season 1",
+          "kind": "series"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "live-action-series-season-2",
+      "title": "Live-Action Series, Season 2",
+      "kind": "series",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP28",
+          "publication": "2026-03-27",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Live-Action Series, Season 2",
+          "kind": "series"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
       "id": "locke-and-key",
-      "title": "Locke & Key: Welcome to Lovecraft",
-      "runTitle": "Locke & Key: Welcome to Lovecraft",
-      "publisher": "IDW Publishing",
-      "writers": [
-        "Joe Hill"
-      ],
-      "artists": [
-        "Gabriel Rodriguez"
-      ],
-      "colorists": [
-        "Jay Fotos"
-      ],
-      "startYear": 2008,
-      "startDate": "2008-02-20",
-      "decade": "2000-е",
+      "title": "Locke & Key",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На бонусных панелях",
@@ -13326,7 +10447,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Locke & Key: Welcome to Lovecraft",
+          "rawTitle": "Locke & Key",
           "kind": "comic"
         }
       ],
@@ -13334,14 +10455,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/locke-key-welcome-to-lovecraft/4050-20701/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "locke-and-key-the-golden-age",
@@ -13410,8 +10526,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Lodger",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-42-dushnota"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13451,8 +10566,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Lonely Receiver",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-69-abstraktniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13463,6 +10577,46 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/lonely-receiver/4050-135398/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "look-back",
+      "title": "Look Back",
+      "runTitle": "Look Back",
+      "publisher": "Shueisha",
+      "writers": [
+        "Tatsuki Fujimoto"
+      ],
+      "artists": [
+        "Tatsuki Fujimoto"
+      ],
+      "colorists": [],
+      "startYear": 2021,
+      "startDate": "2021-09-03",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "Лайт",
+          "number": "L6",
+          "publication": "2026-10-05",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 06: Look Back",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Look Back",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичный RSS подкаста",
+          "url": "https://podster.fm/rss.xml?pid=39021"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/look-back/4050-138676/"
         }
       ],
       "status": "verified",
@@ -13490,12 +10644,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "91",
           "publication": "2024-11-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 91: Lore Olympus",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Lore Olympus",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-91-lore-olympus"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13535,8 +10688,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Lost Cat",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-15-jason"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13578,8 +10730,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Maestros",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-anyway-i-selderey"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13616,7 +10767,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR8",
           "publication": "2022-05-11",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 08: Malinky Robot",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Malinky Robot",
@@ -13670,8 +10821,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Marathon",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-70-carte-blanche"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13686,6 +10836,70 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "marauders-15-excalibur-14-wolverine-07",
+      "title": "Marauders #15 // Excalibur #14 // Wolverine #07",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP8",
+          "publication": "2020-11-16",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Marauders #15 // Excalibur #14 // Wolverine #07",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "marauders-21-x-force-20-hellions-12",
+      "title": "Marauders #21 // X-Force #20 // Hellions #12",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP1",
+          "publication": "2021-06-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Marauders #21 // X-Force #20 // Hellions #12",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "marineford-chapters-550-597-gol-d-panels-op8",
@@ -13710,13 +10924,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP8",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2022-11-28",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Marineford / Chapters #550-597",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-06-part-2-marineford"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13732,7 +10945,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "marvel-two-in-one-2017",
-      "title": "Marvel Two-In-One",
+      "title": "Marvel Two-in-One",
       "runTitle": "Marvel Two-In-One",
       "publisher": "Marvel",
       "writers": [
@@ -13757,9 +10970,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
-          "rawTitle": "Marvel Two-In-One",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-20-dva-doma"
+          "rawTitle": "Marvel Two-in-One",
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13770,49 +10982,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/marvel-twoinone/4050-107157/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "marvel-two-in-one-annual",
-      "title": "Marvel Two-In-One Annual",
-      "runTitle": "Marvel Two-In-One Annual",
-      "publisher": "Marvel",
-      "writers": [
-        "Chip Zdarsky"
-      ],
-      "artists": [
-        "Declan Shalvey"
-      ],
-      "colorists": [
-        "Jordie Bellaire"
-      ],
-      "startYear": 2018,
-      "startDate": "2018-06-13",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "20",
-          "publication": "2018-09-14",
-          "episodeTitle": "",
-          "proposer": "Никита Стародубцев",
-          "proposerColumn": "Никита",
-          "rawTitle": "Marvel Two-In-One Annual",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-20-dva-doma"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/marvel-two-in-one-annual/4050-111584/"
         }
       ],
       "status": "verified",
@@ -13842,8 +11011,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Maxwell's Demons",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-36-detskie-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13886,8 +11054,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "MCMLXXV",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-37-zhuliki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13929,8 +11096,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Meta4",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-poeticheskiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -13970,8 +11136,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Mezolith",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-44-the-best"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14007,7 +11172,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR10",
           "publication": "2022-05-30",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 10: Miles Morales - Shock Waves",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Miles Morales: Shock Waves",
@@ -14053,8 +11218,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Mirror",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-19-limonad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14071,31 +11235,26 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "miss-truesdale-and-the-fall-of-hyperborea",
-      "title": "Miss Truesdale and the Fall of Hyperborea",
-      "runTitle": "Miss Truesdale and the Fall of Hyperborea",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Jesse Lonergan"
-      ],
-      "colorists": [
-        "Jesse Lonergan"
-      ],
-      "startYear": 2024,
-      "startDate": "2024-01-31",
-      "decade": "2020-е",
+      "id": "miss-truesdale",
+      "title": "Miss Truesdale",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M11",
           "publication": "2023-11-19",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #11: The Mummy's Curse // The Fall of Hyperborea",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Miss Truesdale and the Fall of Hyperborea",
+          "rawTitle": "Miss Truesdale",
           "kind": "comic"
         }
       ],
@@ -14103,57 +11262,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/miss-truesdale-and-the-fall-of-hyperborea/4050-157458/"
         }
       ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/miss-truesdale-and-the-fall-of-hyperborea/4050-157458/"
-    },
-    {
-      "id": "miss-truesdale-and-the-rise-of-man",
-      "title": "Miss Truesdale and the Rise of Man",
-      "runTitle": "Miss Truesdale and the Rise of Man",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Jesse Lonergan"
-      ],
-      "colorists": [
-        "Jesse Lonergan"
-      ],
-      "startYear": 2025,
-      "startDate": "2025-12-10",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M17",
-          "publication": "2026-04-12",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Miss Truesdale and the Rise of Man",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/miss-truesdale-and-the-rise-of-man/4050-169126/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "mister-mammoth",
@@ -14177,12 +11288,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "78",
           "publication": "2023-08-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 78: Темные лошадки",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Mister Mammoth",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-78-temnye-loshadki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14224,8 +11334,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Mister Miracle",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-27-zloba-dnya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14263,12 +11372,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "83",
           "publication": "2024-02-29",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 83: Бессилие",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Monica",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-83-bessilie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14311,8 +11419,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Monstermen and Other Scary Stories",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-04-knizhnost"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14330,7 +11437,7 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "monsters",
-      "title": "Monsters",
+      "title": "MONSTERS",
       "runTitle": "Monsters",
       "publisher": "Fantagraphics",
       "writers": [
@@ -14348,12 +11455,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "75",
           "publication": "2023-05-23",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 75: Долгострой",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "MONSTERS",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-75-dolgostroj"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14393,13 +11499,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP25",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2024-02-13",
-          "proposer": "Станислав Шаргородский",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Monsters & Ace's Story & Shokugeki no Sanji",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-bonus-ace-story-shokugeki-no-sanji"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14437,8 +11542,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Monstress",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-12-carpe-diem"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14481,8 +11585,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Moonshine",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-04-kak-aja"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14522,8 +11625,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Mort Cinder",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-05-kontrastnost"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14563,8 +11665,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Motor Girl",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-01-everest"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14607,8 +11708,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Motro",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-03-bat-santa"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14650,8 +11750,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Mr. Higgins Comes Home",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-01-uzhasnye-komiksy1"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14669,19 +11768,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "mr-invincible",
-      "title": "Mister Invincible",
-      "runTitle": "Mister Invincible",
-      "publisher": "Magnetic Press",
-      "writers": [
-        "Pascal Jousselin"
-      ],
-      "artists": [
-        "Pascal Jousselin"
-      ],
+      "title": "Mr. Invincible",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2020,
-      "startDate": "2020-07-22",
-      "decade": "2020-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -14690,23 +11786,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "Mister Invincible",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-62-40000-stradaniy"
+          "rawTitle": "Mr. Invincible",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/mister-invincible/4050-128940/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "ms-marvel",
@@ -14731,12 +11821,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На пыльных панелях",
           "number": "D11",
           "publication": "2025-04-03",
-          "episodeTitle": "",
+          "episodeTitle": "«На пыльных панелях». Выпуск 11: Возвращение",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Ms. Marvel",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-11-vozvrashhenie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14778,8 +11867,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Multiple Man",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-27-zloba-dnya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14821,8 +11909,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Murder Falcon",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-37-zhuliki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14864,8 +11951,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "My Favorite Thing is Monsters",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-neveroyatniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14905,8 +11991,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "My Heroes Have Always Been Junkies",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-32-klub-polunochnikov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -14923,141 +12008,36 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "my-little-pony-transformers",
-      "title": "My Little Pony/Transformers",
-      "runTitle": "My Little Pony/Transformers",
-      "publisher": "IDW Publishing",
-      "writers": [
-        "Ian Flynn"
-      ],
-      "artists": [
-        "Jack Lawrence",
-        "Tony Fleecs"
-      ],
-      "colorists": [
-        "Lauren Perry",
-        "Luis Antonio Delgado",
-        "Tony Fleecs"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-08-05",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Утешительное чтение",
-          "number": "LR13",
-          "publication": "2022-07-05",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "My Little Pony & Transformers",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/my-little-ponytransformers/4050-129308/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "my-little-pony-transformers-ii",
-      "title": "My Little Pony/Transformers II",
-      "runTitle": "My Little Pony/Transformers II",
-      "publisher": "IDW Publishing",
-      "writers": [
-        "James Asmus",
-        "Sam Maggs"
-      ],
-      "artists": [
-        "Casey W. Coller",
-        "Jack Lawrence"
-      ],
-      "colorists": [
-        "Joana Lafuente",
-        "Luis Antonio Delgado"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-04-28",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "Утешительное чтение",
-          "number": "LR13",
-          "publication": "2022-07-05",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "My Little Pony & Transformers",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/my-little-ponytransformers-ii/4050-135748/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "na-co-dybie-w-wielorybie-czubek-nosa-eskimosa",
-      "title": "Na co dybie w wielorybie czubek nosa Eskimosa (Суета внутри кита)",
-      "runTitle": "",
-      "publisher": "Młodzieżowa Agencja Wydawnicza",
-      "writers": [
-        "Tadeusz Baranowski"
-      ],
-      "artists": [
-        "Tadeusz Baranowski"
-      ],
-      "colorists": [
-        "Tadeusz Baranowski"
-      ],
-      "startYear": 1980,
-      "startDate": "",
-      "decade": "1980-е",
-      "discussedIn": [
-        {
-          "podcast": "Утешительное чтение",
-          "number": "LR27",
-          "publication": "2024-04-05",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "Суета внутри кита",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Kultura Gniewu",
-          "url": "https://kultura.com.pl/kultura-gniewu/760-na-co-dybie-w-wielorybie-czubek-nosa-eskimosa.html"
-        },
-        {
-          "label": "Comic Vine: Tadeusz Baranowski",
-          "url": "https://comicvine.gamespot.com/tadeusz-baranowski/4040-110973/"
-        }
-      ],
-      "status": "verified",
+      "id": "my-little-pony-and-transformers",
+      "title": "My Little Pony & Transformers",
       "kind": "comic",
-      "url": "https://kultura.com.pl/kultura-gniewu/760-na-co-dybie-w-wielorybie-czubek-nosa-eskimosa.html"
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Утешительное чтение",
+          "number": "LR13",
+          "publication": "2022-07-05",
+          "episodeTitle": "Утешительное чтение. Выпуск 13: My Little Pony / Transformers",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "My Little Pony & Transformers",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "nameless",
@@ -15084,8 +12064,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Nameless",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-anyway-i-selderey"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15126,8 +12105,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Nameless City",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-65-podcast-motherfker"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15167,8 +12145,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Nanjing: The Burning City",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-26-les-miserables"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15206,12 +12183,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "82",
           "publication": "2024-02-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 82: После смерти",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Negalyod: The God Network",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-82-posle-smerti"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15229,21 +12205,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "neonomicon",
-      "title": "Alan Moore's Neonomicon",
-      "runTitle": "Alan Moore's Neonomicon",
-      "publisher": "Avatar Press",
-      "writers": [
-        "Alan Moore"
-      ],
-      "artists": [
-        "Jacen Burrows"
-      ],
-      "colorists": [
-        "Juanmar"
-      ],
-      "startYear": 2010,
-      "startDate": "2010-07-21",
-      "decade": "2010-е",
+      "title": "Neonomicon",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -15252,49 +12223,36 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "Alan Moore's Neonomicon",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-25-providence"
+          "rawTitle": "Neonomicon",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/alan-moores-neonomicon/4050-34578/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
-      "id": "frankenstein-new-world",
-      "title": "Frankenstein: New World",
-      "runTitle": "Frankenstein: New World",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola",
-        "Tom Sniegoski"
-      ],
-      "artists": [
-        "Peter Bergting"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-08-03",
-      "decade": "2020-е",
+      "id": "new-world",
+      "title": "New World",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M9",
           "publication": "2023-04-20",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #09: New World // Koshchei in Hell",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "New World",
@@ -15305,56 +12263,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/frankenstein-new-world/4050-144327/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "sir-edward-grey-acheron",
-      "title": "Sir Edward Grey: Acheron",
-      "runTitle": "Sir Edward Grey: Acheron",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Mike Mignola"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-12-01",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M9",
-          "publication": "2023-04-20",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Sir Edward Grey: Acheron",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/sir-edward-grey-acheron/4050-140295/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "nextwave-agents-of-h-a-t-e",
@@ -15380,12 +12291,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "93",
           "publication": "2025-02-11",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 93: Нафталинный юмор",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Nextwave: Agents of H.A.T.E.",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-93-naftalinnyj-yumor"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15423,12 +12333,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "90",
           "publication": "2024-11-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 90: Аэропортное чтиво",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Night Fever",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-90-aeroportnoe-chtivo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15446,19 +12355,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "night-music",
-      "title": "P. Craig Russell’s Night Music",
-      "runTitle": "P. Craig Russell’s Night Music",
-      "publisher": "Eclipse",
-      "writers": [
-        "P. Craig Russell"
-      ],
-      "artists": [
-        "P. Craig Russell"
-      ],
+      "title": "Night Music",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 1984,
+      "startYear": null,
       "startDate": "",
-      "decade": "1980-е",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -15467,23 +12373,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "P. Craig Russell’s Night Music",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-staromodniy"
+          "rawTitle": "Night Music",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/p-craig-russells-night-music/4050-33417/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "nightworld",
@@ -15512,8 +12412,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Nightworld",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-21-pod-pokrovom-nochi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15549,7 +12448,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Лайт",
           "number": "L4",
           "publication": "2026-01-23",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 04: Nijigahara Holograph",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Nijigahara Holograph",
@@ -15593,8 +12492,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Notes on a Case of Melancholia",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-58-nuff-said"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15632,7 +12530,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "98",
           "publication": "2026-05-28",
-          "episodeTitle": "Шкаф с омнибасами",
+          "episodeTitle": "«На панелях». Выпуск 98: Шкаф с омнибасами",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "November",
@@ -15683,8 +12581,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Nowhere Men",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-geroicheskiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15720,7 +12617,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR17",
           "publication": "2022-08-25",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 17: Nuclear Winter",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Nuclear Winter",
@@ -15766,8 +12663,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Oblivion Song",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-30-chetyre-syra"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15809,8 +12705,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "On a Sunbeam",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-49-chtenie-na-vybyvanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15850,8 +12745,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "On the Camino",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-15-jason"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15887,12 +12781,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "85",
           "publication": "2024-04-25",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 85: Пустое и гнетущее",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Once & Future",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-85-pustoe-i-gnetushhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15931,13 +12824,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP22",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-14",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Onigashima, Part 1 / Chapters #958-1000",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-3-onigashima-part-1"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -15974,13 +12866,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP23",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-21",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Onigashima, Part 2 / Chapters #1001-1036",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-4-onigashima-part-2"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16017,13 +12908,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP24",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-29",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Onigashima, Part 3 / Chapters #1037-1060",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-5-onigashima-part-3"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16057,12 +12947,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "74",
           "publication": "2023-04-27",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 74: Смертельно прекрасны",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Orphan and the Five Beasts",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-74-smertelno-prekrasny"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16100,12 +12989,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "87",
           "publication": "2024-08-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 87: Будничный каннибализм",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Our Bones Dust",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-87-budnichnyj-kannibalizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16141,7 +13029,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M3",
           "publication": "2022-01-29",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #03: Our Encounters with Evil // Falconspeare",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Our Encounters with Evil",
@@ -16185,8 +13073,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Outer Darkness",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-39-warning"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16225,9 +13112,9 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "98",
           "publication": "2026-05-28",
-          "episodeTitle": "Шкаф с омнибасами",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
+          "episodeTitle": "«На панелях». Выпуск 98: Шкаф с омнибасами",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
           "rawTitle": "Outsiders",
           "kind": "comic"
         }
@@ -16278,8 +13165,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Paklis",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-antologichno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16319,8 +13205,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Panorama",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-61-metafork"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16335,49 +13220,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "panya-the-mummy-s-curse",
-      "title": "Panya: The Mummy's Curse",
-      "runTitle": "Panya: The Mummy's Curse",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson"
-      ],
-      "artists": [
-        "Christopher Mitten"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-07-12",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M11",
-          "publication": "2023-11-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Panya: The Mummy's Curse",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/panya-the-mummys-curse/4050-152205/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/panya-the-mummys-curse/4050-152205/"
     },
     {
       "id": "paper-girls",
@@ -16405,8 +13247,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Paper Girls",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-02-girl-power"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16442,12 +13283,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "83",
           "publication": "2024-02-29",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 83: Бессилие",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Parasocial",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-83-bessilie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16483,12 +13323,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "80",
           "publication": "2023-10-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 80: Вспомнить всё",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Parenthesis",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-80-vspomnit-vsyo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16528,8 +13367,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Parker: Slayground",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-04-knizhnost"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16567,7 +13405,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На пыльных панелях",
           "number": "D12",
           "publication": "2026-03-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На пыльных панелях». Выпуск 12: Страдание",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Pathfinder",
@@ -16582,49 +13420,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/pathfinder/4050-51262/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "pathfinder-city-of-secrets",
-      "title": "Pathfinder: City of Secrets",
-      "runTitle": "Pathfinder: City of Secrets",
-      "publisher": "Dynamite Entertainment",
-      "writers": [
-        "Jim Zubkavich"
-      ],
-      "artists": [
-        "Leandro Oliveira"
-      ],
-      "colorists": [
-        "Ben Hunzeker",
-        "Ross A. Campbell"
-      ],
-      "startYear": 2014,
-      "startDate": "2014-05-21",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На пыльных панелях",
-          "number": "D12",
-          "publication": "2026-03-21",
-          "episodeTitle": "",
-          "proposer": "Сергей Мангасаров",
-          "proposerColumn": "Серега",
-          "rawTitle": "Pathfinder: City of Secrets",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/pathfinder-city-of-secrets/4050-74115/"
         }
       ],
       "status": "verified",
@@ -16650,12 +13445,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "89",
           "publication": "2024-10-10",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 89: Нагой снобизм",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "PeePee PooPoo",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-89-nagoj-snobizm"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16695,8 +13489,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Persephone",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-36-detskie-travmy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16736,8 +13529,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Peter Cannon: Thunderbolt",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-38-podcast-in-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16777,8 +13569,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Petrichor",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-69-abstraktniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16816,7 +13607,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR25",
           "publication": "2023-02-11",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 25: Pilu of the Woods",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Pilu of the Woods",
@@ -16835,50 +13626,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "pink-lemonade",
-      "title": "Pink Lemonade",
-      "runTitle": "Pink Lemonade",
-      "publisher": "Oni Press",
-      "writers": [
-        "Nick Cagnetti"
-      ],
-      "artists": [
-        "Nick Cagnetti"
-      ],
-      "colorists": [
-        "Nick Cagnetti"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-09-28",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "84",
-          "publication": "2024-03-14",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Pink Lemonade",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-84-cmyk"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/pink-lemonade/4050-145289/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/pink-lemonade/4050-145289/"
     },
     {
       "id": "pizzeria-kamikaze",
@@ -16906,8 +13653,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Pizzeria Kamikaze",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-04-knizhnost"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16922,6 +13668,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "planet-size-x-men-new-mutants-19-x-corp-02",
+      "title": "Planet-Size X-Men // New Mutants #19 // X-Corp #02",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP3",
+          "publication": "2021-06-21",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Planet-Size X-Men // New Mutants #19 // X-Corp #02",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "poison-ivy",
@@ -16945,12 +13723,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "74",
           "publication": "2023-04-27",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 74: Смертельно прекрасны",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Poison Ivy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-74-smertelno-prekrasny"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -16990,8 +13767,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Pop Gun War v02: Chain Letter",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-43-farel-dalrymple"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17006,6 +13782,198 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "powers-of-x-01",
+      "title": "Powers of X [01]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX2",
+          "publication": "2019-08-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X [01]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "powers-of-x-02",
+      "title": "Powers of X [02]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX4",
+          "publication": "2019-08-19",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X [02]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "powers-of-x-03",
+      "title": "Powers of X [03]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX5",
+          "publication": "2019-08-23",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X [03]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "powers-of-x-04",
+      "title": "Powers of X [04]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX8",
+          "publication": "2019-09-16",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X [04]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "powers-of-x-05",
+      "title": "Powers of X [05]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX10",
+          "publication": "2019-09-30",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X [05]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "powers-of-x-06",
+      "title": "Powers of X [06]",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX12",
+          "publication": "2019-10-14",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Powers of X [06]",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "pretty-deadly-the-rat",
@@ -17033,8 +14001,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Pretty Deadly: The Rat",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-53-zolotoy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17074,8 +14041,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Prism Stalker",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-18-slozhniye-kalambury"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17118,8 +14084,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Proctor Valley Road",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-67-trick-or-treat"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17158,12 +14123,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На пыльных панелях",
           "number": "D11",
           "publication": "2025-04-03",
-          "episodeTitle": "",
+          "episodeTitle": "«На пыльных панелях». Выпуск 11: Возвращение",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Prophet",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-11-vozvrashhenie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17174,103 +14138,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/prophet/4050-45269/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "prophet-strikefile",
-      "title": "Prophet Strikefile",
-      "url": "https://comicvine.gamespot.com/prophet-strikefile/4050-76874/",
-      "runTitle": "Prophet Strikefile",
-      "publisher": "Image",
-      "writers": [
-        "Brandon Graham"
-      ],
-      "artists": [
-        "Brandon Graham",
-        "Giannis Milonogiannis",
-        "Grim Wilkins"
-      ],
-      "colorists": [],
-      "startYear": 2014,
-      "startDate": "2014-09-10",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На пыльных панелях",
-          "number": "D11",
-          "publication": "2025-04-03",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Prophet Strikefile",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-11-vozvrashhenie"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/prophet-strikefile/4050-76874/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "prophet-earth-war",
-      "title": "Prophet: Earth War",
-      "url": "https://comicvine.gamespot.com/prophet-earth-war/4050-87626/",
-      "runTitle": "Prophet Earthwar",
-      "publisher": "Image",
-      "writers": [
-        "Brandon Graham",
-        "Sarah Horrocks",
-        "Simon Roy"
-      ],
-      "artists": [
-        "Giannis Milonogiannis",
-        "Sarah Horrocks",
-        "Simon Roy"
-      ],
-      "colorists": [
-        "Joseph Bergin III",
-        "Lin Visel"
-      ],
-      "startYear": 2016,
-      "startDate": "2016-01-27",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На пыльных панелях",
-          "number": "D11",
-          "publication": "2025-04-03",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Prophet: Earth War",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-11-vozvrashhenie"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/prophet-earth-war/4050-87626/"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/prophet-earthwar/4050-87626/"
         }
       ],
       "status": "verified",
@@ -17302,8 +14169,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Providence",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-25-providence"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17345,8 +14211,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Proxima Centauri",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-43-farel-dalrymple"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17384,12 +14249,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "90",
           "publication": "2024-11-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 90: Аэропортное чтиво",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Pulp",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-90-aeroportnoe-chtivo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17430,8 +14294,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Punisher Kill Krew",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-50-new-special"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17474,8 +14337,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Punisher: Soviet",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-55-klatrio"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17514,13 +14376,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP10",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-06-22",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Punk Hazard / Chapters #654-699",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-08-part-1-punk-hazard"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17533,6 +14394,38 @@ window.__NA_PANELI_COMICS__ = {
           "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
         }
       ]
+    },
+    {
+      "id": "punk-lemonade",
+      "title": "Punk Lemonade",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "84",
+          "publication": "2024-03-14",
+          "episodeTitle": "«На панелях». Выпуск 84: CMYK",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Punk Lemonade",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "radio-spaceman",
@@ -17556,7 +14449,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M7",
           "publication": "2023-02-07",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #07: Hellboy and the B.P.R.D. // Radio Spaceman // Leonide the Vampyr",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Radio Spaceman",
@@ -17598,9 +14491,9 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "98",
           "publication": "2026-05-28",
-          "episodeTitle": "Шкаф с омнибасами",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
+          "episodeTitle": "«На панелях». Выпуск 98: Шкаф с омнибасами",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
           "rawTitle": "Rare Flavours",
           "kind": "comic"
         }
@@ -17649,8 +14542,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Reckless",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-61-metafork"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17665,6 +14557,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "red",
+      "title": "Red",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP24",
+          "publication": "2023-12-29",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Red",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "red-room",
@@ -17690,8 +14614,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Red Room",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-70-carte-blanche"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17733,8 +14656,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Redlands",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-29-sky-burial"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17776,8 +14698,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Redneck",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-04-kak-aja"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17828,8 +14749,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Reign of X",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/hellfire-panels-00-reign-of-x"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17844,6 +14764,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "rise-of-the-blood-queen",
+      "title": "Rise of the Blood Queen",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M13",
+          "publication": "2024-09-24",
+          "episodeTitle": "Amazing Screw-On Podcast #13: Rise of the Blood Queen // The Crooked Man",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Rise of the Blood Queen",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "rock-candy-mountain",
@@ -17869,8 +14821,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Слушатели",
           "rawTitle": "Rock Candy Mountain (Никита)",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-01-uzhasnye-komiksy1"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17910,8 +14861,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Rose",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-65-podcast-motherfker"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17951,8 +14901,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Royal City",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-03-bat-santa"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -17994,8 +14943,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Ruby Falls",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-59-enough"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18035,8 +14983,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Rutabaga",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-23-kushat-podano"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18078,8 +15025,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Sabrina",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-19-limonad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18121,8 +15067,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Sara",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-29-sky-burial"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18162,8 +15107,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Слушатели",
           "rawTitle": "Satania (Стас)",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-02-girl-power"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18200,12 +15144,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "93",
           "publication": "2025-02-11",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 93: Нафталинный юмор",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Scurvy Dogs",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-93-naftalinnyj-yumor"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18250,8 +15193,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Secret Empire",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-30-chetyre-syra"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18333,8 +15275,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Seven to Eternity",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-neveroyatniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18373,12 +15314,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "93",
           "publication": "2025-02-11",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 93: Нафталинный юмор",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Sexcastle",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-93-naftalinnyj-yumor"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18417,7 +15357,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M16",
           "publication": "2025-07-03",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #16: The Sea of Forever // Shadow of the Golden Crane",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Shadow of the Golden Crane",
@@ -18461,8 +15401,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Shadows on the Grave",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-63-ambitsiozniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18502,8 +15441,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "SHANGRI-LA",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-52-superbd"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18541,12 +15479,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "77",
           "publication": "2023-08-01",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 77: Четыре всадника Постапокалипсиса",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Shaolin Cowboy: Cruel to be Kin",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-77-chetyre-vsadnika-postapokalipsisa"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18589,8 +15526,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Shazam!",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-19-limonad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18632,8 +15568,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "She Could Fly",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-34-love-death-and-go-bots"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18671,12 +15606,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "79",
           "publication": "2023-10-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 79: Загадай желание",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "She-Hulk",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-79-zagadaj-zhelanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18716,8 +15650,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Shipwreck",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-29-sky-burial"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18759,8 +15692,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Shit & Piss",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-44-the-best"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18802,8 +15734,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Skybourne",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-22-za-zelenoy-dveryu"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18842,13 +15773,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP3",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2021-11-09",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Skypiea Saga / Chapters #218-302",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-03-skypeia"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18888,8 +15818,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Slaughterhouse-Five",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-61-metafork"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18929,8 +15858,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Smile",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-final"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -18970,8 +15898,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Sock Monkey Treasure",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-poeticheskiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19014,12 +15941,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "94",
           "publication": "2025-03-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 94: Дистиллерия",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Somna",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-94-distilleriya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19059,8 +15985,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Sour Apple",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-59-enough"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19102,8 +16027,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Southern Cross",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-space-oddity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19121,21 +16045,16 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "space-doll",
-      "title": "Skydoll Collection",
-      "runTitle": "Skydoll Collection",
-      "publisher": "Splitter",
-      "writers": [
-        "Alessandro Barbucci",
-        "Barbara Canepa"
-      ],
-      "artists": [
-        "Alessandro Barbucci",
-        "Barbara Canepa"
-      ],
+      "title": "Space Doll",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 2009,
-      "startDate": "2009-04-01",
-      "decade": "2000-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -19144,23 +16063,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "Skydoll Collection",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-01-everest"
+          "rawTitle": "Space Doll",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/skydoll-collection/4050-136144/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "space-riders",
@@ -19191,8 +16104,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Space Riders",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-space-oddity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19234,8 +16146,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Sparrowhawk",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-62-40000-stradaniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19271,12 +16182,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "95",
           "publication": "2025-05-06",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 95: Подтекст для трусов",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Spectators",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-95-podtekst-dlya-trusov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19314,12 +16224,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "94",
           "publication": "2025-03-13",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 94: Дистиллерия",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Spectregraph",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-94-distilleriya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19361,8 +16270,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Spencer & Locke",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-42-dushnota"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19405,8 +16313,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Spider-Man: Life Story",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-50-new-special"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19449,8 +16356,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Spread",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-28-venganza"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19486,12 +16392,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "74",
           "publication": "2023-04-27",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 74: Смертельно прекрасны",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Squire",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-74-smertelno-prekrasny"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19514,6 +16419,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "stampede",
+      "title": "Stampede",
+      "kind": "movie",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP20",
+          "publication": "2023-11-30",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Stampede",
+          "kind": "movie"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "star-wars-knights-of-the-old-republic",
@@ -19580,7 +16517,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На пыльных панелях",
           "number": "D12",
           "publication": "2026-03-21",
-          "episodeTitle": "",
+          "episodeTitle": "«На пыльных панелях». Выпуск 12: Страдание",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Star Wars: The High Republic",
@@ -19602,48 +16539,35 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "starhenge",
-      "title": "Starhenge Book One: The Dragon and the Boar",
-      "runTitle": "Starhenge Book One: The Dragon and the Boar",
-      "publisher": "Image",
-      "writers": [
-        "Liam Sharp"
-      ],
-      "artists": [
-        "Liam Sharp",
-        "Matylda McCormack-Sharp"
-      ],
-      "colorists": [
-        "Liam Sharp"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-07-06",
-      "decade": "2020-е",
+      "title": "Starhenge",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
           "number": "84",
           "publication": "2024-03-14",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 84: CMYK",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
-          "rawTitle": "Starhenge Book One: The Dragon and the Boar",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-84-cmyk"
+          "rawTitle": "Starhenge",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/starhenge-book-one-the-dragon-and-the-boar/4050-143977/"
         }
       ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/starhenge-book-one-the-dragon-and-the-boar/4050-143977/"
+      "status": "needs-review"
     },
     {
       "id": "step-by-bloody-step",
@@ -19667,12 +16591,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "74",
           "publication": "2023-04-27",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 74: Смертельно прекрасны",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Step by Bloody Step",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-74-smertelno-prekrasny"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19711,7 +16634,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR14",
           "publication": "2022-07-22",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 14: Strange Academy",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Strange Academy",
@@ -19730,6 +16653,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "strong-world",
+      "title": "Strong World",
+      "kind": "movie",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP6",
+          "publication": "2022-02-03",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Strong World",
+          "kind": "movie"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "sun-bakery",
@@ -19755,8 +16710,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Sun Bakery",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-antologichno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19800,8 +16754,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "SuperF*ckers",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-geroicheskiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -19818,22 +16771,17 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "black-summer",
-      "title": "Black Summer",
-      "runTitle": "Black Summer",
-      "publisher": "Avatar Press",
-      "writers": [
-        "Warren Ellis"
-      ],
-      "artists": [
-        "Juan Jose Ryp"
-      ],
-      "colorists": [
-        "Mark Sweeney"
-      ],
-      "startYear": 2007,
-      "startDate": "2007-06-06",
-      "decade": "2000-е",
+      "id": "superhuman-trilogy",
+      "title": "Superhuman Trilogy",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На бонусных панелях",
@@ -19842,7 +16790,7 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Black Summer",
+          "rawTitle": "Superhuman Trilogy",
           "kind": "comic"
         }
       ],
@@ -19850,98 +16798,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/black-summer/4050-18673/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "no-hero",
-      "title": "No Hero",
-      "runTitle": "No Hero",
-      "publisher": "Avatar Press",
-      "writers": [
-        "Warren Ellis"
-      ],
-      "artists": [
-        "Juan Jose Ryp"
-      ],
-      "colorists": [
-        "Greg Waller"
-      ],
-      "startYear": 2008,
-      "startDate": "2008-06-25",
-      "decade": "2000-е",
-      "discussedIn": [
-        {
-          "podcast": "На бонусных панелях",
-          "number": "E4",
-          "publication": "2020-06-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "No Hero",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/no-hero/4050-21876/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "warren-ellis-supergod",
-      "title": "Warren Ellis' Supergod",
-      "runTitle": "Warren Ellis' Supergod",
-      "publisher": "Avatar Press",
-      "writers": [
-        "Warren Ellis"
-      ],
-      "artists": [
-        "Garry Gastonny"
-      ],
-      "colorists": [
-        "Digikore Studios"
-      ],
-      "startYear": 2009,
-      "startDate": "2009-11-11",
-      "decade": "2000-е",
-      "discussedIn": [
-        {
-          "podcast": "На бонусных панелях",
-          "number": "E4",
-          "publication": "2020-06-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Warren Ellis' Supergod",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/warren-ellis-supergod/4050-29755/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "superman",
@@ -19970,8 +16829,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Superman",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-35-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20013,8 +16871,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Superman's Pal Jimmy Olsen",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-60-inevitable"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20054,8 +16911,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Swallow Me Whole",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-poeticheskiy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20072,32 +16928,26 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "cojacaru-the-skinner",
-      "title": "Cojacaru the Skinner",
-      "runTitle": "Cojacaru the Skinner",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Peter Bergting"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-04-21",
-      "decade": "2020-е",
+      "id": "tales-from-the-outerverse",
+      "title": "Tales from the Outerverse",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M2",
           "publication": "2021-12-22",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #02: The Witch Queens // Tales from the Outerverse",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Cojacaru the Skinner",
+          "rawTitle": "Tales from the Outerverse",
           "kind": "comic"
         }
       ],
@@ -20105,100 +16955,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/cojacaru-the-skinner/4050-135566/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "imogen-of-the-wyrding-way",
-      "title": "Imogen of the Wyrding Way",
-      "runTitle": "Imogen of the Wyrding Way",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Peter Bergting"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-06-23",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M2",
-          "publication": "2021-12-22",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Imogen of the Wyrding Way",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/imogen-of-the-wyrding-way/4050-137052/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "golem-walks-among-us",
-      "title": "Golem Walks Among Us!",
-      "runTitle": "The Golem Walks Among Us!",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Peter Bergting"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-08-04",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M2",
-          "publication": "2021-12-22",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Golem Walks Among Us!",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-golem-walks-among-us/4050-138119/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-art-of-charlie-chan-hock-chye",
@@ -20224,8 +16983,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Art of Charlie Chan Hock Chye",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-18-slozhniye-kalambury"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20268,8 +17026,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Beef",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-19-limonad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20309,8 +17066,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Black Monday Murders",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-neveroyatniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20350,8 +17106,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Blot",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-staromodniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20368,29 +17123,23 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "hellboy-the-bones-of-giants",
-      "title": "Hellboy: The Bones of Giants",
-      "runTitle": "Hellboy: The Bones of Giants",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Matt Smith (US)"
-      ],
-      "colorists": [
-        "Chris O'Halloran"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-11-03",
-      "decade": "2020-е",
+      "id": "the-bones-of-giant",
+      "title": "The Bones of Giant",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M4",
           "publication": "2022-02-25",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #04: The Secret of Chesbro House // The Bones of Giants",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Bones of Giant",
@@ -20401,14 +17150,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-the-bones-of-giants/4050-139991/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-cloud",
@@ -20434,8 +17178,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Cloud",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-30-chetyre-syra"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20477,8 +17220,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Courtyard",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-25-providence"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20514,7 +17256,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR15",
           "publication": "2022-08-04",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 15: The Creepy Case Files of Margo Maloo",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Creepy Case Files of Margo Maloo",
@@ -20533,6 +17275,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "the-crooked-man",
+      "title": "The Crooked Man",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M13",
+          "publication": "2024-09-24",
+          "episodeTitle": "Amazing Screw-On Podcast #13: Rise of the Blood Queen // The Crooked Man",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Crooked Man",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "the-cull",
@@ -20556,12 +17330,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "95",
           "publication": "2025-05-06",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 95: Подтекст для трусов",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "The Cull",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-95-podtekst-dlya-trusov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20603,8 +17376,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Damned",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-13-po-zayavkam"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20646,8 +17418,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Dreaming",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-57-imprinting"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20687,8 +17458,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Eternaut",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-01-everest"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20703,58 +17473,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "не-живые",
-      "title": "The Ex-People",
-      "runTitle": "",
-      "publisher": "Grand Angle",
-      "writers": [
-        "Stephen Desberg"
-      ],
-      "artists": [
-        "Alexander Utkin"
-      ],
-      "colorists": [
-        "Alexander Utkin"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-08-31",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "96",
-          "publication": "2025-05-22",
-          "episodeTitle": "",
-          "proposer": "Станислав Шаргородский",
-          "proposerColumn": "Стас",
-          "rawTitle": "Не-живые",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-96-big-in-tula"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Grand Angle",
-          "url": "https://www.angle.fr/bd/grand_angle/ex-people_the/the_ex-people_-_vol_01_sur_2/9782818990100"
-        },
-        {
-          "label": "Grand Angle: Stephen Desberg",
-          "url": "https://www.angle.fr/auteur/287"
-        },
-        {
-          "label": "Grand Angle: Alexander Utkin",
-          "url": "https://www.angle.fr/auteur/7005"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://www.angle.fr/bd/grand_angle/ex-people_the/the_ex-people_-_vol_01_sur_2/9782818990100"
     },
     {
       "id": "the-fix",
@@ -20782,8 +17500,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Fix",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-17-good-jokes"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20823,8 +17540,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Gigantic Beard That Was Evil",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-44-the-best"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20839,6 +17555,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "the-goddess-of-manhattan",
+      "title": "The Goddess of Manhattan",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M14",
+          "publication": "2024-11-07",
+          "episodeTitle": "Amazing Screw-On Podcast #14: A Plague of Wasps // The Proteus Club // The Goddess of Manhattan",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Goddess of Manhattan",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "the-gravediggers-union",
@@ -20866,8 +17614,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Gravediggers Union",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-21-pod-pokrovom-nochi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20882,6 +17629,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "the-graveyard-of-time",
+      "title": "The Graveyard of Time",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M19",
+          "publication": "2026-07-10",
+          "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Graveyard of Time",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "the-green-lantern",
@@ -20909,8 +17688,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Green Lantern",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-35-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20952,8 +17730,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Grot",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-44-the-best"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -20970,137 +17747,36 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "young-hellboy-the-hidden-land",
-      "title": "Young Hellboy: The Hidden Land",
-      "runTitle": "Young Hellboy: The Hidden Land",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola",
-        "Tom Sniegoski"
-      ],
-      "artists": [
-        "Craig Rousseau"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-02-17",
-      "decade": "2020-е",
+      "id": "the-hidden-land",
+      "title": "The Hidden Land",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M1",
           "publication": "2021-11-11",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #01: The Hidden Land // The House of Lost Horizons",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Young Hellboy: The Hidden Land"
+          "rawTitle": "The Hidden Land",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/young-hellboy-the-hidden-land/4050-133879/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "sarah-jewell-the-longest-night",
-      "title": "Sarah Jewell: The Longest Night",
-      "runTitle": "Hellboy Winter Special 2019",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola",
-        "Scott Allie"
-      ],
-      "artists": [
-        "Andrea Mutti",
-        "Leila del Duca",
-        "Mark Laszlo"
-      ],
-      "colorists": [
-        "Dave Stewart",
-        "Lee Loughridge",
-        "Michelle Madsen"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-01-15",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M1",
-          "publication": "2021-11-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Sarah Jewell: The Longest Night"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-winter-special-2019-1-the-misers-gift-the-/4000-733718/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "the-house-of-lost-horizons-a-sarah-jewell-mystery",
-      "title": "The House of Lost Horizons: A Sarah Jewell Mystery",
-      "runTitle": "The House of Lost Horizons: A Sarah Jewell Mystery",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson"
-      ],
-      "artists": [
-        "Leila del Duca"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-02-22",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M1",
-          "publication": "2021-11-11",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "The House of Lost Horizons: A Sarah Jewell Mystery"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-house-of-lost-horizons-a-sarah-jewell-mystery/4050-141703/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-highest-house",
@@ -21128,8 +17804,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Highest House",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-20-dva-doma"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21144,6 +17819,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "the-house-of-lost-horizons",
+      "title": "The House of Lost Horizons",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M1",
+          "publication": "2021-11-11",
+          "episodeTitle": "Amazing Screw-On Podcast #01: The Hidden Land // The House of Lost Horizons",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "The House of Lost Horizons",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "the-immortal-hulk",
@@ -21172,8 +17879,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Immortal Hulk",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-22-za-zelenoy-dveryu"
+          "kind": "comic"
         },
         {
           "podcast": "На панелях",
@@ -21183,8 +17889,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Immortal Hulk",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-68-immortal"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21224,8 +17929,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Immortal Iron Fists",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-17-good-jokes"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21263,12 +17967,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "83",
           "publication": "2024-02-29",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 83: Бессилие",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "The Immortal Thor",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-83-bessilie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21311,8 +18014,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Infinity Finale",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-05-the-death-of-starlin"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21350,7 +18052,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Лайт",
           "number": "L3",
           "publication": "2025-12-19",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях. Лайт». Выпуск 03: The Knives",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Knives: A Criminal Book",
@@ -21394,8 +18096,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Life After",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-28-venganza"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21435,8 +18136,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Loneliness of the Long-Distance Cartoonist",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-63-ambitsiozniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21474,12 +18174,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "82",
           "publication": "2024-02-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 82: После смерти",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Lonesome Hunters",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-82-posle-smerti"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21521,8 +18220,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Magic Order",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-32-klub-polunochnikov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21562,8 +18260,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Man Who Came Down the Attic Stairs",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-67-trick-or-treat"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21601,12 +18298,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "73",
           "publication": "2023-04-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 73: Черепахи и боги",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Many Deaths of Laila Starr",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-73-cherepahi-i-bogi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21642,7 +18338,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR3",
           "publication": "2022-03-30",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 03: The March of the Crabs",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The March of the Crabs",
@@ -21686,8 +18382,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Marquis: Inferno",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-03-hyperreality"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21725,12 +18420,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "88",
           "publication": "2024-09-24",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 88: Перевернуть настоящее",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "The Me You Love in the Dark",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-88-perevernut-nastoyashhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21772,9 +18466,8 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
           "rawTitle": "The Mighty Thor",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21791,65 +18484,49 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "mighty-thor-at-the-gates-of-valhalla",
-      "title": "The Mighty Thor: At the Gates of Valhalla",
-      "url": "https://comicvine.gamespot.com/mighty-thor-at-the-gates-of-valhalla/4050-110925/",
-      "runTitle": "Mighty Thor: At the Gates of Valhalla",
-      "publisher": "Marvel",
-      "writers": [
-        "Jason Aaron"
-      ],
-      "artists": [
-        "Jen Bartel",
-        "Ramón Pérez"
-      ],
-      "colorists": [
-        "Matthew Wilson"
-      ],
-      "startYear": 2018,
-      "startDate": "2018-05-16",
-      "decade": "2010-е",
+      "id": "the-mummy-s-curse",
+      "title": "The Mummy's Curse",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
-          "podcast": "На панелях",
-          "number": "14",
-          "publication": "2018-06-19",
-          "episodeTitle": "",
+          "podcast": "ASOP",
+          "number": "M11",
+          "publication": "2023-11-19",
+          "episodeTitle": "Amazing Screw-On Podcast #11: The Mummy's Curse // The Fall of Hyperborea",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "The Mighty Thor: At the Gates of Valhalla",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
+          "rawTitle": "The Mummy's Curse",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/mighty-thor-at-the-gates-of-valhalla/4050-110925/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-new-statesmen",
-      "title": "New Statesmen",
-      "runTitle": "New Statesmen",
-      "publisher": "Fleetway",
-      "writers": [
-        "John Smith"
-      ],
-      "artists": [
-        "Jim Baikie"
-      ],
+      "title": "The New Statesmen",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
       "colorists": [],
-      "startYear": 1989,
-      "startDate": "1989-05-01",
-      "decade": "1980-е",
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На пыльных панелях",
@@ -21858,23 +18535,17 @@ window.__NA_PANELI_COMICS__ = {
           "episodeTitle": "",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
-          "rawTitle": "New Statesmen",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-06-geroicheskiy"
+          "rawTitle": "The New Statesmen",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/new-statesmen/4050-4305/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-new-world",
@@ -21902,8 +18573,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The New World",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-27-zloba-dnya"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21945,8 +18615,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Ogre Gods",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-52-superbd"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -21988,8 +18657,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Omega Men",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-antologichno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22006,48 +18674,36 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "the-one-hand",
-      "title": "The One Hand",
-      "url": "https://comicvine.gamespot.com/the-one-hand/4050-156700/",
-      "runTitle": "The One Hand",
-      "publisher": "Image",
-      "writers": [
-        "Ram V"
-      ],
-      "artists": [
-        "Laurence Campbell"
-      ],
-      "colorists": [
-        "Lee Loughridge"
-      ],
-      "startYear": 2024,
-      "startDate": "2024-02-07",
-      "decade": "2020-е",
+      "id": "the-one-hand-the-six-fingers",
+      "title": "The One Hand The Six Fingers",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
           "number": "92",
           "publication": "2024-12-30",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 92: Дебри подсознания",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The One Hand The Six Fingers",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-92-debri-podsoznaniya"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-one-hand/4050-156700/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-originals",
@@ -22073,8 +18729,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Originals",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-05-kontrastnost"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22114,8 +18769,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Park Bench",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-52-superbd"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22157,8 +18811,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Prince and the Dressmaker",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-31-ozhno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22173,6 +18826,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "the-proteus-club",
+      "title": "The Proteus Club",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M14",
+          "publication": "2024-11-07",
+          "episodeTitle": "Amazing Screw-On Podcast #14: A Plague of Wasps // The Proteus Club // The Goddess of Manhattan",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Proteus Club",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "the-red-ten",
@@ -22204,8 +18889,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Red Ten",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-16-superbad"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22223,28 +18907,22 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-reign-of-darkness",
-      "title": "Witchfinder: The Reign of Darkness",
-      "runTitle": "Witchfinder: The Reign of Darkness",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Christopher Mitten"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2019,
-      "startDate": "2019-11-27",
-      "decade": "2010-е",
+      "title": "The Reign of Darkness",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M5",
           "publication": "2022-04-12",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #05: The Reign of Darkness // The Silver Lantern Club",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Reign of Darkness",
@@ -22255,39 +18933,92 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/witchfinder-the-reign-of-darkness/4050-123113/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
-      "id": "hellboy-and-the-b-p-r-d-the-secret-of-chesbro-house",
-      "title": "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
-      "runTitle": "Hellboy and the B.P.R.D.: The Secret of Chesbro House",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
+      "id": "the-rise-of-man",
+      "title": "The Rise of Man",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M17",
+          "publication": "2026-04-12",
+          "episodeTitle": "Amazing Screw-On Podcast #17: The Rise of Man // Uri Tupka and the Gods",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Rise of Man",
+          "kind": "comic"
+        }
       ],
-      "artists": [
-        "Shawn McManus"
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
       ],
-      "colorists": [
-        "Dave Stewart"
+      "status": "needs-review"
+    },
+    {
+      "id": "the-sea-of-forever",
+      "title": "The Sea of Forever",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M16",
+          "publication": "2025-07-03",
+          "episodeTitle": "Amazing Screw-On Podcast #16: The Sea of Forever // Shadow of the Golden Crane",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "The Sea of Forever",
+          "kind": "comic"
+        }
       ],
-      "startYear": 2021,
-      "startDate": "2021-07-07",
-      "decade": "2020-е",
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "the-secret-of-chesbro-house",
+      "title": "The Secret of Chesbro House",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M4",
           "publication": "2022-02-25",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #04: The Secret of Chesbro House // The Bones of Giants",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Secret of Chesbro House",
@@ -22298,14 +19029,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-secret-of-chesbro-house/4050-137457/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-secret-to-superhuman-strength",
@@ -22329,12 +19055,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "75",
           "publication": "2023-05-23",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 75: Долгострой",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Secret to Superhuman Strength",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-75-dolgostroj"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22374,8 +19099,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Seeds",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-61-metafork"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22426,8 +19150,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Sentry",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-40-mzhdz"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22445,50 +19168,35 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-serpent-in-the-garden",
-      "title": "The Serpent in the Garden: Ed Grey and the Last Battle for England",
-      "runTitle": "Serpent in the Garden",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Ben Stenbeck"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2024,
-      "startDate": "2024-11-27",
-      "decade": "2020-е",
+      "title": "The Serpent in the Garden",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M15",
           "publication": "2025-03-26",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #15: The Serpent in the Garden // Bowling with Corpses",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "The Serpent in the Garden: Ed Grey and the Last Battle for England"
+          "rawTitle": "The Serpent in the Garden",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/serpent-in-the-garden/4050-161328/"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-serpent-in-the-garden-ed-grey-and-the-last-bat/4000-1079396/"
         }
       ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/the-serpent-in-the-garden-ed-grey-and-the-last-bat/4000-1079396/"
+      "status": "needs-review"
     },
     {
       "id": "the-shadows",
@@ -22516,8 +19224,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Shadows",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-67-trick-or-treat"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22535,30 +19242,22 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-silver-lantern-club",
-      "title": "Hellboy: The Silver Lantern Club",
-      "runTitle": "Hellboy: The Silver Lantern Club",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Ben Stenbeck",
-        "Christopher Mitten"
-      ],
-      "colorists": [
-        "Dave Stewart",
-        "Michelle Madsen"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-10-27",
-      "decade": "2020-е",
+      "title": "The Silver Lantern Club",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M5",
           "publication": "2022-04-12",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #05: The Reign of Darkness // The Silver Lantern Club",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Silver Lantern Club",
@@ -22569,14 +19268,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-the-silver-lantern-club/4050-139877/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-sisters",
@@ -22598,7 +19292,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR12",
           "publication": "2022-06-28",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 12: The Sisters",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Sisters",
@@ -22613,50 +19307,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/the-sisters/4050-91295/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "the-six-fingers",
-      "title": "The Six Fingers",
-      "url": "https://comicvine.gamespot.com/the-six-fingers/4050-156998/",
-      "runTitle": "The Six Fingers",
-      "publisher": "Image",
-      "writers": [
-        "Dan Watters"
-      ],
-      "artists": [
-        "Sumit Kumar"
-      ],
-      "colorists": [
-        "Lee Loughridge"
-      ],
-      "startYear": 2024,
-      "startDate": "2024-02-21",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "92",
-          "publication": "2024-12-30",
-          "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
-          "rawTitle": "The One Hand The Six Fingers",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-92-debri-podsoznaniya"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-six-fingers/4050-156998/"
         }
       ],
       "status": "verified",
@@ -22688,8 +19338,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Smell of Starving Boys",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-52-superbd"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22731,8 +19380,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Spider King",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-30-chetyre-syra"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22772,8 +19420,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Squidder",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-11-nizkie-zhanry"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22858,8 +19505,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Stuff of Legend",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-04-knizhnost"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -22899,7 +19545,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "ASOP",
           "number": "M6",
           "publication": "2022-10-21",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #06: The Sword of Hyperborea // Time Out of Mind",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Sword of Hyperborea",
@@ -22941,7 +19587,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR23",
           "publication": "2022-12-01",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 23: The Tea Dragon Society",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "The Tea Dragon Society",
@@ -22981,12 +19627,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "95",
           "publication": "2025-05-06",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 95: Подтекст для трусов",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Traveler's Guide to Flogoria",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-95-podtekst-dlya-trusov"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23025,12 +19670,21 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP1",
           "publication": "2023-07-25",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (01): Good Artists Copy",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
           "rawTitle": "The Ultimates",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy"
+          "kind": "comic"
+        },
+        {
+          "podcast": "На панелях",
+          "number": "97",
+          "publication": "2025-12-30",
+          "episodeTitle": "«На панелях». Выпуск 97: А****т расправил плечи",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "The Ultimates",
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23070,8 +19724,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Unsound",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-01-uzhasnye-komiksy1"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23082,50 +19735,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/the-unsound/4050-101965/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "the-unworthy-thor-2016",
-      "title": "The Unworthy Thor",
-      "url": "https://comicvine.gamespot.com/the-unworthy-thor/4050-95444/",
-      "runTitle": "The Unworthy Thor",
-      "publisher": "Marvel",
-      "writers": [
-        "Jason Aaron"
-      ],
-      "artists": [
-        "Olivier Coipel"
-      ],
-      "colorists": [
-        "Matthew Wilson"
-      ],
-      "startYear": 2016,
-      "startDate": "2016-11-02",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "14",
-          "publication": "2018-06-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "The Unworthy Thor",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-unworthy-thor/4050-95444/"
         }
       ],
       "status": "verified",
@@ -23158,8 +19767,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Visitor: How and Why He Stayed?",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23199,8 +19807,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "The Wake",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-34-love-death-and-go-bots"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23240,8 +19847,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The Warning",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-39-warning"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23277,12 +19883,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "79",
           "publication": "2023-10-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 79: Загадай желание",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "The Well",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-79-zagadaj-zhelanie"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23328,8 +19933,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "The Wicked + The Divine",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-45-wicdiv"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23347,31 +19951,25 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "the-witch-queens",
-      "title": "Lady Baltimore: The Witch Queens",
-      "runTitle": "Lady Baltimore: The Witch Queens",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Bridgit Connell"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-03-24",
-      "decade": "2020-е",
+      "title": "The Witch Queens",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M2",
           "publication": "2021-12-22",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #02: The Witch Queens // Tales from the Outerverse",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Lady Baltimore: The Witch Queens",
+          "rawTitle": "The Witch Queens",
           "kind": "comic"
         }
       ],
@@ -23379,14 +19977,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/lady-baltimore-the-witch-queens/4050-134745/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "the-world-of-edena",
@@ -23417,8 +20010,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "The World of Edena",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-10-final"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23460,8 +20052,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "These Savage Shores",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-56-cancel-humanity"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23501,8 +20092,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "This Was Our Pact",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-53-zolotoy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23513,184 +20103,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/this-was-our-pact/4050-119342/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "thor-2014",
-      "title": "Thor",
-      "url": "https://comicvine.gamespot.com/thor/4050-77223/",
-      "runTitle": "Thor",
-      "publisher": "Marvel",
-      "writers": [
-        "Jason Aaron"
-      ],
-      "artists": [
-        "Russell Dauterman"
-      ],
-      "colorists": [
-        "Matthew Wilson"
-      ],
-      "startYear": 2014,
-      "startDate": "2014-10-01",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "14",
-          "publication": "2018-06-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Thor",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/thor/4050-77223/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "thor-and-loki-the-tenth-realm",
-      "title": "Thor & Loki: The Tenth Realm",
-      "url": "https://comicvine.gamespot.com/original-sin-thor-loki-the-tenth-realm/4050-78138/",
-      "runTitle": "Original Sin: Thor & Loki - The Tenth Realm",
-      "publisher": "Marvel",
-      "writers": [
-        "Al Ewing",
-        "Jason Aaron"
-      ],
-      "artists": [
-        "Lee Garbett",
-        "Simone Bianchi"
-      ],
-      "colorists": [],
-      "startYear": 2014,
-      "startDate": "2014-07-09",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "14",
-          "publication": "2018-06-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Thor & Loki: The Tenth Realm",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/original-sin-thor-loki-the-tenth-realm/4050-78138/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "thor-god-of-thunder-by-aaron",
-      "title": "Thor: God of Thunder by Aaron",
-      "url": "https://comicvine.gamespot.com/thor-god-of-thunder/4050-53920/",
-      "runTitle": "Thor: God of Thunder",
-      "publisher": "Marvel",
-      "writers": [
-        "Jason Aaron"
-      ],
-      "artists": [
-        "Esad Ribic"
-      ],
-      "colorists": [
-        "Ive Svorcina"
-      ],
-      "startYear": 2012,
-      "startDate": "2012-11-14",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "14",
-          "publication": "2018-06-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Thor: God of Thunder by Aaron",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/thor-god-of-thunder/4050-53920/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "thors-2015",
-      "title": "Thors",
-      "url": "https://comicvine.gamespot.com/thors/4050-82716/",
-      "runTitle": "Thors",
-      "publisher": "Marvel",
-      "writers": [
-        "Jason Aaron"
-      ],
-      "artists": [
-        "Chris Sprouse",
-        "Karl Story"
-      ],
-      "colorists": [
-        "Dave McCaig",
-        "Marte Gracia"
-      ],
-      "startYear": 2015,
-      "startDate": "2015-06-17",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "14",
-          "publication": "2018-06-19",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "kind": "comic",
-          "rawTitle": "Thors",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-14-mighty"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/thors/4050-82716/"
         }
       ],
       "status": "verified",
@@ -23719,13 +20131,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP6",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2022-02-03",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Thriller Bark / Chapters #442-489",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-05-thriller-bark"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23740,28 +20151,23 @@ window.__NA_PANELI_COMICS__ = {
       ]
     },
     {
-      "id": "the-british-paranormal-society-time-out-of-mind",
-      "title": "The British Paranormal Society: Time Out of Mind",
-      "runTitle": "The British Paranormal Society: Time Out of Mind",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Chris Roberson"
-      ],
-      "artists": [
-        "Andrea Mutti"
-      ],
-      "colorists": [
-        "Lee Loughridge"
-      ],
-      "startYear": 2022,
-      "startDate": "2022-04-27",
-      "decade": "2020-е",
+      "id": "time-out-of-mind",
+      "title": "Time Out of Mind",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M6",
           "publication": "2022-10-21",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #06: The Sword of Hyperborea // Time Out of Mind",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Time Out of Mind",
@@ -23772,14 +20178,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/the-british-paranormal-society-time-out-of-mind/4050-142666/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "tmnt-mega-arc-1",
@@ -23808,8 +20209,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "TMNT Mega-Arc 1",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-46-turtle-soup"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23852,8 +20252,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "TMNT Mega-Arc 2",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-47-turtle-dreams"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23899,12 +20298,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "73",
           "publication": "2023-04-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 73: Черепахи и боги",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "TMNT: The Last Ronin",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-73-cherepahi-i-bogi"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23942,12 +20340,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "85",
           "publication": "2024-04-25",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 85: Пустое и гнетущее",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Transformers",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-85-pustoe-i-gnetushhee"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -23964,48 +20361,36 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "туннели",
-      "title": "Tunnels",
-      "url": "https://comicvine.gamespot.com/tunnels/4050-140027/",
-      "runTitle": "Tunnels",
-      "publisher": "Drawn & Quarterly",
-      "writers": [
-        "Rutu Modan"
-      ],
-      "artists": [
-        "Rutu Modan"
-      ],
-      "colorists": [
-        "Rutu Modan"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-11-03",
-      "decade": "2020-е",
+      "id": "twilight-zone",
+      "title": "Twilight Zone",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
-          "number": "96",
-          "publication": "2025-05-22",
-          "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
-          "rawTitle": "Туннели",
-          "kind": "comic",
-          "link": "https://spidermedia.ru/podcast/na-panelyah.-vypusk-96-big-in-tula"
+          "number": "99",
+          "publication": "2026-11-24",
+          "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
+          "proposer": "Станислав Шаргородский",
+          "proposerColumn": "Стас",
+          "rawTitle": "Twilight Zone",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/tunnels/4050-140027/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "twisted-romance",
@@ -24040,8 +20425,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Twisted Romance",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-11-nizkie-zhanry"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24083,8 +20467,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Two Brothers",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-12-carpe-diem"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24123,12 +20506,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP4",
           "publication": "2023-10-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (04): Yesterday, Today, Tomorrow",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
           "rawTitle": "Ultimate Comics: Avengers",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24164,12 +20546,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP4",
           "publication": "2023-10-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (04): Yesterday, Today, Tomorrow",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
           "rawTitle": "Ultimate Comics: Doomsday Trilogy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24207,12 +20588,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP5",
           "publication": "2023-11-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (05): The World Remade",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
           "rawTitle": "Ultimate Comics: Spider-Man",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24251,12 +20631,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP5",
           "publication": "2023-11-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (05): The World Remade",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
           "rawTitle": "Ultimate Comics: The Ultimates",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24295,12 +20674,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP4",
           "publication": "2023-10-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (04): Yesterday, Today, Tomorrow",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
           "rawTitle": "Ultimate Comics: X",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24339,12 +20717,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP5",
           "publication": "2023-11-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (05): The World Remade",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
           "rawTitle": "Ultimate Comics: X-Men",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24384,12 +20761,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP2",
           "publication": "2023-08-15",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (02): Down the Rabbit Hole",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
           "rawTitle": "Ultimate Fantastic Four",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24453,12 +20829,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP2",
           "publication": "2023-08-15",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (02): Down the Rabbit Hole",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
           "rawTitle": "Ultimate Galactus Trilogy",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24497,12 +20872,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP1",
           "publication": "2023-07-25",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
+          "episodeTitle": "Ultimate Panels (01): Good Artists Copy",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #01",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24541,12 +20915,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP2",
           "publication": "2023-08-15",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
+          "episodeTitle": "Ultimate Panels (02): Down the Rabbit Hole",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #02",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24585,12 +20958,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP3",
           "publication": "2023-09-26",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
+          "episodeTitle": "Ultimate Panels (03): Through the Looking Glass",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #03",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24629,12 +21001,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP4",
           "publication": "2023-10-24",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
+          "episodeTitle": "Ultimate Panels (04): Yesterday, Today, Tomorrow",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Invasion #04",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-04-yesterday-today-tomorrow"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24678,12 +21049,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP3",
           "publication": "2023-09-26",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (03): Through the Looking Glass",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
           "rawTitle": "Ultimate Origins",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24722,12 +21092,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP3",
           "publication": "2023-09-26",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (03): Through the Looking Glass",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
           "rawTitle": "Ultimate Power",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24742,52 +21111,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "ultimate-spider-man",
-      "title": "Ultimate Spider-Man",
-      "runTitle": "Ultimate Spider-Man",
-      "publisher": "Marvel",
-      "writers": [
-        "Bill Jemas",
-        "Brian Michael Bendis"
-      ],
-      "artists": [
-        "Art Thibert",
-        "Mark Bagley"
-      ],
-      "colorists": [
-        "Steve Buccellato"
-      ],
-      "startYear": 2000,
-      "startDate": "2000-09-06",
-      "decade": "2000-е",
-      "discussedIn": [
-        {
-          "podcast": "Ultimate Panels",
-          "number": "UP1",
-          "publication": "2023-07-25",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Ultimate Spider-Man",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimate-spider-man/4050-7257/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "url": "https://comicvine.gamespot.com/ultimate-spider-man/4050-7257/"
     },
     {
       "id": "ultimate-spider-man-2024",
@@ -24808,10 +21131,20 @@ window.__NA_PANELI_COMICS__ = {
       "decade": "2020-е",
       "discussedIn": [
         {
+          "podcast": "Ultimate Panels",
+          "number": "UP1",
+          "publication": "2023-07-25",
+          "episodeTitle": "Ultimate Panels (01): Good Artists Copy",
+          "proposer": "Алексей Замский",
+          "proposerColumn": "Леша",
+          "rawTitle": "Ultimate Spider-Man",
+          "kind": "comic"
+        },
+        {
           "podcast": "На панелях",
           "number": "97",
           "publication": "2025-12-30",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 97: А****т расправил плечи",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Spider-Man",
@@ -24853,12 +21186,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP5",
           "publication": "2023-11-16",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
+          "episodeTitle": "Ultimate Panels (05): The World Remade",
+          "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ultimate Universe",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-05-the-world-remade"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24897,12 +21229,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP2",
           "publication": "2023-08-15",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (02): Down the Rabbit Hole",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
           "rawTitle": "Ultimate Wolverine vs. Hulk",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-02-down-the-rabbit-hole"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24942,12 +21273,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP1",
           "publication": "2023-07-25",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (01): Good Artists Copy",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
           "rawTitle": "Ultimate X-Men",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-01-good-artists-copy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -24984,11 +21314,11 @@ window.__NA_PANELI_COMICS__ = {
       "discussedIn": [
         {
           "podcast": "На панелях",
-          "number": "97",
-          "publication": "2025-12-30",
+          "number": "11",
+          "publication": "2018-05-08",
           "episodeTitle": "",
-          "proposer": "Алексей Замский",
-          "proposerColumn": "Леша",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита",
           "rawTitle": "Ultimates",
           "kind": "comic"
         }
@@ -25001,92 +21331,6 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Comic Vine",
           "url": "https://comicvine.gamespot.com/ultimates/4050-158414/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "ultimates-2-2016-na-panely-11",
-      "title": "Ultimates 2",
-      "runTitle": "Ultimates 2",
-      "publisher": "Marvel",
-      "writers": [
-        "Al Ewing"
-      ],
-      "artists": [
-        "Travel Foreman"
-      ],
-      "colorists": [
-        "Dan Brown"
-      ],
-      "startYear": 2016,
-      "startDate": "2016-11-23",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "11",
-          "publication": "2018-05-08",
-          "episodeTitle": "",
-          "proposer": "Никита Стародубцев",
-          "proposerColumn": "Никита",
-          "kind": "comic",
-          "rawTitle": "Ultimates 2",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-11-nizkie-zhanry"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimates-2/4050-95843/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "ultimates-2016-na-panely-11",
-      "title": "Ultimates (2016)",
-      "runTitle": "Ultimates",
-      "publisher": "Marvel",
-      "writers": [
-        "Al Ewing"
-      ],
-      "artists": [
-        "Kenneth Rocafort"
-      ],
-      "colorists": [
-        "Dan Brown"
-      ],
-      "startYear": 2015,
-      "startDate": "2015-11-11",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На панелях",
-          "number": "11",
-          "publication": "2018-05-08",
-          "episodeTitle": "",
-          "proposer": "Никита Стародубцев",
-          "proposerColumn": "Никита",
-          "kind": "comic",
-          "rawTitle": "Ultimates (2016)",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-11-nizkie-zhanry"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/ultimates/4050-85972/"
         }
       ],
       "status": "verified",
@@ -25115,12 +21359,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Ultimate Panels",
           "number": "UP3",
           "publication": "2023-09-26",
-          "episodeTitle": "",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
+          "episodeTitle": "Ultimate Panels (03): Through the Looking Glass",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
           "rawTitle": "Ultimatum",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/ultimate-panels-03-through-the-looking-glass"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25158,12 +21401,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "77",
           "publication": "2023-08-01",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 77: Четыре всадника Постапокалипсиса",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Ultramega",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-77-chetyre-vsadnika-postapokalipsisa"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25203,8 +21445,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Umami",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-23-kushat-podano"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25222,46 +21463,35 @@ window.__NA_PANELI_COMICS__ = {
     },
     {
       "id": "under-world",
-      "title": "Underworld",
-      "runTitle": "Underworld",
-      "publisher": "Europe Comics",
-      "writers": [
-        "Mathieu Burniat"
-      ],
-      "artists": [
-        "Mathieu Burniat"
-      ],
-      "colorists": [
-        "Mathieu Burniat"
-      ],
-      "startYear": 2021,
-      "startDate": "2021-09-22",
-      "decade": "2020-е",
+      "title": "Under-World",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "На панелях",
           "number": "73",
           "publication": "2023-04-12",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 73: Черепахи и боги",
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Under-World",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-73-cherepahi-i-bogi"
+          "kind": "comic"
         }
       ],
       "sources": [
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/underworld/4050-139087/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "underwinter",
@@ -25287,8 +21517,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Underwinter",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-01-uzhasnye-komiksy1"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25328,8 +21557,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Upgrade Soul",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-31-ozhno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25346,31 +21574,26 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "uri-tupka-and-the-gods-another-story-from-lands-unknown",
-      "title": "Uri Tupka and the Gods: Another Story from Lands Unknown",
+      "id": "uri-tupka-and-the-gods",
+      "title": "Uri Tupka and the Gods",
+      "kind": "comic",
       "runTitle": "",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Mike Mignola"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2026,
-      "startDate": "2026-03-31",
-      "decade": "2020-е",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
       "discussedIn": [
         {
           "podcast": "ASOP",
           "number": "M17",
           "publication": "2026-04-12",
-          "episodeTitle": "",
+          "episodeTitle": "Amazing Screw-On Podcast #17: The Rise of Man // Uri Tupka and the Gods",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
-          "rawTitle": "Uri Tupka and the Gods: Another Story from Lands Unknown",
+          "rawTitle": "Uri Tupka and the Gods",
           "kind": "comic"
         }
       ],
@@ -25378,14 +21601,9 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/uri-tupka-and-the-gods-another-story-from-lands-un/4050-171497/"
         }
       ],
-      "status": "verified",
-      "kind": "comic"
+      "status": "needs-review"
     },
     {
       "id": "usagi-yojimbo-yokai",
@@ -25411,8 +21629,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Usagi Yojimbo: Yokai",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-03-hyperreality"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25452,8 +21669,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Valhalla Mad",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-adskaya-pazhnina"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25468,6 +21684,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "vanishing-point-terrorbytes",
+      "title": "Vanishing Point Terrorbytes",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "99",
+          "publication": "2026-11-24",
+          "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
+          "rawTitle": "Vanishing Point Terrorbytes",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "vivisectionary",
@@ -25495,8 +21743,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Vivisectionary",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-58-nuff-said"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25534,12 +21781,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "84",
           "publication": "2024-03-14",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 84: CMYK",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "w0rldtr33",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-84-cmyk"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25578,13 +21824,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP20",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-11-30",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Wano Country, Act I / Chapters #904-924",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-1-wano-country-act-i"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25621,13 +21866,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP21",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-12-07",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Wano Country, Act II / Chapters #925-957",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-10-part-2-wano-country-act-ii"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25667,8 +21911,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "War of the Realms",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-53-zolotoy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25710,8 +21953,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Warhammer 40,000: Marneus Calgar",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-pylnyh-panelyah.-vypusk-62-40000-stradaniy"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25726,6 +21968,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "watchmen-hbo",
+      "title": "Watchmen (HBO)",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "48",
+          "publication": "2020-01-21",
+          "episodeTitle": "",
+          "proposer": "Никита Стародубцев",
+          "proposerColumn": "Никита",
+          "rawTitle": "Watchmen (HBO)",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "water-7-arc-chapters-303-374-gol-d-panels-op4",
@@ -25750,13 +22024,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP4",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2021-12-28",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Water 7 Arc / Chapters #303-374",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-04-part-1-water-7"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25790,7 +22063,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR5",
           "publication": "2022-04-24",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 05: Water Memory",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Water Memory",
@@ -25834,8 +22107,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Watersnakes",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-40-mzhdz"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25871,7 +22143,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR26",
           "publication": "2023-02-24",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 26: Wayne Family Adventures",
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Wayne Family Adventures",
@@ -25890,6 +22162,38 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "web-of-wyrd",
+      "title": "Web of Wyrd",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "ASOP",
+          "number": "M12",
+          "publication": "2024-03-23",
+          "episodeTitle": "Amazing Screw-On Podcast #12: Web of Wyrd // Giant Robot Hellboy // Four Gathered",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Web of Wyrd",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "weird-detective",
@@ -25918,8 +22222,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Weird Detective",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-24-shchas-poneset"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -25963,8 +22266,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Welcome Back",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-08-adskaya-pazhnina"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26000,12 +22302,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "84",
           "publication": "2024-03-14",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 84: CMYK",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Where Black Stars Rise",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-84-cmyk"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26043,12 +22344,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "78",
           "publication": "2023-08-31",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 78: Темные лошадки",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Where Monsters Lie",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-78-temnye-loshadki"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26086,12 +22386,11 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "На панелях",
           "number": "90",
           "publication": "2024-11-08",
-          "episodeTitle": "",
+          "episodeTitle": "«На панелях». Выпуск 90: Аэропортное чтиво",
           "proposer": "Сергей Мангасаров",
           "proposerColumn": "Серега",
           "rawTitle": "Where The Body Was",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-90-aeroportnoe-chtivo"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26130,13 +22429,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP15",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-09-15",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Whole Cake Island, Part 1 / Chapters #825-859",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-2-whole-cake-island-part-1"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26173,13 +22471,12 @@ window.__NA_PANELI_COMICS__ = {
         {
           "podcast": "Gol D. Panels",
           "number": "OP16",
-          "episodeTitle": "Gol D. Panels",
           "publication": "2023-09-21",
+          "episodeTitle": "",
           "proposer": "Общая заявка",
           "proposerColumn": "Стас",
           "rawTitle": "Whole Cake Island, Part 2 / Chapters #860-903",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-3-whole-cake-island-part-2"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26220,8 +22517,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "William Gibson's Alien 3",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-34-love-death-and-go-bots"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26264,8 +22560,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Никита Стародубцев",
           "proposerColumn": "Никита",
           "rawTitle": "Witchfinder: The Gates of Heaven",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-33-hellboy-25th-anniversary"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26280,6 +22575,70 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "wolverine-06-x-force-13-marauders-13",
+      "title": "Wolverine #06 // X-Force #13 // Marauders #13",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP3",
+          "publication": "2020-10-12",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Wolverine #06 // X-Force #13 // Marauders #13",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "wolverine-13-s-w-o-r-d-06-way-of-x-03",
+      "title": "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP4",
+          "publication": "2021-06-28",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Wolverine #13 // S.W.O.R.D. #06 // Way of X #03",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "wolverine-the-long-night",
@@ -26307,8 +22666,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Wolverine: The Long Night",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-38-podcast-in-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26350,8 +22708,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Wonder Woman: Dead Earth",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-60-inevitable"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26393,8 +22750,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Слушатели",
           "proposerColumn": "Слушатели",
           "rawTitle": "Wonder Woman: The True Amazon",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-35-crisis"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26409,6 +22765,272 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "world-seeker-and-odyssey",
+      "title": "World Seeker & Odyssey",
+      "kind": "videogame",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP18",
+          "publication": "2023-10-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "World Seeker & Odyssey",
+          "kind": "videogame"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "x-of-swords-creation",
+      "title": "X of Swords: Creation",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP1",
+          "publication": "2020-09-28",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X of Swords: Creation",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "x-of-swords-stasis",
+      "title": "X of Swords: Stasis",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP6",
+          "publication": "2020-11-02",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X of Swords: Stasis",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "x-factor-04-xop2",
+      "title": "X-Factor #04",
+      "runTitle": "X-Factor",
+      "publisher": "Marvel",
+      "writers": [
+        "Leah Williams"
+      ],
+      "artists": [
+        "Carlos Gomez (SP)"
+      ],
+      "colorists": [
+        "Israel Silva"
+      ],
+      "startYear": 2020,
+      "startDate": "2020-09-30",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP2",
+          "publication": "2020-10-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Factor #04",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/x-factor-4-x-of-swords-chapter-2/4000-805100/"
+        }
+      ],
+      "status": "verified",
+      "kind": "comic"
+    },
+    {
+      "id": "x-factor-10-cable-11",
+      "title": "X-Factor #10 // Cable #11",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Hellfire Panels",
+          "number": "HP5",
+          "publication": "2021-07-05",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Factor #10 // Cable #11",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "x-force-14-hellions-06-cable-06",
+      "title": "X-Force #14 // Hellions #06 // Cable #06",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP9",
+          "publication": "2020-11-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Force #14 // Hellions #06 // Cable #06",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "x-men-14-marauders-14",
+      "title": "X-Men #14 // Marauders #14",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "X of Panels",
+          "number": "XoP7",
+          "publication": "2020-11-10",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Men #14 // Marauders #14",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
+    },
+    {
+      "id": "x-men-before-hickman",
+      "title": "X-Men Before Hickman",
+      "kind": "comic",
+      "runTitle": "",
+      "publisher": "",
+      "writers": [],
+      "artists": [],
+      "colorists": [],
+      "startYear": null,
+      "startDate": "",
+      "decade": "",
+      "discussedIn": [
+        {
+          "podcast": "Panels of X",
+          "number": "PoX0",
+          "publication": "2019-07-24",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "X-Men Before Hickman",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        }
+      ],
+      "status": "needs-review"
     },
     {
       "id": "x-men-grand-design",
@@ -26439,8 +23061,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "X-Men: Grand Design",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-05-the-death-of-starlin"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26480,8 +23101,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Станислав Шаргородский",
           "proposerColumn": "Стас",
           "rawTitle": "Ye",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-58-nuff-said"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26519,7 +23139,7 @@ window.__NA_PANELI_COMICS__ = {
           "podcast": "Утешительное чтение",
           "number": "LR16",
           "publication": "2022-08-13",
-          "episodeTitle": "",
+          "episodeTitle": "Утешительное чтение. Выпуск 16: Young Shadow",
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Young Shadow",
@@ -26565,8 +23185,7 @@ window.__NA_PANELI_COMICS__ = {
           "proposer": "Алексей Замский",
           "proposerColumn": "Леша",
           "rawTitle": "Zegas",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-07-antologichno"
+          "kind": "comic"
         }
       ],
       "sources": [
@@ -26581,283 +23200,6 @@ window.__NA_PANELI_COMICS__ = {
       ],
       "status": "verified",
       "kind": "comic"
-    },
-    {
-      "id": "zombo",
-      "title": "Zombo",
-      "runTitle": "Zombo",
-      "publisher": "Rebellion",
-      "writers": [
-        "Al Ewing"
-      ],
-      "artists": [
-        "Henry Flint"
-      ],
-      "colorists": [],
-      "startYear": 2010,
-      "startDate": "",
-      "decade": "2010-е",
-      "discussedIn": [
-        {
-          "podcast": "На пыльных панелях",
-          "number": "D9",
-          "publication": "2021-05-13",
-          "episodeTitle": "",
-          "proposer": "Слушатели",
-          "proposerColumn": "Слушатели",
-          "rawTitle": "Zombo",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/na-panelyah.-vypusk-09-staromodniy"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица выпусков",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/zombo/4050-48348/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "zou-chapters-802-824-gol-d-panels-op14",
-      "title": "Zou / Chapters #802-824",
-      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
-      "runTitle": "One Piece",
-      "publisher": "Shueisha",
-      "writers": [
-        "Eiichiro Oda"
-      ],
-      "artists": [
-        "Eiichiro Oda"
-      ],
-      "colorists": [],
-      "startYear": 1997,
-      "startDate": "1997-12-24",
-      "decade": "1990-е",
-      "status": "verified",
-      "reviewNote": "",
-      "kind": "comic",
-      "discussedIn": [
-        {
-          "podcast": "Gol D. Panels",
-          "number": "OP14",
-          "episodeTitle": "Gol D. Panels",
-          "publication": "2023-09-07",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Zou / Chapters #802-824",
-          "kind": "comic",
-          "link": "http://spidermedia.ru/podcast/gol-d-panels-saga-09-part-1-zou"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Публичная таблица",
-          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
-        }
-      ]
-    },
-    {
-      "id": "the-daughters-of-medusa",
-      "title": "Lady Baltimore: The Daughters of Medusa",
-      "runTitle": "Lady Baltimore: The Daughters of Medusa",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Bridgit Connell"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2025,
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M18",
-          "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Lady Baltimore: The Daughters of Medusa",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/lady-baltimore-the-daughters-of-medusa/4050-164199/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "startDate": "2025-05-07"
-    },
-    {
-      "id": "the-skinless-man",
-      "title": "Lands Unknown: The Skinless Man",
-      "runTitle": "Lands Unknown: The Skinless Man",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Ben Stenbeck"
-      ],
-      "artists": [
-        "Ben Stenbeck"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2026,
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M18",
-          "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Lands Unknown: The Skinless Man",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/lands-unknown-the-skinless-man/4050-170819/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "startDate": "2026-03-04"
-    },
-    {
-      "id": "the-house-of-yonda",
-      "title": "Leonide the Vampyr: The House of Yonda",
-      "runTitle": "Leonide the Vampyr: The House of Yonda",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Rachele Aragno"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2026,
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M18",
-          "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Leonide the Vampyr: The House of Yonda",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/leonide-the-vampyr-the-house-of-yonda/4050-171021/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "startDate": "2026-03-18"
-    },
-    {
-      "id": "captain-henry-and-the-graveyard-of-time",
-      "title": "Captain Henry and the Graveyard of Time",
-      "runTitle": "Captain Henry and the Graveyard of Time",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Bruce Zick",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Bruce Zick"
-      ],
-      "colorists": [
-        "Bruce Zick"
-      ],
-      "startYear": 2025,
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M19",
-          "publication": "2026-07-10",
-          "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Captain Henry and the Graveyard of Time",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/captain-henry-and-the-graveyard-of-time/4050-167809/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "startDate": "2025-10-22"
-    },
-    {
-      "id": "carmen-red-claw-belly-of-the-beast",
-      "title": "Carmen Red Claw: Belly of the Beast",
-      "runTitle": "Carmen Red Claw: Belly of the Beast",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola",
-        "Rae Allen"
-      ],
-      "artists": [
-        "Rae Allen"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2026,
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M19",
-          "publication": "2026-07-10",
-          "episodeTitle": "Amazing Screw-On Podcast #19: The Graveyard of Time // Belly of the Beast",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Carmen Red Claw: Belly of the Beast",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/carmen-red-claw-belly-of-the-beast/4050-169971/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic",
-      "startDate": "2026-01-07"
     },
     {
       "id": "zombieworld-champion-of-the-worms",
@@ -26902,401 +23244,86 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "fearless-dawn-meets-hellboy",
-      "title": "Fearless Dawn Meets Hellboy",
-      "runTitle": "Fearless Dawn Meets Hellboy",
-      "publisher": "Exploding Albatross Funnybooks",
+      "id": "zombo",
+      "title": "Zombo",
+      "runTitle": "Zombo",
+      "publisher": "Rebellion",
       "writers": [
-        "Mike Mignola",
-        "Steve Mannion"
+        "Al Ewing"
       ],
       "artists": [
-        "Mike Mignola",
-        "Steve Mannion"
-      ],
-      "colorists": [
-        "Dave Stewart"
-      ],
-      "startYear": 2020,
-      "startDate": "2020-09-16",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M20",
-          "publication": "2026-07-12",
-          "episodeTitle": "Amazing Screw-On Podcast #20: ZombieWorld // Grim Death and Bill the Electrocuted Criminal",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Fearless Dawn Meets Hellboy",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/fearless-dawn-meets-hellboy/4050-130313/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "lady-baltimore-the-dream-of-ikelos",
-      "title": "Lady Baltimore: The Dream of Ikelos",
-      "runTitle": "Lady Baltimore: The Dream of Ikelos",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Bridgit Connell"
-      ],
-      "colorists": [
-        "Michelle Madsen"
-      ],
-      "startYear": 2023,
-      "startDate": "2023-03-29",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M18",
-          "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Lady Baltimore: The Dream of Ikelos",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/lady-baltimore-the-dream-of-ikelos/4050-149154/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "i-hate-fairyland-42",
-      "title": "I Hate Fairyland #42",
-      "runTitle": "I Hate Fairyland",
-      "publisher": "Image",
-      "writers": [
-        "Skottie Young"
-      ],
-      "artists": [
-        "Derek Laufman"
-      ],
-      "colorists": [
-        "Jean-Francois Beaulieu"
-      ],
-      "startYear": 2025,
-      "startDate": "2025-07-09",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M18",
-          "publication": "2026-07-08",
-          "episodeTitle": "Amazing Screw-On Podcast #18: The Daughters of Medusa // The Skinless Man // The House of Yonda",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "I Hate Fairyland #42",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Image Comics",
-          "url": "https://imagecomics.com/comics/releases/i-hate-fairyland-42"
-        },
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/i-hate-fairyland-42/4000-1119172/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-in-love-the-art-of-fire",
-      "title": "Hellboy in Love: The Art of Fire",
-      "runTitle": "Hellboy in Love: The Art of Fire",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Alex Nieto"
-      ],
-      "colorists": [
-        "Alex Nieto"
-      ],
-      "startYear": 2025,
-      "startDate": "2025-08-06",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M21",
-          "publication": "2026-09-16",
-          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy in Love: The Art of Fire",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-in-love-the-art-of-fire/4050-166138/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-in-love-black-eyes",
-      "title": "Hellboy in Love: Black Eyes",
-      "runTitle": "Hellboy in Love: Black Eyes",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Alex Nieto"
-      ],
-      "colorists": [
-        "Alex Nieto"
-      ],
-      "startYear": 2026,
-      "startDate": "2026-04-29",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M21",
-          "publication": "2026-09-16",
-          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy in Love: Black Eyes",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-in-love-black-eyes/4050-171688/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-in-love-obsidian",
-      "title": "Hellboy in Love: Obsidian",
-      "runTitle": "Hellboy in Love: Obsidian",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Michael Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Alex Nieto"
-      ],
-      "colorists": [
-        "Alex Nieto"
-      ],
-      "startYear": 2026,
-      "startDate": "2026-06-17",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M21",
-          "publication": "2026-09-16",
-          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy in Love: Obsidian",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-in-love-obsidian/4050-173108/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-bprd-the-monster-of-nivola",
-      "title": "Hellboy and the B.P.R.D.: The Monster of Nivola",
-      "runTitle": "Hellboy and the B.P.R.D.: The Monster of Nivola",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Christopher Golden",
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Daniele Serra"
-      ],
-      "colorists": [
-        "Daniele Serra"
-      ],
-      "startYear": 2026,
-      "startDate": "2026-06-24",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M21",
-          "publication": "2026-09-16",
-          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D.: The Monster of Nivola",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-monster-of-nivola/4050-173279/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-bprd-professor-harvey-is-gone",
-      "title": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
-      "runTitle": "Hellboy and the B.P.R.D.: Professor Harvey is Gone",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola"
-      ],
-      "artists": [
-        "Giuseppe Manunta"
-      ],
-      "colorists": [
-        "Giuseppe Manunta"
-      ],
-      "startYear": 2025,
-      "startDate": "2025-08-27",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M21",
-          "publication": "2026-09-16",
-          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D.: Professor Harvey Is Gone",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-professor-harvey-is-gone/4050-166448/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "hellboy-and-the-bprd-the-ghost-ships-of-labrador",
-      "title": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
-      "runTitle": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
-      "publisher": "Dark Horse Comics",
-      "writers": [
-        "Mike Mignola",
-        "Rob Williams"
-      ],
-      "artists": [
-        "Laurence Campbell"
-      ],
-      "colorists": [
-        "Lee Loughridge"
-      ],
-      "startYear": 2025,
-      "startDate": "2025-11-12",
-      "decade": "2020-е",
-      "discussedIn": [
-        {
-          "podcast": "ASOP",
-          "number": "M21",
-          "publication": "2026-09-16",
-          "episodeTitle": "Amazing Screw-On Podcast #21: Hellboy in Love // Hellboy and the B.P.R.D.",
-          "proposer": "Общая заявка",
-          "proposerColumn": "Стас",
-          "rawTitle": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador",
-          "kind": "comic"
-        }
-      ],
-      "sources": [
-        {
-          "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/hellboy-and-the-bprd-the-ghost-ships-of-labrador/4050-168409/"
-        }
-      ],
-      "status": "verified",
-      "kind": "comic"
-    },
-    {
-      "id": "look-back",
-      "title": "Look Back",
-      "runTitle": "Look Back",
-      "publisher": "Shueisha",
-      "writers": [
-        "Tatsuki Fujimoto"
-      ],
-      "artists": [
-        "Tatsuki Fujimoto"
+        "Henry Flint"
       ],
       "colorists": [],
-      "startYear": 2021,
-      "startDate": "2021-09-03",
-      "decade": "2020-е",
+      "startYear": 2010,
+      "startDate": "",
+      "decade": "2010-е",
       "discussedIn": [
         {
-          "podcast": "Лайт",
-          "number": "L6",
-          "publication": "2026-10-05",
-          "episodeTitle": "«На панелях. Лайт». Выпуск 06: Look Back",
-          "proposer": "",
-          "proposerColumn": "",
-          "rawTitle": "Look Back",
-          "kind": "comic",
-          "link": "https://spidermedia.podster.fm/e/495388/na-panelyah-layt-vypusk-06-look-back"
+          "podcast": "На пыльных панелях",
+          "number": "D9",
+          "publication": "2021-05-13",
+          "episodeTitle": "",
+          "proposer": "Слушатели",
+          "proposerColumn": "Слушатели",
+          "rawTitle": "Zombo",
+          "kind": "comic"
         }
       ],
       "sources": [
         {
-          "label": "Публичный RSS подкаста",
-          "url": "https://podster.fm/rss.xml?pid=39021"
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
         },
         {
           "label": "Comic Vine",
-          "url": "https://comicvine.gamespot.com/look-back/4050-138676/"
+          "url": "https://comicvine.gamespot.com/zombo/4050-48348/"
         }
       ],
       "status": "verified",
       "kind": "comic"
+    },
+    {
+      "id": "zou-chapters-802-824-gol-d-panels-op14",
+      "title": "Zou / Chapters #802-824",
+      "url": "https://comicvine.gamespot.com/one-piece/4050-21397/",
+      "runTitle": "One Piece",
+      "publisher": "Shueisha",
+      "writers": [
+        "Eiichiro Oda"
+      ],
+      "artists": [
+        "Eiichiro Oda"
+      ],
+      "colorists": [],
+      "startYear": 1997,
+      "startDate": "1997-12-24",
+      "decade": "1990-е",
+      "status": "verified",
+      "reviewNote": "",
+      "kind": "comic",
+      "discussedIn": [
+        {
+          "podcast": "Gol D. Panels",
+          "number": "OP14",
+          "publication": "2023-09-07",
+          "episodeTitle": "",
+          "proposer": "Общая заявка",
+          "proposerColumn": "Стас",
+          "rawTitle": "Zou / Chapters #802-824",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/edit?gid=0#gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/one-piece/4050-21397/"
+        }
+      ]
     }
-  ],
-  "enrichedAt": "2026-10-26",
-  "generatedAt": "2026-06-29T18:23:36.118Z"
+  ]
 };
