@@ -1290,14 +1290,20 @@ window.__NA_PANELI_COMICS__ = {
       "id": "assorted-crisis-events",
       "title": "Assorted Crisis Events",
       "kind": "comic",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Assorted Crisis Events",
+      "publisher": "Image",
+      "writers": [
+        "Deniz Camp"
+      ],
+      "artists": [
+        "Eric Zawadzki"
+      ],
+      "colorists": [
+        "Jordie Bellaire"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-03-12",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -1314,9 +1320,13 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/assorted-crisis-events/4050-162682/"
         }
       ],
-      "status": "needs-review"
+      "status": "verified"
     },
     {
       "id": "atomic-empire",
@@ -7748,14 +7758,37 @@ window.__NA_PANELI_COMICS__ = {
       "id": "hello-darkness",
       "title": "Hello Darkness",
       "kind": "comic",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Hello Darkness",
+      "publisher": "Boom! Studios",
+      "writers": [
+        "Dave Cook",
+        "Garth Ennis",
+        "James Tynion IV",
+        "Jude Ellison S. Doyle",
+        "Robert Hack",
+        "Sarah Andersen",
+        "Steve Orlando"
+      ],
+      "artists": [
+        "A. L. Kaplan",
+        "Becky Cloonan",
+        "David Cousens",
+        "Letizia Cadonici",
+        "Robert Hack",
+        "Sarah Andersen",
+        "Werther Dell'Edera"
+      ],
+      "colorists": [
+        "Alessandro Santoro",
+        "Angel de Santiago",
+        "Marissa Louise",
+        "Miquel Muerto",
+        "Sarah Andersen",
+        "Tamra Bonvillain"
+      ],
+      "startYear": 2024,
+      "startDate": "2024-07-24",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -7772,9 +7805,13 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/hello-darkness/4050-159025/"
         }
       ],
-      "status": "needs-review"
+      "status": "verified"
     },
     {
       "id": "heroes-in-crisis",
@@ -16960,6 +16997,48 @@ window.__NA_PANELI_COMICS__ = {
       "status": "needs-review"
     },
     {
+      "id": "terrorbytes",
+      "title": "Terrorbytes",
+      "kind": "comic",
+      "runTitle": "Terrorbytes",
+      "publisher": "Mad Cave Studios",
+      "writers": [
+        "Mark Russell"
+      ],
+      "artists": [
+        "Felix Ruiz"
+      ],
+      "colorists": [
+        "Fran Gamboa"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-10-15",
+      "decade": "2020-е",
+      "discussedIn": [
+        {
+          "podcast": "На панелях",
+          "number": "99",
+          "publication": "2026-11-24",
+          "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега",
+          "rawTitle": "Vanishing Point Terrorbytes",
+          "kind": "comic"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Публичная таблица выпусков",
+          "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/terrorbytes/4050-167698/"
+        }
+      ],
+      "status": "verified"
+    },
+    {
       "id": "the-art-of-charlie-chan-hock-chye",
       "title": "The Art of Charlie Chan Hock Chye",
       "runTitle": "The Art of Charlie Chan Hock Chye",
@@ -20364,14 +20443,18 @@ window.__NA_PANELI_COMICS__ = {
       "id": "twilight-zone",
       "title": "Twilight Zone",
       "kind": "comic",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
+      "runTitle": "The Twilight Zone",
+      "publisher": "IDW Publishing",
+      "writers": [
+        "Dan Watters"
+      ],
+      "artists": [
+        "Morgan Beem"
+      ],
       "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "startYear": 2025,
+      "startDate": "2025-09-24",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -20388,9 +20471,13 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/the-twilight-zone/4050-167197/"
         }
       ],
-      "status": "needs-review"
+      "status": "verified"
     },
     {
       "id": "twisted-romance",
@@ -21686,17 +21773,23 @@ window.__NA_PANELI_COMICS__ = {
       "kind": "comic"
     },
     {
-      "id": "vanishing-point-terrorbytes",
-      "title": "Vanishing Point Terrorbytes",
+      "id": "vanishing-point",
+      "title": "Vanishing Point",
       "kind": "comic",
-      "runTitle": "",
-      "publisher": "",
-      "writers": [],
-      "artists": [],
-      "colorists": [],
-      "startYear": null,
-      "startDate": "",
-      "decade": "",
+      "runTitle": "Vanishing Point",
+      "publisher": "Mad Cave Studios",
+      "writers": [
+        "Mark Russell"
+      ],
+      "artists": [
+        "Juan Doe"
+      ],
+      "colorists": [
+        "Juan Doe"
+      ],
+      "startYear": 2025,
+      "startDate": "2025-05-07",
+      "decade": "2020-е",
       "discussedIn": [
         {
           "podcast": "На панелях",
@@ -21713,9 +21806,13 @@ window.__NA_PANELI_COMICS__ = {
         {
           "label": "Публичная таблица выпусков",
           "url": "https://docs.google.com/spreadsheets/d/1xlG146EJ3go3MDKndnvd5OVVWj8adZmKCKaWjn3FF3Y/export?format=csv&gid=0"
+        },
+        {
+          "label": "Comic Vine",
+          "url": "https://comicvine.gamespot.com/vanishing-point/4050-164204/"
         }
       ],
-      "status": "needs-review"
+      "status": "verified"
     },
     {
       "id": "vivisectionary",
@@ -23325,5 +23422,6 @@ window.__NA_PANELI_COMICS__ = {
         }
       ]
     }
-  ]
+  ],
+  "enrichedAt": "2026-11-24"
 };

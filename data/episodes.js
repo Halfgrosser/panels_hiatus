@@ -10014,7 +10014,8 @@ window.__NA_PANELI_DATA__ = {
       "topics": [
         "Twilight Zone",
         "Hello Darkness",
-        "Vanishing Point Terrorbytes",
+        "Vanishing Point",
+        "Terrorbytes",
         "Assorted Crisis Events"
       ],
       "comics": [
@@ -10033,7 +10034,14 @@ window.__NA_PANELI_DATA__ = {
           "proposerColumn": "Леша"
         },
         {
-          "title": "Vanishing Point Terrorbytes",
+          "title": "Vanishing Point",
+          "rawTitle": "Vanishing Point Terrorbytes",
+          "kind": "comic",
+          "proposer": "Сергей Мангасаров",
+          "proposerColumn": "Серега"
+        },
+        {
+          "title": "Terrorbytes",
           "rawTitle": "Vanishing Point Terrorbytes",
           "kind": "comic",
           "proposer": "Сергей Мангасаров",
