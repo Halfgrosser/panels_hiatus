@@ -1310,7 +1310,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "99",
           "publication": "2026-11-24",
           "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
-          "proposer": "Слушатели",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Слушатели",
           "rawTitle": "Assorted Crisis Events",
           "kind": "comic"
@@ -17020,7 +17020,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "99",
           "publication": "2026-11-24",
           "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
-          "proposer": "Сергей Мангасаров",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Серега",
           "rawTitle": "Vanishing Point Terrorbytes",
           "kind": "comic"
@@ -20446,10 +20446,33 @@ window.__NA_PANELI_COMICS__ = {
       "runTitle": "The Twilight Zone",
       "publisher": "IDW Publishing",
       "writers": [
-        "Dan Watters"
+        "Charles Soule",
+        "Dan Watters",
+        "Francesco Francavilla",
+        "Gabriel Hardman",
+        "James Stokoe",
+        "Juni Ba",
+        "L Marlow Francavilla",
+        "Mark Russell",
+        "Nate Powell",
+        "Nicole Goux",
+        "Rosemary Soule",
+        "Tom Scioli",
+        "Tony Fleecs"
       ],
       "artists": [
-        "Morgan Beem"
+        "Andy Price",
+        "Francesco Francavilla",
+        "Gabriel Hardman",
+        "James Stokoe",
+        "Juni Ba",
+        "Maria Keane",
+        "Morgan Beem",
+        "Nate Powell",
+        "Nicole Goux",
+        "Sean Peacock",
+        "Tom Scioli",
+        "Victor Alpi"
       ],
       "colorists": [],
       "startYear": 2025,
@@ -20461,7 +20484,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "99",
           "publication": "2026-11-24",
           "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Стас",
           "rawTitle": "Twilight Zone",
           "kind": "comic"
@@ -21782,10 +21805,15 @@ window.__NA_PANELI_COMICS__ = {
         "Mark Russell"
       ],
       "artists": [
-        "Juan Doe"
+        "Jok",
+        "Juan Doe",
+        "Ryan Alexander-Tanner"
       ],
       "colorists": [
-        "Juan Doe"
+        "Ellie Wright",
+        "Jok",
+        "Juan Doe",
+        "Sidney Alan Davidson"
       ],
       "startYear": 2025,
       "startDate": "2025-05-07",
@@ -21796,7 +21824,7 @@ window.__NA_PANELI_COMICS__ = {
           "number": "99",
           "publication": "2026-11-24",
           "episodeTitle": "«На панелях». Выпуск 99: Девятиэтажка",
-          "proposer": "Сергей Мангасаров",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Серега",
           "rawTitle": "Vanishing Point Terrorbytes",
           "kind": "comic"
@@ -23422,6 +23450,5 @@ window.__NA_PANELI_COMICS__ = {
         }
       ]
     }
-  ],
-  "enrichedAt": "2026-11-24"
+  ]
 };

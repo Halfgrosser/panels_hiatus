@@ -10023,7 +10023,7 @@ window.__NA_PANELI_DATA__ = {
           "title": "Twilight Zone",
           "rawTitle": "Twilight Zone",
           "kind": "comic",
-          "proposer": "Станислав Шаргородский",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Стас"
         },
         {
@@ -10037,21 +10037,21 @@ window.__NA_PANELI_DATA__ = {
           "title": "Vanishing Point",
           "rawTitle": "Vanishing Point Terrorbytes",
           "kind": "comic",
-          "proposer": "Сергей Мангасаров",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Серега"
         },
         {
           "title": "Terrorbytes",
           "rawTitle": "Vanishing Point Terrorbytes",
           "kind": "comic",
-          "proposer": "Сергей Мангасаров",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Серега"
         },
         {
           "title": "Assorted Crisis Events",
           "rawTitle": "Assorted Crisis Events",
           "kind": "comic",
-          "proposer": "Слушатели",
+          "proposer": "Алексей Замский",
           "proposerColumn": "Слушатели"
         }
       ],

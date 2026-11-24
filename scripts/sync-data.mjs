@@ -231,6 +231,8 @@ const comicTitleSplits = new Map(
   ]),
 );
 
+const comicProposerOverridesByEpisode = new Map([["На панелях|99", "Алексей Замский"]]);
+
 if (!rssUrl && !process.env.SYNC_RSS_FILE) {
   throw new Error("Set BOOSTY_RSS_URL or SYNC_RSS_FILE to load the RSS feed");
 }
@@ -246,7 +248,11 @@ const sheetEpisodes = rows
   .map(({ row, proposerColumns }) => {
     const id = Number(row[""]) || null;
     const podcast = canonicalPodcast(clean(row["Подкаст"]));
-    const comics = extractComicEntries(row, id, podcast, proposerColumns);
+    const comics = applyProposerOverride(
+      extractComicEntries(row, id, podcast, proposerColumns),
+      podcast,
+      clean(row["#"]),
+    );
     return {
       id,
       podcast,
@@ -490,6 +496,12 @@ function splitComicCell(value) {
 
 function splitComicTitle(title) {
   return comicTitleSplits.get(normalizeTitle(title)) || [title];
+}
+
+function applyProposerOverride(comics, podcast, number) {
+  const proposer = comicProposerOverridesByEpisode.get(`${podcast}|${number}`);
+  if (!proposer) return comics;
+  return comics.map((comic) => ({ ...comic, proposer }));
 }
 
 function normalizeComicTitle(value) {

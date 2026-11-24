@@ -61,6 +61,8 @@ const comicTitleSplits = new Map(
   ]),
 );
 
+const comicProposerOverridesByEpisode = new Map([["На панелях|99", "Алексей Замский"]]);
+
 const csv = process.env.SYNC_SHEET_FILE
   ? await readFile(process.env.SYNC_SHEET_FILE, "utf8")
   : await loadSheet();
@@ -71,7 +73,11 @@ const sheetById = new Map();
 const sheetByIdentity = new Map();
 for (const { row, proposerColumns } of rows) {
   const id = Number(row[""]) || null;
-  const comics = extractComicEntries(row, id, proposerColumns);
+  const comics = applyProposerOverride(
+    extractComicEntries(row, id, proposerColumns),
+    canonicalPodcast(clean(row["Подкаст"])),
+    clean(row["#"]),
+  );
   const entry = {
     id,
     podcast: canonicalPodcast(clean(row["Подкаст"])),
@@ -227,6 +233,12 @@ function splitComicCell(value) {
 
 function splitComicTitle(title) {
   return comicTitleSplits.get(normalizeTitle(title)) || [title];
+}
+
+function applyProposerOverride(comics, podcast, number) {
+  const proposer = comicProposerOverridesByEpisode.get(`${podcast}|${number}`);
+  if (!proposer) return comics;
+  return comics.map((comic) => ({ ...comic, proposer }));
 }
 
 function normalizeComicTitle(value) {
