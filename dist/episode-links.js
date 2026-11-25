@@ -1,5 +1,5 @@
 import sheetLinks from "./data/episode-links.js";
-// Both views share links, including curated Spidermedia URLs in the catalog.
+// Both views share links; Boosty is preferred everywhere since spidermedia.ru went offline.
 export function createEpisodeLinkResolver(episodes, comics) {
   const links = new Map();
   const key = (episode) => episode.number
@@ -8,11 +8,11 @@ export function createEpisodeLinkResolver(episodes, comics) {
   const valid = (value) => {
     try {
       const url = new URL(value);
-      return ["http:", "https:"].includes(url.protocol) ? url : null;
+      if (!["http:", "https:"].includes(url.protocol)) return null;
+      return url.hostname.replace(/^www\./, "") === "spidermedia.ru" ? null : url;
     } catch { return null; }
   };
   const records = [...episodes, ...comics.flatMap((comic) => comic.discussedIn || [])];
-  const metadata = new Map(episodes.map((episode) => [key(episode), episode]));
   for (const episode of records) {
     if (!valid(episode.link)) continue;
     const id = key(episode);
@@ -23,10 +23,7 @@ export function createEpisodeLinkResolver(episodes, comics) {
   return (episode) => {
     if (valid(sheetLinks[key(episode)])) return sheetLinks[key(episode)];
     const candidates = links.get(key(episode)) || [];
-    const patron = (metadata.get(key(episode)) || episode).supportersOnly || ["ASOP", "На бонусных панелях", "Утешительное чтение"].includes(episode.podcast);
-    const preferred = patron ? "boosty.to" : "spidermedia.ru";
-    return candidates.find((link) => valid(link).hostname.replace(/^www\./, "") === preferred)
-      || candidates.find((link) => valid(link).hostname === "boosty.to")
+    return candidates.find((link) => valid(link).hostname === "boosty.to")
       || candidates[0] || "";
   };
 }

@@ -84,7 +84,7 @@ function renderChart(visible) {
         ? `${week}-я неделя ${year}: ${found.map(episodeLabel).join(", ")}`
         : `${week}-я неделя ${year}: ${emptyLabel}`;
       weeks.push(
-        `<button class="week ${state}${found.length > 1 ? " is-multi" : ""}" data-date="${date.toISOString()}" data-key="${key}" data-state="${state}" aria-label="${escapeHtml(label)}" title="${escapeHtml(label)}"></button>`,
+        `<button class="week ${state}${found.length > 1 ? " is-multi" : ""}" data-date="${date.toISOString()}" data-key="${key}" data-state="${state}" data-count="${found.length}" aria-label="${escapeHtml(label)}" title="${escapeHtml(label)}"></button>`,
       );
     }
     rows.push(`<div class="chart-row"><span class="chart-year">${year}</span><div class="weeks">${weeks.join("")}</div></div>`);
